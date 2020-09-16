@@ -21,6 +21,8 @@
 - [nchlswhttkr](https://github.com/nchlswhttkr) (1 month ago)
 - [divinerites](https://github.com/divinerites) (1 month ago)
 
+For more information, seee [the sponsors page](https://github.com/sponsors/bep/).
+
 ### Recent Followers
 
 - [arifdhick](https://github.com/arifdhick)
@@ -31,7 +33,6 @@
 
 
 ### Contact Info
-
 - Twitter: https://twitter.com/bepsays/
 - Web: https://bep.is/
 - Blog: https://bepsays.com/en/
