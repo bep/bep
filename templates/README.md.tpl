@@ -12,11 +12,6 @@
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
-### Recent Followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
-
 
 ### Contact Info
 - Twitter: https://twitter.com/bepsays/
