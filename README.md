@@ -23,14 +23,6 @@
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
-### Recent Followers
-
-- [arifdhick](https://github.com/arifdhick)
-- [sharubansharu](https://github.com/sharubansharu)
-- [kevingo](https://github.com/kevingo)
-- [juuni26](https://github.com/juuni26)
-- [thanhtoan1196](https://github.com/thanhtoan1196)
-
 
 ### Contact Info
 - Twitter: https://twitter.com/bepsays/
