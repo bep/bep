@@ -14,7 +14,7 @@ For more information, seee [the sponsors page](https://github.com/sponsors/bep/)
 
 ### Recent Followers
 {{range followers 5}}
-- [{{.Login}}]({{.URL}}) ({{humanize .CreatedAt}})
+- [{{.Login}}]({{.URL}})
 {{- end}}
 
 
