@@ -21,7 +21,7 @@
 - [nchlswhttkr](https://github.com/nchlswhttkr) (1 month ago)
 - [divinerites](https://github.com/divinerites) (1 month ago)
 
-For more information, seee [the sponsors page](https://github.com/sponsors/bep/).
+For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
 ### Recent Followers
 
