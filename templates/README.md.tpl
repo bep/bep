@@ -1,22 +1,22 @@
-## Greetings from Norway!
+## Greetings From Norway!
 
-### 🔭 Latest releases I've contributed to
+### Recent Releases I've Contributed To
 {{range recentReleases 10}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-### ❤️ Some of the recent sponsors (big thank you!)
+### Recent Sponsors (Big Thank You!)
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-### 👯 Some of my recent followers
+### Recent Followers
 {{range followers 5}}
 - [{{.Login}}]({{.URL}})
 {{- end}}
 
 
-### 📫 How to reach me
+### Contact Info
 
 - Twitter: https://twitter.com/bepsays/
 - Web: https://bep.is/
