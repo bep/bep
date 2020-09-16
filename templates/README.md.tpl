@@ -10,7 +10,7 @@
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-For more information, seee [the sponsors page](https://github.com/sponsors/bep/).
+For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
 ### Recent Followers
 {{range followers 5}}
