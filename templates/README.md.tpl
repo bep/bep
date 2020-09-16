@@ -10,14 +10,15 @@
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
+For more information, seee [the sponsors page](https://github.com/sponsors/bep/).
+
 ### Recent Followers
 {{range followers 5}}
-- [{{.Login}}]({{.URL}})
+- [{{.Login}}]({{.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 
 ### Contact Info
-
 - Twitter: https://twitter.com/bepsays/
 - Web: https://bep.is/
 - Blog: https://bepsays.com/en/
