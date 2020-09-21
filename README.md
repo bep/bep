@@ -2,10 +2,10 @@
 
 ### Recent Releases I've Contributed To
 
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) ([v0.8.1](https://github.com/alecthomas/chroma/releases/tag/v0.8.1), today) - A general purpose syntax highlighter in pure Go 
-- [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.6.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.6.0), 5 days ago) - A collection of JS libraries that works great with Hugo.
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.75.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.75.1), 5 days ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.75.1](https://github.com/gohugoio/hugo/releases/tag/v0.75.1), 5 days ago) - The world’s fastest framework for building websites.
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) ([v0.8.1](https://github.com/alecthomas/chroma/releases/tag/v0.8.1), 1 day ago) - A general purpose syntax highlighter in pure Go 
+- [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.6.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.6.0), 6 days ago) - A collection of JS libraries that works great with Hugo.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.75.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.75.1), 6 days ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.75.1](https://github.com/gohugoio/hugo/releases/tag/v0.75.1), 6 days ago) - The world’s fastest framework for building websites.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.7.0](https://github.com/alpinejs/alpine/releases/tag/v2.7.0), 1 week ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [bep/gotfmt](https://github.com/bep/gotfmt) ([v0.5.0](https://github.com/bep/gotfmt/releases/tag/v0.5.0), 3 weeks ago) - Work In Progress.
 - [bep/hugo-jslibs](https://github.com/bep/hugo-jslibs) ([alpinejs/v0.5.14](https://github.com/bep/hugo-jslibs/releases/tag/alpinejs%2Fv0.5.14), 2 months ago) - Work in Progress: A collection of JS libraries packaged and ready for use in Hugo.
