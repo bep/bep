@@ -15,11 +15,11 @@
 
 ### Recent Sponsors (Big Thank You!)
 
+- [mehedi-sharif](https://github.com/mehedi-sharif) (today)
 - [cdeleeuwe](https://github.com/cdeleeuwe) (3 weeks ago)
 - [kimgunnarsson](https://github.com/kimgunnarsson) (4 weeks ago)
 - [capnfabs](https://github.com/capnfabs) (1 month ago)
 - [nchlswhttkr](https://github.com/nchlswhttkr) (1 month ago)
-- [divinerites](https://github.com/divinerites) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
