@@ -4,6 +4,7 @@
 
 - [bep/hugomodv2test](https://github.com/bep/hugomodv2test) ([v2.0.0](https://github.com/bep/hugomodv2test/releases/tag/v2.0.0), today) - 
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([turbolinks/v0.6.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/turbolinks%2Fv0.6.0), 3 days ago) - A collection of JS libraries that works great with Hugo.
+- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.76.1](https://github.com/linode/linode-api-docs/releases/tag/v4.76.1), 6 days ago) - Source for the Linode Developers Site (API v4 Docs)
 - [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) ([v0.6.1](https://github.com/bep/hugo-starter-tailwind-basic/releases/tag/v0.6.1), 6 days ago) - A basic and simple to set up Hugo with TailwindCSS starter project.
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) ([v0.8.1](https://github.com/alecthomas/chroma/releases/tag/v0.8.1), 1 week ago) - A general purpose syntax highlighter in pure Go 
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.75.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.75.1), 2 weeks ago) - The source for https://gohugo.io/
@@ -11,7 +12,6 @@
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.7.0](https://github.com/alpinejs/alpine/releases/tag/v2.7.0), 3 weeks ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [bep/gotfmt](https://github.com/bep/gotfmt) ([v0.5.0](https://github.com/bep/gotfmt/releases/tag/v0.5.0), 1 month ago) - Work In Progress.
 - [bep/hugo-jslibs](https://github.com/bep/hugo-jslibs) ([alpinejs/v0.5.14](https://github.com/bep/hugo-jslibs/releases/tag/alpinejs%2Fv0.5.14), 2 months ago) - Work in Progress: A collection of JS libraries packaged and ready for use in Hugo.
-- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.3.5](https://github.com/bep/s3deploy/releases/tag/v2.3.5), 2 months ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
 
 ### Recent Sponsors (Big Thank You!)
 
