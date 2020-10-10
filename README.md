@@ -2,9 +2,9 @@
 
 ### Recent Releases I've Contributed To
 
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.76.3](https://github.com/gohugoio/hugoDocs/releases/tag/v0.76.3), 1 day ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.76.3](https://github.com/gohugoio/hugo/releases/tag/v0.76.3), 1 day ago) - The world’s fastest framework for building websites.
-- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.77.0](https://github.com/linode/linode-api-docs/releases/tag/v4.77.0), 4 days ago) - Source for the Linode Developers Site (API v4 Docs)
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.76.3](https://github.com/gohugoio/hugoDocs/releases/tag/v0.76.3), 2 days ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.76.3](https://github.com/gohugoio/hugo/releases/tag/v0.76.3), 2 days ago) - The world’s fastest framework for building websites.
+- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.77.0](https://github.com/linode/linode-api-docs/releases/tag/v4.77.0), 5 days ago) - Source for the Linode Developers Site (API v4 Docs)
 - [bep/hugomodv2test](https://github.com/bep/hugomodv2test) ([v2.0.0](https://github.com/bep/hugomodv2test/releases/tag/v2.0.0), 1 week ago) - 
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([turbolinks/v0.6.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/turbolinks%2Fv0.6.0), 1 week ago) - A collection of JS libraries that works great with Hugo.
 - [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) ([v0.6.1](https://github.com/bep/hugo-starter-tailwind-basic/releases/tag/v0.6.1), 2 weeks ago) - A basic and simple to set up Hugo with TailwindCSS starter project.
