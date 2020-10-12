@@ -17,9 +17,9 @@
 
 - [mroach](https://github.com/mroach) (1 week ago)
 - [mehedi-sharif](https://github.com/mehedi-sharif) (3 weeks ago)
+- [quoid](https://github.com/quoid) (1 month ago)
 - [cdeleeuwe](https://github.com/cdeleeuwe) (1 month ago)
 - [kimgunnarsson](https://github.com/kimgunnarsson) (1 month ago)
-- [capnfabs](https://github.com/capnfabs) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
