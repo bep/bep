@@ -2,8 +2,8 @@
 
 ### Recent Releases I've Contributed To
 
+- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.78.3](https://github.com/linode/linode-api-docs/releases/tag/v4.78.3), today) - Source for the Linode Developers Site (API v4 Docs)
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.7.1](https://github.com/alpinejs/alpine/releases/tag/v2.7.1), 1 day ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.78.0](https://github.com/linode/linode-api-docs/releases/tag/v4.78.0), 2 days ago) - Source for the Linode Developers Site (API v4 Docs)
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.7.1](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.7.1), 5 days ago) - A collection of JS libraries that works great with Hugo.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.76.5](https://github.com/gohugoio/hugoDocs/releases/tag/v0.76.5), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.76.5](https://github.com/gohugoio/hugo/releases/tag/v0.76.5), 1 week ago) - The world’s fastest framework for building websites.
