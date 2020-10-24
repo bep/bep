@@ -2,9 +2,9 @@
 
 ### Recent Releases I've Contributed To
 
-- [linode/docs](https://github.com/linode/docs) ([v1.0.3](https://github.com/linode/docs/releases/tag/v1.0.3), 1 day ago) - Linode guides and tutorials.
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.7.2](https://github.com/alpinejs/alpine/releases/tag/v2.7.2), 1 day ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.78.3](https://github.com/linode/linode-api-docs/releases/tag/v4.78.3), 2 days ago) - Source for the Linode Developers Site (API v4 Docs)
+- [linode/docs](https://github.com/linode/docs) ([v1.0.3](https://github.com/linode/docs/releases/tag/v1.0.3), 2 days ago) - Linode guides and tutorials.
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.7.2](https://github.com/alpinejs/alpine/releases/tag/v2.7.2), 2 days ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.78.3](https://github.com/linode/linode-api-docs/releases/tag/v4.78.3), 3 days ago) - Source for the Linode Developers Site (API v4 Docs)
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.7.1](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.7.1), 1 week ago) - A collection of JS libraries that works great with Hugo.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.76.5](https://github.com/gohugoio/hugoDocs/releases/tag/v0.76.5), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.76.5](https://github.com/gohugoio/hugo/releases/tag/v0.76.5), 1 week ago) - The world’s fastest framework for building websites.
@@ -15,8 +15,8 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [RAGNOARAKNOS](https://github.com/RAGNOARAKNOS) (1 day ago)
-- [monooso](https://github.com/monooso) (1 day ago)
+- [RAGNOARAKNOS](https://github.com/RAGNOARAKNOS) (2 days ago)
+- [monooso](https://github.com/monooso) (2 days ago)
 - [mroach](https://github.com/mroach) (3 weeks ago)
 - [mehedi-sharif](https://github.com/mehedi-sharif) (1 month ago)
 - [quoid](https://github.com/quoid) (1 month ago)
