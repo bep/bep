@@ -2,9 +2,9 @@
 
 ### Recent Releases I've Contributed To
 
-- [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.4.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.4.0), 1 day ago) - Test project used for integration testing.
+- [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.5.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.5.0), today) - Test project used for integration testing.
+- [gohugoio/hugoTestModulesJS](https://github.com/gohugoio/hugoTestModulesJS) ([mod2/v0.3.0](https://github.com/gohugoio/hugoTestModulesJS/releases/tag/mod2%2Fv0.3.0), today) - Test project used for integration testing.
 - [linode/docs](https://github.com/linode/docs) ([v1.3.1](https://github.com/linode/docs/releases/tag/v1.3.1), 1 day ago) - Linode guides and tutorials.
-- [gohugoio/hugoTestModulesJS](https://github.com/gohugoio/hugoTestModulesJS) ([mod2/v0.2.0](https://github.com/gohugoio/hugoTestModulesJS/releases/tag/mod2%2Fv0.2.0), 1 day ago) - Test project used for integration testing.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.78.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.78.0), 1 day ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.78.0](https://github.com/gohugoio/hugo/releases/tag/v0.78.0), 1 day ago) - The world’s fastest framework for building websites.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.7.3](https://github.com/alpinejs/alpine/releases/tag/v2.7.3), 1 week ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
