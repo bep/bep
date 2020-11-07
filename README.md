@@ -2,12 +2,12 @@
 
 ### Recent Releases I've Contributed To
 
-- [linode/docs](https://github.com/linode/docs) ([v1.5.0](https://github.com/linode/docs/releases/tag/v1.5.0), 1 day ago) - Linode guides and tutorials.
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.78.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.78.1), 1 day ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.78.1](https://github.com/gohugoio/hugo/releases/tag/v0.78.1), 1 day ago) - The world’s fastest framework for building websites.
-- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.79.0](https://github.com/linode/linode-api-docs/releases/tag/v4.79.0), 2 days ago) - Source for the Linode Developers Site (API v4 Docs)
-- [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.5.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.5.0), 2 days ago) - Test project used for integration testing.
-- [gohugoio/hugoTestModulesJS](https://github.com/gohugoio/hugoTestModulesJS) ([mod2/v0.3.0](https://github.com/gohugoio/hugoTestModulesJS/releases/tag/mod2%2Fv0.3.0), 2 days ago) - Test project used for integration testing.
+- [linode/docs](https://github.com/linode/docs) ([v1.5.0](https://github.com/linode/docs/releases/tag/v1.5.0), 2 days ago) - Linode guides and tutorials.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.78.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.78.1), 2 days ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.78.1](https://github.com/gohugoio/hugo/releases/tag/v0.78.1), 2 days ago) - The world’s fastest framework for building websites.
+- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.79.0](https://github.com/linode/linode-api-docs/releases/tag/v4.79.0), 3 days ago) - Source for the Linode Developers Site (API v4 Docs)
+- [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.5.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.5.0), 3 days ago) - Test project used for integration testing.
+- [gohugoio/hugoTestModulesJS](https://github.com/gohugoio/hugoTestModulesJS) ([mod2/v0.3.0](https://github.com/gohugoio/hugoTestModulesJS/releases/tag/mod2%2Fv0.3.0), 3 days ago) - Test project used for integration testing.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.7.3](https://github.com/alpinejs/alpine/releases/tag/v2.7.3), 1 week ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.7.1](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.7.1), 3 weeks ago) - A collection of JS libraries that works great with Hugo.
 - [bep/hugomodv2test](https://github.com/bep/hugomodv2test) ([v2.0.0](https://github.com/bep/hugomodv2test/releases/tag/v2.0.0), 1 month ago) - 
@@ -15,7 +15,7 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [deoostfreese](https://github.com/deoostfreese) (today)
+- [deoostfreese](https://github.com/deoostfreese) (1 day ago)
 - [RAGNOARAKNOS](https://github.com/RAGNOARAKNOS) (2 weeks ago)
 - [monooso](https://github.com/monooso) (2 weeks ago)
 - [mroach](https://github.com/mroach) (1 month ago)
