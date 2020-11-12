@@ -2,9 +2,9 @@
 
 ### Recent Releases I've Contributed To
 
-- [linode/docs](https://github.com/linode/docs) ([v1.6.0](https://github.com/linode/docs/releases/tag/v1.6.0), 1 day ago) - Linode guides and tutorials.
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.78.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.78.1), 6 days ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.78.1](https://github.com/gohugoio/hugo/releases/tag/v0.78.1), 6 days ago) - The world’s fastest framework for building websites.
+- [linode/docs](https://github.com/linode/docs) ([v1.6.0](https://github.com/linode/docs/releases/tag/v1.6.0), 2 days ago) - Linode guides and tutorials.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.78.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.78.1), 1 week ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.78.1](https://github.com/gohugoio/hugo/releases/tag/v0.78.1), 1 week ago) - The world’s fastest framework for building websites.
 - [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.79.0](https://github.com/linode/linode-api-docs/releases/tag/v4.79.0), 1 week ago) - Source for the Linode Developers Site (API v4 Docs)
 - [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.5.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.5.0), 1 week ago) - Test project used for integration testing.
 - [gohugoio/hugoTestModulesJS](https://github.com/gohugoio/hugoTestModulesJS) ([mod2/v0.3.0](https://github.com/gohugoio/hugoTestModulesJS/releases/tag/mod2%2Fv0.3.0), 1 week ago) - Test project used for integration testing.
@@ -15,9 +15,9 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [deoostfreese](https://github.com/deoostfreese) (5 days ago)
-- [RAGNOARAKNOS](https://github.com/RAGNOARAKNOS) (2 weeks ago)
-- [monooso](https://github.com/monooso) (2 weeks ago)
+- [deoostfreese](https://github.com/deoostfreese) (6 days ago)
+- [RAGNOARAKNOS](https://github.com/RAGNOARAKNOS) (3 weeks ago)
+- [monooso](https://github.com/monooso) (3 weeks ago)
 - [mroach](https://github.com/mroach) (1 month ago)
 - [mehedi-sharif](https://github.com/mehedi-sharif) (1 month ago)
 
