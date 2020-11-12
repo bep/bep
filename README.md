@@ -2,7 +2,7 @@
 
 ### Recent Releases I've Contributed To
 
-- [linode/docs](https://github.com/linode/docs) ([v1.6.0](https://github.com/linode/docs/releases/tag/v1.6.0), 2 days ago) - Linode guides and tutorials.
+- [linode/docs](https://github.com/linode/docs) ([v.1.6.1](https://github.com/linode/docs/releases/tag/v.1.6.1), today) - Linode guides and tutorials.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.78.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.78.1), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.78.1](https://github.com/gohugoio/hugo/releases/tag/v0.78.1), 1 week ago) - The world’s fastest framework for building websites.
 - [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.79.0](https://github.com/linode/linode-api-docs/releases/tag/v4.79.0), 1 week ago) - Source for the Linode Developers Site (API v4 Docs)
