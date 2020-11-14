@@ -2,10 +2,10 @@
 
 ### Recent Releases I've Contributed To
 
-- [linode/docs](https://github.com/linode/docs) ([v1.6.3](https://github.com/linode/docs/releases/tag/v1.6.3), today) - Linode guides and tutorials.
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.78.2](https://github.com/gohugoio/hugoDocs/releases/tag/v0.78.2), today) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.78.2](https://github.com/gohugoio/hugo/releases/tag/v0.78.2), today) - The world’s fastest framework for building websites.
-- [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.6.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.6.0), 1 day ago) - Test project used for integration testing.
+- [linode/docs](https://github.com/linode/docs) ([v1.6.3](https://github.com/linode/docs/releases/tag/v1.6.3), 1 day ago) - Linode guides and tutorials.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.78.2](https://github.com/gohugoio/hugoDocs/releases/tag/v0.78.2), 1 day ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.78.2](https://github.com/gohugoio/hugo/releases/tag/v0.78.2), 1 day ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.6.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.6.0), 2 days ago) - Test project used for integration testing.
 - [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.79.0](https://github.com/linode/linode-api-docs/releases/tag/v4.79.0), 1 week ago) - Source for the Linode Developers Site (API v4 Docs)
 - [gohugoio/hugoTestModulesJS](https://github.com/gohugoio/hugoTestModulesJS) ([mod2/v0.3.0](https://github.com/gohugoio/hugoTestModulesJS/releases/tag/mod2%2Fv0.3.0), 1 week ago) - Test project used for integration testing.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.7.3](https://github.com/alpinejs/alpine/releases/tag/v2.7.3), 2 weeks ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
