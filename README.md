@@ -15,11 +15,11 @@
 
 ### Recent Sponsors (Big Thank You!)
 
+- [bwhli](https://github.com/bwhli) (today)
 - [deoostfreese](https://github.com/deoostfreese) (1 week ago)
 - [RAGNOARAKNOS](https://github.com/RAGNOARAKNOS) (3 weeks ago)
 - [monooso](https://github.com/monooso) (3 weeks ago)
 - [mroach](https://github.com/mroach) (1 month ago)
-- [mehedi-sharif](https://github.com/mehedi-sharif) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
