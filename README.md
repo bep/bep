@@ -2,8 +2,8 @@
 
 ### Recent Releases I've Contributed To
 
+- [linode/docs](https://github.com/linode/docs) ([v1.7.0](https://github.com/linode/docs/releases/tag/v1.7.0), today) - Linode guides and tutorials.
 - [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.80.0](https://github.com/linode/linode-api-docs/releases/tag/v4.80.0), today) - Source for the Linode Developers Site (API v4 Docs)
-- [linode/docs](https://github.com/linode/docs) ([v1.6.3](https://github.com/linode/docs/releases/tag/v1.6.3), 3 days ago) - Linode guides and tutorials.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.78.2](https://github.com/gohugoio/hugoDocs/releases/tag/v0.78.2), 3 days ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.78.2](https://github.com/gohugoio/hugo/releases/tag/v0.78.2), 3 days ago) - The world’s fastest framework for building websites.
 - [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.6.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.6.0), 4 days ago) - Test project used for integration testing.
