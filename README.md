@@ -2,9 +2,9 @@
 
 ### Recent Releases I've Contributed To
 
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) ([v0.8.2](https://github.com/alecthomas/chroma/releases/tag/v0.8.2), today) - A general purpose syntax highlighter in pure Go 
-- [linode/docs](https://github.com/linode/docs) ([v1.8.0](https://github.com/linode/docs/releases/tag/v1.8.0), 3 days ago) - Linode guides and tutorials.
-- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.80.0](https://github.com/linode/linode-api-docs/releases/tag/v4.80.0), 4 days ago) - Source for the Linode Developers Site (API v4 Docs)
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) ([v0.8.2](https://github.com/alecthomas/chroma/releases/tag/v0.8.2), 1 day ago) - A general purpose syntax highlighter in pure Go 
+- [linode/docs](https://github.com/linode/docs) ([v1.8.0](https://github.com/linode/docs/releases/tag/v1.8.0), 4 days ago) - Linode guides and tutorials.
+- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.80.0](https://github.com/linode/linode-api-docs/releases/tag/v4.80.0), 5 days ago) - Source for the Linode Developers Site (API v4 Docs)
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.78.2](https://github.com/gohugoio/hugoDocs/releases/tag/v0.78.2), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.78.2](https://github.com/gohugoio/hugo/releases/tag/v0.78.2), 1 week ago) - The world’s fastest framework for building websites.
 - [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.6.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.6.0), 1 week ago) - Test project used for integration testing.
@@ -15,10 +15,10 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [bwhli](https://github.com/bwhli) (5 days ago)
+- [bwhli](https://github.com/bwhli) (6 days ago)
 - [deoostfreese](https://github.com/deoostfreese) (2 weeks ago)
-- [RAGNOARAKNOS](https://github.com/RAGNOARAKNOS) (4 weeks ago)
-- [monooso](https://github.com/monooso) (4 weeks ago)
+- [RAGNOARAKNOS](https://github.com/RAGNOARAKNOS) (1 month ago)
+- [monooso](https://github.com/monooso) (1 month ago)
 - [mroach](https://github.com/mroach) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
