@@ -2,6 +2,7 @@
 
 ### Recent Releases I've Contributed To
 
+- [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) ([v1.0.0](https://github.com/bep/hugo-starter-tailwind-basic/releases/tag/v1.0.0), today) - A basic and simple to set up Hugo with TailwindCSS starter project.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.79.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.79.0), 4 days ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.79.0](https://github.com/gohugoio/hugo/releases/tag/v0.79.0), 4 days ago) - The world’s fastest framework for building websites.
 - [linode/docs](https://github.com/linode/docs) ([v1.8.1](https://github.com/linode/docs/releases/tag/v1.8.1), 1 week ago) - Linode guides and tutorials.
@@ -11,7 +12,6 @@
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.7.3](https://github.com/alpinejs/alpine/releases/tag/v2.7.3), 1 month ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.7.1](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.7.1), 1 month ago) - A collection of JS libraries that works great with Hugo.
 - [bep/hugomodv2test](https://github.com/bep/hugomodv2test) ([v2.0.0](https://github.com/bep/hugomodv2test/releases/tag/v2.0.0), 2 months ago) - 
-- [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) ([v0.6.1](https://github.com/bep/hugo-starter-tailwind-basic/releases/tag/v0.6.1), 2 months ago) - A basic and simple to set up Hugo with TailwindCSS starter project.
 
 ### Recent Sponsors (Big Thank You!)
 
