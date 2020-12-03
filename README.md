@@ -2,11 +2,11 @@
 
 ### Recent Releases I've Contributed To
 
+- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.81.0](https://github.com/linode/linode-api-docs/releases/tag/v4.81.0), today) - Source for the Linode Developers Site (API v4 Docs)
 - [linode/docs](https://github.com/linode/docs) ([v1.9.0](https://github.com/linode/docs/releases/tag/v1.9.0), 1 day ago) - Linode guides and tutorials.
 - [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) ([v2.0.1](https://github.com/bep/hugo-starter-tailwind-basic/releases/tag/v2.0.1), 2 days ago) - A basic and simple to set up Hugo with TailwindCSS starter project.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.79.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.79.0), 6 days ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.79.0](https://github.com/gohugoio/hugo/releases/tag/v0.79.0), 6 days ago) - The world’s fastest framework for building websites.
-- [linode/linode-api-docs](https://github.com/linode/linode-api-docs) ([v4.80.0](https://github.com/linode/linode-api-docs/releases/tag/v4.80.0), 2 weeks ago) - Source for the Linode Developers Site (API v4 Docs)
 - [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.6.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.6.0), 3 weeks ago) - Test project used for integration testing.
 - [gohugoio/hugoTestModulesJS](https://github.com/gohugoio/hugoTestModulesJS) ([mod2/v0.3.0](https://github.com/gohugoio/hugoTestModulesJS/releases/tag/mod2%2Fv0.3.0), 4 weeks ago) - Test project used for integration testing.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.7.3](https://github.com/alpinejs/alpine/releases/tag/v2.7.3), 1 month ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
