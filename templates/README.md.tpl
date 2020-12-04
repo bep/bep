@@ -1,6 +1,6 @@
 ## Greetings From Norway!
 
-#### My Recent Projects
+### My Recent Projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
