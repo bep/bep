@@ -1,10 +1,5 @@
 ## Greetings From Norway!
 
-### Recent Work on GitHub
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
-{{- end}}
-
 #### My Recent Projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
