@@ -1,8 +1,13 @@
 ## Greetings From Norway!
 
-### Recent Releases I've Contributed To
-{{range recentReleases 10}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+### Recent Work on GitHub
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### My Recent Projects
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
 ### Recent Sponsors (Big Thank You!)
@@ -11,7 +16,6 @@
 {{- end}}
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
-
 
 ### Contact Info
 - Twitter: https://twitter.com/bepsays/
