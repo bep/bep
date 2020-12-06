@@ -10,8 +10,8 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [bwhli](https://github.com/bwhli) (2 weeks ago)
-- [deoostfreese](https://github.com/deoostfreese) (4 weeks ago)
+- [bwhli](https://github.com/bwhli) (3 weeks ago)
+- [deoostfreese](https://github.com/deoostfreese) (1 month ago)
 - [RAGNOARAKNOS](https://github.com/RAGNOARAKNOS) (1 month ago)
 - [monooso](https://github.com/monooso) (1 month ago)
 - [mroach](https://github.com/mroach) (2 months ago)
