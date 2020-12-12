@@ -2,7 +2,7 @@
 
 ### My Recent Projects
 
-- [bep/gosassdart](https://github.com/bep/gosassdart) - Work in progress.
+- [bep/godartsass](https://github.com/bep/godartsass) - Work in progress.
 - [bep/htmlfmt](https://github.com/bep/htmlfmt) - Work in progress. HTML formatter.
 - [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
 - [bep/go-main-template](https://github.com/bep/go-main-template) - Just a simple main() pogram template.
