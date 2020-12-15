@@ -5,6 +5,11 @@
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
+### Recent Releases I Worked On
+{{range recentReleases 10}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{- end}}
+
 ### Recent Sponsors (Big Thank You!)
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
