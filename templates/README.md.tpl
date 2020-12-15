@@ -7,7 +7,9 @@
 
 ### Recent Releases I Worked On
 {{range recentReleases 10}}
+{{ if not (and (eq .Name "linode/docs")) }}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
+{{ end }}
 {{- end}}
 
 ### Recent Sponsors (Big Thank You!)
