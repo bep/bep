@@ -10,6 +10,8 @@
 
 ### Recent Releases I Worked On
 
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.0](https://github.com/alpinejs/alpine/releases/tag/v2.8.0), today) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+
 - [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v2.0.7](https://github.com/karlseguin/ccache/releases/tag/v2.0.7), 4 days ago) - A golang LRU Cache for high concurrency
 
 - [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) ([v2.0.1](https://github.com/bep/hugo-starter-tailwind-basic/releases/tag/v2.0.1), 2 weeks ago) - A basic and simple to set up Hugo with TailwindCSS starter project.
@@ -21,8 +23,6 @@
 - [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.6.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.6.0), 1 month ago) - Test project used for integration testing.
 
 - [gohugoio/hugoTestModulesJS](https://github.com/gohugoio/hugoTestModulesJS) ([mod2/v0.3.0](https://github.com/gohugoio/hugoTestModulesJS/releases/tag/mod2%2Fv0.3.0), 1 month ago) - Test project used for integration testing.
-
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.7.3](https://github.com/alpinejs/alpine/releases/tag/v2.7.3), 1 month ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.7.1](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.7.1), 2 months ago) - A collection of JS libraries that works great with Hugo.
 
