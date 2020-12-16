@@ -10,6 +10,8 @@
 
 ### Recent Releases I Worked On
 
+- [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.8.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.8.0), today) - A collection of JS libraries that works great with Hugo.
+
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.0](https://github.com/alpinejs/alpine/releases/tag/v2.8.0), 1 day ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 
 - [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v2.0.7](https://github.com/karlseguin/ccache/releases/tag/v2.0.7), 5 days ago) - A golang LRU Cache for high concurrency
@@ -23,8 +25,6 @@
 - [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.6.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.6.0), 1 month ago) - Test project used for integration testing.
 
 - [gohugoio/hugoTestModulesJS](https://github.com/gohugoio/hugoTestModulesJS) ([mod2/v0.3.0](https://github.com/gohugoio/hugoTestModulesJS/releases/tag/mod2%2Fv0.3.0), 1 month ago) - Test project used for integration testing.
-
-- [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.7.1](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.7.1), 2 months ago) - A collection of JS libraries that works great with Hugo.
 
 
 ### Recent Sponsors (Big Thank You!)
