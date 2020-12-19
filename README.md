@@ -10,9 +10,9 @@
 
 ### Recent Releases I Worked On
 
-- [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.8.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.8.0), 2 days ago) - A collection of JS libraries that works great with Hugo.
+- [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.8.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.8.0), 3 days ago) - A collection of JS libraries that works great with Hugo.
 
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.0](https://github.com/alpinejs/alpine/releases/tag/v2.8.0), 3 days ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.0](https://github.com/alpinejs/alpine/releases/tag/v2.8.0), 4 days ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 
 - [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v2.0.7](https://github.com/karlseguin/ccache/releases/tag/v2.0.7), 1 week ago) - A golang LRU Cache for high concurrency
 
