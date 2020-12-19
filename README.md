@@ -10,6 +10,8 @@
 
 ### Recent Releases I Worked On
 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.79.1](https://github.com/gohugoio/hugo/releases/tag/v0.79.1), today) - The world’s fastest framework for building websites.
+
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.8.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.8.0), 3 days ago) - A collection of JS libraries that works great with Hugo.
 
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.0](https://github.com/alpinejs/alpine/releases/tag/v2.8.0), 4 days ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
@@ -19,8 +21,6 @@
 - [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) ([v2.0.1](https://github.com/bep/hugo-starter-tailwind-basic/releases/tag/v2.0.1), 2 weeks ago) - A basic and simple to set up Hugo with TailwindCSS starter project.
 
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.79.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.79.0), 3 weeks ago) - The source for https://gohugo.io/
-
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.79.0](https://github.com/gohugoio/hugo/releases/tag/v0.79.0), 3 weeks ago) - The world’s fastest framework for building websites.
 
 - [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.6.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.6.0), 1 month ago) - Test project used for integration testing.
 
