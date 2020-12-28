@@ -9,7 +9,7 @@
 - [bep/powermeter](https://github.com/bep/powermeter) - Work In Progess: A process wrapper that measures power usage. MacOS only.
 
 ### Recent Releases I Worked On
-- [bep/godartsass](https://github.com/bep/godartsass) ([v0.7.0](https://github.com/bep/godartsass/releases/tag/v0.7.0), today) - Go API backed by the native Dart Sass Embedded executable.
+- [bep/godartsass](https://github.com/bep/godartsass) ([v0.7.0](https://github.com/bep/godartsass/releases/tag/v0.7.0), 1 day ago) - Go API backed by the native Dart Sass Embedded executable.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.79.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.79.1), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.79.1](https://github.com/gohugoio/hugo/releases/tag/v0.79.1), 1 week ago) - The world’s fastest framework for building websites.
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.8.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.8.0), 1 week ago) - A collection of JS libraries that works great with Hugo.
