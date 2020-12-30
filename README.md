@@ -21,11 +21,11 @@
 
 ### Recent Sponsors (Big Thank You!)
 
+- [bruno-garcia](https://github.com/bruno-garcia) (today)
 - [bwhli](https://github.com/bwhli) (1 month ago)
 - [deoostfreese](https://github.com/deoostfreese) (1 month ago)
 - [RAGNOARAKNOS](https://github.com/RAGNOARAKNOS) (2 months ago)
 - [monooso](https://github.com/monooso) (2 months ago)
-- [mroach](https://github.com/mroach) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
