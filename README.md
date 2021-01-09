@@ -21,7 +21,7 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [Godot-Tutorials](https://github.com/Godot-Tutorials) (2 days ago)
+- [Godot-Tutorials](https://github.com/Godot-Tutorials) (3 days ago)
 - [bruno-garcia](https://github.com/bruno-garcia) (1 week ago)
 - [bwhli](https://github.com/bwhli) (1 month ago)
 - [deoostfreese](https://github.com/deoostfreese) (2 months ago)
