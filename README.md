@@ -13,7 +13,7 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.80.0](https://github.com/gohugoio/hugo/releases/tag/v0.80.0), 1 week ago) - The world’s fastest framework for building websites.
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.11.0](https://github.com/bep/godartsass/releases/tag/v0.11.0), 1 week ago) - Go API backed by the native Dart Sass Embedded executable.
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.8.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.8.0), 3 weeks ago) - A collection of JS libraries that works great with Hugo.
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.0](https://github.com/alpinejs/alpine/releases/tag/v2.8.0), 3 weeks ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.0](https://github.com/alpinejs/alpine/releases/tag/v2.8.0), 4 weeks ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v2.0.7](https://github.com/karlseguin/ccache/releases/tag/v2.0.7), 1 month ago) - A golang LRU Cache for high concurrency
 - [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) ([v2.0.1](https://github.com/bep/hugo-starter-tailwind-basic/releases/tag/v2.0.1), 1 month ago) - A basic and simple to set up Hugo with TailwindCSS starter project.
 - [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.6.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.6.0), 2 months ago) - Test project used for integration testing.
@@ -21,7 +21,7 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [Godot-Tutorials](https://github.com/Godot-Tutorials) (5 days ago)
+- [Godot-Tutorials](https://github.com/Godot-Tutorials) (6 days ago)
 - [bruno-garcia](https://github.com/bruno-garcia) (1 week ago)
 - [bwhli](https://github.com/bwhli) (1 month ago)
 - [deoostfreese](https://github.com/deoostfreese) (2 months ago)
