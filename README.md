@@ -9,7 +9,7 @@
 - [bep/powermeter](https://github.com/bep/powermeter) - Work In Progess: A process wrapper that measures power usage. MacOS only.
 
 ### Recent Releases I Worked On
-- [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.9.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.9.0), 6 days ago) - Test project used for integration testing.
+- [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.9.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.9.0), 1 week ago) - Test project used for integration testing.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.80.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.80.0), 4 weeks ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.80.0](https://github.com/gohugoio/hugo/releases/tag/v0.80.0), 4 weeks ago) - The world’s fastest framework for building websites.
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.11.0](https://github.com/bep/godartsass/releases/tag/v0.11.0), 4 weeks ago) - Go API backed by the native Dart Sass Embedded executable.
@@ -22,7 +22,7 @@
 ### Recent Sponsors (Big Thank You!)
 
 - [Godot-Tutorials](https://github.com/Godot-Tutorials) (3 weeks ago)
-- [bruno-garcia](https://github.com/bruno-garcia) (4 weeks ago)
+- [bruno-garcia](https://github.com/bruno-garcia) (1 month ago)
 - [bwhli](https://github.com/bwhli) (2 months ago)
 - [deoostfreese](https://github.com/deoostfreese) (2 months ago)
 - [RAGNOARAKNOS](https://github.com/RAGNOARAKNOS) (3 months ago)
