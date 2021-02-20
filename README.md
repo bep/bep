@@ -9,10 +9,10 @@
 - [bep/powermeter](https://github.com/bep/powermeter) - Work In Progess: A process wrapper that measures power usage. MacOS only.
 
 ### Recent Releases I Worked On
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.81.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.81.0), today) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.81.0](https://github.com/gohugoio/hugo/releases/tag/v0.81.0), today) - The world’s fastest framework for building websites.
-- [bep/godartsass](https://github.com/bep/godartsass) ([v0.12.0](https://github.com/bep/godartsass/releases/tag/v0.12.0), 1 week ago) - Go API backed by the native Dart Sass Embedded executable.
-- [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v2.0.8](https://github.com/karlseguin/ccache/releases/tag/v2.0.8), 1 week ago) - A golang LRU Cache for high concurrency
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.81.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.81.0), 1 day ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.81.0](https://github.com/gohugoio/hugo/releases/tag/v0.81.0), 1 day ago) - The world’s fastest framework for building websites.
+- [bep/godartsass](https://github.com/bep/godartsass) ([v0.12.0](https://github.com/bep/godartsass/releases/tag/v0.12.0), 2 weeks ago) - Go API backed by the native Dart Sass Embedded executable.
+- [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v2.0.8](https://github.com/karlseguin/ccache/releases/tag/v2.0.8), 2 weeks ago) - A golang LRU Cache for high concurrency
 - [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.9.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.9.0), 4 weeks ago) - Test project used for integration testing.
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.8.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.8.0), 2 months ago) - A collection of JS libraries that works great with Hugo.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.0](https://github.com/alpinejs/alpine/releases/tag/v2.8.0), 2 months ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
@@ -21,7 +21,7 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [gavinr](https://github.com/gavinr) (today)
+- [gavinr](https://github.com/gavinr) (1 day ago)
 - []() (2 weeks ago)
 - [Godot-Tutorials](https://github.com/Godot-Tutorials) (1 month ago)
 - [bruno-garcia](https://github.com/bruno-garcia) (1 month ago)
