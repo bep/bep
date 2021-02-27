@@ -21,11 +21,11 @@
 
 ### Recent Sponsors (Big Thank You!)
 
+- [sadikkuzu](https://github.com/sadikkuzu) (today)
 - [nathany](https://github.com/nathany) (5 days ago)
 - [gavinr](https://github.com/gavinr) (1 week ago)
 - []() (3 weeks ago)
 - [Godot-Tutorials](https://github.com/Godot-Tutorials) (1 month ago)
-- [bruno-garcia](https://github.com/bruno-garcia) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
