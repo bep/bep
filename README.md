@@ -9,7 +9,7 @@
 - [bep/powermeter](https://github.com/bep/powermeter) - Work In Progess: A process wrapper that measures power usage. MacOS only.
 
 ### Recent Releases I Worked On
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.1](https://github.com/alpinejs/alpine/releases/tag/v2.8.1), 4 days ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.1](https://github.com/alpinejs/alpine/releases/tag/v2.8.1), 5 days ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.81.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.81.0), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.81.0](https://github.com/gohugoio/hugo/releases/tag/v0.81.0), 1 week ago) - The world’s fastest framework for building websites.
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.12.0](https://github.com/bep/godartsass/releases/tag/v0.12.0), 3 weeks ago) - Go API backed by the native Dart Sass Embedded executable.
@@ -21,8 +21,8 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [sadikkuzu](https://github.com/sadikkuzu) (today)
-- [nathany](https://github.com/nathany) (5 days ago)
+- [sadikkuzu](https://github.com/sadikkuzu) (1 day ago)
+- [nathany](https://github.com/nathany) (6 days ago)
 - [gavinr](https://github.com/gavinr) (1 week ago)
 - []() (3 weeks ago)
 - [Godot-Tutorials](https://github.com/Godot-Tutorials) (1 month ago)
