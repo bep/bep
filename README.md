@@ -21,8 +21,8 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [systemkern](https://github.com/systemkern) (2 days ago)
-- [sadikkuzu](https://github.com/sadikkuzu) (3 days ago)
+- [systemkern](https://github.com/systemkern) (3 days ago)
+- [sadikkuzu](https://github.com/sadikkuzu) (4 days ago)
 - [nathany](https://github.com/nathany) (1 week ago)
 - [gavinr](https://github.com/gavinr) (1 week ago)
 - []() (4 weeks ago)
