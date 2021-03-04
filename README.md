@@ -21,11 +21,11 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [systemkern](https://github.com/systemkern) (3 days ago)
-- [sadikkuzu](https://github.com/sadikkuzu) (4 days ago)
+- [systemkern](https://github.com/systemkern) (4 days ago)
+- [sadikkuzu](https://github.com/sadikkuzu) (5 days ago)
 - [nathany](https://github.com/nathany) (1 week ago)
 - [gavinr](https://github.com/gavinr) (1 week ago)
-- []() (4 weeks ago)
+- []() (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
