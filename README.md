@@ -24,7 +24,7 @@
 - [gwatts](https://github.com/gwatts) (1 week ago)
 - [systemkern](https://github.com/systemkern) (2 weeks ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (2 weeks ago)
-- [nathany](https://github.com/nathany) (2 weeks ago)
+- [nathany](https://github.com/nathany) (3 weeks ago)
 - [gavinr](https://github.com/gavinr) (3 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
