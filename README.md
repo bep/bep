@@ -2,11 +2,11 @@
 
 ### My Recent Projects
 
+- [bep/test-netlify-minimal](https://github.com/bep/test-netlify-minimal) - Just a minimal repo to test out some build issues with Netlify. Nothing useful.
 - [bep/godartsass](https://github.com/bep/godartsass) - Go API backed by the native Dart Sass Embedded executable.
 - [bep/htmlfmt](https://github.com/bep/htmlfmt) - Work in progress. HTML formatter.
 - [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
 - [bep/go-main-template](https://github.com/bep/go-main-template) - Just a simple main() program template.
-- [bep/powermeter](https://github.com/bep/powermeter) - Work In Progess: A process wrapper that measures power usage. MacOS only.
 
 ### Recent Releases I Worked On
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.1](https://github.com/alpinejs/alpine/releases/tag/v2.8.1), 3 weeks ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
