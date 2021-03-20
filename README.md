@@ -23,7 +23,7 @@
 
 - [gwatts](https://github.com/gwatts) (2 weeks ago)
 - [systemkern](https://github.com/systemkern) (2 weeks ago)
-- [sadikkuzu](https://github.com/sadikkuzu) (2 weeks ago)
+- [sadikkuzu](https://github.com/sadikkuzu) (3 weeks ago)
 - [nathany](https://github.com/nathany) (3 weeks ago)
 - [gavinr](https://github.com/gavinr) (4 weeks ago)
 
