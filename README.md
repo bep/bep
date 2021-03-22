@@ -9,8 +9,8 @@
 - [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
 
 ### Recent Releases I Worked On
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.82.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.82.0), today) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.82.0](https://github.com/gohugoio/hugo/releases/tag/v0.82.0), today) - The world’s fastest framework for building websites.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.82.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.82.0), 1 day ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.82.0](https://github.com/gohugoio/hugo/releases/tag/v0.82.0), 1 day ago) - The world’s fastest framework for building websites.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.1](https://github.com/alpinejs/alpine/releases/tag/v2.8.1), 3 weeks ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.12.0](https://github.com/bep/godartsass/releases/tag/v0.12.0), 1 month ago) - Go API backed by the native Dart Sass Embedded executable.
 - [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v2.0.8](https://github.com/karlseguin/ccache/releases/tag/v2.0.8), 1 month ago) - A golang LRU Cache for high concurrency
@@ -24,7 +24,7 @@
 - [gwatts](https://github.com/gwatts) (2 weeks ago)
 - [systemkern](https://github.com/systemkern) (3 weeks ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (3 weeks ago)
-- [nathany](https://github.com/nathany) (3 weeks ago)
+- [nathany](https://github.com/nathany) (4 weeks ago)
 - [gavinr](https://github.com/gavinr) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
