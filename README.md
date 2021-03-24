@@ -9,9 +9,9 @@
 - [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
 
 ### Recent Releases I Worked On
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.2](https://github.com/alpinejs/alpine/releases/tag/v2.8.2), today) - A rugged, minimal framework for composing JavaScript behavior in your markup.
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.82.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.82.0), 2 days ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.82.0](https://github.com/gohugoio/hugo/releases/tag/v0.82.0), 2 days ago) - The world’s fastest framework for building websites.
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.2](https://github.com/alpinejs/alpine/releases/tag/v2.8.2), 1 day ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.82.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.82.0), 3 days ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.82.0](https://github.com/gohugoio/hugo/releases/tag/v0.82.0), 3 days ago) - The world’s fastest framework for building websites.
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.12.0](https://github.com/bep/godartsass/releases/tag/v0.12.0), 1 month ago) - Go API backed by the native Dart Sass Embedded executable.
 - [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v2.0.8](https://github.com/karlseguin/ccache/releases/tag/v2.0.8), 1 month ago) - A golang LRU Cache for high concurrency
 - [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.9.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.9.0), 2 months ago) - Test project used for integration testing.
@@ -21,11 +21,11 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [lhenze](https://github.com/lhenze) (today)
+- [lhenze](https://github.com/lhenze) (1 day ago)
 - [gwatts](https://github.com/gwatts) (2 weeks ago)
 - [systemkern](https://github.com/systemkern) (3 weeks ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (3 weeks ago)
-- [nathany](https://github.com/nathany) (4 weeks ago)
+- [nathany](https://github.com/nathany) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
