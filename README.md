@@ -9,7 +9,7 @@
 - [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
 
 ### Recent Releases I Worked On
-- [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([alpinejs/v0.8.2](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/alpinejs%2Fv0.8.2), 3 days ago) - A collection of JS libraries that works great with Hugo.
+- [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([spruce/v0.1.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/spruce%2Fv0.1.0), today) - A collection of JS libraries that works great with Hugo.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.2](https://github.com/alpinejs/alpine/releases/tag/v2.8.2), 4 days ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.82.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.82.0), 6 days ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.82.0](https://github.com/gohugoio/hugo/releases/tag/v0.82.0), 6 days ago) - The world’s fastest framework for building websites.
