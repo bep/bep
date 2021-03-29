@@ -9,8 +9,8 @@
 - [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
 
 ### Recent Releases I Worked On
-- [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([spruce/v0.1.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/spruce%2Fv0.1.0), 1 day ago) - A collection of JS libraries that works great with Hugo.
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.2](https://github.com/alpinejs/alpine/releases/tag/v2.8.2), 5 days ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([spruce/v0.1.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/spruce%2Fv0.1.0), 2 days ago) - A collection of JS libraries that works great with Hugo.
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.2](https://github.com/alpinejs/alpine/releases/tag/v2.8.2), 6 days ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.82.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.82.0), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.82.0](https://github.com/gohugoio/hugo/releases/tag/v0.82.0), 1 week ago) - The world’s fastest framework for building websites.
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.12.0](https://github.com/bep/godartsass/releases/tag/v0.12.0), 1 month ago) - Go API backed by the native Dart Sass Embedded executable.
@@ -21,10 +21,10 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [lhenze](https://github.com/lhenze) (5 days ago)
+- [lhenze](https://github.com/lhenze) (6 days ago)
 - [gwatts](https://github.com/gwatts) (3 weeks ago)
 - [systemkern](https://github.com/systemkern) (4 weeks ago)
-- [sadikkuzu](https://github.com/sadikkuzu) (4 weeks ago)
+- [sadikkuzu](https://github.com/sadikkuzu) (1 month ago)
 - [nathany](https://github.com/nathany) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
