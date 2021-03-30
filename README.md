@@ -3,7 +3,7 @@
 ### My Recent Projects
 
 - [bep/hugo-starter-tailwindjit-basic](https://github.com/bep/hugo-starter-tailwindjit-basic) - Work in progress.
-- [bep/test-netlify-minimal](https://github.com/bep/test-netlify-minimal) - Just a minimal repo to test out some build issues with Netlify. Nothing useful.
+- [bep/netlify-cypress-test](https://github.com/bep/netlify-cypress-test) - Just a minimal repo to set up a Cypress integration test running in a GitHub Action after a successful Netlify preview build.
 - [bep/godartsass](https://github.com/bep/godartsass) - Go API backed by the native Dart Sass Embedded executable.
 - [bep/htmlfmt](https://github.com/bep/htmlfmt) - Work in progress. HTML formatter.
 - [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
