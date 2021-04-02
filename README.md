@@ -9,6 +9,7 @@
 - [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
 
 ### Recent Releases I Worked On
+- [spf13/hyde](https://github.com/spf13/hyde) ([v1.1.0](https://github.com/spf13/hyde/releases/tag/v1.1.0), today) - Port of Mdo&#39;s excellent theme to Hugo
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([spruce/v0.1.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/spruce%2Fv0.1.0), 6 days ago) - A collection of JS libraries that works great with Hugo.
 - [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.2](https://github.com/alpinejs/alpine/releases/tag/v2.8.2), 1 week ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.82.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.82.0), 1 week ago) - The source for https://gohugo.io/
@@ -16,7 +17,6 @@
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.12.0](https://github.com/bep/godartsass/releases/tag/v0.12.0), 1 month ago) - Go API backed by the native Dart Sass Embedded executable.
 - [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v2.0.8](https://github.com/karlseguin/ccache/releases/tag/v2.0.8), 1 month ago) - A golang LRU Cache for high concurrency
 - [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.9.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.9.0), 2 months ago) - Test project used for integration testing.
-- [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) ([v2.0.1](https://github.com/bep/hugo-starter-tailwind-basic/releases/tag/v2.0.1), 4 months ago) - A basic and simple to set up Hugo with TailwindCSS starter project.
 
 
 ### Recent Sponsors (Big Thank You!)
