@@ -9,10 +9,10 @@
 - [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
 
 ### Recent Releases I Worked On
-- [bep/netlify-cypress-test](https://github.com/bep/netlify-cypress-test) ([v0.1.0](https://github.com/bep/netlify-cypress-test/releases/tag/v0.1.0), 3 days ago) - Just a minimal repo to set up a Cypress integration test running in a GitHub Action after a successful Netlify preview build.
-- [spf13/hyde](https://github.com/spf13/hyde) ([v1.1.0](https://github.com/spf13/hyde/releases/tag/v1.1.0), 3 days ago) - Port of Mdo&#39;s excellent theme to Hugo
+- [bep/netlify-cypress-test](https://github.com/bep/netlify-cypress-test) ([v0.1.0](https://github.com/bep/netlify-cypress-test/releases/tag/v0.1.0), 4 days ago) - Just a minimal repo to set up a Cypress integration test running in a GitHub Action after a successful Netlify preview build.
+- [spf13/hyde](https://github.com/spf13/hyde) ([v1.1.0](https://github.com/spf13/hyde/releases/tag/v1.1.0), 4 days ago) - Port of Mdo&#39;s excellent theme to Hugo
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([spruce/v0.1.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/spruce%2Fv0.1.0), 1 week ago) - A collection of JS libraries that works great with Hugo.
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.2](https://github.com/alpinejs/alpine/releases/tag/v2.8.2), 1 week ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.2](https://github.com/alpinejs/alpine/releases/tag/v2.8.2), 2 weeks ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.82.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.82.0), 2 weeks ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.82.0](https://github.com/gohugoio/hugo/releases/tag/v0.82.0), 2 weeks ago) - The world’s fastest framework for building websites.
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.12.0](https://github.com/bep/godartsass/releases/tag/v0.12.0), 1 month ago) - Go API backed by the native Dart Sass Embedded executable.
@@ -21,7 +21,7 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [lhenze](https://github.com/lhenze) (1 week ago)
+- [lhenze](https://github.com/lhenze) (2 weeks ago)
 - [gwatts](https://github.com/gwatts) (1 month ago)
 - [systemkern](https://github.com/systemkern) (1 month ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (1 month ago)
