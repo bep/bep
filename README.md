@@ -21,11 +21,11 @@
 
 ### Recent Sponsors (Big Thank You!)
 
+- [lupsa](https://github.com/lupsa) (today)
 - [lhenze](https://github.com/lhenze) (3 weeks ago)
 - [gwatts](https://github.com/gwatts) (1 month ago)
 - [systemkern](https://github.com/systemkern) (1 month ago)
 - [sadikkuzu](https://github.com/sadikkuzu) (1 month ago)
-- [nathany](https://github.com/nathany) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
