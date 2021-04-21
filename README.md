@@ -9,9 +9,9 @@
 - [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
 
 ### Recent Releases I Worked On
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.82.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.82.1), today) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.82.1](https://github.com/gohugoio/hugo/releases/tag/v0.82.1), today) - The world’s fastest framework for building websites.
-- [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([spruce/v0.2.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/spruce%2Fv0.2.0), 5 days ago) - A collection of JS libraries that works great with Hugo.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.82.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.82.1), 1 day ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.82.1](https://github.com/gohugoio/hugo/releases/tag/v0.82.1), 1 day ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([spruce/v0.2.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/spruce%2Fv0.2.0), 6 days ago) - A collection of JS libraries that works great with Hugo.
 - [bep/docuapi](https://github.com/bep/docuapi) ([v1.5.0](https://github.com/bep/docuapi/releases/tag/v1.5.0), 2 weeks ago) - Beautiful multilingual API documentation theme for Hugo
 - [bep/netlify-cypress-test](https://github.com/bep/netlify-cypress-test) ([v0.1.0](https://github.com/bep/netlify-cypress-test/releases/tag/v0.1.0), 2 weeks ago) - Just a minimal repo to set up a Cypress integration test running in a GitHub Action after a successful Netlify preview build.
 - [spf13/hyde](https://github.com/spf13/hyde) ([v1.1.0](https://github.com/spf13/hyde/releases/tag/v1.1.0), 2 weeks ago) - Port of Mdo&#39;s excellent theme to Hugo
@@ -21,7 +21,7 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [lupsa](https://github.com/lupsa) (2 days ago)
+- [lupsa](https://github.com/lupsa) (3 days ago)
 - [lhenze](https://github.com/lhenze) (4 weeks ago)
 - [gwatts](https://github.com/gwatts) (1 month ago)
 - [systemkern](https://github.com/systemkern) (1 month ago)
