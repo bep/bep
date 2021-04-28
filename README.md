@@ -21,8 +21,8 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [g0hl1n](https://github.com/g0hl1n) (today)
-- [austintraver](https://github.com/austintraver) (4 days ago)
+- [g0hl1n](https://github.com/g0hl1n) (1 day ago)
+- [austintraver](https://github.com/austintraver) (5 days ago)
 - [lupsa](https://github.com/lupsa) (1 week ago)
 - [lhenze](https://github.com/lhenze) (1 month ago)
 - [gwatts](https://github.com/gwatts) (1 month ago)
