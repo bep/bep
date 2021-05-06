@@ -21,11 +21,11 @@
 
 ### Recent Sponsors (Big Thank You!)
 
+- [thomasjsn](https://github.com/thomasjsn) (today)
 - [g0hl1n](https://github.com/g0hl1n) (1 week ago)
 - [austintraver](https://github.com/austintraver) (1 week ago)
 - [lupsa](https://github.com/lupsa) (2 weeks ago)
 - [lhenze](https://github.com/lhenze) (1 month ago)
-- [gwatts](https://github.com/gwatts) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
