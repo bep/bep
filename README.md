@@ -21,8 +21,8 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [and-cesbo](https://github.com/and-cesbo) (3 days ago)
-- [thomasjsn](https://github.com/thomasjsn) (5 days ago)
+- [and-cesbo](https://github.com/and-cesbo) (4 days ago)
+- [thomasjsn](https://github.com/thomasjsn) (6 days ago)
 - [g0hl1n](https://github.com/g0hl1n) (2 weeks ago)
 - [austintraver](https://github.com/austintraver) (2 weeks ago)
 - [lupsa](https://github.com/lupsa) (3 weeks ago)
