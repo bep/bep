@@ -21,10 +21,10 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [turbolaserhawk](https://github.com/turbolaserhawk) (2 days ago)
+- [turbolaserhawk](https://github.com/turbolaserhawk) (3 days ago)
 - [and-cesbo](https://github.com/and-cesbo) (1 week ago)
 - [thomasjsn](https://github.com/thomasjsn) (1 week ago)
-- [g0hl1n](https://github.com/g0hl1n) (2 weeks ago)
+- [g0hl1n](https://github.com/g0hl1n) (3 weeks ago)
 - [austintraver](https://github.com/austintraver) (3 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
