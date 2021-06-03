@@ -16,7 +16,7 @@
 - [bep/docuapi](https://github.com/bep/docuapi) ([v1.5.0](https://github.com/bep/docuapi/releases/tag/v1.5.0), 1 month ago) - Beautiful multilingual API documentation theme for Hugo
 - [bep/netlify-cypress-test](https://github.com/bep/netlify-cypress-test) ([v0.1.0](https://github.com/bep/netlify-cypress-test/releases/tag/v0.1.0), 2 months ago) - Just a minimal repo to set up a Cypress integration test running in a GitHub Action after a successful Netlify preview build.
 - [spf13/hyde](https://github.com/spf13/hyde) ([v1.1.0](https://github.com/spf13/hyde/releases/tag/v1.1.0), 2 months ago) - Port of Mdo&#39;s excellent theme to Hugo
-- [alpinejs/alpine](https://github.com/alpinejs/alpine) ([v2.8.2](https://github.com/alpinejs/alpine/releases/tag/v2.8.2), 2 months ago) - A rugged, minimal framework for composing JavaScript behavior in your markup.
+- [bep/godartsass](https://github.com/bep/godartsass) ([v0.12.0](https://github.com/bep/godartsass/releases/tag/v0.12.0), 3 months ago) - Go API backed by the native Dart Sass Embedded executable.
 
 
 ### Recent Sponsors (Big Thank You!)
