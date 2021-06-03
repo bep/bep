@@ -23,7 +23,7 @@
 
 - [turbolaserhawk](https://github.com/turbolaserhawk) (2 weeks ago)
 - [and-cesbo](https://github.com/and-cesbo) (3 weeks ago)
-- [thomasjsn](https://github.com/thomasjsn) (3 weeks ago)
+- [thomasjsn](https://github.com/thomasjsn) (4 weeks ago)
 - [g0hl1n](https://github.com/g0hl1n) (1 month ago)
 - [austintraver](https://github.com/austintraver) (1 month ago)
 
