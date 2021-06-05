@@ -21,11 +21,11 @@
 
 ### Recent Sponsors (Big Thank You!)
 
+- [fmaida](https://github.com/fmaida) (today)
 - [turbolaserhawk](https://github.com/turbolaserhawk) (3 weeks ago)
 - [and-cesbo](https://github.com/and-cesbo) (4 weeks ago)
 - [thomasjsn](https://github.com/thomasjsn) (1 month ago)
 - [g0hl1n](https://github.com/g0hl1n) (1 month ago)
-- [austintraver](https://github.com/austintraver) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
