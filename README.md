@@ -21,9 +21,9 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [fmaida](https://github.com/fmaida) (1 day ago)
+- [fmaida](https://github.com/fmaida) (2 days ago)
 - [turbolaserhawk](https://github.com/turbolaserhawk) (3 weeks ago)
-- [and-cesbo](https://github.com/and-cesbo) (4 weeks ago)
+- [and-cesbo](https://github.com/and-cesbo) (1 month ago)
 - [thomasjsn](https://github.com/thomasjsn) (1 month ago)
 - [g0hl1n](https://github.com/g0hl1n) (1 month ago)
 
