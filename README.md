@@ -21,8 +21,8 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [menzerath](https://github.com/menzerath) (today)
-- [fmaida](https://github.com/fmaida) (5 days ago)
+- [menzerath](https://github.com/menzerath) (1 day ago)
+- [fmaida](https://github.com/fmaida) (6 days ago)
 - [turbolaserhawk](https://github.com/turbolaserhawk) (3 weeks ago)
 - [and-cesbo](https://github.com/and-cesbo) (1 month ago)
 - [thomasjsn](https://github.com/thomasjsn) (1 month ago)
