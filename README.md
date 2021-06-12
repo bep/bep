@@ -9,8 +9,8 @@
 - [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
 
 ### Recent Releases I Worked On
-- [bep/gobench](https://github.com/bep/gobench) ([v0.1.0](https://github.com/bep/gobench/releases/tag/v0.1.0), today) - Benchmark runner with pprof support. 
-- [bep/golibsass](https://github.com/bep/golibsass) ([v1.0.0](https://github.com/bep/golibsass/releases/tag/v1.0.0), 2 weeks ago) - Easy to use Go bindings for LibSass.
+- [bep/gobench](https://github.com/bep/gobench) ([v0.1.0](https://github.com/bep/gobench/releases/tag/v0.1.0), 1 day ago) - Benchmark runner with pprof support. 
+- [bep/golibsass](https://github.com/bep/golibsass) ([v1.0.0](https://github.com/bep/golibsass/releases/tag/v1.0.0), 3 weeks ago) - Easy to use Go bindings for LibSass.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.83.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.83.1), 1 month ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.83.1](https://github.com/gohugoio/hugo/releases/tag/v0.83.1), 1 month ago) - The world’s fastest framework for building websites.
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([spruce/v0.2.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/spruce%2Fv0.2.0), 1 month ago) - A collection of JS libraries that works great with Hugo.
@@ -21,9 +21,9 @@
 
 ### Recent Sponsors (Big Thank You!)
 
-- [menzerath](https://github.com/menzerath) (1 day ago)
-- [fmaida](https://github.com/fmaida) (6 days ago)
-- [turbolaserhawk](https://github.com/turbolaserhawk) (3 weeks ago)
+- [menzerath](https://github.com/menzerath) (2 days ago)
+- [fmaida](https://github.com/fmaida) (1 week ago)
+- [turbolaserhawk](https://github.com/turbolaserhawk) (4 weeks ago)
 - [and-cesbo](https://github.com/and-cesbo) (1 month ago)
 - [thomasjsn](https://github.com/thomasjsn) (1 month ago)
 
