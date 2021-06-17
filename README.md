@@ -21,11 +21,11 @@
 
 ### Recent Sponsors (Big Thank You!)
 
+- [KevinWang15](https://github.com/KevinWang15) (today)
 - [menzerath](https://github.com/menzerath) (1 week ago)
 - [fmaida](https://github.com/fmaida) (1 week ago)
 - [turbolaserhawk](https://github.com/turbolaserhawk) (1 month ago)
 - [and-cesbo](https://github.com/and-cesbo) (1 month ago)
-- [thomasjsn](https://github.com/thomasjsn) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
