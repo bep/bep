@@ -21,11 +21,11 @@
 
 ### Recent Sponsors (Big Thank You!)
 
+- [SirUli](https://github.com/SirUli) (today)
 - [TutorialEdge](https://github.com/TutorialEdge) (1 week ago)
 - [KevinWang15](https://github.com/KevinWang15) (1 week ago)
 - [menzerath](https://github.com/menzerath) (2 weeks ago)
 - [fmaida](https://github.com/fmaida) (3 weeks ago)
-- [turbolaserhawk](https://github.com/turbolaserhawk) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
