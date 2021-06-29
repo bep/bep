@@ -1,6 +1,6 @@
-## Greetings From Norway!
+## Greetings from Norway!
 
-### My Recent Projects
+### Recent projects
 
 - [bep/hugo-starter-tailwindjit-basic](https://github.com/bep/hugo-starter-tailwindjit-basic) - Work in progress.
 - [bep/netlify-cypress-test](https://github.com/bep/netlify-cypress-test) - Just a minimal repo to set up a Cypress integration test running in a GitHub Action after a successful Netlify preview build.
@@ -8,7 +8,7 @@
 - [bep/htmlfmt](https://github.com/bep/htmlfmt) - Work in progress. HTML formatter.
 - [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
 
-### Recent Releases I Worked On
+### Recent releases
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.84.3](https://github.com/gohugoio/hugoDocs/releases/tag/v0.84.3), today) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.3](https://github.com/gohugoio/hugo/releases/tag/v0.84.3), today) - The world’s fastest framework for building websites.
 - [bep/gobench](https://github.com/bep/gobench) ([v0.1.0](https://github.com/bep/gobench/releases/tag/v0.1.0), 2 weeks ago) - Benchmark runner with pprof support. 
@@ -19,7 +19,7 @@
 - [spf13/hyde](https://github.com/spf13/hyde) ([v1.1.0](https://github.com/spf13/hyde/releases/tag/v1.1.0), 2 months ago) - Port of Mdo&#39;s excellent theme to Hugo
 
 
-### Recent Sponsors (Big Thank You!)
+### Recent sponsors (big thank you!)
 
 - [SirUli](https://github.com/SirUli) (today)
 - [TutorialEdge](https://github.com/TutorialEdge) (1 week ago)
@@ -29,12 +29,12 @@
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
-### Contact Info
+### Contact info
 - Twitter: https://twitter.com/bepsays/
 - Web: https://bep.is/
 - Blog: https://bepsays.com/en/
 - Mail: bjorn.erik.pedersen@gmail.com
 
-### GitHub Stats
+### GitHub stats
 ![bep's github stats](https://github-readme-stats.vercel.app/api?username=bep&count_private=true&hide_title=true)
 
