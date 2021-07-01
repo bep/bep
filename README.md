@@ -2,13 +2,14 @@
 
 ### My Recent Projects
 
+- [bep/go-submodule-test](https://github.com/bep/go-submodule-test) - Just a test project, nothing interesting here.
 - [bep/hugo-starter-tailwindjit-basic](https://github.com/bep/hugo-starter-tailwindjit-basic) - Work in progress.
 - [bep/netlify-cypress-test](https://github.com/bep/netlify-cypress-test) - Just a minimal repo to set up a Cypress integration test running in a GitHub Action after a successful Netlify preview build.
 - [bep/godartsass](https://github.com/bep/godartsass) - Go API backed by the native Dart Sass Embedded executable.
 - [bep/htmlfmt](https://github.com/bep/htmlfmt) - Work in progress. HTML formatter.
-- [bep/test-esbuild-resolve-siblings](https://github.com/bep/test-esbuild-resolve-siblings) - Just a test project, nothing interesting here.
 
 ### Recent Releases I Worked On
+- [bep/go-submodule-test](https://github.com/bep/go-submodule-test) ([v1.0.0](https://github.com/bep/go-submodule-test/releases/tag/v1.0.0), today) - Just a test project, nothing interesting here.
 - [bep/dockerfiles](https://github.com/bep/dockerfiles) ([v0.1.0](https://github.com/bep/dockerfiles/releases/tag/v0.1.0), 1 day ago) - 
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.84.3](https://github.com/gohugoio/hugoDocs/releases/tag/v0.84.3), 2 days ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.3](https://github.com/gohugoio/hugo/releases/tag/v0.84.3), 2 days ago) - The world’s fastest framework for building websites.
@@ -16,7 +17,6 @@
 - [bep/golibsass](https://github.com/bep/golibsass) ([v1.0.0](https://github.com/bep/golibsass/releases/tag/v1.0.0), 1 month ago) - Easy to use Go bindings for LibSass.
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([spruce/v0.2.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/spruce%2Fv0.2.0), 2 months ago) - A collection of JS libraries that works great with Hugo.
 - [bep/docuapi](https://github.com/bep/docuapi) ([v1.5.0](https://github.com/bep/docuapi/releases/tag/v1.5.0), 2 months ago) - Beautiful multilingual API documentation theme for Hugo
-- [bep/netlify-cypress-test](https://github.com/bep/netlify-cypress-test) ([v0.1.0](https://github.com/bep/netlify-cypress-test/releases/tag/v0.1.0), 3 months ago) - Just a minimal repo to set up a Cypress integration test running in a GitHub Action after a successful Netlify preview build.
 
 
 ### Recent Sponsors (Big Thank You!)
