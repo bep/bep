@@ -1,6 +1,6 @@
-## Greetings From Norway!
+## Greetings from Norway! 🇳🇴
 
-### My Recent Projects
+### My recent projects
 
 - [bep/go-submodule-test](https://github.com/bep/go-submodule-test) - Just a test project, nothing interesting here.
 - [bep/hugo-starter-tailwindjit-basic](https://github.com/bep/hugo-starter-tailwindjit-basic) - Work in progress.
@@ -8,7 +8,7 @@
 - [bep/godartsass](https://github.com/bep/godartsass) - Go API backed by the native Dart Sass Embedded executable.
 - [bep/htmlfmt](https://github.com/bep/htmlfmt) - Work in progress. HTML formatter.
 
-### Recent Releases I Worked On
+### Recent releases
 - [bep/docuapi](https://github.com/bep/docuapi) ([v1.5.1](https://github.com/bep/docuapi/releases/tag/v1.5.1), 1 day ago) - Beautiful multilingual API documentation theme for Hugo
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.84.4](https://github.com/gohugoio/hugoDocs/releases/tag/v0.84.4), 1 day ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.84.4](https://github.com/gohugoio/hugo/releases/tag/v0.84.4), 1 day ago) - The world’s fastest framework for building websites.
@@ -19,7 +19,7 @@
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([spruce/v0.2.0](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/spruce%2Fv0.2.0), 2 months ago) - A collection of JS libraries that works great with Hugo.
 
 
-### Recent Sponsors (Big Thank You!)
+### Recent sponsors (big thank you!)
 
 - [danielfdickinson](https://github.com/danielfdickinson) (1 day ago)
 - [SirUli](https://github.com/SirUli) (3 days ago)
@@ -29,12 +29,12 @@
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
-### Contact Info
+### Contact info
 - Twitter: https://twitter.com/bepsays/
 - Web: https://bep.is/
 - Blog: https://bepsays.com/en/
 - Mail: bjorn.erik.pedersen@gmail.com
 
-### GitHub Stats
+### GitHub stats
 ![bep's github stats](https://github-readme-stats.vercel.app/api?username=bep&count_private=true&hide_title=true)
 
