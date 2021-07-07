@@ -2,11 +2,11 @@
 
 ### My recent projects
 
+- [bep/workers](https://github.com/bep/workers) - Set up tasks to be executed in parallel.
 - [bep/go-submodule-test](https://github.com/bep/go-submodule-test) - Just a test project, nothing interesting here.
 - [bep/hugo-starter-tailwindjit-basic](https://github.com/bep/hugo-starter-tailwindjit-basic) - Work in progress.
 - [bep/netlify-cypress-test](https://github.com/bep/netlify-cypress-test) - Just a minimal repo to set up a Cypress integration test running in a GitHub Action after a successful Netlify preview build.
 - [bep/godartsass](https://github.com/bep/godartsass) - Go API backed by the native Dart Sass Embedded executable.
-- [bep/htmlfmt](https://github.com/bep/htmlfmt) - Work in progress. HTML formatter.
 
 ### Recent releases
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.85.0](https://github.com/gohugoio/hugo/releases/tag/v0.85.0), 2 days ago) - The world’s fastest framework for building websites.
