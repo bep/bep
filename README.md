@@ -9,7 +9,7 @@
 - [bep/godartsass](https://github.com/bep/godartsass) - Go API backed by the native Dart Sass Embedded executable.
 
 ### Recent releases
-- [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) ([v0.15.0](https://github.com/thegeeklab/hugo-geekdoc/releases/tag/v0.15.0), 6 days ago) - Hugo theme made for documentation
+- [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) ([v0.15.0](https://github.com/thegeeklab/hugo-geekdoc/releases/tag/v0.15.0), 1 week ago) - Hugo theme made for documentation
 - [bep/workers](https://github.com/bep/workers) ([v1.0.0](https://github.com/bep/workers/releases/tag/v1.0.0), 1 week ago) - Set up tasks to be executed in parallel.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.85.0](https://github.com/gohugoio/hugo/releases/tag/v0.85.0), 1 week ago) - The world’s fastest framework for building websites.
 - [bep/docuapi](https://github.com/bep/docuapi) ([v1.5.1](https://github.com/bep/docuapi/releases/tag/v1.5.1), 2 weeks ago) - Beautiful multilingual API documentation theme for Hugo
@@ -24,7 +24,7 @@
 - [danielfdickinson](https://github.com/danielfdickinson) (2 weeks ago)
 - [SirUli](https://github.com/SirUli) (2 weeks ago)
 - [TutorialEdge](https://github.com/TutorialEdge) (3 weeks ago)
-- [KevinWang15](https://github.com/KevinWang15) (4 weeks ago)
+- [KevinWang15](https://github.com/KevinWang15) (1 month ago)
 - [menzerath](https://github.com/menzerath) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
