@@ -11,7 +11,7 @@
 ### Recent releases
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) ([v0.15.0](https://github.com/thegeeklab/hugo-geekdoc/releases/tag/v0.15.0), 1 week ago) - Hugo theme made for documentation
 - [bep/workers](https://github.com/bep/workers) ([v1.0.0](https://github.com/bep/workers/releases/tag/v1.0.0), 1 week ago) - Set up tasks to be executed in parallel.
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.85.0](https://github.com/gohugoio/hugo/releases/tag/v0.85.0), 1 week ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.85.0](https://github.com/gohugoio/hugo/releases/tag/v0.85.0), 2 weeks ago) - The world’s fastest framework for building websites.
 - [bep/docuapi](https://github.com/bep/docuapi) ([v1.5.1](https://github.com/bep/docuapi/releases/tag/v1.5.1), 2 weeks ago) - Beautiful multilingual API documentation theme for Hugo
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.84.4](https://github.com/gohugoio/hugoDocs/releases/tag/v0.84.4), 2 weeks ago) - The source for https://gohugo.io/
 - [bep/go-submodule-test](https://github.com/bep/go-submodule-test) ([v1.0.0](https://github.com/bep/go-submodule-test/releases/tag/v1.0.0), 2 weeks ago) - Just a test project, nothing interesting here.
