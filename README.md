@@ -2,11 +2,11 @@
 
 ### My recent projects
 
+- [bep/hugo-starter-bootstrap-basic](https://github.com/bep/hugo-starter-bootstrap-basic) - A basic Hugo starter project for Bootstrap v5.
 - [bep/workers](https://github.com/bep/workers) - Set up tasks to be executed in parallel.
 - [bep/go-submodule-test](https://github.com/bep/go-submodule-test) - Just a test project, nothing interesting here.
 - [bep/hugo-starter-tailwindjit-basic](https://github.com/bep/hugo-starter-tailwindjit-basic) - Work in progress.
 - [bep/netlify-cypress-test](https://github.com/bep/netlify-cypress-test) - Just a minimal repo to set up a Cypress integration test running in a GitHub Action after a successful Netlify preview build.
-- [bep/godartsass](https://github.com/bep/godartsass) - Go API backed by the native Dart Sass Embedded executable.
 
 ### Recent releases
 - [thegeeklab/hugo-geekdoc](https://github.com/thegeeklab/hugo-geekdoc) ([v0.15.0](https://github.com/thegeeklab/hugo-geekdoc/releases/tag/v0.15.0), 1 week ago) - Hugo theme made for documentation
