@@ -7,7 +7,7 @@
 
 ### Recent releases
 {{range recentReleases 10 }}
-{{- if not (or (eq .Name "linode/docs") (eq .Name "linode/linode-api-docs")) -}}
+{{- if not (or (eq .Name "linode/docs") (eq .Name "linode/linode-api-docs") (eq .Name "thegeeklab/hugo-geekdoc") (eq .Name "treosh/lighthouse-ci-action") ) -}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{ end -}}
 {{- end}}
