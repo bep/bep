@@ -2,11 +2,11 @@
 
 ### My recent projects
 
+- [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) - Some useful Hugo Modules.
 - [bep/hugo-starter-bootstrap-basic](https://github.com/bep/hugo-starter-bootstrap-basic) - A basic Hugo starter project for Bootstrap v5.
 - [bep/workers](https://github.com/bep/workers) - Set up tasks to be executed in parallel.
 - [bep/go-submodule-test](https://github.com/bep/go-submodule-test) - Just a test project, nothing interesting here.
 - [bep/hugo-starter-tailwindjit-basic](https://github.com/bep/hugo-starter-tailwindjit-basic) - Work in progress.
-- [bep/netlify-cypress-test](https://github.com/bep/netlify-cypress-test) - Just a minimal repo to set up a Cypress integration test running in a GitHub Action after a successful Netlify preview build.
 
 ### Recent releases
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.85.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.85.0), today) - The source for https://gohugo.io/
