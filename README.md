@@ -32,6 +32,9 @@ For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 - Web: https://bep.is/
 - Blog: https://bepsays.com/en/
 - Mail: bjorn.erik.pedersen@gmail.com
+- Keybase: https://keybase.io/bep
+- BTC: 3NseXrZVx29fxgu4RbTrAhyU5UKyjeAukX
+
 
 ### GitHub stats
 ![bep's github stats](https://github-readme-stats.vercel.app/api?username=bep&count_private=true&hide_title=true)
