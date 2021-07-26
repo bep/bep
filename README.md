@@ -2,11 +2,11 @@
 
 ### My recent projects
 
+- [bep/locales-all](https://github.com/bep/locales-all) - Registry for all locale packages in https://github.com/go-playground/locales
 - [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) - Some useful Hugo Modules.
 - [bep/hugo-starter-bootstrap-basic](https://github.com/bep/hugo-starter-bootstrap-basic) - A basic Hugo starter project for Bootstrap v5.
 - [bep/workers](https://github.com/bep/workers) - Set up tasks to be executed in parallel.
 - [bep/go-submodule-test](https://github.com/bep/go-submodule-test) - Just a test project, nothing interesting here.
-- [bep/hugo-starter-tailwindjit-basic](https://github.com/bep/hugo-starter-tailwindjit-basic) - Work in progress.
 
 ### Recent releases
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.86.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.86.0), 5 days ago) - The source for https://gohugo.io/
