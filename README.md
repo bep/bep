@@ -2,7 +2,7 @@
 
 ### My recent projects
 
-- [bep/locales-all](https://github.com/bep/locales-all) - Registry for all locale packages in https://github.com/go-playground/locales
+- [bep/gotranslators](https://github.com/bep/gotranslators) - Registry for all locale packages in https://github.com/go-playground/locales
 - [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) - Some useful Hugo Modules.
 - [bep/hugo-starter-bootstrap-basic](https://github.com/bep/hugo-starter-bootstrap-basic) - A basic Hugo starter project for Bootstrap v5.
 - [bep/workers](https://github.com/bep/workers) - Set up tasks to be executed in parallel.
