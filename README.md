@@ -9,8 +9,8 @@
 - [bep/go-submodule-test](https://github.com/bep/go-submodule-test) - Just a test project, nothing interesting here.
 
 ### Recent releases
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.86.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.86.0), 5 days ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.86.0](https://github.com/gohugoio/hugo/releases/tag/v0.86.0), 5 days ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.86.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.86.0), 6 days ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.86.0](https://github.com/gohugoio/hugo/releases/tag/v0.86.0), 6 days ago) - The world’s fastest framework for building websites.
 - [gohugoio/hugo-mod-bootstrap-scss-v5](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v5) ([v1.0.0](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v5/releases/tag/v1.0.0), 1 week ago) - Bootstrap SCSS v5 packaged as a Hugo Module
 - [gohugoio/hugo-mod-bootstrap-scss-v4](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4) ([v1.0.0](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4/releases/tag/v1.0.0), 1 week ago) - Bootstrap SCSS v4 packaged as a Hugo Module
 - [bep/workers](https://github.com/bep/workers) ([v1.0.0](https://github.com/bep/workers/releases/tag/v1.0.0), 2 weeks ago) - Set up tasks to be executed in parallel.
@@ -20,7 +20,7 @@
 ### Recent sponsors (big thank you!)
 
 - [danielfdickinson](https://github.com/danielfdickinson) (3 weeks ago)
-- [SirUli](https://github.com/SirUli) (3 weeks ago)
+- [SirUli](https://github.com/SirUli) (4 weeks ago)
 - [TutorialEdge](https://github.com/TutorialEdge) (1 month ago)
 - [KevinWang15](https://github.com/KevinWang15) (1 month ago)
 - [menzerath](https://github.com/menzerath) (1 month ago)
