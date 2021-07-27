@@ -9,12 +9,12 @@
 - [bep/go-submodule-test](https://github.com/bep/go-submodule-test) - Just a test project, nothing interesting here.
 
 ### Recent releases
+- [bep/gotranslators](https://github.com/bep/gotranslators) ([v0.1.0](https://github.com/bep/gotranslators/releases/tag/v0.1.0), today) - Registry for all locale packages in https://github.com/go-playground/locales
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.86.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.86.0), 6 days ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.86.0](https://github.com/gohugoio/hugo/releases/tag/v0.86.0), 6 days ago) - The world’s fastest framework for building websites.
 - [gohugoio/hugo-mod-bootstrap-scss-v5](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v5) ([v1.0.0](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v5/releases/tag/v1.0.0), 1 week ago) - Bootstrap SCSS v5 packaged as a Hugo Module
 - [gohugoio/hugo-mod-bootstrap-scss-v4](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4) ([v1.0.0](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4/releases/tag/v1.0.0), 1 week ago) - Bootstrap SCSS v4 packaged as a Hugo Module
 - [bep/workers](https://github.com/bep/workers) ([v1.0.0](https://github.com/bep/workers/releases/tag/v1.0.0), 2 weeks ago) - Set up tasks to be executed in parallel.
-- [bep/docuapi](https://github.com/bep/docuapi) ([v1.5.1](https://github.com/bep/docuapi/releases/tag/v1.5.1), 3 weeks ago) - Beautiful multilingual API documentation theme for Hugo
 
 
 ### Recent sponsors (big thank you!)
