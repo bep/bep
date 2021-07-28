@@ -9,10 +9,10 @@
 - [bep/go-submodule-test](https://github.com/bep/go-submodule-test) - Just a test project, nothing interesting here.
 
 ### Recent releases
-- [spf13/cast](https://github.com/spf13/cast) ([v1.4.0](https://github.com/spf13/cast/releases/tag/v1.4.0), today) - safe and easy casting from one type to another in Go 
-- [bep/gotranslators](https://github.com/bep/gotranslators) ([v0.1.0](https://github.com/bep/gotranslators/releases/tag/v0.1.0), today) - Registry for all locale packages in https://github.com/go-playground/locales
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.86.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.86.0), 6 days ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.86.0](https://github.com/gohugoio/hugo/releases/tag/v0.86.0), 6 days ago) - The world’s fastest framework for building websites.
+- [spf13/cast](https://github.com/spf13/cast) ([v1.4.0](https://github.com/spf13/cast/releases/tag/v1.4.0), 1 day ago) - safe and easy casting from one type to another in Go 
+- [bep/gotranslators](https://github.com/bep/gotranslators) ([v0.1.0](https://github.com/bep/gotranslators/releases/tag/v0.1.0), 1 day ago) - Registry for all locale packages in https://github.com/go-playground/locales
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.86.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.86.0), 1 week ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.86.0](https://github.com/gohugoio/hugo/releases/tag/v0.86.0), 1 week ago) - The world’s fastest framework for building websites.
 - [gohugoio/hugo-mod-bootstrap-scss-v5](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v5) ([v1.0.0](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v5/releases/tag/v1.0.0), 1 week ago) - Bootstrap SCSS v5 packaged as a Hugo Module
 - [gohugoio/hugo-mod-bootstrap-scss-v4](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4) ([v1.0.0](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4/releases/tag/v1.0.0), 1 week ago) - Bootstrap SCSS v4 packaged as a Hugo Module
 
