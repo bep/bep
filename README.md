@@ -9,6 +9,7 @@
 - [bep/go-submodule-test](https://github.com/bep/go-submodule-test) - Just a test project, nothing interesting here.
 
 ### Recent releases
+- [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v0.14.0](https://github.com/gohugoio/localescompressed/releases/tag/v0.14.0), today) - The locales from https://github.com/gohugoio/locales in one package/struct.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.86.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.86.1), 3 days ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.86.1](https://github.com/gohugoio/hugo/releases/tag/v0.86.1), 3 days ago) - The world’s fastest framework for building websites.
 - [bep/gotranslators](https://github.com/bep/gotranslators) ([v0.2.0](https://github.com/bep/gotranslators/releases/tag/v0.2.0), 5 days ago) - Registry for all locale packages in https://github.com/go-playground/locales
