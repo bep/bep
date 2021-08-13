@@ -9,9 +9,9 @@
 - [bep/go-submodule-test](https://github.com/bep/go-submodule-test) - Just a test project, nothing interesting here.
 
 ### Recent releases
-- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.4.0](https://github.com/bep/s3deploy/releases/tag/v2.4.0), today) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
-- [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) ([dummy-content/v0.1.0](https://github.com/bep/hugo-mod-misc/releases/tag/dummy-content%2Fv0.1.0), 1 day ago) - Some useful Hugo Modules.
-- [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) ([v2.1.0](https://github.com/bep/hugo-starter-tailwind-basic/releases/tag/v2.1.0), 1 day ago) - A basic and simple to set up Hugo with TailwindCSS starter project.
+- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.4.0](https://github.com/bep/s3deploy/releases/tag/v2.4.0), 1 day ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
+- [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) ([dummy-content/v0.1.0](https://github.com/bep/hugo-mod-misc/releases/tag/dummy-content%2Fv0.1.0), 2 days ago) - Some useful Hugo Modules.
+- [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) ([v2.1.0](https://github.com/bep/hugo-starter-tailwind-basic/releases/tag/v2.1.0), 2 days ago) - A basic and simple to set up Hugo with TailwindCSS starter project.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.87.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.87.0), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.87.0](https://github.com/gohugoio/hugo/releases/tag/v0.87.0), 1 week ago) - The world’s fastest framework for building websites.
 - [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v0.14.0](https://github.com/gohugoio/localescompressed/releases/tag/v0.14.0), 1 week ago) - The locales from https://github.com/gohugoio/locales in one package/struct.
