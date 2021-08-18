@@ -2,11 +2,11 @@
 
 ### My recent projects
 
+- [bep/netlify-lighthouse-test](https://github.com/bep/netlify-lighthouse-test) - Just a simple test repo to test Lighthouse with Netlify.
 - [bep/gotranslators](https://github.com/bep/gotranslators) - Registry for all locale packages in https://github.com/go-playground/locales
 - [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) - Some useful Hugo Modules.
 - [bep/hugo-starter-bootstrap-basic](https://github.com/bep/hugo-starter-bootstrap-basic) - A basic Hugo starter project for Bootstrap v5.
 - [bep/workers](https://github.com/bep/workers) - Set up tasks to be executed in parallel.
-- [bep/go-submodule-test](https://github.com/bep/go-submodule-test) - Just a test project, nothing interesting here.
 
 ### Recent releases
 - [spf13/cast](https://github.com/spf13/cast) ([v1.4.1](https://github.com/spf13/cast/releases/tag/v1.4.1), 3 days ago) - safe and easy casting from one type to another in Go 
