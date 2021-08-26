@@ -10,7 +10,7 @@
 
 ### Recent releases
 - [spf13/cast](https://github.com/spf13/cast) ([v1.4.1](https://github.com/spf13/cast/releases/tag/v1.4.1), 1 week ago) - safe and easy casting from one type to another in Go 
-- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.4.0](https://github.com/bep/s3deploy/releases/tag/v2.4.0), 1 week ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
+- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.4.0](https://github.com/bep/s3deploy/releases/tag/v2.4.0), 2 weeks ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
 - [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) ([dummy-content/v0.1.0](https://github.com/bep/hugo-mod-misc/releases/tag/dummy-content%2Fv0.1.0), 2 weeks ago) - Some useful Hugo Modules.
 - [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) ([v2.1.0](https://github.com/bep/hugo-starter-tailwind-basic/releases/tag/v2.1.0), 2 weeks ago) - A basic and simple to set up Hugo with TailwindCSS starter project.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.3.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.3.0), 2 weeks ago) - Automated auditing, performance metrics, and best practices for the web.
