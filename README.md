@@ -9,7 +9,7 @@
 - [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) - Some useful Hugo Modules.
 
 ### Recent releases
-- [bep/mod-subs](https://github.com/bep/mod-subs) ([mod1/v1.0.0](https://github.com/bep/mod-subs/releases/tag/mod1%2Fv1.0.0), today) - Just a test repo.
+- [bep/mod-subs](https://github.com/bep/mod-subs) ([mod1/v1.1.0](https://github.com/bep/mod-subs/releases/tag/mod1%2Fv1.1.0), today) - Just a test repo.
 - [bep/mod-c](https://github.com/bep/mod-c) ([v0.59.0](https://github.com/bep/mod-c/releases/tag/v0.59.0), today) - Test Go Module
 - [bep/mod-d](https://github.com/bep/mod-d) ([v1.1.0](https://github.com/bep/mod-d/releases/tag/v1.1.0), today) - Just a test repo.
 - [bep/mod-b](https://github.com/bep/mod-b) ([v1.1.0](https://github.com/bep/mod-b/releases/tag/v1.1.0), today) - Test Go Module
