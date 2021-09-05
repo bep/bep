@@ -20,11 +20,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [ntwi](https://github.com/ntwi) (today)
 - [danielfdickinson](https://github.com/danielfdickinson) (2 months ago)
 - [SirUli](https://github.com/SirUli) (2 months ago)
 - [TutorialEdge](https://github.com/TutorialEdge) (2 months ago)
 - [KevinWang15](https://github.com/KevinWang15) (2 months ago)
-- [menzerath](https://github.com/menzerath) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
