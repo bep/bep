@@ -2,11 +2,11 @@
 
 ### My recent projects
 
+- [bep/npmgoproxy](https://github.com/bep/npmgoproxy) - This highly experimental and very much work in progress.
 - [bep/mod-subs](https://github.com/bep/mod-subs) - Just a test repo.
 - [bep/mod-d](https://github.com/bep/mod-d) - Just a test repo.
 - [bep/netlify-lighthouse-test](https://github.com/bep/netlify-lighthouse-test) - Just a simple test repo to test Lighthouse with Netlify.
 - [bep/gotranslators](https://github.com/bep/gotranslators) - Registry for all locale packages in https://github.com/go-playground/locales
-- [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) - Some useful Hugo Modules.
 
 ### Recent releases
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.88.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.88.1), 4 days ago) - The source for https://gohugo.io/
