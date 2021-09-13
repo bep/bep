@@ -9,18 +9,18 @@
 - [bep/gotranslators](https://github.com/bep/gotranslators) - Registry for all locale packages in https://github.com/go-playground/locales
 
 ### Recent releases
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.4.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.4.0), 4 days ago) - Automated auditing, performance metrics, and best practices for the web.
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.4.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.4.0), 5 days ago) - Automated auditing, performance metrics, and best practices for the web.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.88.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.88.1), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.88.1](https://github.com/gohugoio/hugo/releases/tag/v0.88.1), 1 week ago) - The world’s fastest framework for building websites.
-- [bep/mod-subs](https://github.com/bep/mod-subs) ([mod1/v1.1.0](https://github.com/bep/mod-subs/releases/tag/mod1%2Fv1.1.0), 1 week ago) - Just a test repo.
-- [bep/mod-c](https://github.com/bep/mod-c) ([v0.59.0](https://github.com/bep/mod-c/releases/tag/v0.59.0), 1 week ago) - Test Go Module
-- [bep/mod-d](https://github.com/bep/mod-d) ([v1.1.0](https://github.com/bep/mod-d/releases/tag/v1.1.0), 1 week ago) - Just a test repo.
-- [bep/mod-b](https://github.com/bep/mod-b) ([v1.1.0](https://github.com/bep/mod-b/releases/tag/v1.1.0), 1 week ago) - Test Go Module
+- [bep/mod-subs](https://github.com/bep/mod-subs) ([mod1/v1.1.0](https://github.com/bep/mod-subs/releases/tag/mod1%2Fv1.1.0), 2 weeks ago) - Just a test repo.
+- [bep/mod-c](https://github.com/bep/mod-c) ([v0.59.0](https://github.com/bep/mod-c/releases/tag/v0.59.0), 2 weeks ago) - Test Go Module
+- [bep/mod-d](https://github.com/bep/mod-d) ([v1.1.0](https://github.com/bep/mod-d/releases/tag/v1.1.0), 2 weeks ago) - Just a test repo.
+- [bep/mod-b](https://github.com/bep/mod-b) ([v1.1.0](https://github.com/bep/mod-b/releases/tag/v1.1.0), 2 weeks ago) - Test Go Module
 
 
 ### Recent sponsors (big thank you!)
 
-- [chrisreddington](https://github.com/chrisreddington) (6 days ago)
+- [chrisreddington](https://github.com/chrisreddington) (1 week ago)
 - [ntwi](https://github.com/ntwi) (1 week ago)
 - [danielfdickinson](https://github.com/danielfdickinson) (2 months ago)
 - [SirUli](https://github.com/SirUli) (2 months ago)
