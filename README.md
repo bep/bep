@@ -9,7 +9,7 @@
 - [bep/gotranslators](https://github.com/bep/gotranslators) - Registry for all locale packages in https://github.com/go-playground/locales
 
 ### Recent releases
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.4.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.4.0), 5 days ago) - Automated auditing, performance metrics, and best practices for the web.
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.4.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.4.0), 6 days ago) - Automated auditing, performance metrics, and best practices for the web.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.88.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.88.1), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.88.1](https://github.com/gohugoio/hugo/releases/tag/v0.88.1), 1 week ago) - The world’s fastest framework for building websites.
 - [bep/mod-subs](https://github.com/bep/mod-subs) ([mod1/v1.1.0](https://github.com/bep/mod-subs/releases/tag/mod1%2Fv1.1.0), 2 weeks ago) - Just a test repo.
