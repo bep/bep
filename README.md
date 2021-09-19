@@ -21,7 +21,7 @@
 ### Recent sponsors (big thank you!)
 
 - [chrisreddington](https://github.com/chrisreddington) (1 week ago)
-- [ntwi](https://github.com/ntwi) (1 week ago)
+- [ntwi](https://github.com/ntwi) (2 weeks ago)
 - [danielfdickinson](https://github.com/danielfdickinson) (2 months ago)
 - [SirUli](https://github.com/SirUli) (2 months ago)
 - [TutorialEdge](https://github.com/TutorialEdge) (2 months ago)
