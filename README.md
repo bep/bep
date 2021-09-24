@@ -2,11 +2,11 @@
 
 ### My recent projects
 
+- [bep/alpine-testlab](https://github.com/bep/alpine-testlab) - Just a test site.
 - [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) - Just a test repo.
 - [bep/npmgoproxy](https://github.com/bep/npmgoproxy) - This highly experimental and very much work in progress.
 - [bep/mod-subs](https://github.com/bep/mod-subs) - Just a test repo.
 - [bep/mod-d](https://github.com/bep/mod-d) - Just a test repo.
-- [bep/netlify-lighthouse-test](https://github.com/bep/netlify-lighthouse-test) - Just a simple test repo to test Lighthouse with Netlify.
 
 ### Recent releases
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.5.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.5.1), 2 days ago) - Automated auditing, performance metrics, and best practices for the web.
