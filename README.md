@@ -9,7 +9,7 @@
 - [bep/mod-d](https://github.com/bep/mod-d) - Just a test repo.
 
 ### Recent releases
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.5.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.5.1), 5 days ago) - Automated auditing, performance metrics, and best practices for the web.
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.5.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.5.1), 6 days ago) - Automated auditing, performance metrics, and best practices for the web.
 - [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) ([a/b/v1.1.0](https://github.com/bep/mod-sub-sub/releases/tag/a%2Fb%2Fv1.1.0), 1 week ago) - Just a test repo.
 - [bep/mod-b](https://github.com/bep/mod-b) ([v1.2.1&#43;mymeta](https://github.com/bep/mod-b/releases/tag/v1.2.1%2Bmymeta), 1 week ago) - Test Go Module
 - [bep/mod-a](https://github.com/bep/mod-a) ([v1.1.1&#43;mymeta](https://github.com/bep/mod-a/releases/tag/v1.1.1%2Bmymeta), 1 week ago) - Test Go Module
