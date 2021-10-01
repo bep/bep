@@ -16,6 +16,7 @@
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.88.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.88.1), 3 weeks ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.88.1](https://github.com/gohugoio/hugo/releases/tag/v0.88.1), 3 weeks ago) - The world’s fastest framework for building websites.
 - [bep/mod-subs](https://github.com/bep/mod-subs) ([mod1/v1.1.0](https://github.com/bep/mod-subs/releases/tag/mod1%2Fv1.1.0), 1 month ago) - Just a test repo.
+- [bep/mod-c](https://github.com/bep/mod-c) ([v0.59.0](https://github.com/bep/mod-c/releases/tag/v0.59.0), 1 month ago) - Test Go Module
 
 
 ### Recent sponsors (big thank you!)
