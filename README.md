@@ -13,15 +13,15 @@
 - [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) ([a/b/v1.1.0](https://github.com/bep/mod-sub-sub/releases/tag/a%2Fb%2Fv1.1.0), 2 weeks ago) - Just a test repo.
 - [bep/mod-b](https://github.com/bep/mod-b) ([v1.2.1&#43;mymeta](https://github.com/bep/mod-b/releases/tag/v1.2.1%2Bmymeta), 2 weeks ago) - Test Go Module
 - [bep/mod-a](https://github.com/bep/mod-a) ([v1.1.1&#43;mymeta](https://github.com/bep/mod-a/releases/tag/v1.1.1%2Bmymeta), 2 weeks ago) - Test Go Module
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.88.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.88.1), 4 weeks ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.88.1](https://github.com/gohugoio/hugo/releases/tag/v0.88.1), 4 weeks ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.88.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.88.1), 1 month ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.88.1](https://github.com/gohugoio/hugo/releases/tag/v0.88.1), 1 month ago) - The world’s fastest framework for building websites.
 - [bep/mod-subs](https://github.com/bep/mod-subs) ([mod1/v1.1.0](https://github.com/bep/mod-subs/releases/tag/mod1%2Fv1.1.0), 1 month ago) - Just a test repo.
 - [bep/mod-c](https://github.com/bep/mod-c) ([v0.59.0](https://github.com/bep/mod-c/releases/tag/v0.59.0), 1 month ago) - Test Go Module
 
 
 ### Recent sponsors (big thank you!)
 
-- [chrisreddington](https://github.com/chrisreddington) (3 weeks ago)
+- [chrisreddington](https://github.com/chrisreddington) (4 weeks ago)
 - [ntwi](https://github.com/ntwi) (4 weeks ago)
 - [danielfdickinson](https://github.com/danielfdickinson) (3 months ago)
 - [SirUli](https://github.com/SirUli) (3 months ago)
