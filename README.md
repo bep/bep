@@ -2,11 +2,11 @@
 
 ### My recent projects
 
+- [bep/semverpair](https://github.com/bep/semverpair) - A specification and some utility functions for a very simple encoding scheme that combines two semver versions.
 - [bep/alpine-testlab](https://github.com/bep/alpine-testlab) - Just a test site.
 - [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) - Just a test repo.
 - [bep/npmgoproxy](https://github.com/bep/npmgoproxy) - This highly experimental and very much work in progress.
 - [bep/mod-subs](https://github.com/bep/mod-subs) - Just a test repo.
-- [bep/mod-d](https://github.com/bep/mod-d) - Just a test repo.
 
 ### Recent releases
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.4.200](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.4.200), 1 day ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
