@@ -9,7 +9,7 @@
 - [bep/mod-d](https://github.com/bep/mod-d) - Just a test repo.
 
 ### Recent releases
-- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.4.200](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.4.200), today) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
+- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.4.200](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.4.200), 1 day ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.5.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.5.1), 2 weeks ago) - Automated auditing, performance metrics, and best practices for the web.
 - [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) ([a/b/v1.1.0](https://github.com/bep/mod-sub-sub/releases/tag/a%2Fb%2Fv1.1.0), 2 weeks ago) - Just a test repo.
 - [bep/mod-b](https://github.com/bep/mod-b) ([v1.2.1&#43;mymeta](https://github.com/bep/mod-b/releases/tag/v1.2.1%2Bmymeta), 2 weeks ago) - Test Go Module
