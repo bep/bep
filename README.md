@@ -9,11 +9,11 @@
 - [bep/mod-subs](https://github.com/bep/mod-subs) - Just a test repo.
 
 ### Recent releases
-- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.400.200](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.400.200), 2 days ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
+- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.400.200](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.400.200), 3 days ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.5.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.5.1), 2 weeks ago) - Automated auditing, performance metrics, and best practices for the web.
-- [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) ([a/b/v1.1.0](https://github.com/bep/mod-sub-sub/releases/tag/a%2Fb%2Fv1.1.0), 2 weeks ago) - Just a test repo.
-- [bep/mod-b](https://github.com/bep/mod-b) ([v1.2.1&#43;mymeta](https://github.com/bep/mod-b/releases/tag/v1.2.1%2Bmymeta), 2 weeks ago) - Test Go Module
-- [bep/mod-a](https://github.com/bep/mod-a) ([v1.1.1&#43;mymeta](https://github.com/bep/mod-a/releases/tag/v1.1.1%2Bmymeta), 2 weeks ago) - Test Go Module
+- [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) ([a/b/v1.1.0](https://github.com/bep/mod-sub-sub/releases/tag/a%2Fb%2Fv1.1.0), 3 weeks ago) - Just a test repo.
+- [bep/mod-b](https://github.com/bep/mod-b) ([v1.2.1&#43;mymeta](https://github.com/bep/mod-b/releases/tag/v1.2.1%2Bmymeta), 3 weeks ago) - Test Go Module
+- [bep/mod-a](https://github.com/bep/mod-a) ([v1.1.1&#43;mymeta](https://github.com/bep/mod-a/releases/tag/v1.1.1%2Bmymeta), 3 weeks ago) - Test Go Module
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.88.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.88.1), 1 month ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.88.1](https://github.com/gohugoio/hugo/releases/tag/v0.88.1), 1 month ago) - The world’s fastest framework for building websites.
 - [bep/mod-subs](https://github.com/bep/mod-subs) ([mod1/v1.1.0](https://github.com/bep/mod-subs/releases/tag/mod1%2Fv1.1.0), 1 month ago) - Just a test repo.
