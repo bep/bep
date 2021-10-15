@@ -21,11 +21,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [ssddanbrown](https://github.com/ssddanbrown) (today)
 - [chrisreddington](https://github.com/chrisreddington) (1 month ago)
 - [ntwi](https://github.com/ntwi) (1 month ago)
 - [danielfdickinson](https://github.com/danielfdickinson) (3 months ago)
 - [SirUli](https://github.com/SirUli) (3 months ago)
-- [TutorialEdge](https://github.com/TutorialEdge) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
