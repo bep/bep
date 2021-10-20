@@ -9,8 +9,8 @@
 - [bep/mod-subs](https://github.com/bep/mod-subs) - Just a test repo.
 
 ### Recent releases
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.6.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.6.0), 6 days ago) - Automated auditing, performance metrics, and best practices for the web.
-- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.401.201](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.401.201), 6 days ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.6.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.6.0), 1 week ago) - Automated auditing, performance metrics, and best practices for the web.
+- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.401.201](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.401.201), 1 week ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) ([a/b/v1.1.0](https://github.com/bep/mod-sub-sub/releases/tag/a%2Fb%2Fv1.1.0), 1 month ago) - Just a test repo.
 - [bep/mod-b](https://github.com/bep/mod-b) ([v1.2.1&#43;mymeta](https://github.com/bep/mod-b/releases/tag/v1.2.1%2Bmymeta), 1 month ago) - Test Go Module
 - [bep/mod-a](https://github.com/bep/mod-a) ([v1.1.1&#43;mymeta](https://github.com/bep/mod-a/releases/tag/v1.1.1%2Bmymeta), 1 month ago) - Test Go Module
@@ -21,7 +21,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [ssddanbrown](https://github.com/ssddanbrown) (4 days ago)
+- [ssddanbrown](https://github.com/ssddanbrown) (5 days ago)
 - [chrisreddington](https://github.com/chrisreddington) (1 month ago)
 - [ntwi](https://github.com/ntwi) (1 month ago)
 - [danielfdickinson](https://github.com/danielfdickinson) (3 months ago)
