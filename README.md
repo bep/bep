@@ -22,7 +22,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [ssddanbrown](https://github.com/ssddanbrown) (5 days ago)
+- [ssddanbrown](https://github.com/ssddanbrown) (6 days ago)
 - [chrisreddington](https://github.com/chrisreddington) (1 month ago)
 - [ntwi](https://github.com/ntwi) (1 month ago)
 - [danielfdickinson](https://github.com/danielfdickinson) (3 months ago)
