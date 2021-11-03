@@ -9,12 +9,12 @@
 - [bep/mod-subs](https://github.com/bep/mod-subs) - Just a test repo.
 
 ### Recent releases
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.89.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.89.0), today) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.89.0](https://github.com/gohugoio/hugo/releases/tag/v0.89.0), today) - The world’s fastest framework for building websites.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
-- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.5.1](https://github.com/bep/s3deploy/releases/tag/v2.5.1), 2 days ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.6.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.6.0), 2 weeks ago) - Automated auditing, performance metrics, and best practices for the web.
-- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.401.201](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.401.201), 2 weeks ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.89.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.89.0), 1 day ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.89.0](https://github.com/gohugoio/hugo/releases/tag/v0.89.0), 1 day ago) - The world’s fastest framework for building websites.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v0.184.0](https://github.com/goreleaser/goreleaser/releases/tag/v0.184.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.5.1](https://github.com/bep/s3deploy/releases/tag/v2.5.1), 3 days ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v8.6.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v8.6.0), 3 weeks ago) - Automated auditing, performance metrics, and best practices for the web.
+- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.401.201](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.401.201), 3 weeks ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) ([a/b/v1.1.0](https://github.com/bep/mod-sub-sub/releases/tag/a%2Fb%2Fv1.1.0), 1 month ago) - Just a test repo.
 - [bep/mod-b](https://github.com/bep/mod-b) ([v1.2.1&#43;mymeta](https://github.com/bep/mod-b/releases/tag/v1.2.1%2Bmymeta), 1 month ago) - Test Go Module
 - [bep/mod-a](https://github.com/bep/mod-a) ([v1.1.1&#43;mymeta](https://github.com/bep/mod-a/releases/tag/v1.1.1%2Bmymeta), 1 month ago) - Test Go Module
@@ -22,7 +22,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [setphen](https://github.com/setphen) (today)
+- [setphen](https://github.com/setphen) (1 day ago)
 - [ssddanbrown](https://github.com/ssddanbrown) (2 weeks ago)
 - [chrisreddington](https://github.com/chrisreddington) (1 month ago)
 - [ntwi](https://github.com/ntwi) (1 month ago)
