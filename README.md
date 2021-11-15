@@ -9,6 +9,7 @@
 - [bep/mod-subs](https://github.com/bep/mod-subs) - Just a test repo.
 
 ### Recent releases
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.89.3](https://github.com/gohugoio/hugo/releases/tag/v0.89.3), today) - The world’s fastest framework for building websites.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.89.2](https://github.com/gohugoio/hugoDocs/releases/tag/v0.89.2), 1 week ago) - The source for https://gohugo.io/
 - [bep/docuapi](https://github.com/bep/docuapi) ([v2.0.1](https://github.com/bep/docuapi/releases/tag/v2.0.1), 1 week ago) - Beautiful multilingual API documentation theme for Hugo
@@ -17,7 +18,6 @@
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.401.201](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.401.201), 1 month ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) ([a/b/v1.1.0](https://github.com/bep/mod-sub-sub/releases/tag/a%2Fb%2Fv1.1.0), 1 month ago) - Just a test repo.
 - [bep/mod-b](https://github.com/bep/mod-b) ([v1.2.1&#43;mymeta](https://github.com/bep/mod-b/releases/tag/v1.2.1%2Bmymeta), 1 month ago) - Test Go Module
-- [bep/mod-a](https://github.com/bep/mod-a) ([v1.1.1&#43;mymeta](https://github.com/bep/mod-a/releases/tag/v1.1.1%2Bmymeta), 1 month ago) - Test Go Module
 
 
 ### Recent sponsors (big thank you!)
