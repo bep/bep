@@ -9,12 +9,12 @@
 - [bep/mod-subs](https://github.com/bep/mod-subs) - Just a test repo.
 
 ### Recent releases
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.89.4](https://github.com/gohugoio/hugoDocs/releases/tag/v0.89.4), 2 days ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.89.4](https://github.com/gohugoio/hugo/releases/tag/v0.89.4), 2 days ago) - The world’s fastest framework for building websites.
-- [bep/docuapi](https://github.com/bep/docuapi) ([v2.0.3](https://github.com/bep/docuapi/releases/tag/v2.0.3), 3 days ago) - Beautiful multilingual API documentation theme for Hugo
-- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.500.100](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.500.100), 3 days ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.0.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.0.0), 3 days ago) - Automated auditing, performance metrics, and best practices for the web.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.89.4](https://github.com/gohugoio/hugoDocs/releases/tag/v0.89.4), 3 days ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.89.4](https://github.com/gohugoio/hugo/releases/tag/v0.89.4), 3 days ago) - The world’s fastest framework for building websites.
+- [bep/docuapi](https://github.com/bep/docuapi) ([v2.0.3](https://github.com/bep/docuapi/releases/tag/v2.0.3), 4 days ago) - Beautiful multilingual API documentation theme for Hugo
+- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.500.100](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.500.100), 4 days ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.0.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.0.0), 4 days ago) - Automated auditing, performance metrics, and best practices for the web.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.0.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.0.0), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.5.1](https://github.com/bep/s3deploy/releases/tag/v2.5.1), 2 weeks ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
 - [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) ([a/b/v1.1.0](https://github.com/bep/mod-sub-sub/releases/tag/a%2Fb%2Fv1.1.0), 2 months ago) - Just a test repo.
 - [bep/mod-b](https://github.com/bep/mod-b) ([v1.2.1&#43;mymeta](https://github.com/bep/mod-b/releases/tag/v1.2.1%2Bmymeta), 2 months ago) - Test Go Module
