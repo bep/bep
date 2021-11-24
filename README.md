@@ -9,8 +9,8 @@
 - [bep/mod-subs](https://github.com/bep/mod-subs) - Just a test repo.
 
 ### Recent releases
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.89.4](https://github.com/gohugoio/hugoDocs/releases/tag/v0.89.4), 6 days ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.89.4](https://github.com/gohugoio/hugo/releases/tag/v0.89.4), 6 days ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.89.4](https://github.com/gohugoio/hugoDocs/releases/tag/v0.89.4), 1 week ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.89.4](https://github.com/gohugoio/hugo/releases/tag/v0.89.4), 1 week ago) - The world’s fastest framework for building websites.
 - [bep/docuapi](https://github.com/bep/docuapi) ([v2.0.3](https://github.com/bep/docuapi/releases/tag/v2.0.3), 1 week ago) - Beautiful multilingual API documentation theme for Hugo
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.500.100](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.500.100), 1 week ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.0.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.0.0), 1 week ago) - Automated auditing, performance metrics, and best practices for the web.
