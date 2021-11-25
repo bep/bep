@@ -22,11 +22,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [RoneoOrg](https://github.com/RoneoOrg) (today)
 - [setphen](https://github.com/setphen) (3 weeks ago)
 - [ssddanbrown](https://github.com/ssddanbrown) (1 month ago)
 - [chrisreddington](https://github.com/chrisreddington) (2 months ago)
 - [ntwi](https://github.com/ntwi) (2 months ago)
-- [danielfdickinson](https://github.com/danielfdickinson) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
