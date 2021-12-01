@@ -22,11 +22,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [shiftgeist](https://github.com/shiftgeist) (today)
 - [RoneoOrg](https://github.com/RoneoOrg) (6 days ago)
 - [setphen](https://github.com/setphen) (4 weeks ago)
 - [ssddanbrown](https://github.com/ssddanbrown) (1 month ago)
 - [chrisreddington](https://github.com/chrisreddington) (2 months ago)
-- [ntwi](https://github.com/ntwi) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
