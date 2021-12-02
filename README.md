@@ -9,9 +9,9 @@
 - [bep/mod-subs](https://github.com/bep/mod-subs) - Just a test repo.
 
 ### Recent releases
-- [gohugoio/hugo-mod-bootstrap-scss-v4](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4) ([v1.6.1](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4/releases/tag/v1.6.1), 2 days ago) - Bootstrap SCSS v4 packaged as a Hugo Module
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0), 3 days ago) - Deliver Go binaries as fast and easily as possible
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.1.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.1.0), 6 days ago) - Automated auditing, performance metrics, and best practices for the web.
+- [gohugoio/hugo-mod-bootstrap-scss-v4](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4) ([v1.6.1](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4/releases/tag/v1.6.1), 3 days ago) - Bootstrap SCSS v4 packaged as a Hugo Module
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.1.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.1.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.1.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.1.0), 1 week ago) - Automated auditing, performance metrics, and best practices for the web.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.89.4](https://github.com/gohugoio/hugoDocs/releases/tag/v0.89.4), 2 weeks ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.89.4](https://github.com/gohugoio/hugo/releases/tag/v0.89.4), 2 weeks ago) - The world’s fastest framework for building websites.
 - [bep/docuapi](https://github.com/bep/docuapi) ([v2.0.3](https://github.com/bep/docuapi/releases/tag/v2.0.3), 2 weeks ago) - Beautiful multilingual API documentation theme for Hugo
@@ -22,9 +22,9 @@
 
 ### Recent sponsors (big thank you!)
 
-- [shiftgeist](https://github.com/shiftgeist) (today)
-- [RoneoOrg](https://github.com/RoneoOrg) (6 days ago)
-- [setphen](https://github.com/setphen) (4 weeks ago)
+- [shiftgeist](https://github.com/shiftgeist) (1 day ago)
+- [RoneoOrg](https://github.com/RoneoOrg) (1 week ago)
+- [setphen](https://github.com/setphen) (1 month ago)
 - [ssddanbrown](https://github.com/ssddanbrown) (1 month ago)
 - [chrisreddington](https://github.com/chrisreddington) (2 months ago)
 
