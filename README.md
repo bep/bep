@@ -1,13 +1,5 @@
 ## Greetings from Norway! 🇳🇴
 
-### My recent projects
-
-- [bep/semverpair](https://github.com/bep/semverpair) - A specification and some utility functions for a very simple encoding scheme that combines two semver versions.
-- [bep/alpine-testlab](https://github.com/bep/alpine-testlab) - Just a test site.
-- [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) - Just a test repo.
-- [bep/npmgoproxy](https://github.com/bep/npmgoproxy) - This highly experimental and very much work in progress.
-- [bep/mod-subs](https://github.com/bep/mod-subs) - Just a test repo.
-
 ### Recent releases
 - [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.6.0](https://github.com/bep/s3deploy/releases/tag/v2.6.0), today) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
 - [gohugoio/hugo-mod-bootstrap-scss-v4](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4) ([v1.6.1](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4/releases/tag/v1.6.1), 5 days ago) - Bootstrap SCSS v4 packaged as a Hugo Module
