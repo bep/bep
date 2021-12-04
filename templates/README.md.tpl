@@ -1,10 +1,5 @@
 ## Greetings from Norway! 🇳🇴
 
-### My recent projects
-{{range recentRepos 5}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
-
 ### Recent releases
 {{range recentReleases 10 }}
 {{- if not (or (eq .Name "linode/docs") (eq .Name "linode/linode-api-docs") (eq .Name "thegeeklab/hugo-geekdoc") (eq .Name "treosh/lighthouse-ci-action") ) -}}
