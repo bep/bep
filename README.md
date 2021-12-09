@@ -14,11 +14,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [jonDowdle](https://github.com/jonDowdle) (today)
 - [shiftgeist](https://github.com/shiftgeist) (1 week ago)
 - [RoneoOrg](https://github.com/RoneoOrg) (2 weeks ago)
 - [setphen](https://github.com/setphen) (1 month ago)
 - [ssddanbrown](https://github.com/ssddanbrown) (1 month ago)
-- [chrisreddington](https://github.com/chrisreddington) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
