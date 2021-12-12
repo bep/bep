@@ -14,11 +14,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [ProteinQure](https://github.com/ProteinQure) (today)
 - [m-cat](https://github.com/m-cat) (today)
 - [tracykev](https://github.com/tracykev) (2 days ago)
 - [jonDowdle](https://github.com/jonDowdle) (3 days ago)
 - [shiftgeist](https://github.com/shiftgeist) (1 week ago)
-- [RoneoOrg](https://github.com/RoneoOrg) (2 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
