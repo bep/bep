@@ -14,11 +14,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [rubiojr](https://github.com/rubiojr) (today)
 - [consoledotdev](https://github.com/consoledotdev) (1 week ago)
 - [ProteinQure](https://github.com/ProteinQure) (1 week ago)
 - [m-cat](https://github.com/m-cat) (1 week ago)
 - [tracykev](https://github.com/tracykev) (1 week ago)
-- [jonDowdle](https://github.com/jonDowdle) (1 week ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
