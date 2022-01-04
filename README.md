@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.2.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.2.5), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.91.2](https://github.com/gohugoio/hugoDocs/releases/tag/v0.91.2), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.91.2](https://github.com/gohugoio/hugo/releases/tag/v0.91.2), 1 week ago) - The world’s fastest framework for building websites.
 - [bep/docuapi](https://github.com/bep/docuapi) ([v2.0.4](https://github.com/bep/docuapi/releases/tag/v2.0.4), 1 week ago) - Beautiful multilingual API documentation theme for Hugo
@@ -15,7 +15,7 @@
 ### Recent sponsors (big thank you!)
 
 - [oglikap](https://github.com/oglikap) (1 week ago)
-- [rubiojr](https://github.com/rubiojr) (1 week ago)
+- [rubiojr](https://github.com/rubiojr) (2 weeks ago)
 - [consoledotdev](https://github.com/consoledotdev) (3 weeks ago)
 - [ProteinQure](https://github.com/ProteinQure) (3 weeks ago)
 - [m-cat](https://github.com/m-cat) (3 weeks ago)
