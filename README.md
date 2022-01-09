@@ -16,9 +16,9 @@
 
 - [oglikap](https://github.com/oglikap) (1 week ago)
 - [rubiojr](https://github.com/rubiojr) (2 weeks ago)
-- [consoledotdev](https://github.com/consoledotdev) (3 weeks ago)
-- [ProteinQure](https://github.com/ProteinQure) (3 weeks ago)
-- [m-cat](https://github.com/m-cat) (3 weeks ago)
+- [consoledotdev](https://github.com/consoledotdev) (4 weeks ago)
+- [ProteinQure](https://github.com/ProteinQure) (4 weeks ago)
+- [m-cat](https://github.com/m-cat) (4 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
