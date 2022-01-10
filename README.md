@@ -14,7 +14,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [oglikap](https://github.com/oglikap) (1 week ago)
+- [oglikap](https://github.com/oglikap) (2 weeks ago)
 - [rubiojr](https://github.com/rubiojr) (2 weeks ago)
 - [consoledotdev](https://github.com/consoledotdev) (4 weeks ago)
 - [ProteinQure](https://github.com/ProteinQure) (4 weeks ago)
