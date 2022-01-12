@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v4.600.100](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v4.600.100), today) - Work in progress ... Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.92.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.92.0), today) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.92.0](https://github.com/gohugoio/hugo/releases/tag/v0.92.0), today) - The world’s fastest framework for building websites.
 - [bep/docuapi](https://github.com/bep/docuapi) ([v2.0.5](https://github.com/bep/docuapi/releases/tag/v2.0.5), today) - Beautiful multilingual API documentation theme for Hugo
@@ -9,7 +10,6 @@
 - [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.6.0](https://github.com/bep/s3deploy/releases/tag/v2.6.0), 1 month ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
 - [gohugoio/hugo-mod-bootstrap-scss-v4](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4) ([v1.6.1](https://github.com/gohugoio/hugo-mod-bootstrap-scss-v4/releases/tag/v1.6.1), 1 month ago) - Bootstrap SCSS v4 packaged as a Hugo Module
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.500.100](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.500.100), 1 month ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
-- [bep/mod-sub-sub](https://github.com/bep/mod-sub-sub) ([a/b/v1.1.0](https://github.com/bep/mod-sub-sub/releases/tag/a%2Fb%2Fv1.1.0), 3 months ago) - Just a test repo.
 
 
 ### Recent sponsors (big thank you!)
