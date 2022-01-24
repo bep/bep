@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/punused](https://github.com/bep/punused) ([v0.5.0](https://github.com/bep/punused/releases/tag/v0.5.0), 3 days ago) - Finds unused _exported_ Go symbols in a project. Backed by gopls.
+- [bep/punused](https://github.com/bep/punused) ([v0.5.0](https://github.com/bep/punused/releases/tag/v0.5.0), 4 days ago) - Finds unused _exported_ Go symbols in a project. Backed by gopls.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.3.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.3.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [bep/semverpair](https://github.com/bep/semverpair) ([v1.0.0](https://github.com/bep/semverpair/releases/tag/v1.0.0), 1 week ago) - A specification and some utility functions for a very simple encoding scheme that combines two semver versions.
 - [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20100.20300](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20100.20300), 1 week ago) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
@@ -14,8 +14,8 @@
 
 ### Recent sponsors (big thank you!)
 
-- [xandermann](https://github.com/xandermann) (1 week ago)
-- [oglikap](https://github.com/oglikap) (3 weeks ago)
+- [xandermann](https://github.com/xandermann) (2 weeks ago)
+- [oglikap](https://github.com/oglikap) (4 weeks ago)
 - [rubiojr](https://github.com/rubiojr) (1 month ago)
 - [consoledotdev](https://github.com/consoledotdev) (1 month ago)
 - [ProteinQure](https://github.com/ProteinQure) (1 month ago)
