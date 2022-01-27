@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.4.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.0), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1), today) - Deliver Go binaries as fast and easily as possible
 - [bep/punused](https://github.com/bep/punused) ([v0.5.0](https://github.com/bep/punused/releases/tag/v0.5.0), 1 week ago) - Finds unused _exported_ Go symbols in a project. Backed by gopls.
 - [bep/semverpair](https://github.com/bep/semverpair) ([v1.0.0](https://github.com/bep/semverpair/releases/tag/v1.0.0), 2 weeks ago) - A specification and some utility functions for a very simple encoding scheme that combines two semver versions.
 - [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20100.20300](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20100.20300), 2 weeks ago) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
