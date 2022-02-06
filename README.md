@@ -1,8 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.7.0](https://github.com/bep/s3deploy/releases/tag/v2.7.0), today) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.3.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.3.1), 5 days ago) - Automated auditing, performance metrics, and best practices for the web.
+- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.7.0](https://github.com/bep/s3deploy/releases/tag/v2.7.0), 1 day ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.3.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.3.1), 6 days ago) - Automated auditing, performance metrics, and best practices for the web.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.92.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.92.1), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.92.1](https://github.com/gohugoio/hugo/releases/tag/v0.92.1), 1 week ago) - The world’s fastest framework for building websites.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1), 1 week ago) - Deliver Go binaries as fast and easily as possible
@@ -14,7 +14,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [midzer](https://github.com/midzer) (1 day ago)
+- [midzer](https://github.com/midzer) (2 days ago)
 - [xandermann](https://github.com/xandermann) (3 weeks ago)
 - [oglikap](https://github.com/oglikap) (1 month ago)
 - [rubiojr](https://github.com/rubiojr) (1 month ago)
