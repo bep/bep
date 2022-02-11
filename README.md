@@ -1,10 +1,10 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.92.2](https://github.com/gohugoio/hugoDocs/releases/tag/v0.92.2), today) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.92.2](https://github.com/gohugoio/hugo/releases/tag/v0.92.2), today) - The world’s fastest framework for building websites.
 - [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.7.0](https://github.com/bep/s3deploy/releases/tag/v2.7.0), 6 days ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.3.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.3.1), 1 week ago) - Automated auditing, performance metrics, and best practices for the web.
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.92.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.92.1), 2 weeks ago) - The source for https://gohugo.io/
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.4.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.4.1), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [bep/punused](https://github.com/bep/punused) ([v0.5.0](https://github.com/bep/punused/releases/tag/v0.5.0), 3 weeks ago) - Finds unused _exported_ Go symbols in a project. Backed by gopls.
 - [bep/semverpair](https://github.com/bep/semverpair) ([v1.0.0](https://github.com/bep/semverpair/releases/tag/v1.0.0), 4 weeks ago) - A specification and some utility functions for a very simple encoding scheme that combines two semver versions.
