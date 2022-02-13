@@ -1,6 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20101.20300](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20101.20300), today) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
+- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([popperjs/v2.21100.20000](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/popperjs%2Fv2.21100.20000), today) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.92.2](https://github.com/gohugoio/hugoDocs/releases/tag/v0.92.2), 2 days ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.92.2](https://github.com/gohugoio/hugo/releases/tag/v0.92.2), 2 days ago) - The world’s fastest framework for building websites.
@@ -8,8 +10,6 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.3.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.3.1), 1 week ago) - Automated auditing, performance metrics, and best practices for the web.
 - [bep/punused](https://github.com/bep/punused) ([v0.5.0](https://github.com/bep/punused/releases/tag/v0.5.0), 3 weeks ago) - Finds unused _exported_ Go symbols in a project. Backed by gopls.
 - [bep/semverpair](https://github.com/bep/semverpair) ([v1.0.0](https://github.com/bep/semverpair/releases/tag/v1.0.0), 1 month ago) - A specification and some utility functions for a very simple encoding scheme that combines two semver versions.
-- [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20100.20300](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20100.20300), 1 month ago) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
-- [bep/docuapi](https://github.com/bep/docuapi) ([v2.0.5](https://github.com/bep/docuapi/releases/tag/v2.0.5), 1 month ago) - Beautiful multilingual API documentation theme for Hugo
 
 
 ### Recent sponsors (big thank you!)
