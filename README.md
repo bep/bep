@@ -14,11 +14,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [bitfront-se](https://github.com/bitfront-se) (today)
 - [midzer](https://github.com/midzer) (1 week ago)
 - [xandermann](https://github.com/xandermann) (1 month ago)
 - [oglikap](https://github.com/oglikap) (1 month ago)
 - [rubiojr](https://github.com/rubiojr) (1 month ago)
-- [consoledotdev](https://github.com/consoledotdev) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
