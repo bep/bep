@@ -9,7 +9,6 @@
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.92.2](https://github.com/gohugoio/hugo/releases/tag/v0.92.2), 5 days ago) - The world’s fastest framework for building websites.
 - [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.7.0](https://github.com/bep/s3deploy/releases/tag/v2.7.0), 1 week ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.3.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.3.1), 2 weeks ago) - Automated auditing, performance metrics, and best practices for the web.
-- [bep/punused](https://github.com/bep/punused) ([v0.5.0](https://github.com/bep/punused/releases/tag/v0.5.0), 3 weeks ago) - Finds unused _exported_ Go symbols in a project. Backed by gopls.
 
 
 ### Recent sponsors (big thank you!)
