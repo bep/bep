@@ -13,11 +13,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [stephlocke](https://github.com/stephlocke) (today)
 - [bitfront-se](https://github.com/bitfront-se) (6 days ago)
 - [midzer](https://github.com/midzer) (2 weeks ago)
 - [xandermann](https://github.com/xandermann) (1 month ago)
 - [oglikap](https://github.com/oglikap) (1 month ago)
-- [rubiojr](https://github.com/rubiojr) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
