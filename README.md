@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.4.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.4.0), 4 days ago) - Automated auditing, performance metrics, and best practices for the web.
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.4.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.4.0), 5 days ago) - Automated auditing, performance metrics, and best practices for the web.
 - [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v0.15.0](https://github.com/gohugoio/localescompressed/releases/tag/v0.15.0), 1 week ago) - The locales from https://github.com/gohugoio/locales in one package/struct.
 - [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20101.20300](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20101.20300), 1 week ago) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([popperjs/v2.21100.20000](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/popperjs%2Fv2.21100.20000), 1 week ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
@@ -13,7 +13,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [stephlocke](https://github.com/stephlocke) (1 day ago)
+- [stephlocke](https://github.com/stephlocke) (2 days ago)
 - [bitfront-se](https://github.com/bitfront-se) (1 week ago)
 - [midzer](https://github.com/midzer) (2 weeks ago)
 - [xandermann](https://github.com/xandermann) (1 month ago)
