@@ -2,7 +2,7 @@
 
 ### Recent releases
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.4.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.4.0), 1 week ago) - Automated auditing, performance metrics, and best practices for the web.
-- [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v0.15.0](https://github.com/gohugoio/localescompressed/releases/tag/v0.15.0), 1 week ago) - The locales from https://github.com/gohugoio/locales in one package/struct.
+- [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v0.15.0](https://github.com/gohugoio/localescompressed/releases/tag/v0.15.0), 2 weeks ago) - The locales from https://github.com/gohugoio/locales in one package/struct.
 - [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20101.20300](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20101.20300), 2 weeks ago) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([popperjs/v2.21100.20000](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/popperjs%2Fv2.21100.20000), 2 weeks ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.5.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.5.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
@@ -14,7 +14,7 @@
 ### Recent sponsors (big thank you!)
 
 - [stephlocke](https://github.com/stephlocke) (1 week ago)
-- [bitfront-se](https://github.com/bitfront-se) (1 week ago)
+- [bitfront-se](https://github.com/bitfront-se) (2 weeks ago)
 - [midzer](https://github.com/midzer) (3 weeks ago)
 - [xandermann](https://github.com/xandermann) (1 month ago)
 - [oglikap](https://github.com/oglikap) (2 months ago)
