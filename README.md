@@ -13,11 +13,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [viven-inc](https://github.com/viven-inc) (today)
 - [stefanv](https://github.com/stefanv) (2 days ago)
 - [stephlocke](https://github.com/stephlocke) (1 week ago)
 - [bitfront-se](https://github.com/bitfront-se) (2 weeks ago)
 - [midzer](https://github.com/midzer) (4 weeks ago)
-- [xandermann](https://github.com/xandermann) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
