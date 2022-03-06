@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.0), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1), today) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.900.100](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.900.100), 2 days ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.93.2](https://github.com/gohugoio/hugoDocs/releases/tag/v0.93.2), 2 days ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.93.2](https://github.com/gohugoio/hugo/releases/tag/v0.93.2), 2 days ago) - The world’s fastest framework for building websites.
