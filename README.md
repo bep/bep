@@ -1,8 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.94.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.94.0), 1 day ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.94.0](https://github.com/gohugoio/hugo/releases/tag/v0.94.0), 1 day ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.94.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.94.1), today) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.94.1](https://github.com/gohugoio/hugo/releases/tag/v0.94.1), today) - The world’s fastest framework for building websites.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.5.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.5.0), 1 day ago) - Automated auditing, performance metrics, and best practices for the web.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.1), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.900.100](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.900.100), 1 week ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
