@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.2), today) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3), today) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.94.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.94.1), 1 day ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.94.1](https://github.com/gohugoio/hugo/releases/tag/v0.94.1), 1 day ago) - The world’s fastest framework for building websites.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.5.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.5.0), 2 days ago) - Automated auditing, performance metrics, and best practices for the web.
