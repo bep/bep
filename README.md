@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/godartsass](https://github.com/bep/godartsass) ([v0.13.0](https://github.com/bep/godartsass/releases/tag/v0.13.0), today) - Go API backed by the native Dart Sass Embedded executable.
+- [bep/godartsass](https://github.com/bep/godartsass) ([v0.14.0](https://github.com/bep/godartsass/releases/tag/v0.14.0), today) - Go API backed by the native Dart Sass Embedded executable.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.95.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.95.0), 1 day ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.95.0](https://github.com/gohugoio/hugo/releases/tag/v0.95.0), 1 day ago) - The world’s fastest framework for building websites.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.6.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.6.3), 5 days ago) - Deliver Go binaries as fast and easily as possible
