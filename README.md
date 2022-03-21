@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.1.0](https://github.com/bep/overlayfs/releases/tag/v0.1.0), today) - A composite Afero filesystem.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), today) - Deliver Go binaries as fast and easily as possible
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.14.0](https://github.com/bep/godartsass/releases/tag/v0.14.0), 4 days ago) - Go API backed by the native Dart Sass Embedded executable.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.95.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.95.0), 5 days ago) - The source for https://gohugo.io/
@@ -8,7 +9,6 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.5.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.5.0), 1 week ago) - Automated auditing, performance metrics, and best practices for the web.
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.900.100](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.900.100), 2 weeks ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v0.15.0](https://github.com/gohugoio/localescompressed/releases/tag/v0.15.0), 1 month ago) - The locales from https://github.com/gohugoio/locales in one package/struct.
-- [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20101.20300](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20101.20300), 1 month ago) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
 
 
 ### Recent sponsors (big thank you!)
