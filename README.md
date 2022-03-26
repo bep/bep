@@ -1,8 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.1.0](https://github.com/bep/overlayfs/releases/tag/v0.1.0), 4 days ago) - A composite Afero filesystem.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.1.0](https://github.com/bep/overlayfs/releases/tag/v0.1.0), 5 days ago) - A composite Afero filesystem.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.14.0](https://github.com/bep/godartsass/releases/tag/v0.14.0), 1 week ago) - Go API backed by the native Dart Sass Embedded executable.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.95.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.95.0), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.95.0](https://github.com/gohugoio/hugo/releases/tag/v0.95.0), 1 week ago) - The world’s fastest framework for building websites.
@@ -15,7 +15,7 @@
 
 - [mercedes-benz](https://github.com/mercedes-benz) (1 week ago)
 - [jmooring](https://github.com/jmooring) (2 weeks ago)
-- [viven-inc](https://github.com/viven-inc) (2 weeks ago)
+- [viven-inc](https://github.com/viven-inc) (3 weeks ago)
 - [stefanv](https://github.com/stefanv) (3 weeks ago)
 - [stephlocke](https://github.com/stephlocke) (1 month ago)
 
