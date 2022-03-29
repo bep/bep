@@ -13,11 +13,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [dudleycodes](https://github.com/dudleycodes) (today)
 - [mercedes-benz](https://github.com/mercedes-benz) (1 week ago)
 - [jmooring](https://github.com/jmooring) (2 weeks ago)
 - [viven-inc](https://github.com/viven-inc) (3 weeks ago)
 - [stefanv](https://github.com/stefanv) (3 weeks ago)
-- [stephlocke](https://github.com/stephlocke) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
