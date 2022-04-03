@@ -7,15 +7,15 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.14.0](https://github.com/bep/godartsass/releases/tag/v0.14.0), 2 weeks ago) - Go API backed by the native Dart Sass Embedded executable.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.5.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.5.0), 3 weeks ago) - Automated auditing, performance metrics, and best practices for the web.
-- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.900.100](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.900.100), 4 weeks ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
+- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.900.100](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.900.100), 1 month ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v0.15.0](https://github.com/gohugoio/localescompressed/releases/tag/v0.15.0), 1 month ago) - The locales from https://github.com/gohugoio/locales in one package/struct.
 
 
 ### Recent sponsors (big thank you!)
 
-- [fheidenreich](https://github.com/fheidenreich) (1 day ago)
-- [brickfrees](https://github.com/brickfrees) (2 days ago)
-- [dudleycodes](https://github.com/dudleycodes) (4 days ago)
+- [fheidenreich](https://github.com/fheidenreich) (2 days ago)
+- [brickfrees](https://github.com/brickfrees) (3 days ago)
+- [dudleycodes](https://github.com/dudleycodes) (5 days ago)
 - [mercedes-benz](https://github.com/mercedes-benz) (2 weeks ago)
 - [jmooring](https://github.com/jmooring) (3 weeks ago)
 
