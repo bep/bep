@@ -3,8 +3,8 @@
 ### Recent releases
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.96.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.96.0), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.96.0](https://github.com/gohugoio/hugo/releases/tag/v0.96.0), 1 week ago) - The world’s fastest framework for building websites.
-- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.1.0](https://github.com/bep/overlayfs/releases/tag/v0.1.0), 1 week ago) - A composite Afero filesystem.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.1.0](https://github.com/bep/overlayfs/releases/tag/v0.1.0), 2 weeks ago) - A composite Afero filesystem.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.14.0](https://github.com/bep/godartsass/releases/tag/v0.14.0), 2 weeks ago) - Go API backed by the native Dart Sass Embedded executable.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.5.0](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.5.0), 3 weeks ago) - Automated auditing, performance metrics, and best practices for the web.
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.900.100](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.900.100), 1 month ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
@@ -13,9 +13,9 @@
 
 ### Recent sponsors (big thank you!)
 
-- [fheidenreich](https://github.com/fheidenreich) (2 days ago)
-- [brickfrees](https://github.com/brickfrees) (3 days ago)
-- [dudleycodes](https://github.com/dudleycodes) (5 days ago)
+- [fheidenreich](https://github.com/fheidenreich) (3 days ago)
+- [brickfrees](https://github.com/brickfrees) (4 days ago)
+- [dudleycodes](https://github.com/dudleycodes) (6 days ago)
 - [mercedes-benz](https://github.com/mercedes-benz) (2 weeks ago)
 - [jmooring](https://github.com/jmooring) (3 weeks ago)
 
