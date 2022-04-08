@@ -13,11 +13,11 @@
 
 ### Recent sponsors (big thank you!)
 
-- [fheidenreich](https://github.com/fheidenreich) (6 days ago)
+- [fheidenreich](https://github.com/fheidenreich) (1 week ago)
 - [brickfrees](https://github.com/brickfrees) (1 week ago)
 - [dudleycodes](https://github.com/dudleycodes) (1 week ago)
 - [mercedes-benz](https://github.com/mercedes-benz) (3 weeks ago)
-- [jmooring](https://github.com/jmooring) (4 weeks ago)
+- [jmooring](https://github.com/jmooring) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
