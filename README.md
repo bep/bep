@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.4.0](https://github.com/bep/overlayfs/releases/tag/v0.4.0), today) - A composite Afero filesystem.
+- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.4.0](https://github.com/bep/overlayfs/releases/tag/v0.4.0), 1 day ago) - A composite Afero filesystem.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.96.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.96.0), 2 weeks ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.96.0](https://github.com/gohugoio/hugo/releases/tag/v0.96.0), 2 weeks ago) - The world’s fastest framework for building websites.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
