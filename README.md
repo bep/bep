@@ -1,8 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v1.0.1](https://github.com/gohugoio/localescompressed/releases/tag/v1.0.1), 1 day ago) - The locales from https://github.com/gohugoio/locales in one package/struct.
-- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.4.0](https://github.com/bep/overlayfs/releases/tag/v0.4.0), 3 days ago) - A composite Afero filesystem.
+- [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v1.0.1](https://github.com/gohugoio/localescompressed/releases/tag/v1.0.1), 2 days ago) - The locales from https://github.com/gohugoio/locales in one package/struct.
+- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.4.0](https://github.com/bep/overlayfs/releases/tag/v0.4.0), 4 days ago) - A composite Afero filesystem.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.96.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.96.0), 2 weeks ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.96.0](https://github.com/gohugoio/hugo/releases/tag/v0.96.0), 2 weeks ago) - The world’s fastest framework for building websites.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.7.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.7.0), 3 weeks ago) - Deliver Go binaries as fast and easily as possible
@@ -13,11 +13,11 @@
 
 ### Recent sponsors (big thank you!)
 
-- [pkwenda](https://github.com/pkwenda) (1 day ago)
+- [pkwenda](https://github.com/pkwenda) (2 days ago)
 - [fheidenreich](https://github.com/fheidenreich) (1 week ago)
 - [brickfrees](https://github.com/brickfrees) (1 week ago)
 - [dudleycodes](https://github.com/dudleycodes) (2 weeks ago)
-- [mercedes-benz](https://github.com/mercedes-benz) (3 weeks ago)
+- [mercedes-benz](https://github.com/mercedes-benz) (4 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
