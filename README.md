@@ -1,10 +1,10 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.97.3](https://github.com/gohugoio/hugoDocs/releases/tag/v0.97.3), 1 day ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.97.3](https://github.com/gohugoio/hugo/releases/tag/v0.97.3), 1 day ago) - The world’s fastest framework for building websites.
-- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.6.0](https://github.com/bep/overlayfs/releases/tag/v0.6.0), 1 day ago) - A composite Afero filesystem.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.97.3](https://github.com/gohugoio/hugoDocs/releases/tag/v0.97.3), 2 days ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.97.3](https://github.com/gohugoio/hugo/releases/tag/v0.97.3), 2 days ago) - The world’s fastest framework for building websites.
+- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.6.0](https://github.com/bep/overlayfs/releases/tag/v0.6.0), 2 days ago) - A composite Afero filesystem.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.2), 4 days ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v1.0.1](https://github.com/gohugoio/localescompressed/releases/tag/v1.0.1), 1 week ago) - The locales from https://github.com/gohugoio/locales in one package/struct.
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.14.0](https://github.com/bep/godartsass/releases/tag/v0.14.0), 1 month ago) - Go API backed by the native Dart Sass Embedded executable.
 - [icy-comet/github-dark-chroma-theme](https://github.com/icy-comet/github-dark-chroma-theme) ([v0.1.1](https://github.com/icy-comet/github-dark-chroma-theme/releases/tag/v0.1.1), 1 month ago) - 🌙 A simple Chroma theme based on GitHub&#39;s Dark color scheme!
@@ -14,7 +14,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [fransafu](https://github.com/fransafu) (6 days ago)
+- [fransafu](https://github.com/fransafu) (1 week ago)
 - [pkwenda](https://github.com/pkwenda) (1 week ago)
 - [fheidenreich](https://github.com/fheidenreich) (2 weeks ago)
 - [brickfrees](https://github.com/brickfrees) (2 weeks ago)
