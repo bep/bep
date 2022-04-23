@@ -1,12 +1,12 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/gitmap](https://github.com/bep/gitmap) ([v1.2.1](https://github.com/bep/gitmap/releases/tag/v1.2.1), today) - A fast way to create a map from all the filenames to info objects for a given revision of a Git repo.
-- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20200](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20200), today) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 2 days ago) - Deliver Go binaries as fast and easily as possible
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.97.3](https://github.com/gohugoio/hugoDocs/releases/tag/v0.97.3), 4 days ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.97.3](https://github.com/gohugoio/hugo/releases/tag/v0.97.3), 4 days ago) - The world’s fastest framework for building websites.
-- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.6.0](https://github.com/bep/overlayfs/releases/tag/v0.6.0), 4 days ago) - A composite Afero filesystem.
+- [bep/gitmap](https://github.com/bep/gitmap) ([v1.2.1](https://github.com/bep/gitmap/releases/tag/v1.2.1), 1 day ago) - A fast way to create a map from all the filenames to info objects for a given revision of a Git repo.
+- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20200](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20200), 1 day ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 3 days ago) - Deliver Go binaries as fast and easily as possible
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.97.3](https://github.com/gohugoio/hugoDocs/releases/tag/v0.97.3), 5 days ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.97.3](https://github.com/gohugoio/hugo/releases/tag/v0.97.3), 5 days ago) - The world’s fastest framework for building websites.
+- [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.6.0](https://github.com/bep/overlayfs/releases/tag/v0.6.0), 5 days ago) - A composite Afero filesystem.
 - [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v1.0.1](https://github.com/gohugoio/localescompressed/releases/tag/v1.0.1), 1 week ago) - The locales from https://github.com/gohugoio/locales in one package/struct.
 - [bep/godartsass](https://github.com/bep/godartsass) ([v0.14.0](https://github.com/bep/godartsass/releases/tag/v0.14.0), 1 month ago) - Go API backed by the native Dart Sass Embedded executable.
 
