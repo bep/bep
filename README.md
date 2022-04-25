@@ -13,11 +13,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [E-G-C](https://github.com/E-G-C) (today)
 - [despens](https://github.com/despens) (2 days ago)
 - [fransafu](https://github.com/fransafu) (1 week ago)
 - [pkwenda](https://github.com/pkwenda) (2 weeks ago)
 - [fheidenreich](https://github.com/fheidenreich) (3 weeks ago)
-- [brickfrees](https://github.com/brickfrees) (3 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
