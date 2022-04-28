@@ -1,8 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/gitmap](https://github.com/bep/gitmap) ([v1.3.0](https://github.com/bep/gitmap/releases/tag/v1.3.0), 4 days ago) - A fast way to create a map from all the filenames to info objects for a given revision of a Git repo.
-- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20200](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20200), 5 days ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
+- [bep/gitmap](https://github.com/bep/gitmap) ([v1.3.0](https://github.com/bep/gitmap/releases/tag/v1.3.0), 5 days ago) - A fast way to create a map from all the filenames to info objects for a given revision of a Git repo.
+- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20200](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20200), 6 days ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.97.3](https://github.com/gohugoio/hugoDocs/releases/tag/v0.97.3), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.97.3](https://github.com/gohugoio/hugo/releases/tag/v0.97.3), 1 week ago) - The world’s fastest framework for building websites.
@@ -13,8 +13,8 @@
 
 ### Recent sponsors (big thank you!)
 
-- [E-G-C](https://github.com/E-G-C) (2 days ago)
-- [despens](https://github.com/despens) (4 days ago)
+- [E-G-C](https://github.com/E-G-C) (3 days ago)
+- [despens](https://github.com/despens) (5 days ago)
 - [fransafu](https://github.com/fransafu) (2 weeks ago)
 - [pkwenda](https://github.com/pkwenda) (2 weeks ago)
 - [fheidenreich](https://github.com/fheidenreich) (3 weeks ago)
