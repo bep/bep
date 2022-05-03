@@ -13,11 +13,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [reillymedia](https://github.com/reillymedia) (today)
 - [E-G-C](https://github.com/E-G-C) (1 week ago)
 - [despens](https://github.com/despens) (1 week ago)
 - [fransafu](https://github.com/fransafu) (2 weeks ago)
 - [pkwenda](https://github.com/pkwenda) (3 weeks ago)
-- [fheidenreich](https://github.com/fheidenreich) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
