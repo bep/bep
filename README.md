@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [bep/clock](https://github.com/bep/clock) ([v0.1.0](https://github.com/bep/clock/releases/tag/v0.1.0), today) - A Golang clock that allows you to set the start time.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.98.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.98.0), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.98.0](https://github.com/gohugoio/hugo/releases/tag/v0.98.0), 1 week ago) - The world’s fastest framework for building websites.
 - [bep/gitmap](https://github.com/bep/gitmap) ([v1.3.0](https://github.com/bep/gitmap/releases/tag/v1.3.0), 1 week ago) - A fast way to create a map from all the filenames to info objects for a given revision of a Git repo.
@@ -8,7 +9,6 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.6.0](https://github.com/bep/overlayfs/releases/tag/v0.6.0), 2 weeks ago) - A composite Afero filesystem.
 - [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v1.0.1](https://github.com/gohugoio/localescompressed/releases/tag/v1.0.1), 3 weeks ago) - The locales from https://github.com/gohugoio/locales in one package/struct.
-- [bep/godartsass](https://github.com/bep/godartsass) ([v0.14.0](https://github.com/bep/godartsass/releases/tag/v0.14.0), 1 month ago) - Go API backed by the native Dart Sass Embedded executable.
 
 
 ### Recent sponsors (big thank you!)
