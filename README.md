@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/clock](https://github.com/bep/clock) ([v0.1.0](https://github.com/bep/clock/releases/tag/v0.1.0), 1 day ago) - A Golang clock that allows you to set the start time.
+- [bep/clock](https://github.com/bep/clock) ([v0.2.0](https://github.com/bep/clock/releases/tag/v0.2.0), today) - A Golang clock that allows you to set the start time.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.98.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.98.0), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.98.0](https://github.com/gohugoio/hugo/releases/tag/v0.98.0), 1 week ago) - The world’s fastest framework for building websites.
 - [bep/gitmap](https://github.com/bep/gitmap) ([v1.3.0](https://github.com/bep/gitmap/releases/tag/v1.3.0), 2 weeks ago) - A fast way to create a map from all the filenames to info objects for a given revision of a Git repo.
