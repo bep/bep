@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [spf13/cast](https://github.com/spf13/cast) ([v1.5.0](https://github.com/spf13/cast/releases/tag/v1.5.0), today) - safe and easy casting from one type to another in Go 
 - [bep/clock](https://github.com/bep/clock) ([v0.3.0](https://github.com/bep/clock/releases/tag/v0.3.0), 3 days ago) - A Golang clock that allows you to set the start time.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.98.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.98.0), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.98.0](https://github.com/gohugoio/hugo/releases/tag/v0.98.0), 1 week ago) - The world’s fastest framework for building websites.
@@ -8,7 +9,6 @@
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20200](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20200), 2 weeks ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.8.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.8.3), 3 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.6.0](https://github.com/bep/overlayfs/releases/tag/v0.6.0), 3 weeks ago) - A composite Afero filesystem.
-- [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) ([v1.0.1](https://github.com/gohugoio/localescompressed/releases/tag/v1.0.1), 1 month ago) - The locales from https://github.com/gohugoio/locales in one package/struct.
 
 
 ### Recent sponsors (big thank you!)
