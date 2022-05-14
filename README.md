@@ -1,13 +1,13 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.10.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.10.0), today) - Test project used for integration testing.
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.1), 2 days ago) - Automated auditing, performance metrics, and best practices for the web.
-- [spf13/cast](https://github.com/spf13/cast) ([v1.5.0](https://github.com/spf13/cast/releases/tag/v1.5.0), 2 days ago) - safe and easy casting from one type to another in Go 
-- [bep/clock](https://github.com/bep/clock) ([v0.3.0](https://github.com/bep/clock/releases/tag/v0.3.0), 5 days ago) - A Golang clock that allows you to set the start time.
+- [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.10.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.10.0), 1 day ago) - Test project used for integration testing.
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.1), 3 days ago) - Automated auditing, performance metrics, and best practices for the web.
+- [spf13/cast](https://github.com/spf13/cast) ([v1.5.0](https://github.com/spf13/cast/releases/tag/v1.5.0), 3 days ago) - safe and easy casting from one type to another in Go 
+- [bep/clock](https://github.com/bep/clock) ([v0.3.0](https://github.com/bep/clock/releases/tag/v0.3.0), 6 days ago) - A Golang clock that allows you to set the start time.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.98.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.98.0), 2 weeks ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.98.0](https://github.com/gohugoio/hugo/releases/tag/v0.98.0), 2 weeks ago) - The world’s fastest framework for building websites.
-- [bep/gitmap](https://github.com/bep/gitmap) ([v1.3.0](https://github.com/bep/gitmap/releases/tag/v1.3.0), 2 weeks ago) - A fast way to create a map from all the filenames to info objects for a given revision of a Git repo.
+- [bep/gitmap](https://github.com/bep/gitmap) ([v1.3.0](https://github.com/bep/gitmap/releases/tag/v1.3.0), 3 weeks ago) - A fast way to create a map from all the filenames to info objects for a given revision of a Git repo.
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20200](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20200), 3 weeks ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 
 
@@ -15,7 +15,7 @@
 
 - [reillymedia](https://github.com/reillymedia) (1 week ago)
 - [E-G-C](https://github.com/E-G-C) (2 weeks ago)
-- [despens](https://github.com/despens) (2 weeks ago)
+- [despens](https://github.com/despens) (3 weeks ago)
 - [fransafu](https://github.com/fransafu) (1 month ago)
 - [pkwenda](https://github.com/pkwenda) (1 month ago)
 
