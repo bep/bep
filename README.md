@@ -8,7 +8,7 @@
 - [spf13/cast](https://github.com/spf13/cast) ([v1.5.0](https://github.com/spf13/cast/releases/tag/v1.5.0), 5 days ago) - safe and easy casting from one type to another in Go 
 - [bep/clock](https://github.com/bep/clock) ([v0.3.0](https://github.com/bep/clock/releases/tag/v0.3.0), 1 week ago) - A Golang clock that allows you to set the start time.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.98.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.98.0), 2 weeks ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.98.0](https://github.com/gohugoio/hugo/releases/tag/v0.98.0), 2 weeks ago) - The world’s fastest framework for building websites.
+- [bep/gitmap](https://github.com/bep/gitmap) ([v1.3.0](https://github.com/bep/gitmap/releases/tag/v1.3.0), 3 weeks ago) - A fast way to create a map from all the filenames to info objects for a given revision of a Git repo.
 
 
 ### Recent sponsors (big thank you!)
