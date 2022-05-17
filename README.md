@@ -1,19 +1,19 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.99.0](https://github.com/gohugoio/hugo/releases/tag/v0.99.0), today) - The world’s fastest framework for building websites.
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.99.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.99.0), today) - The source for https://gohugo.io/
-- [bep/golibsass](https://github.com/bep/golibsass) ([v1.1.0](https://github.com/bep/golibsass/releases/tag/v1.1.0), 1 day ago) - Easy to use Go bindings for LibSass.
-- [bep/debounce](https://github.com/bep/debounce) ([v1.2.1](https://github.com/bep/debounce/releases/tag/v1.2.1), 1 day ago) - A debouncer written in Go.
-- [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.10.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.10.0), 3 days ago) - Test project used for integration testing.
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.1), 5 days ago) - Automated auditing, performance metrics, and best practices for the web.
-- [spf13/cast](https://github.com/spf13/cast) ([v1.5.0](https://github.com/spf13/cast/releases/tag/v1.5.0), 5 days ago) - safe and easy casting from one type to another in Go 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.99.0](https://github.com/gohugoio/hugo/releases/tag/v0.99.0), 1 day ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.99.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.99.0), 1 day ago) - The source for https://gohugo.io/
+- [bep/golibsass](https://github.com/bep/golibsass) ([v1.1.0](https://github.com/bep/golibsass/releases/tag/v1.1.0), 2 days ago) - Easy to use Go bindings for LibSass.
+- [bep/debounce](https://github.com/bep/debounce) ([v1.2.1](https://github.com/bep/debounce/releases/tag/v1.2.1), 2 days ago) - A debouncer written in Go.
+- [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.10.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.10.0), 4 days ago) - Test project used for integration testing.
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.1), 6 days ago) - Automated auditing, performance metrics, and best practices for the web.
+- [spf13/cast](https://github.com/spf13/cast) ([v1.5.0](https://github.com/spf13/cast/releases/tag/v1.5.0), 6 days ago) - safe and easy casting from one type to another in Go 
 - [bep/clock](https://github.com/bep/clock) ([v0.3.0](https://github.com/bep/clock/releases/tag/v0.3.0), 1 week ago) - A Golang clock that allows you to set the start time.
 
 
 ### Recent sponsors (big thank you!)
 
-- [reillymedia](https://github.com/reillymedia) (1 week ago)
+- [reillymedia](https://github.com/reillymedia) (2 weeks ago)
 - [E-G-C](https://github.com/E-G-C) (3 weeks ago)
 - [despens](https://github.com/despens) (3 weeks ago)
 - [fransafu](https://github.com/fransafu) (1 month ago)
