@@ -1,7 +1,6 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.99.0](https://github.com/gohugoio/hugo/releases/tag/v0.99.0), 2 days ago) - The world’s fastest framework for building websites.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.99.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.99.0), 2 days ago) - The source for https://gohugo.io/
 - [bep/golibsass](https://github.com/bep/golibsass) ([v1.1.0](https://github.com/bep/golibsass/releases/tag/v1.1.0), 3 days ago) - Easy to use Go bindings for LibSass.
 - [bep/debounce](https://github.com/bep/debounce) ([v1.2.1](https://github.com/bep/debounce/releases/tag/v1.2.1), 3 days ago) - A debouncer written in Go.
@@ -9,6 +8,7 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.1](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.1), 1 week ago) - Automated auditing, performance metrics, and best practices for the web.
 - [spf13/cast](https://github.com/spf13/cast) ([v1.5.0](https://github.com/spf13/cast/releases/tag/v1.5.0), 1 week ago) - safe and easy casting from one type to another in Go 
 - [bep/clock](https://github.com/bep/clock) ([v0.3.0](https://github.com/bep/clock/releases/tag/v0.3.0), 1 week ago) - A Golang clock that allows you to set the start time.
+- [bep/gitmap](https://github.com/bep/gitmap) ([v1.3.0](https://github.com/bep/gitmap/releases/tag/v1.3.0), 3 weeks ago) - A fast way to create a map from all the filenames to info objects for a given revision of a Git repo.
 
 
 ### Recent sponsors (big thank you!)
