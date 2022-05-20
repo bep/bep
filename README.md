@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.1), today) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.99.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.99.1), 2 days ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.99.1](https://github.com/gohugoio/hugo/releases/tag/v0.99.1), 2 days ago) - The world’s fastest framework for building websites.
 - [bep/golibsass](https://github.com/bep/golibsass) ([v1.1.0](https://github.com/bep/golibsass/releases/tag/v1.1.0), 5 days ago) - Easy to use Go bindings for LibSass.
