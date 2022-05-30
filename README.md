@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 2 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [bep/docuapi](https://github.com/bep/docuapi) ([v2.1.0](https://github.com/bep/docuapi/releases/tag/v2.1.0), 1 week ago) - Beautiful multilingual API documentation theme for Hugo
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.99.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.99.1), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.99.1](https://github.com/gohugoio/hugo/releases/tag/v0.99.1), 1 week ago) - The world’s fastest framework for building websites.
@@ -13,7 +13,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [kolbma](https://github.com/kolbma) (6 days ago)
+- [kolbma](https://github.com/kolbma) (1 week ago)
 - [reillymedia](https://github.com/reillymedia) (3 weeks ago)
 - [E-G-C](https://github.com/E-G-C) (1 month ago)
 - [despens](https://github.com/despens) (1 month ago)
