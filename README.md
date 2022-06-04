@@ -1,8 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.100.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.100.1), 2 days ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.100.1](https://github.com/gohugoio/hugo/releases/tag/v0.100.1), 2 days ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.100.1](https://github.com/gohugoio/hugoDocs/releases/tag/v0.100.1), 3 days ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.100.1](https://github.com/gohugoio/hugo/releases/tag/v0.100.1), 3 days ago) - The world’s fastest framework for building websites.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [bep/docuapi](https://github.com/bep/docuapi) ([v2.1.0](https://github.com/bep/docuapi/releases/tag/v2.1.0), 1 week ago) - Beautiful multilingual API documentation theme for Hugo
 - [bep/golibsass](https://github.com/bep/golibsass) ([v1.1.0](https://github.com/bep/golibsass/releases/tag/v1.1.0), 2 weeks ago) - Easy to use Go bindings for LibSass.
@@ -13,8 +13,8 @@
 
 ### Recent sponsors (big thank you!)
 
-- [roberth](https://github.com/roberth) (1 day ago)
-- [CloudCannon](https://github.com/CloudCannon) (1 day ago)
+- [roberth](https://github.com/roberth) (2 days ago)
+- [CloudCannon](https://github.com/CloudCannon) (2 days ago)
 - [kolbma](https://github.com/kolbma) (1 week ago)
 - [reillymedia](https://github.com/reillymedia) (1 month ago)
 - [E-G-C](https://github.com/E-G-C) (1 month ago)
