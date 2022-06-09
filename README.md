@@ -1,9 +1,9 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.2](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.2), today) - Automated auditing, performance metrics, and best practices for the web.
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.100.2](https://github.com/gohugoio/hugoDocs/releases/tag/v0.100.2), today) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.100.2](https://github.com/gohugoio/hugo/releases/tag/v0.100.2), today) - The world’s fastest framework for building websites.
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.2](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.2), 1 day ago) - Automated auditing, performance metrics, and best practices for the web.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.100.2](https://github.com/gohugoio/hugoDocs/releases/tag/v0.100.2), 1 day ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.100.2](https://github.com/gohugoio/hugo/releases/tag/v0.100.2), 1 day ago) - The world’s fastest framework for building websites.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.9.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.9.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [bep/docuapi](https://github.com/bep/docuapi) ([v2.1.0](https://github.com/bep/docuapi/releases/tag/v2.1.0), 2 weeks ago) - Beautiful multilingual API documentation theme for Hugo
 - [bep/golibsass](https://github.com/bep/golibsass) ([v1.1.0](https://github.com/bep/golibsass/releases/tag/v1.1.0), 3 weeks ago) - Easy to use Go bindings for LibSass.
@@ -13,9 +13,9 @@
 
 ### Recent sponsors (big thank you!)
 
-- [markgoho](https://github.com/markgoho) (2 days ago)
-- [roberth](https://github.com/roberth) (6 days ago)
-- [CloudCannon](https://github.com/CloudCannon) (6 days ago)
+- [markgoho](https://github.com/markgoho) (3 days ago)
+- [roberth](https://github.com/roberth) (1 week ago)
+- [CloudCannon](https://github.com/CloudCannon) (1 week ago)
 - [kolbma](https://github.com/kolbma) (2 weeks ago)
 - [reillymedia](https://github.com/reillymedia) (1 month ago)
 
