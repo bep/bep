@@ -13,11 +13,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [bhdicaire](https://github.com/bhdicaire) (today)
 - [markgoho](https://github.com/markgoho) (1 week ago)
 - [roberth](https://github.com/roberth) (1 week ago)
 - [CloudCannon](https://github.com/CloudCannon) (1 week ago)
 - [kolbma](https://github.com/kolbma) (3 weeks ago)
-- [reillymedia](https://github.com/reillymedia) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
