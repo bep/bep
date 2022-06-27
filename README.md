@@ -14,8 +14,8 @@
 ### Recent sponsors (big thank you!)
 
 - [adrianan8n](https://github.com/adrianan8n) (1 week ago)
-- [bhdicaire](https://github.com/bhdicaire) (1 week ago)
-- [markgoho](https://github.com/markgoho) (2 weeks ago)
+- [bhdicaire](https://github.com/bhdicaire) (2 weeks ago)
+- [markgoho](https://github.com/markgoho) (3 weeks ago)
 - [roberth](https://github.com/roberth) (3 weeks ago)
 - [CloudCannon](https://github.com/CloudCannon) (3 weeks ago)
 
