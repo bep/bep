@@ -13,10 +13,10 @@
 
 ### Recent sponsors (big thank you!)
 
-- [k1350](https://github.com/k1350) (today)
+- [k1350](https://github.com/k1350) (1 day ago)
 - [adrianan8n](https://github.com/adrianan8n) (2 weeks ago)
-- [bhdicaire](https://github.com/bhdicaire) (2 weeks ago)
-- [markgoho](https://github.com/markgoho) (3 weeks ago)
+- [bhdicaire](https://github.com/bhdicaire) (3 weeks ago)
+- [markgoho](https://github.com/markgoho) (4 weeks ago)
 - [roberth](https://github.com/roberth) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
