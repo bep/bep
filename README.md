@@ -9,6 +9,7 @@
 - [bep/golibsass](https://github.com/bep/golibsass) ([v1.1.0](https://github.com/bep/golibsass/releases/tag/v1.1.0), 1 month ago) - Easy to use Go bindings for LibSass.
 - [bep/debounce](https://github.com/bep/debounce) ([v1.2.1](https://github.com/bep/debounce/releases/tag/v1.2.1), 1 month ago) - A debouncer written in Go.
 - [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) ([v0.10.0](https://github.com/gohugoio/hugoTestProjectJSModImports/releases/tag/v0.10.0), 1 month ago) - Test project used for integration testing.
+- [spf13/cast](https://github.com/spf13/cast) ([v1.5.0](https://github.com/spf13/cast/releases/tag/v1.5.0), 1 month ago) - safe and easy casting from one type to another in Go 
 
 
 ### Recent sponsors (big thank you!)
