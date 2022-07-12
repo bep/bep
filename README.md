@@ -14,11 +14,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [jacobian](https://github.com/jacobian) (today)
 - [k1350](https://github.com/k1350) (1 week ago)
 - [adrianan8n](https://github.com/adrianan8n) (3 weeks ago)
 - [bhdicaire](https://github.com/bhdicaire) (4 weeks ago)
 - [markgoho](https://github.com/markgoho) (1 month ago)
-- [roberth](https://github.com/roberth) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
