@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.2), 4 days ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.2), 5 days ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.101.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.101.0), 3 weeks ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.101.0](https://github.com/gohugoio/hugo/releases/tag/v0.101.0), 3 weeks ago) - The world’s fastest framework for building websites.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.2](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.2), 1 month ago) - Automated auditing, performance metrics, and best practices for the web.
@@ -14,10 +14,10 @@
 
 ### Recent sponsors (big thank you!)
 
-- [jacobian](https://github.com/jacobian) (today)
+- [jacobian](https://github.com/jacobian) (1 day ago)
 - [k1350](https://github.com/k1350) (1 week ago)
 - [adrianan8n](https://github.com/adrianan8n) (3 weeks ago)
-- [bhdicaire](https://github.com/bhdicaire) (4 weeks ago)
+- [bhdicaire](https://github.com/bhdicaire) (1 month ago)
 - [markgoho](https://github.com/markgoho) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
