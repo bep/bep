@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [icy-comet/github-dark-chroma-theme](https://github.com/icy-comet/github-dark-chroma-theme) ([v0.1.2](https://github.com/icy-comet/github-dark-chroma-theme/releases/tag/v0.1.2), today) - 🌙 A simple Chroma theme based on GitHub&#39;s Dark color scheme!
 - [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.7.0](https://github.com/bep/overlayfs/releases/tag/v0.7.0), 2 days ago) - A composite Afero filesystem.
 - [spf13/afero](https://github.com/spf13/afero) ([v1.9.0](https://github.com/spf13/afero/releases/tag/v1.9.0), 2 days ago) - A FileSystem Abstraction System for Go
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
@@ -9,7 +10,6 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.2](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.2), 1 month ago) - Automated auditing, performance metrics, and best practices for the web.
 - [bep/docuapi](https://github.com/bep/docuapi) ([v2.1.0](https://github.com/bep/docuapi/releases/tag/v2.1.0), 1 month ago) - Beautiful multilingual API documentation theme for Hugo
 - [bep/golibsass](https://github.com/bep/golibsass) ([v1.1.0](https://github.com/bep/golibsass/releases/tag/v1.1.0), 2 months ago) - Easy to use Go bindings for LibSass.
-- [bep/debounce](https://github.com/bep/debounce) ([v1.2.1](https://github.com/bep/debounce/releases/tag/v1.2.1), 2 months ago) - A debouncer written in Go.
 
 
 ### Recent sponsors (big thank you!)
