@@ -1,8 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20300](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20300), 4 days ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
-- [spf13/afero](https://github.com/spf13/afero) ([v1.9.2](https://github.com/spf13/afero/releases/tag/v1.9.2), 6 days ago) - A FileSystem Abstraction System for Go
+- [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20300](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20300), 5 days ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
+- [spf13/afero](https://github.com/spf13/afero) ([v1.9.2](https://github.com/spf13/afero/releases/tag/v1.9.2), 1 week ago) - A FileSystem Abstraction System for Go
 - [icy-comet/github-dark-chroma-theme](https://github.com/icy-comet/github-dark-chroma-theme) ([v0.2.0](https://github.com/icy-comet/github-dark-chroma-theme/releases/tag/v0.2.0), 1 week ago) - 🌙 A simple Chroma theme based on GitHub&#39;s Dark color scheme!
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.3](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.3), 1 week ago) - Automated auditing, performance metrics, and best practices for the web.
 - [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.7.0](https://github.com/bep/overlayfs/releases/tag/v0.7.0), 1 week ago) - A composite Afero filesystem.
@@ -16,7 +16,7 @@
 
 - [razonyang](https://github.com/razonyang) (1 week ago)
 - [agolution](https://github.com/agolution) (1 week ago)
-- [jacobian](https://github.com/jacobian) (1 week ago)
+- [jacobian](https://github.com/jacobian) (2 weeks ago)
 - [k1350](https://github.com/k1350) (3 weeks ago)
 - [adrianan8n](https://github.com/adrianan8n) (1 month ago)
 
