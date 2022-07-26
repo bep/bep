@@ -1,10 +1,10 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.4](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.4), today) - Automated auditing, performance metrics, and best practices for the web.
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20300](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20300), 5 days ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [spf13/afero](https://github.com/spf13/afero) ([v1.9.2](https://github.com/spf13/afero/releases/tag/v1.9.2), 1 week ago) - A FileSystem Abstraction System for Go
 - [icy-comet/github-dark-chroma-theme](https://github.com/icy-comet/github-dark-chroma-theme) ([v0.2.0](https://github.com/icy-comet/github-dark-chroma-theme/releases/tag/v0.2.0), 1 week ago) - 🌙 A simple Chroma theme based on GitHub&#39;s Dark color scheme!
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.3](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.3), 1 week ago) - Automated auditing, performance metrics, and best practices for the web.
 - [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.7.0](https://github.com/bep/overlayfs/releases/tag/v0.7.0), 1 week ago) - A composite Afero filesystem.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.2), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.101.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.101.0), 1 month ago) - The source for https://gohugo.io/
