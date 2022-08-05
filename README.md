@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.5](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.5), 2 days ago) - Automated auditing, performance metrics, and best practices for the web.
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.5](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.5), 3 days ago) - Automated auditing, performance metrics, and best practices for the web.
 - [icy-comet/github-dark-chroma-theme](https://github.com/icy-comet/github-dark-chroma-theme) ([v0.2.1](https://github.com/icy-comet/github-dark-chroma-theme/releases/tag/v0.2.1), 1 week ago) - 🌙 A simple Chroma theme based on GitHub&#39;s Dark color scheme!
 - [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.8.0](https://github.com/bep/overlayfs/releases/tag/v0.8.0), 1 week ago) - A composite Afero filesystem.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
@@ -14,9 +14,9 @@
 
 ### Recent sponsors (big thank you!)
 
-- [dlford](https://github.com/dlford) (3 days ago)
-- [razonyang](https://github.com/razonyang) (2 weeks ago)
-- [agolution](https://github.com/agolution) (2 weeks ago)
+- [dlford](https://github.com/dlford) (4 days ago)
+- [razonyang](https://github.com/razonyang) (3 weeks ago)
+- [agolution](https://github.com/agolution) (3 weeks ago)
 - [jacobian](https://github.com/jacobian) (3 weeks ago)
 - [k1350](https://github.com/k1350) (1 month ago)
 
