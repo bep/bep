@@ -1,8 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/varexpand](https://github.com/bep/varexpand) ([v0.2.0](https://github.com/bep/varexpand/releases/tag/v0.2.0), 1 day ago) - Replaces ${var} with value from a mapping function.
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.5](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.5), 4 days ago) - Automated auditing, performance metrics, and best practices for the web.
+- [bep/varexpand](https://github.com/bep/varexpand) ([v0.2.0](https://github.com/bep/varexpand/releases/tag/v0.2.0), 2 days ago) - Replaces ${var} with value from a mapping function.
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.5](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.5), 5 days ago) - Automated auditing, performance metrics, and best practices for the web.
 - [icy-comet/github-dark-chroma-theme](https://github.com/icy-comet/github-dark-chroma-theme) ([v0.2.1](https://github.com/icy-comet/github-dark-chroma-theme/releases/tag/v0.2.1), 1 week ago) - 🌙 A simple Chroma theme based on GitHub&#39;s Dark color scheme!
 - [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.8.0](https://github.com/bep/overlayfs/releases/tag/v0.8.0), 1 week ago) - A composite Afero filesystem.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
@@ -14,7 +14,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [dlford](https://github.com/dlford) (5 days ago)
+- [dlford](https://github.com/dlford) (6 days ago)
 - [razonyang](https://github.com/razonyang) (3 weeks ago)
 - [agolution](https://github.com/agolution) (3 weeks ago)
 - [jacobian](https://github.com/jacobian) (3 weeks ago)
