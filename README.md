@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [bep/workers](https://github.com/bep/workers) ([v1.1.0](https://github.com/bep/workers/releases/tag/v1.1.0), today) - Set up tasks to be executed in parallel.
 - [bep/varexpand](https://github.com/bep/varexpand) ([v0.2.0](https://github.com/bep/varexpand/releases/tag/v0.2.0), 2 days ago) - Replaces ${var} with value from a mapping function.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.5](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.5), 5 days ago) - Automated auditing, performance metrics, and best practices for the web.
 - [icy-comet/github-dark-chroma-theme](https://github.com/icy-comet/github-dark-chroma-theme) ([v0.2.1](https://github.com/icy-comet/github-dark-chroma-theme/releases/tag/v0.2.1), 1 week ago) - 🌙 A simple Chroma theme based on GitHub&#39;s Dark color scheme!
@@ -9,7 +10,6 @@
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20300](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20300), 2 weeks ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [spf13/afero](https://github.com/spf13/afero) ([v1.9.2](https://github.com/spf13/afero/releases/tag/v1.9.2), 2 weeks ago) - A FileSystem Abstraction System for Go
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.101.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.101.0), 1 month ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.101.0](https://github.com/gohugoio/hugo/releases/tag/v0.101.0), 1 month ago) - The world’s fastest framework for building websites.
 
 
 ### Recent sponsors (big thank you!)
