@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/clock](https://github.com/bep/clock) ([v0.4.0](https://github.com/bep/clock/releases/tag/v0.4.0), today) - A Golang clock that allows you to set the start time.
+- [bep/clocks](https://github.com/bep/clocks) ([v0.5.0](https://github.com/bep/clocks/releases/tag/v0.5.0), today) - A Golang clock that allows you to set the start time.
 - [bep/workers](https://github.com/bep/workers) ([v1.1.0](https://github.com/bep/workers/releases/tag/v1.1.0), 1 day ago) - Set up tasks to be executed in parallel.
 - [bep/varexpand](https://github.com/bep/varexpand) ([v0.2.0](https://github.com/bep/varexpand/releases/tag/v0.2.0), 3 days ago) - Replaces ${var} with value from a mapping function.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.5](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.5), 6 days ago) - Automated auditing, performance metrics, and best practices for the web.
