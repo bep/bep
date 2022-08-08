@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [bep/clock](https://github.com/bep/clock) ([v0.4.0](https://github.com/bep/clock/releases/tag/v0.4.0), today) - A Golang clock that allows you to set the start time.
 - [bep/workers](https://github.com/bep/workers) ([v1.1.0](https://github.com/bep/workers/releases/tag/v1.1.0), 1 day ago) - Set up tasks to be executed in parallel.
 - [bep/varexpand](https://github.com/bep/varexpand) ([v0.2.0](https://github.com/bep/varexpand/releases/tag/v0.2.0), 3 days ago) - Replaces ${var} with value from a mapping function.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.5](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.5), 6 days ago) - Automated auditing, performance metrics, and best practices for the web.
@@ -9,7 +10,6 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20300](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20300), 2 weeks ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 - [spf13/afero](https://github.com/spf13/afero) ([v1.9.2](https://github.com/spf13/afero/releases/tag/v1.9.2), 2 weeks ago) - A FileSystem Abstraction System for Go
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.101.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.101.0), 1 month ago) - The source for https://gohugo.io/
 
 
 ### Recent sponsors (big thank you!)
