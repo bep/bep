@@ -14,11 +14,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [dgasparri](https://github.com/dgasparri) (today)
 - [dlford](https://github.com/dlford) (1 week ago)
 - [razonyang](https://github.com/razonyang) (3 weeks ago)
 - [agolution](https://github.com/agolution) (3 weeks ago)
 - [jacobian](https://github.com/jacobian) (3 weeks ago)
-- [k1350](https://github.com/k1350) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
