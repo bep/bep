@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [bep/logg](https://github.com/bep/logg) ([v0.1.0](https://github.com/bep/logg/releases/tag/v0.1.0), today) - A Fast and Structured logging package for Go.
 - [bep/clocks](https://github.com/bep/clocks) ([v0.5.0](https://github.com/bep/clocks/releases/tag/v0.5.0), 1 day ago) - A Golang clock that allows you to set the start time.
 - [bep/workers](https://github.com/bep/workers) ([v1.1.0](https://github.com/bep/workers/releases/tag/v1.1.0), 2 days ago) - Set up tasks to be executed in parallel.
 - [bep/varexpand](https://github.com/bep/varexpand) ([v0.2.0](https://github.com/bep/varexpand/releases/tag/v0.2.0), 4 days ago) - Replaces ${var} with value from a mapping function.
@@ -9,7 +10,6 @@
 - [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.8.0](https://github.com/bep/overlayfs/releases/tag/v0.8.0), 1 week ago) - A composite Afero filesystem.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20300](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20300), 2 weeks ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
-- [spf13/afero](https://github.com/spf13/afero) ([v1.9.2](https://github.com/spf13/afero/releases/tag/v1.9.2), 3 weeks ago) - A FileSystem Abstraction System for Go
 
 
 ### Recent sponsors (big thank you!)
