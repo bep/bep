@@ -11,6 +11,20 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) ([alpinejs/v3.21000.20300](https://github.com/gohugoio/hugo-mod-jslibs-dist/releases/tag/alpinejs%2Fv3.21000.20300), 2 weeks ago) - Thin Hugo Module wrappers around some popular JS libs&#39; distribution source code.
 
+
+### Latest projects
+
+- [bep/bench-alloc-issue](https://github.com/bep/bench-alloc-issue) - 
+- [bep/logg](https://github.com/bep/logg) - A Fast and Structured logging package for Go.
+- [bep/varexpand](https://github.com/bep/varexpand) - Replaces ${var} with value from a mapping function.
+- [bep/refliter](https://github.com/bep/refliter) - Just some generics testing.
+- [bep/staticbattery.com](https://github.com/bep/staticbattery.com) - 
+- [bep/clocks](https://github.com/bep/clocks) - A Golang clock that allows you to set the start time.
+- [bep/overlayfs](https://github.com/bep/overlayfs) - A composite Afero filesystem.
+- [bep/go-lib-template](https://github.com/bep/go-lib-template) - Template project for Go libraries.
+- [bep/hugo-dartsass-testrepo](https://github.com/bep/hugo-dartsass-testrepo) - Just a test repo to test Hugo/Netlify/DartSass integration.
+- [bep/fetch-npm-package](https://github.com/bep/fetch-npm-package) - Just a small utility that can be used to fetch a given version of a NPM package.
+
 ### Recent sponsors (big thank you!)
 
 - [dgasparri](https://github.com/dgasparri) (1 day ago)
