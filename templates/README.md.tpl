@@ -7,7 +7,7 @@
 {{ end -}}
 {{- end}}
 
-#### Latest projects
+### Latest projects
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
