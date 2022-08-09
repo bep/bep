@@ -7,6 +7,11 @@
 {{ end -}}
 {{- end}}
 
+#### Latest projects
+{{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
 ### Recent sponsors (big thank you!)
 {{range sponsors 5}}
 - [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
