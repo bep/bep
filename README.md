@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [bep/execrpc](https://github.com/bep/execrpc) ([v0.1.0](https://github.com/bep/execrpc/releases/tag/v0.1.0), today) - Work in progress. RCP via os/exec.
 - [bep/helpers](https://github.com/bep/helpers) ([v0.1.0](https://github.com/bep/helpers/releases/tag/v0.1.0), 1 day ago) - An utils package with a less burdened name.
 - [bep/logg](https://github.com/bep/logg) ([v0.1.0](https://github.com/bep/logg/releases/tag/v0.1.0), 3 days ago) - A Fast and Structured logging package for Go.
 - [bep/clocks](https://github.com/bep/clocks) ([v0.5.0](https://github.com/bep/clocks/releases/tag/v0.5.0), 4 days ago) - A Golang clock that allows you to set the start time.
@@ -9,7 +10,6 @@
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.5](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.5), 1 week ago) - Automated auditing, performance metrics, and best practices for the web.
 - [icy-comet/github-dark-chroma-theme](https://github.com/icy-comet/github-dark-chroma-theme) ([v0.2.1](https://github.com/icy-comet/github-dark-chroma-theme/releases/tag/v0.2.1), 2 weeks ago) - 🌙 A simple Chroma theme based on GitHub&#39;s Dark color scheme!
 - [bep/overlayfs](https://github.com/bep/overlayfs) ([v0.8.0](https://github.com/bep/overlayfs/releases/tag/v0.8.0), 2 weeks ago) - A composite Afero filesystem.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.10.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.10.3), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 
 
 ### Recent sponsors (big thank you!)
