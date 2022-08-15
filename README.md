@@ -1,10 +1,10 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/execrpc](https://github.com/bep/execrpc) ([v0.2.0](https://github.com/bep/execrpc/releases/tag/v0.2.0), today) - RCP via os/exec with generic types.
-- [bep/helpers](https://github.com/bep/helpers) ([v0.1.0](https://github.com/bep/helpers/releases/tag/v0.1.0), 3 days ago) - An utils package with a less burdened name.
-- [bep/logg](https://github.com/bep/logg) ([v0.1.0](https://github.com/bep/logg/releases/tag/v0.1.0), 5 days ago) - A Fast and Structured logging package for Go.
-- [bep/clocks](https://github.com/bep/clocks) ([v0.5.0](https://github.com/bep/clocks/releases/tag/v0.5.0), 6 days ago) - A Golang clock that allows you to set the start time.
+- [bep/execrpc](https://github.com/bep/execrpc) ([v0.2.0](https://github.com/bep/execrpc/releases/tag/v0.2.0), 1 day ago) - RCP via os/exec with generic types.
+- [bep/helpers](https://github.com/bep/helpers) ([v0.1.0](https://github.com/bep/helpers/releases/tag/v0.1.0), 4 days ago) - An utils package with a less burdened name.
+- [bep/logg](https://github.com/bep/logg) ([v0.1.0](https://github.com/bep/logg/releases/tag/v0.1.0), 6 days ago) - A Fast and Structured logging package for Go.
+- [bep/clocks](https://github.com/bep/clocks) ([v0.5.0](https://github.com/bep/clocks/releases/tag/v0.5.0), 1 week ago) - A Golang clock that allows you to set the start time.
 - [bep/workers](https://github.com/bep/workers) ([v1.1.0](https://github.com/bep/workers/releases/tag/v1.1.0), 1 week ago) - Set up tasks to be executed in parallel.
 - [bep/varexpand](https://github.com/bep/varexpand) ([v0.2.0](https://github.com/bep/varexpand/releases/tag/v0.2.0), 1 week ago) - Replaces ${var} with value from a mapping function.
 - [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.5](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.5), 1 week ago) - Automated auditing, performance metrics, and best practices for the web.
@@ -14,8 +14,8 @@
 
 ### Recent sponsors (big thank you!)
 
-- [dgasparri](https://github.com/dgasparri) (6 days ago)
-- [dlford](https://github.com/dlford) (1 week ago)
+- [dgasparri](https://github.com/dgasparri) (1 week ago)
+- [dlford](https://github.com/dlford) (2 weeks ago)
 - [razonyang](https://github.com/razonyang) (1 month ago)
 - [agolution](https://github.com/agolution) (1 month ago)
 - [jacobian](https://github.com/jacobian) (1 month ago)
