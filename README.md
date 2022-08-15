@@ -16,9 +16,9 @@
 
 - [dgasparri](https://github.com/dgasparri) (1 week ago)
 - [dlford](https://github.com/dlford) (2 weeks ago)
-- [razonyang](https://github.com/razonyang) (1 month ago)
 - [agolution](https://github.com/agolution) (1 month ago)
 - [jacobian](https://github.com/jacobian) (1 month ago)
+- [k1350](https://github.com/k1350) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
