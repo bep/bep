@@ -1,9 +1,9 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.6](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.6), today) - Automated auditing, performance metrics, and best practices for the web.
-- [bep/execrpc](https://github.com/bep/execrpc) ([v0.4.0](https://github.com/bep/execrpc/releases/tag/v0.4.0), 1 day ago) - RCP via os/exec with generic types.
-- [bep/helpers](https://github.com/bep/helpers) ([v0.1.0](https://github.com/bep/helpers/releases/tag/v0.1.0), 5 days ago) - An utils package with a less burdened name.
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) ([v9.6.6](https://github.com/GoogleChrome/lighthouse/releases/tag/v9.6.6), 1 day ago) - Automated auditing, performance metrics, and best practices for the web.
+- [bep/execrpc](https://github.com/bep/execrpc) ([v0.4.0](https://github.com/bep/execrpc/releases/tag/v0.4.0), 2 days ago) - RCP via os/exec with generic types.
+- [bep/helpers](https://github.com/bep/helpers) ([v0.1.0](https://github.com/bep/helpers/releases/tag/v0.1.0), 6 days ago) - An utils package with a less burdened name.
 - [bep/logg](https://github.com/bep/logg) ([v0.1.0](https://github.com/bep/logg/releases/tag/v0.1.0), 1 week ago) - A Fast and Structured logging package for Go.
 - [bep/clocks](https://github.com/bep/clocks) ([v0.5.0](https://github.com/bep/clocks/releases/tag/v0.5.0), 1 week ago) - A Golang clock that allows you to set the start time.
 - [bep/workers](https://github.com/bep/workers) ([v1.1.0](https://github.com/bep/workers/releases/tag/v1.1.0), 1 week ago) - Set up tasks to be executed in parallel.
