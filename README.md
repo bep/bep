@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/execrpc](https://github.com/bep/execrpc) ([v0.6.0](https://github.com/bep/execrpc/releases/tag/v0.6.0), today) - RCP via os/exec with generic types.
+- [bep/execrpc](https://github.com/bep/execrpc) ([v0.7.0](https://github.com/bep/execrpc/releases/tag/v0.7.0), today) - RCP via os/exec with generic types.
 - [bep/helpers](https://github.com/bep/helpers) ([v0.2.0](https://github.com/bep/helpers/releases/tag/v0.2.0), 1 day ago) - An utils package with a less burdened name.
 - [bep/logg](https://github.com/bep/logg) ([v0.1.0](https://github.com/bep/logg/releases/tag/v0.1.0), 1 week ago) - A Fast and Structured logging package for Go.
 - [bep/clocks](https://github.com/bep/clocks) ([v0.5.0](https://github.com/bep/clocks/releases/tag/v0.5.0), 1 week ago) - A Golang clock that allows you to set the start time.
