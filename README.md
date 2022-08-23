@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.8.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.8.0), today) - Work in progress.
+- [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.8.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.8.0), today) - Build, archive and release. Work in progress.
 - [bep/execrpc](https://github.com/bep/execrpc) ([v0.7.0](https://github.com/bep/execrpc/releases/tag/v0.7.0), 3 days ago) - RCP via os/exec with generic types.
 - [bep/helpers](https://github.com/bep/helpers) ([v0.2.0](https://github.com/bep/helpers/releases/tag/v0.2.0), 4 days ago) - An utils package with a less burdened name.
 - [bep/logg](https://github.com/bep/logg) ([v0.1.0](https://github.com/bep/logg/releases/tag/v0.1.0), 2 weeks ago) - A Fast and Structured logging package for Go.
