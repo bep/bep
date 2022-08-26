@@ -1,9 +1,9 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.50.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.50.0), today) - Build, archive and release. Work in progress.
 - [bep/helpers](https://github.com/bep/helpers) ([v0.3.0](https://github.com/bep/helpers/releases/tag/v0.3.0), today) - An utils package with a less burdened name.
 - [bep/mod-a](https://github.com/bep/mod-a) ([v1.2.0](https://github.com/bep/mod-a/releases/tag/v1.2.0), 1 day ago) - Test Go Module
-- [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.14.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.14.0), 1 day ago) - Build, archive and release. Work in progress.
 - [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.8.1](https://github.com/bep/s3deploy/releases/tag/v2.8.1), 2 days ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
 - [bep/logg](https://github.com/bep/logg) ([v0.2.0](https://github.com/bep/logg/releases/tag/v0.2.0), 2 days ago) - A Fast and Structured logging package for Go.
 - [bep/execrpc](https://github.com/bep/execrpc) ([v0.7.0](https://github.com/bep/execrpc/releases/tag/v0.7.0), 6 days ago) - RCP via os/exec with generic types.
