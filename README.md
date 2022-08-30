@@ -1,11 +1,11 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.1](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.1), today) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.102.1](https://github.com/gohugoio/hugo/releases/tag/v0.102.1), 1 day ago) - The world’s fastest framework for building websites.
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.53.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.53.0), 1 day ago) - Build, archive and release. 
 - [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) ([deb/v0.6.0](https://github.com/gohugoio/hugoreleaser-archive-plugins/releases/tag/deb%2Fv0.6.0), 1 day ago) - Archive Plugins for https://github.com/gohugoio/hugoreleaser
 - [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) ([v0.6.0](https://github.com/gohugoio/hugoreleaser-plugins-api/releases/tag/v0.6.0), 1 day ago) - Plugins API for https://github.com/gohugoio/hugoreleaser
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.0](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.0), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [bep/helpers](https://github.com/bep/helpers) ([v0.3.1](https://github.com/bep/helpers/releases/tag/v0.3.1), 4 days ago) - An utils package with a less burdened name.
 - [bep/mod-a](https://github.com/bep/mod-a) ([v1.2.0](https://github.com/bep/mod-a/releases/tag/v1.2.0), 5 days ago) - Test Go Module
 - [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.8.1](https://github.com/bep/s3deploy/releases/tag/v2.8.1), 6 days ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
