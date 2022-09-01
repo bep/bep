@@ -1,7 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.102.2](https://github.com/gohugoio/hugo/releases/tag/v0.102.2), 1 day ago) - The world’s fastest framework for building websites.
+- [bep/docuapi](https://github.com/bep/docuapi) ([v2.2.0](https://github.com/bep/docuapi/releases/tag/v2.2.0), today) - Beautiful multilingual API documentation theme for Hugo
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.102.3](https://github.com/gohugoio/hugo/releases/tag/v0.102.3), today) - The world’s fastest framework for building websites.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2), 1 day ago) - Deliver Go binaries as fast and easily as possible
 - [bep/macosnotarylib](https://github.com/bep/macosnotarylib) ([v0.1.0](https://github.com/bep/macosnotarylib/releases/tag/v0.1.0), 2 days ago) - Notarize files using Apple&#39;s Notary API.
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.53.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.53.0), 3 days ago) - Build, archive and release. 
@@ -9,7 +10,6 @@
 - [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) ([v0.6.0](https://github.com/gohugoio/hugoreleaser-plugins-api/releases/tag/v0.6.0), 3 days ago) - Plugins API for https://github.com/gohugoio/hugoreleaser
 - [bep/helpers](https://github.com/bep/helpers) ([v0.3.1](https://github.com/bep/helpers/releases/tag/v0.3.1), 6 days ago) - An utils package with a less burdened name.
 - [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.8.1](https://github.com/bep/s3deploy/releases/tag/v2.8.1), 1 week ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
-- [bep/logg](https://github.com/bep/logg) ([v0.2.0](https://github.com/bep/logg/releases/tag/v0.2.0), 1 week ago) - A Fast and Structured logging package for Go.
 
 
 ### Recent sponsors (big thank you!)
