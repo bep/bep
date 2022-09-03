@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.53.2](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.53.2), today) - Build, archive and release. 
+- [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.54.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.54.0), today) - Build, archive and release. 
 - [bep/firstupdotenv](https://github.com/bep/firstupdotenv) ([v0.1.0](https://github.com/bep/firstupdotenv/releases/tag/v0.1.0), 1 day ago) - Loads env from the first firstup.env it finds.
 - [bep/docuapi](https://github.com/bep/docuapi) ([v2.2.0](https://github.com/bep/docuapi/releases/tag/v2.2.0), 2 days ago) - Beautiful multilingual API documentation theme for Hugo
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.102.3](https://github.com/gohugoio/hugo/releases/tag/v0.102.3), 2 days ago) - The world’s fastest framework for building websites.
