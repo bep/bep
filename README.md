@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.1.0](https://github.com/bep/s3rpc/releases/tag/v0.1.0), today) - Work in progress.
 - [bep/awscreate](https://github.com/bep/awscreate) ([v0.1.0](https://github.com/bep/awscreate/releases/tag/v0.1.0), today) - Work in progress.
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.54.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.54.0), 4 days ago) - Build, archive and release. 
 - [bep/firstupdotenv](https://github.com/bep/firstupdotenv) ([v0.1.0](https://github.com/bep/firstupdotenv/releases/tag/v0.1.0), 5 days ago) - Loads env from the first firstup.env it finds.
@@ -9,7 +10,6 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [bep/macosnotarylib](https://github.com/bep/macosnotarylib) ([v0.1.0](https://github.com/bep/macosnotarylib/releases/tag/v0.1.0), 1 week ago) - Notarize files using Apple&#39;s Notary API.
 - [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) ([deb/v0.6.0](https://github.com/gohugoio/hugoreleaser-archive-plugins/releases/tag/deb%2Fv0.6.0), 1 week ago) - Archive Plugins for https://github.com/gohugoio/hugoreleaser
-- [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) ([v0.6.0](https://github.com/gohugoio/hugoreleaser-plugins-api/releases/tag/v0.6.0), 1 week ago) - Plugins API for https://github.com/gohugoio/hugoreleaser
 
 
 ### Recent sponsors (big thank you!)
