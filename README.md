@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.55.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.55.0), today) - Build, archive and release. 
 - [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) ([macospkgremote/v0.1.1](https://github.com/gohugoio/hugoreleaser-archive-plugins/releases/tag/macospkgremote%2Fv0.1.1), today) - Archive Plugins for https://github.com/gohugoio/hugoreleaser
 - [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.2.0](https://github.com/bep/s3rpc/releases/tag/v0.2.0), today) - Work in progress.
 - [bep/buildpkg](https://github.com/bep/buildpkg) ([v0.1.0](https://github.com/bep/buildpkg/releases/tag/v0.1.0), today) - Builds, signs, notarizes and staples a MacOS pkg file.
@@ -9,7 +10,6 @@
 - [bep/execrpc](https://github.com/bep/execrpc) ([v0.7.1](https://github.com/bep/execrpc/releases/tag/v0.7.1), 1 day ago) - RCP via os/exec with generic types.
 - [bep/awscreate](https://github.com/bep/awscreate) ([v0.1.0](https://github.com/bep/awscreate/releases/tag/v0.1.0), 2 days ago) - Work in progress.
 - [bep/firstupdotenv](https://github.com/bep/firstupdotenv) ([v0.1.0](https://github.com/bep/firstupdotenv/releases/tag/v0.1.0), 1 week ago) - Loads env from the first firstup.env it finds.
-- [bep/docuapi](https://github.com/bep/docuapi) ([v2.2.0](https://github.com/bep/docuapi/releases/tag/v2.2.0), 1 week ago) - Beautiful multilingual API documentation theme for Hugo
 
 
 ### Recent sponsors (big thank you!)
