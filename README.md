@@ -2,7 +2,7 @@
 
 ### Recent releases
 - [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.2.0](https://github.com/bep/s3rpc/releases/tag/v0.2.0), today) - Work in progress.
-- [bep/buildpkg](https://github.com/bep/buildpkg) ([v0.1.0](https://github.com/bep/buildpkg/releases/tag/v0.1.0), today) - Builds and notarizes a MacOS installer package.
+- [bep/buildpkg](https://github.com/bep/buildpkg) ([v0.1.0](https://github.com/bep/buildpkg/releases/tag/v0.1.0), today) - Builds, signs, notarizes and staples a MacOS pkg file.
 - [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) ([v0.7.0](https://github.com/gohugoio/hugoreleaser-plugins-api/releases/tag/v0.7.0), today) - Plugins API for https://github.com/gohugoio/hugoreleaser
 - [bep/helpers](https://github.com/bep/helpers) ([v0.4.0](https://github.com/bep/helpers/releases/tag/v0.4.0), today) - An utils package with a less burdened name.
 - [bep/execrpc](https://github.com/bep/execrpc) ([v0.7.1](https://github.com/bep/execrpc/releases/tag/v0.7.1), 1 day ago) - RCP via os/exec with generic types.
