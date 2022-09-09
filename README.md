@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [bep/helpers](https://github.com/bep/helpers) ([v0.4.0](https://github.com/bep/helpers/releases/tag/v0.4.0), today) - An utils package with a less burdened name.
 - [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) ([v0.6.1](https://github.com/gohugoio/hugoreleaser-plugins-api/releases/tag/v0.6.1), 1 day ago) - Plugins API for https://github.com/gohugoio/hugoreleaser
 - [bep/execrpc](https://github.com/bep/execrpc) ([v0.7.1](https://github.com/bep/execrpc/releases/tag/v0.7.1), 1 day ago) - RCP via os/exec with generic types.
 - [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.1.0](https://github.com/bep/s3rpc/releases/tag/v0.1.0), 2 days ago) - Work in progress.
@@ -9,7 +10,6 @@
 - [bep/firstupdotenv](https://github.com/bep/firstupdotenv) ([v0.1.0](https://github.com/bep/firstupdotenv/releases/tag/v0.1.0), 1 week ago) - Loads env from the first firstup.env it finds.
 - [bep/docuapi](https://github.com/bep/docuapi) ([v2.2.0](https://github.com/bep/docuapi/releases/tag/v2.2.0), 1 week ago) - Beautiful multilingual API documentation theme for Hugo
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.102.3](https://github.com/gohugoio/hugo/releases/tag/v0.102.3), 1 week ago) - The world’s fastest framework for building websites.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.2](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.2), 1 week ago) - Deliver Go binaries as fast and easily as possible
 
 
 ### Recent sponsors (big thank you!)
