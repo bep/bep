@@ -1,7 +1,6 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/awsfirstup](https://github.com/bep/awsfirstup) ([v0.1.0](https://github.com/bep/awsfirstup/releases/tag/v0.1.0), today) - Combines https://github.com/99designs/aws-vault with https://github.com/bep/firstupdotenv
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.102.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.102.0), 1 day ago) - The source for https://gohugo.io/
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.55.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.55.0), 2 days ago) - Build, archive and release. 
 - [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) ([macospkgremote/v0.1.1](https://github.com/gohugoio/hugoreleaser-archive-plugins/releases/tag/macospkgremote%2Fv0.1.1), 2 days ago) - Archive Plugins for https://github.com/gohugoio/hugoreleaser
