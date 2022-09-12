@@ -1,10 +1,10 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.3.0](https://github.com/bep/s3rpc/releases/tag/v0.3.0), today) - RCP via AWS S3.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.102.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.102.0), 2 days ago) - The source for https://gohugo.io/
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.55.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.55.0), 3 days ago) - Build, archive and release. 
 - [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) ([macospkgremote/v0.1.1](https://github.com/gohugoio/hugoreleaser-archive-plugins/releases/tag/macospkgremote%2Fv0.1.1), 3 days ago) - Archive Plugins for https://github.com/gohugoio/hugoreleaser
-- [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.2.0](https://github.com/bep/s3rpc/releases/tag/v0.2.0), 3 days ago) - RCP via AWS S3.
 - [bep/buildpkg](https://github.com/bep/buildpkg) ([v0.1.0](https://github.com/bep/buildpkg/releases/tag/v0.1.0), 3 days ago) - Builds, signs, notarizes and staples a MacOS pkg file.
 - [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) ([v0.7.0](https://github.com/gohugoio/hugoreleaser-plugins-api/releases/tag/v0.7.0), 3 days ago) - Plugins API for https://github.com/gohugoio/hugoreleaser
 - [bep/helpers](https://github.com/bep/helpers) ([v0.4.0](https://github.com/bep/helpers/releases/tag/v0.4.0), 3 days ago) - An utils package with a less burdened name.
