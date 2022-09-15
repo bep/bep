@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.103.0](https://github.com/gohugoio/hugo/releases/tag/v0.103.0), today) - The world’s fastest framework for building websites.
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.0), today) - Build, archive and release. 
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([turbo/v7.20001.20101](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/turbo%2Fv7.20001.20101), 2 days ago) - A collection of JS libraries that works great with Hugo.
 - [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.3.0](https://github.com/bep/s3rpc/releases/tag/v0.3.0), 3 days ago) - RCP via AWS S3.
@@ -9,7 +10,6 @@
 - [bep/buildpkg](https://github.com/bep/buildpkg) ([v0.1.0](https://github.com/bep/buildpkg/releases/tag/v0.1.0), 6 days ago) - Builds, signs, notarizes and staples a MacOS pkg file.
 - [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) ([v0.7.0](https://github.com/gohugoio/hugoreleaser-plugins-api/releases/tag/v0.7.0), 6 days ago) - Plugins API for https://github.com/gohugoio/hugoreleaser
 - [bep/helpers](https://github.com/bep/helpers) ([v0.4.0](https://github.com/bep/helpers/releases/tag/v0.4.0), 6 days ago) - An utils package with a less burdened name.
-- [bep/execrpc](https://github.com/bep/execrpc) ([v0.7.1](https://github.com/bep/execrpc/releases/tag/v0.7.1), 1 week ago) - RCP via os/exec with generic types.
 
 
 ### Recent sponsors (big thank you!)
