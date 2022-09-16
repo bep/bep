@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.3), today) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.103.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.103.0), 1 day ago) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.103.0](https://github.com/gohugoio/hugo/releases/tag/v0.103.0), 1 day ago) - The world’s fastest framework for building websites.
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.0), 1 day ago) - Build, archive and release. 
@@ -9,7 +10,6 @@
 - [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) ([macospkgremote/v0.1.1](https://github.com/gohugoio/hugoreleaser-archive-plugins/releases/tag/macospkgremote%2Fv0.1.1), 1 week ago) - Archive Plugins for https://github.com/gohugoio/hugoreleaser
 - [bep/buildpkg](https://github.com/bep/buildpkg) ([v0.1.0](https://github.com/bep/buildpkg/releases/tag/v0.1.0), 1 week ago) - Builds, signs, notarizes and staples a MacOS pkg file.
 - [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) ([v0.7.0](https://github.com/gohugoio/hugoreleaser-plugins-api/releases/tag/v0.7.0), 1 week ago) - Plugins API for https://github.com/gohugoio/hugoreleaser
-- [bep/helpers](https://github.com/bep/helpers) ([v0.4.0](https://github.com/bep/helpers/releases/tag/v0.4.0), 1 week ago) - An utils package with a less burdened name.
 
 
 ### Recent sponsors (big thank you!)
