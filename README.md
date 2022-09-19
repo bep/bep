@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.1.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.1.0), today) - Work in progress.
+- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.1.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.1.0), today) - Fast Hugo gallery theme/module suitable for lots of images.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), today) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.103.1](https://github.com/gohugoio/hugo/releases/tag/v0.103.1), 1 day ago) - The world’s fastest framework for building websites.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.103.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.103.0), 4 days ago) - The source for https://gohugo.io/
