@@ -1,8 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), today) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.103.1](https://github.com/gohugoio/hugo/releases/tag/v0.103.1), 1 day ago) - The world’s fastest framework for building websites.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.3), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.103.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.103.0), 4 days ago) - The source for https://gohugo.io/
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.0), 4 days ago) - Build, archive and release. 
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([turbo/v7.20001.20101](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/turbo%2Fv7.20001.20101), 6 days ago) - A collection of JS libraries that works great with Hugo.
