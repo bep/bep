@@ -14,11 +14,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [kaizimmerm](https://github.com/kaizimmerm) (today)
 - [rlove](https://github.com/rlove) (6 days ago)
 - [navendu-pottekkat](https://github.com/navendu-pottekkat) (2 weeks ago)
 - [isaenzq](https://github.com/isaenzq) (3 weeks ago)
 - [dgasparri](https://github.com/dgasparri) (1 month ago)
-- [dlford](https://github.com/dlford) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
