@@ -1,10 +1,10 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.4.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.4.0), today) - Fast Hugo gallery theme/module suitable for lots of images.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.104.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.104.0), today) - The source for https://gohugo.io/
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.0](https://github.com/gohugoio/hugo/releases/tag/v0.104.0), today) - The world’s fastest framework for building websites.
-- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.3.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.3.0), 2 days ago) - Fast Hugo gallery theme/module suitable for lots of images.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.103.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.103.0), 1 week ago) - The source for https://gohugo.io/
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.0), 1 week ago) - Build, archive and release. 
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([turbo/v7.20001.20101](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/turbo%2Fv7.20001.20101), 1 week ago) - A collection of JS libraries that works great with Hugo.
 - [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.3.0](https://github.com/bep/s3rpc/releases/tag/v0.3.0), 1 week ago) - RCP via AWS S3.
