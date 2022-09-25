@@ -1,10 +1,10 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.4.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.4.0), 1 day ago) - Fast Hugo gallery theme/module suitable for lots of images.
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.104.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.104.0), 1 day ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.0](https://github.com/gohugoio/hugo/releases/tag/v0.104.0), 1 day ago) - The world’s fastest framework for building websites.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.4.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.4.0), 2 days ago) - Fast Hugo gallery theme/module suitable for lots of images.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.104.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.104.0), 2 days ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.0](https://github.com/gohugoio/hugo/releases/tag/v0.104.0), 2 days ago) - The world’s fastest framework for building websites.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 6 days ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.0), 1 week ago) - Build, archive and release. 
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([turbo/v7.20001.20101](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/turbo%2Fv7.20001.20101), 1 week ago) - A collection of JS libraries that works great with Hugo.
 - [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.3.0](https://github.com/bep/s3rpc/releases/tag/v0.3.0), 1 week ago) - RCP via AWS S3.
@@ -14,7 +14,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [kaizimmerm](https://github.com/kaizimmerm) (1 day ago)
+- [kaizimmerm](https://github.com/kaizimmerm) (2 days ago)
 - [rlove](https://github.com/rlove) (1 week ago)
 - [navendu-pottekkat](https://github.com/navendu-pottekkat) (3 weeks ago)
 - [isaenzq](https://github.com/isaenzq) (3 weeks ago)
