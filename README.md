@@ -1,9 +1,9 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.1](https://github.com/gohugoio/hugo/releases/tag/v0.104.1), 1 day ago) - The world’s fastest framework for building websites.
-- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.4.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.4.0), 4 days ago) - Fast Hugo gallery theme/module suitable for lots of images.
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.104.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.104.0), 4 days ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.1](https://github.com/gohugoio/hugo/releases/tag/v0.104.1), 2 days ago) - The world’s fastest framework for building websites.
+- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.4.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.4.0), 5 days ago) - Fast Hugo gallery theme/module suitable for lots of images.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.104.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.104.0), 5 days ago) - The source for https://gohugo.io/
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.0), 1 week ago) - Build, archive and release. 
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([turbo/v7.20001.20101](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/turbo%2Fv7.20001.20101), 2 weeks ago) - A collection of JS libraries that works great with Hugo.
@@ -14,10 +14,10 @@
 
 ### Recent sponsors (big thank you!)
 
-- [kaizimmerm](https://github.com/kaizimmerm) (4 days ago)
+- [kaizimmerm](https://github.com/kaizimmerm) (5 days ago)
 - [rlove](https://github.com/rlove) (1 week ago)
 - [navendu-pottekkat](https://github.com/navendu-pottekkat) (3 weeks ago)
-- [isaenzq](https://github.com/isaenzq) (4 weeks ago)
+- [isaenzq](https://github.com/isaenzq) (1 month ago)
 - [dgasparri](https://github.com/dgasparri) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
