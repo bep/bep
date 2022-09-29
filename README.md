@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20200.20100](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20200.20100), today) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.2](https://github.com/gohugoio/hugo/releases/tag/v0.104.2), today) - The world’s fastest framework for building websites.
 - [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.4.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.4.0), 6 days ago) - Fast Hugo gallery theme/module suitable for lots of images.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.104.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.104.0), 6 days ago) - The source for https://gohugo.io/
@@ -9,7 +10,6 @@
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([turbo/v7.20001.20101](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/turbo%2Fv7.20001.20101), 2 weeks ago) - A collection of JS libraries that works great with Hugo.
 - [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.3.0](https://github.com/bep/s3rpc/releases/tag/v0.3.0), 2 weeks ago) - RCP via AWS S3.
 - [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) ([macospkgremote/v0.1.1](https://github.com/gohugoio/hugoreleaser-archive-plugins/releases/tag/macospkgremote%2Fv0.1.1), 2 weeks ago) - Archive Plugins for https://github.com/gohugoio/hugoreleaser
-- [bep/buildpkg](https://github.com/bep/buildpkg) ([v0.1.0](https://github.com/bep/buildpkg/releases/tag/v0.1.0), 2 weeks ago) - Builds, signs, notarizes and staples a MacOS pkg file.
 
 
 ### Recent sponsors (big thank you!)
