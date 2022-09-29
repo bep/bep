@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.1](https://github.com/gohugoio/hugo/releases/tag/v0.104.1), 3 days ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.2](https://github.com/gohugoio/hugo/releases/tag/v0.104.2), today) - The world’s fastest framework for building websites.
 - [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.4.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.4.0), 6 days ago) - Fast Hugo gallery theme/module suitable for lots of images.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.104.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.104.0), 6 days ago) - The source for https://gohugo.io/
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 1 week ago) - Deliver Go binaries as fast and easily as possible
