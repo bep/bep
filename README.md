@@ -1,9 +1,9 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.5.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.5.0), today) - Fast Hugo gallery theme/module suitable for lots of images.
 - [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20200.20100](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20200.20100), 2 days ago) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.2](https://github.com/gohugoio/hugo/releases/tag/v0.104.2), 2 days ago) - The world’s fastest framework for building websites.
-- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.4.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.4.0), 1 week ago) - Fast Hugo gallery theme/module suitable for lots of images.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.104.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.104.0), 1 week ago) - The source for https://gohugo.io/
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.0), 2 weeks ago) - Build, archive and release. 
