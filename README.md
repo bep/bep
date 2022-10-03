@@ -1,14 +1,14 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.6.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.6.0), today) - Fast Hugo gallery theme/module suitable for lots of images.
-- [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20200.20100](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20200.20100), 3 days ago) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.2](https://github.com/gohugoio/hugo/releases/tag/v0.104.2), 3 days ago) - The world’s fastest framework for building websites.
+- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.6.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.6.0), 1 day ago) - Fast Hugo gallery theme/module suitable for lots of images.
+- [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20200.20100](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20200.20100), 4 days ago) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.2](https://github.com/gohugoio/hugo/releases/tag/v0.104.2), 4 days ago) - The world’s fastest framework for building websites.
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.104.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.104.0), 1 week ago) - The source for https://gohugo.io/
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 1 week ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.4](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.4), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.0), 2 weeks ago) - Build, archive and release. 
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([turbo/v7.20001.20101](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/turbo%2Fv7.20001.20101), 2 weeks ago) - A collection of JS libraries that works great with Hugo.
-- [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.3.0](https://github.com/bep/s3rpc/releases/tag/v0.3.0), 2 weeks ago) - RCP via AWS S3.
+- [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.3.0](https://github.com/bep/s3rpc/releases/tag/v0.3.0), 3 weeks ago) - RCP via AWS S3.
 - [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) ([macospkgremote/v0.1.1](https://github.com/gohugoio/hugoreleaser-archive-plugins/releases/tag/macospkgremote%2Fv0.1.1), 3 weeks ago) - Archive Plugins for https://github.com/gohugoio/hugoreleaser
 
 
@@ -16,7 +16,7 @@
 
 - [kaizimmerm](https://github.com/kaizimmerm) (1 week ago)
 - [rlove](https://github.com/rlove) (2 weeks ago)
-- [navendu-pottekkat](https://github.com/navendu-pottekkat) (4 weeks ago)
+- [navendu-pottekkat](https://github.com/navendu-pottekkat) (1 month ago)
 - [isaenzq](https://github.com/isaenzq) (1 month ago)
 - [dgasparri](https://github.com/dgasparri) (1 month ago)
 
