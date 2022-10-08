@@ -1,9 +1,9 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.3](https://github.com/gohugoio/hugo/releases/tag/v0.104.3), 3 days ago) - The world’s fastest framework for building websites.
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 4 days ago) - Deliver Go binaries as fast and easily as possible
-- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.7.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.7.0), 4 days ago) - Fast Hugo gallery theme/module suitable for lots of images.
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.3](https://github.com/gohugoio/hugo/releases/tag/v0.104.3), 4 days ago) - The world’s fastest framework for building websites.
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 5 days ago) - Deliver Go binaries as fast and easily as possible
+- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.7.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.7.0), 5 days ago) - Fast Hugo gallery theme/module suitable for lots of images.
 - [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20200.20100](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20200.20100), 1 week ago) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.104.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.104.0), 2 weeks ago) - The source for https://gohugo.io/
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.0](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.0), 3 weeks ago) - Build, archive and release. 
@@ -15,7 +15,7 @@
 ### Recent sponsors (big thank you!)
 
 - [kaizimmerm](https://github.com/kaizimmerm) (2 weeks ago)
-- [rlove](https://github.com/rlove) (2 weeks ago)
+- [rlove](https://github.com/rlove) (3 weeks ago)
 - [navendu-pottekkat](https://github.com/navendu-pottekkat) (1 month ago)
 - [isaenzq](https://github.com/isaenzq) (1 month ago)
 - [dgasparri](https://github.com/dgasparri) (2 months ago)
