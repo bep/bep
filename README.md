@@ -1,8 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.1](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.1), 2 days ago) - Build, archive and release. 
-- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.9.0](https://github.com/bep/s3deploy/releases/tag/v2.9.0), 2 days ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
+- [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.1](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.1), 3 days ago) - Build, archive and release. 
+- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.9.0](https://github.com/bep/s3deploy/releases/tag/v2.9.0), 3 days ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.3](https://github.com/gohugoio/hugo/releases/tag/v0.104.3), 1 week ago) - The world’s fastest framework for building websites.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.7.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.7.0), 1 week ago) - Fast Hugo gallery theme/module suitable for lots of images.
@@ -15,7 +15,7 @@
 ### Recent sponsors (big thank you!)
 
 - [kaizimmerm](https://github.com/kaizimmerm) (3 weeks ago)
-- [rlove](https://github.com/rlove) (3 weeks ago)
+- [rlove](https://github.com/rlove) (4 weeks ago)
 - [navendu-pottekkat](https://github.com/navendu-pottekkat) (1 month ago)
 - [isaenzq](https://github.com/isaenzq) (1 month ago)
 - [dgasparri](https://github.com/dgasparri) (2 months ago)
