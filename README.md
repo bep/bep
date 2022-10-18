@@ -1,9 +1,9 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.1](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.1), 5 days ago) - Build, archive and release. 
-- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.9.0](https://github.com/bep/s3deploy/releases/tag/v2.9.0), 5 days ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.3](https://github.com/gohugoio/hugo/releases/tag/v0.104.3), 1 week ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.1](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.1), 6 days ago) - Build, archive and release. 
+- [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.9.0](https://github.com/bep/s3deploy/releases/tag/v2.9.0), 6 days ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.3](https://github.com/gohugoio/hugo/releases/tag/v0.104.3), 2 weeks ago) - The world’s fastest framework for building websites.
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.11.5](https://github.com/goreleaser/goreleaser/releases/tag/v1.11.5), 2 weeks ago) - Deliver Go binaries as fast and easily as possible
 - [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) ([v0.7.0](https://github.com/bep/gallerydeluxe/releases/tag/v0.7.0), 2 weeks ago) - Fast Hugo gallery theme/module suitable for lots of images.
 - [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20200.20100](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20200.20100), 2 weeks ago) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
