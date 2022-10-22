@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 1 day ago) - Deliver Go binaries as fast and easily as possible
+- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 2 days ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.1](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.1), 1 week ago) - Build, archive and release. 
 - [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.9.0](https://github.com/bep/s3deploy/releases/tag/v2.9.0), 1 week ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.104.3](https://github.com/gohugoio/hugo/releases/tag/v0.104.3), 2 weeks ago) - The world’s fastest framework for building websites.
