@@ -1,6 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
+- [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v3.0.0](https://github.com/karlseguin/ccache/releases/tag/v3.0.0), today) - A golang LRU Cache for high concurrency
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 3 days ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.1](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.1), 1 week ago) - Build, archive and release. 
 - [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.9.0](https://github.com/bep/s3deploy/releases/tag/v2.9.0), 1 week ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
@@ -9,7 +10,6 @@
 - [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) ([v5.20200.20100](https://github.com/gohugoio/hugo-mod-bootstrap-scss/releases/tag/v5.20200.20100), 3 weeks ago) - Packages Bootstrap SCSS (v4 and v5) as a Hugo Module
 - [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.104.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.104.0), 1 month ago) - The source for https://gohugo.io/
 - [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) ([turbo/v7.20001.20101](https://github.com/gohugoio/hugo-mod-jslibs/releases/tag/turbo%2Fv7.20001.20101), 1 month ago) - A collection of JS libraries that works great with Hugo.
-- [bep/s3rpc](https://github.com/bep/s3rpc) ([v0.3.0](https://github.com/bep/s3rpc/releases/tag/v0.3.0), 1 month ago) - RCP via AWS S3.
 
 
 ### Recent sponsors (big thank you!)
