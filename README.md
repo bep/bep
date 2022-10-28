@@ -1,7 +1,7 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v3.0.0](https://github.com/karlseguin/ccache/releases/tag/v3.0.0), 4 days ago) - A golang LRU Cache for high concurrency
+- [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v3.0.0](https://github.com/karlseguin/ccache/releases/tag/v3.0.0), 5 days ago) - A golang LRU Cache for high concurrency
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ([v1.12.3](https://github.com/goreleaser/goreleaser/releases/tag/v1.12.3), 1 week ago) - Deliver Go binaries as fast and easily as possible
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.1](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.1), 2 weeks ago) - Build, archive and release. 
 - [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.9.0](https://github.com/bep/s3deploy/releases/tag/v2.9.0), 2 weeks ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
@@ -17,7 +17,7 @@
 - [kaizimmerm](https://github.com/kaizimmerm) (1 month ago)
 - [rlove](https://github.com/rlove) (1 month ago)
 - [navendu-pottekkat](https://github.com/navendu-pottekkat) (1 month ago)
-- [isaenzq](https://github.com/isaenzq) (1 month ago)
+- [isaenzq](https://github.com/isaenzq) (2 months ago)
 - [dgasparri](https://github.com/dgasparri) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
