@@ -1,8 +1,8 @@
 ## Greetings from Norway! 🇳🇴
 
 ### Recent releases
-- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.105.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.105.0), 3 days ago) - The source for https://gohugo.io/
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.105.0](https://github.com/gohugoio/hugo/releases/tag/v0.105.0), 3 days ago) - The world’s fastest framework for building websites.
+- [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) ([v0.105.0](https://github.com/gohugoio/hugoDocs/releases/tag/v0.105.0), 4 days ago) - The source for https://gohugo.io/
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) ([v0.105.0](https://github.com/gohugoio/hugo/releases/tag/v0.105.0), 4 days ago) - The world’s fastest framework for building websites.
 - [karlseguin/ccache](https://github.com/karlseguin/ccache) ([v3.0.0](https://github.com/karlseguin/ccache/releases/tag/v3.0.0), 1 week ago) - A golang LRU Cache for high concurrency
 - [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) ([v0.56.1](https://github.com/gohugoio/hugoreleaser/releases/tag/v0.56.1), 2 weeks ago) - Build, archive and release. 
 - [bep/s3deploy](https://github.com/bep/s3deploy) ([v2.9.0](https://github.com/bep/s3deploy/releases/tag/v2.9.0), 2 weeks ago) - A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. &#34;Cache-Control&#34;)
