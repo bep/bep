@@ -1,10 +1,18 @@
 ## Greetings from Norway! 🇳🇴
 
-### Recent releases
-{{range recentReleases 10 }}
-{{- if not (or (eq .Name "linode/docs") (eq .Name "linode/linode-api-docs") (eq .Name "thegeeklab/hugo-geekdoc") (eq .Name "treosh/lighthouse-ci-action") ) -}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
-{{ end -}}
+### Current Work
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
+{{- end}}
+
+### Recent projects
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
+{{- end}}
+
+### Recent Pull Requests
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
 ### Recent sponsors (big thank you!)
