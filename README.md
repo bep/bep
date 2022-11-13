@@ -5,8 +5,8 @@
 - [bep/lazycache](https://github.com/bep/lazycache) - Work in progress.
 - [bep/hugo-imageprocessing-test](https://github.com/bep/hugo-imageprocessing-test) - Just a test repo.
 - [bep/staticbattery.com](https://github.com/bep/staticbattery.com) - Source for staticbattery.com
-- [bep/cache-warmer-1](https://github.com/bep/cache-warmer-1)
 - [bep/gallerydeluxe_starter](https://github.com/bep/gallerydeluxe_starter) - Starter project for https://github.com/bep/gallerydeluxe
+- [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) - Fast Hugo gallery theme/module suitable for lots of images.
 
 ### Recent Pull Requests
 
