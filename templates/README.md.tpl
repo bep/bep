@@ -1,10 +1,5 @@
 ## Greetings from Norway! 🇳🇴
 
-### Current Work
-{{range recentContributions 5}}
-- [{{.Repo.Name}}]({{.Repo.URL}}){{with .Repo.Description}} - {{.}}{{end}} ({{humanize .OccurredAt}})
-{{- end}}
-
 ### Recent projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
