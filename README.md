@@ -10,11 +10,11 @@
 
 ### Recent Pull Requests
 
+- [Fix concurrency issue in MemMapFs.Mkdir/MkdirAll](https://github.com/spf13/afero/pull/379) on [spf13/afero](https://github.com/spf13/afero) (today)
 - [deps/124take2](https://github.com/bep/gowebp/pull/4) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
 - [deps/124](https://github.com/bep/gowebp/pull/3) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
 - [deps/v124](https://github.com/bep/gowebp/pull/2) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
 - [Make it generic](https://github.com/bep/lazycache/pull/1) on [bep/lazycache](https://github.com/bep/lazycache) (4 days ago)
-- [Fix taxonomy weight sort regression](https://github.com/gohugoio/hugo/pull/10409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
