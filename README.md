@@ -10,15 +10,15 @@
 
 ### Recent Pull Requests
 
-- [deps/124take2](https://github.com/bep/gowebp/pull/4) on [bep/gowebp](https://github.com/bep/gowebp) (today)
-- [deps/124](https://github.com/bep/gowebp/pull/3) on [bep/gowebp](https://github.com/bep/gowebp) (today)
-- [deps/v124](https://github.com/bep/gowebp/pull/2) on [bep/gowebp](https://github.com/bep/gowebp) (today)
-- [Make it generic](https://github.com/bep/lazycache/pull/1) on [bep/lazycache](https://github.com/bep/lazycache) (3 days ago)
+- [deps/124take2](https://github.com/bep/gowebp/pull/4) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
+- [deps/124](https://github.com/bep/gowebp/pull/3) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
+- [deps/v124](https://github.com/bep/gowebp/pull/2) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
+- [Make it generic](https://github.com/bep/lazycache/pull/1) on [bep/lazycache](https://github.com/bep/lazycache) (4 days ago)
 - [Fix taxonomy weight sort regression](https://github.com/gohugoio/hugo/pull/10409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [npee](https://github.com/npee) (6 days ago)
+- [npee](https://github.com/npee) (1 week ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (1 week ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (1 month ago)
 - [rlove](https://github.com/rlove) (1 month ago)
