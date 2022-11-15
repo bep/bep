@@ -10,11 +10,11 @@
 
 ### Recent Pull Requests
 
-- [tpl/internal: Sync go_templates](https://github.com/gohugoio/hugo/pull/10437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix concurrency issue in MemMapFs.Mkdir/MkdirAll](https://github.com/spf13/afero/pull/379) on [spf13/afero](https://github.com/spf13/afero) (today)
-- [deps/124take2](https://github.com/bep/gowebp/pull/4) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
-- [deps/124](https://github.com/bep/gowebp/pull/3) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
-- [deps/v124](https://github.com/bep/gowebp/pull/2) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
+- [tpl/internal: Sync go_templates](https://github.com/gohugoio/hugo/pull/10437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix concurrency issue in MemMapFs.Mkdir/MkdirAll](https://github.com/spf13/afero/pull/379) on [spf13/afero](https://github.com/spf13/afero) (1 day ago)
+- [deps/124take2](https://github.com/bep/gowebp/pull/4) on [bep/gowebp](https://github.com/bep/gowebp) (2 days ago)
+- [deps/124](https://github.com/bep/gowebp/pull/3) on [bep/gowebp](https://github.com/bep/gowebp) (2 days ago)
+- [deps/v124](https://github.com/bep/gowebp/pull/2) on [bep/gowebp](https://github.com/bep/gowebp) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
