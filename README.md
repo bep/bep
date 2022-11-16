@@ -10,18 +10,18 @@
 
 ### Recent Pull Requests
 
-- [deps: Upgrade github.com/bep/gowebp v0.1.0 =&gt; v0.2.0](https://github.com/gohugoio/hugo/pull/10442) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/internal: Sync go_templates](https://github.com/gohugoio/hugo/pull/10437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix concurrency issue in MemMapFs.Mkdir/MkdirAll](https://github.com/spf13/afero/pull/379) on [spf13/afero](https://github.com/spf13/afero) (1 day ago)
-- [deps/124take2](https://github.com/bep/gowebp/pull/4) on [bep/gowebp](https://github.com/bep/gowebp) (2 days ago)
-- [deps/124](https://github.com/bep/gowebp/pull/3) on [bep/gowebp](https://github.com/bep/gowebp) (2 days ago)
+- [deps: Upgrade github.com/bep/gowebp v0.1.0 =&gt; v0.2.0](https://github.com/gohugoio/hugo/pull/10442) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/internal: Sync go_templates](https://github.com/gohugoio/hugo/pull/10437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix concurrency issue in MemMapFs.Mkdir/MkdirAll](https://github.com/spf13/afero/pull/379) on [spf13/afero](https://github.com/spf13/afero) (2 days ago)
+- [deps/124take2](https://github.com/bep/gowebp/pull/4) on [bep/gowebp](https://github.com/bep/gowebp) (3 days ago)
+- [deps/124](https://github.com/bep/gowebp/pull/3) on [bep/gowebp](https://github.com/bep/gowebp) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [npee](https://github.com/npee) (1 week ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (1 week ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (1 month ago)
-- [rlove](https://github.com/rlove) (1 month ago)
+- [rlove](https://github.com/rlove) (2 months ago)
 - [navendu-pottekkat](https://github.com/navendu-pottekkat) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
