@@ -10,11 +10,11 @@
 
 ### Recent Pull Requests
 
+- [Fix potential deadlock with nested GetOrCreate calls](https://github.com/bep/lazycache/pull/3) on [bep/lazycache](https://github.com/bep/lazycache) (today)
 - [deps: Upgrade github.com/bep/gowebp v0.1.0 =&gt; v0.2.0](https://github.com/gohugoio/hugo/pull/10442) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl/internal: Sync go_templates](https://github.com/gohugoio/hugo/pull/10437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix concurrency issue in MemMapFs.Mkdir/MkdirAll](https://github.com/spf13/afero/pull/379) on [spf13/afero](https://github.com/spf13/afero) (2 days ago)
 - [deps/124take2](https://github.com/bep/gowebp/pull/4) on [bep/gowebp](https://github.com/bep/gowebp) (3 days ago)
-- [deps/124](https://github.com/bep/gowebp/pull/3) on [bep/gowebp](https://github.com/bep/gowebp) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
