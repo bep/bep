@@ -10,16 +10,16 @@
 
 ### Recent Pull Requests
 
-- [Fix potential deadlock with nested GetOrCreate calls](https://github.com/bep/lazycache/pull/3) on [bep/lazycache](https://github.com/bep/lazycache) (today)
-- [deps: Upgrade github.com/bep/gowebp v0.1.0 =&gt; v0.2.0](https://github.com/gohugoio/hugo/pull/10442) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl/internal: Sync go_templates](https://github.com/gohugoio/hugo/pull/10437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix concurrency issue in MemMapFs.Mkdir/MkdirAll](https://github.com/spf13/afero/pull/379) on [spf13/afero](https://github.com/spf13/afero) (2 days ago)
-- [deps/124take2](https://github.com/bep/gowebp/pull/4) on [bep/gowebp](https://github.com/bep/gowebp) (3 days ago)
+- [Fix potential deadlock with nested GetOrCreate calls](https://github.com/bep/lazycache/pull/3) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
+- [deps: Upgrade github.com/bep/gowebp v0.1.0 =&gt; v0.2.0](https://github.com/gohugoio/hugo/pull/10442) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl/internal: Sync go_templates](https://github.com/gohugoio/hugo/pull/10437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix concurrency issue in MemMapFs.Mkdir/MkdirAll](https://github.com/spf13/afero/pull/379) on [spf13/afero](https://github.com/spf13/afero) (3 days ago)
+- [deps/124take2](https://github.com/bep/gowebp/pull/4) on [bep/gowebp](https://github.com/bep/gowebp) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [npee](https://github.com/npee) (1 week ago)
-- [forgeronvirtuel](https://github.com/forgeronvirtuel) (1 week ago)
+- [forgeronvirtuel](https://github.com/forgeronvirtuel) (2 weeks ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (1 month ago)
 - [rlove](https://github.com/rlove) (2 months ago)
 - [navendu-pottekkat](https://github.com/navendu-pottekkat) (2 months ago)
