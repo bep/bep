@@ -10,15 +10,15 @@
 
 ### Recent Pull Requests
 
-- [deps: Upgrade github.com/frankban/quicktest v1.14.4](https://github.com/gohugoio/hugo/pull/10457) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [deps: Upgrade github.com/alecthomas/chroma/v2 v2.4.0](https://github.com/gohugoio/hugo/pull/10454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix potential deadlock with nested GetOrCreate calls](https://github.com/bep/lazycache/pull/3) on [bep/lazycache](https://github.com/bep/lazycache) (4 days ago)
-- [deps: Upgrade github.com/bep/gowebp v0.1.0 =&gt; v0.2.0](https://github.com/gohugoio/hugo/pull/10442) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [tpl/internal: Sync go_templates](https://github.com/gohugoio/hugo/pull/10437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [deps: Upgrade github.com/frankban/quicktest v1.14.4](https://github.com/gohugoio/hugo/pull/10457) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [deps: Upgrade github.com/alecthomas/chroma/v2 v2.4.0](https://github.com/gohugoio/hugo/pull/10454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix potential deadlock with nested GetOrCreate calls](https://github.com/bep/lazycache/pull/3) on [bep/lazycache](https://github.com/bep/lazycache) (5 days ago)
+- [deps: Upgrade github.com/bep/gowebp v0.1.0 =&gt; v0.2.0](https://github.com/gohugoio/hugo/pull/10442) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [tpl/internal: Sync go_templates](https://github.com/gohugoio/hugo/pull/10437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [npee](https://github.com/npee) (1 week ago)
+- [npee](https://github.com/npee) (2 weeks ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (2 weeks ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (1 month ago)
 - [rlove](https://github.com/rlove) (2 months ago)
