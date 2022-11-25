@@ -10,10 +10,10 @@
 
 ### Recent Pull Requests
 
-- [lexers: Add benchmark for lexers.Get](https://github.com/alecthomas/chroma/pull/713) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (today)
-- [Add a cache for lexers.Get](https://github.com/gohugoio/hugo/pull/10470) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade github.com/frankban/quicktest v1.14.4](https://github.com/gohugoio/hugo/pull/10457) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [deps: Upgrade github.com/alecthomas/chroma/v2 v2.4.0](https://github.com/gohugoio/hugo/pull/10454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [lexers: Add benchmark for lexers.Get](https://github.com/alecthomas/chroma/pull/713) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (1 day ago)
+- [Add a cache for lexers.Get](https://github.com/gohugoio/hugo/pull/10470) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Upgrade github.com/frankban/quicktest v1.14.4](https://github.com/gohugoio/hugo/pull/10457) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [deps: Upgrade github.com/alecthomas/chroma/v2 v2.4.0](https://github.com/gohugoio/hugo/pull/10454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix potential deadlock with nested GetOrCreate calls](https://github.com/bep/lazycache/pull/3) on [bep/lazycache](https://github.com/bep/lazycache) (1 week ago)
 
 ### Recent sponsors (big thank you!)
