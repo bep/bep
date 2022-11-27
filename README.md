@@ -22,7 +22,7 @@
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (3 weeks ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (2 months ago)
 - [rlove](https://github.com/rlove) (2 months ago)
-- [navendu-pottekkat](https://github.com/navendu-pottekkat) (2 months ago)
+- [isaenzq](https://github.com/isaenzq) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
