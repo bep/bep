@@ -2,7 +2,7 @@
 
 ### Recent projects
 
-- [bep/lazycache](https://github.com/bep/lazycache) - Work in progress.
+- [bep/lazycache](https://github.com/bep/lazycache) - Thread safe in-memory LRU cache with non-blocking cache priming on cache misses.
 - [bep/hugo-imageprocessing-test](https://github.com/bep/hugo-imageprocessing-test) - Just a test repo.
 - [bep/staticbattery.com](https://github.com/bep/staticbattery.com) - Source for staticbattery.com
 - [bep/gallerydeluxe_starter](https://github.com/bep/gallerydeluxe_starter) - Starter project for https://github.com/bep/gallerydeluxe
