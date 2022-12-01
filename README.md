@@ -10,8 +10,8 @@
 
 ### Recent Pull Requests
 
-- [lexers: Add benchmark for lexers.Get](https://github.com/alecthomas/chroma/pull/713) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (6 days ago)
-- [Add a cache for lexers.Get](https://github.com/gohugoio/hugo/pull/10470) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [lexers: Add benchmark for lexers.Get](https://github.com/alecthomas/chroma/pull/713) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (1 week ago)
+- [Add a cache for lexers.Get](https://github.com/gohugoio/hugo/pull/10470) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [deps: Upgrade github.com/frankban/quicktest v1.14.4](https://github.com/gohugoio/hugo/pull/10457) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [deps: Upgrade github.com/alecthomas/chroma/v2 v2.4.0](https://github.com/gohugoio/hugo/pull/10454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix potential deadlock with nested GetOrCreate calls](https://github.com/bep/lazycache/pull/3) on [bep/lazycache](https://github.com/bep/lazycache) (2 weeks ago)
@@ -19,7 +19,7 @@
 ### Recent sponsors (big thank you!)
 
 - [npee](https://github.com/npee) (3 weeks ago)
-- [forgeronvirtuel](https://github.com/forgeronvirtuel) (3 weeks ago)
+- [forgeronvirtuel](https://github.com/forgeronvirtuel) (4 weeks ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (2 months ago)
 - [rlove](https://github.com/rlove) (2 months ago)
 - [isaenzq](https://github.com/isaenzq) (3 months ago)
