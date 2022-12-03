@@ -10,16 +10,16 @@
 
 ### Recent Pull Requests
 
-- [Misc improvements/fixes](https://github.com/gohugoio/hugo/pull/10490) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [feat/misc godartsass dec22](https://github.com/gohugoio/hugo/pull/10488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade github.com/bep/godartsass v0.14.0 =&gt; v0.15.0](https://github.com/gohugoio/hugo/pull/10484) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc improvements/fixes](https://github.com/gohugoio/hugo/pull/10490) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [feat/misc godartsass dec22](https://github.com/gohugoio/hugo/pull/10488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Upgrade github.com/bep/godartsass v0.14.0 =&gt; v0.15.0](https://github.com/gohugoio/hugo/pull/10484) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [lexers: Add benchmark for lexers.Get](https://github.com/alecthomas/chroma/pull/713) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (1 week ago)
 - [Add a cache for lexers.Get](https://github.com/gohugoio/hugo/pull/10470) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
 - [npee](https://github.com/npee) (3 weeks ago)
-- [forgeronvirtuel](https://github.com/forgeronvirtuel) (4 weeks ago)
+- [forgeronvirtuel](https://github.com/forgeronvirtuel) (1 month ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (2 months ago)
 - [rlove](https://github.com/rlove) (2 months ago)
 - [isaenzq](https://github.com/isaenzq) (3 months ago)
