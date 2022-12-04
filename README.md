@@ -10,10 +10,10 @@
 
 ### Recent Pull Requests
 
-- [markup/goldmark: Add removeSurroundingParagraph for Markdown images](https://github.com/gohugoio/hugo/pull/10493) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc improvements/fixes](https://github.com/gohugoio/hugo/pull/10490) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [feat/misc godartsass dec22](https://github.com/gohugoio/hugo/pull/10488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [deps: Upgrade github.com/bep/godartsass v0.14.0 =&gt; v0.15.0](https://github.com/gohugoio/hugo/pull/10484) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [markup/goldmark: Add removeSurroundingParagraph for Markdown images](https://github.com/gohugoio/hugo/pull/10493) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc improvements/fixes](https://github.com/gohugoio/hugo/pull/10490) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [feat/misc godartsass dec22](https://github.com/gohugoio/hugo/pull/10488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [deps: Upgrade github.com/bep/godartsass v0.14.0 =&gt; v0.15.0](https://github.com/gohugoio/hugo/pull/10484) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [lexers: Add benchmark for lexers.Get](https://github.com/alecthomas/chroma/pull/713) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (1 week ago)
 
 ### Recent sponsors (big thank you!)
