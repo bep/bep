@@ -10,7 +10,7 @@
 
 ### Recent Pull Requests
 
-- [markup/goldmark: Add removeSurroundingParagraph for Markdown images](https://github.com/gohugoio/hugo/pull/10493) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [markup/goldmark: Add wrapStandAloneImageWithinParagraph option](https://github.com/gohugoio/hugo/pull/10493) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc improvements/fixes](https://github.com/gohugoio/hugo/pull/10490) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [feat/misc godartsass dec22](https://github.com/gohugoio/hugo/pull/10488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [deps: Upgrade github.com/bep/godartsass v0.14.0 =&gt; v0.15.0](https://github.com/gohugoio/hugo/pull/10484) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
