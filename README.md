@@ -10,8 +10,8 @@
 
 ### Recent Pull Requests
 
-- [feat/godartversion](https://github.com/gohugoio/hugo/pull/10506) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Add a Version utility func](https://github.com/bep/godartsass/pull/9) on [bep/godartsass](https://github.com/bep/godartsass) (4 days ago)
+- [feat/godartversion](https://github.com/gohugoio/hugo/pull/10506) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Add a Version utility func](https://github.com/bep/godartsass/pull/9) on [bep/godartsass](https://github.com/bep/godartsass) (5 days ago)
 - [markup/goldmark: Add wrapStandAloneImageWithinParagraph option](https://github.com/gohugoio/hugo/pull/10493) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Misc improvements/fixes](https://github.com/gohugoio/hugo/pull/10490) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [feat/misc godartsass dec22](https://github.com/gohugoio/hugo/pull/10488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
