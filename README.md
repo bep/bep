@@ -10,9 +10,9 @@
 
 ### Recent Pull Requests
 
-- [github: Use ruby/setup-ruby](https://github.com/gohugoio/hugo/pull/10522) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [feat/godartversion](https://github.com/gohugoio/hugo/pull/10506) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Add a Version utility func](https://github.com/bep/godartsass/pull/9) on [bep/godartsass](https://github.com/bep/godartsass) (6 days ago)
+- [github: Use ruby/setup-ruby](https://github.com/gohugoio/hugo/pull/10522) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [feat/godartversion](https://github.com/gohugoio/hugo/pull/10506) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Add a Version utility func](https://github.com/bep/godartsass/pull/9) on [bep/godartsass](https://github.com/bep/godartsass) (1 week ago)
 - [markup/goldmark: Add wrapStandAloneImageWithinParagraph option](https://github.com/gohugoio/hugo/pull/10493) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Misc improvements/fixes](https://github.com/gohugoio/hugo/pull/10490) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
