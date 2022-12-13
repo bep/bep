@@ -10,11 +10,11 @@
 
 ### Recent Pull Requests
 
+- [github: Update to Dart Sass 1.56.2](https://github.com/gohugoio/hugo/pull/10531) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [resources/js: Fix some import discrepancies between Hugo and ESBuild](https://github.com/gohugoio/hugo/pull/10529) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl/openapi3: Wrap *kopenapi3.T](https://github.com/gohugoio/hugo/pull/10528) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [github: Use ruby/setup-ruby](https://github.com/gohugoio/hugo/pull/10522) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [feat/godartversion](https://github.com/gohugoio/hugo/pull/10506) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Add a Version utility func](https://github.com/bep/godartsass/pull/9) on [bep/godartsass](https://github.com/bep/godartsass) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
