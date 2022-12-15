@@ -10,11 +10,11 @@
 
 ### Recent Pull Requests
 
-- [Add lang.HasTranslation](https://github.com/gohugoio/hugo/pull/10539) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Handle empty JSON](https://github.com/gohugoio/hugo/pull/10537) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Also consider wrapped errors when checking for file IsNotExist errors](https://github.com/gohugoio/hugo/pull/10535) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [github: Update to Dart Sass 1.56.2](https://github.com/gohugoio/hugo/pull/10531) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [resources/js: Fix some import discrepancies between Hugo and ESBuild](https://github.com/gohugoio/hugo/pull/10529) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add lang.HasTranslation](https://github.com/gohugoio/hugo/pull/10539) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Handle empty JSON](https://github.com/gohugoio/hugo/pull/10537) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Also consider wrapped errors when checking for file IsNotExist errors](https://github.com/gohugoio/hugo/pull/10535) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [github: Update to Dart Sass 1.56.2](https://github.com/gohugoio/hugo/pull/10531) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [resources/js: Fix some import discrepancies between Hugo and ESBuild](https://github.com/gohugoio/hugo/pull/10529) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
