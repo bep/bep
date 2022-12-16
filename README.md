@@ -10,18 +10,18 @@
 
 ### Recent Pull Requests
 
-- [Add lang.HasTranslation](https://github.com/gohugoio/hugo/pull/10539) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Handle empty JSON](https://github.com/gohugoio/hugo/pull/10537) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Also consider wrapped errors when checking for file IsNotExist errors](https://github.com/gohugoio/hugo/pull/10535) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [github: Update to Dart Sass 1.56.2](https://github.com/gohugoio/hugo/pull/10531) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [resources/js: Fix some import discrepancies between Hugo and ESBuild](https://github.com/gohugoio/hugo/pull/10529) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add lang.HasTranslation](https://github.com/gohugoio/hugo/pull/10539) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Handle empty JSON](https://github.com/gohugoio/hugo/pull/10537) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Also consider wrapped errors when checking for file IsNotExist errors](https://github.com/gohugoio/hugo/pull/10535) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [github: Update to Dart Sass 1.56.2](https://github.com/gohugoio/hugo/pull/10531) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [resources/js: Fix some import discrepancies between Hugo and ESBuild](https://github.com/gohugoio/hugo/pull/10529) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [npee](https://github.com/npee) (1 month ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (1 month ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (2 months ago)
-- [rlove](https://github.com/rlove) (2 months ago)
+- [rlove](https://github.com/rlove) (3 months ago)
 - [isaenzq](https://github.com/isaenzq) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
