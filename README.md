@@ -2,11 +2,11 @@
 
 ### Recent projects
 
+- [bep/testgdeluxe](https://github.com/bep/testgdeluxe) - Temporary test repo.
 - [bep/githubtempl](https://github.com/bep/githubtempl) - Generate a templated file (e.g. README.md) from GitHub user data
 - [bep/logicscripts](https://github.com/bep/logicscripts)
 - [bep/lazycache](https://github.com/bep/lazycache) - Thread safe in-memory LRU cache with non-blocking cache priming on cache misses.
 - [bep/hugo-imageprocessing-test](https://github.com/bep/hugo-imageprocessing-test) - Just a test repo.
-- [bep/staticbattery.com](https://github.com/bep/staticbattery.com) - Source for staticbattery.com
 
 ### Recent Pull Requests
 
