@@ -10,11 +10,11 @@
 
 ### Recent Pull Requests
 
-- [Implement p](https://github.com/gohugoio/hugo/pull/10545) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add lang.HasTranslation](https://github.com/gohugoio/hugo/pull/10539) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Handle empty JSON](https://github.com/gohugoio/hugo/pull/10537) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Also consider wrapped errors when checking for file IsNotExist errors](https://github.com/gohugoio/hugo/pull/10535) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [github: Update to Dart Sass 1.56.2](https://github.com/gohugoio/hugo/pull/10531) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Implement p](https://github.com/gohugoio/hugo/pull/10545) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add lang.HasTranslation](https://github.com/gohugoio/hugo/pull/10539) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Handle empty JSON](https://github.com/gohugoio/hugo/pull/10537) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Also consider wrapped errors when checking for file IsNotExist errors](https://github.com/gohugoio/hugo/pull/10535) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [github: Update to Dart Sass 1.56.2](https://github.com/gohugoio/hugo/pull/10531) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
