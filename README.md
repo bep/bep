@@ -10,11 +10,11 @@
 
 ### Recent Pull Requests
 
+- [tocss/dartsass: Add vars option](https://github.com/gohugoio/hugo/pull/10558) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc Go Workspace fixes](https://github.com/gohugoio/hugo/pull/10557) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Implement p](https://github.com/gohugoio/hugo/pull/10545) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Add lang.HasTranslation](https://github.com/gohugoio/hugo/pull/10539) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Handle empty JSON](https://github.com/gohugoio/hugo/pull/10537) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Also consider wrapped errors when checking for file IsNotExist errors](https://github.com/gohugoio/hugo/pull/10535) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
