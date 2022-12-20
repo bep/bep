@@ -10,11 +10,11 @@
 
 ### Recent Pull Requests
 
+- [Add some docs for workspaces](https://github.com/gohugoio/hugoDocs/pull/1940) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [tocss: Add vars option](https://github.com/gohugoio/hugo/pull/10558) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc Go Workspace fixes](https://github.com/gohugoio/hugo/pull/10557) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Implement p](https://github.com/gohugoio/hugo/pull/10545) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Add lang.HasTranslation](https://github.com/gohugoio/hugo/pull/10539) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Handle empty JSON](https://github.com/gohugoio/hugo/pull/10537) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
