@@ -1,12 +1,5 @@
 ## Greetings from Norway! 🇳🇴
 
-### Recent releases
-{{range recentReleases 20}}
-{{ if or (contains .Name "bep") (contains .Name "hugo") }}
-- [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
-{{ end }}
-{{- end}}
-
 ### Recent projects
 {{range recentRepos 5}}
 - [{{.Name}}]({{.URL}}){{with .Description}} - {{.}}{{end}}
