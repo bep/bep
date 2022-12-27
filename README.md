@@ -2,26 +2,26 @@
 
 ### Recent projects
 
+- [bep/gojap](https://github.com/bep/gojap) - This is a small library that wraps goja and adds a VM pool and compilation cache.
 - [bep/testgdeluxe](https://github.com/bep/testgdeluxe) - Temporary test repo.
 - [bep/githubtempl](https://github.com/bep/githubtempl) - Generate a templated file (e.g. README.md) from GitHub user data
 - [bep/logicscripts](https://github.com/bep/logicscripts)
 - [bep/lazycache](https://github.com/bep/lazycache) - Thread safe in-memory LRU cache with non-blocking cache priming on cache misses.
-- [bep/hugo-imageprocessing-test](https://github.com/bep/hugo-imageprocessing-test) - Just a test repo.
 
 ### Recent Pull Requests
 
-- [Add some docs for workspaces](https://github.com/gohugoio/hugoDocs/pull/1940) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [tocss: Add vars option](https://github.com/gohugoio/hugo/pull/10558) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc Go Workspace fixes](https://github.com/gohugoio/hugo/pull/10557) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Implement p](https://github.com/gohugoio/hugo/pull/10545) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add lang.HasTranslation](https://github.com/gohugoio/hugo/pull/10539) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Add HUGO_PUBLISHDIR to the Node environment](https://github.com/gohugoio/hugo/pull/10569) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [tpl: Improve template funcs GoDoc](https://github.com/gohugoio/hugo/pull/10564) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [tpl/resources: Fix data race in ToCSS](https://github.com/gohugoio/hugo/pull/10563) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Add some docs for workspaces](https://github.com/gohugoio/hugoDocs/pull/1940) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
+- [tocss: Add vars option](https://github.com/gohugoio/hugo/pull/10558) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [flipacholas](https://github.com/flipacholas) (2 days ago)
+- [flipacholas](https://github.com/flipacholas) (1 week ago)
 - [npee](https://github.com/npee) (1 month ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (1 month ago)
-- [kaizimmerm](https://github.com/kaizimmerm) (2 months ago)
+- [kaizimmerm](https://github.com/kaizimmerm) (3 months ago)
 - [rlove](https://github.com/rlove) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
