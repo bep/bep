@@ -10,11 +10,11 @@
 
 ### Recent Pull Requests
 
+- [feat/miscgodoc30dec](https://github.com/gohugoio/hugo/pull/10591) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add HUGO_PUBLISHDIR to the Node environment](https://github.com/gohugoio/hugo/pull/10569) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [tpl: Improve template funcs GoDoc](https://github.com/gohugoio/hugo/pull/10564) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [tpl/resources: Fix data race in ToCSS](https://github.com/gohugoio/hugo/pull/10563) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add some docs for workspaces](https://github.com/gohugoio/hugoDocs/pull/1940) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
-- [tocss: Add vars option](https://github.com/gohugoio/hugo/pull/10558) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
