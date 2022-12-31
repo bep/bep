@@ -10,7 +10,7 @@
 
 ### Recent Pull Requests
 
-- [feat/miscgodoc30dec](https://github.com/gohugoio/hugo/pull/10591) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [feat/miscgodoc30dec](https://github.com/gohugoio/hugo/pull/10591) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add HUGO_PUBLISHDIR to the Node environment](https://github.com/gohugoio/hugo/pull/10569) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [tpl: Improve template funcs GoDoc](https://github.com/gohugoio/hugo/pull/10564) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [tpl/resources: Fix data race in ToCSS](https://github.com/gohugoio/hugo/pull/10563) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
@@ -18,7 +18,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [ethersys](https://github.com/ethersys) (2 days ago)
+- [ethersys](https://github.com/ethersys) (3 days ago)
 - [flipacholas](https://github.com/flipacholas) (1 week ago)
 - [npee](https://github.com/npee) (1 month ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (1 month ago)
