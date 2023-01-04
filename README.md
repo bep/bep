@@ -10,15 +10,15 @@
 
 ### Recent Pull Requests
 
-- [feat/miscgodoc30dec](https://github.com/gohugoio/hugo/pull/10591) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [feat/miscgodoc30dec](https://github.com/gohugoio/hugo/pull/10591) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Add HUGO_PUBLISHDIR to the Node environment](https://github.com/gohugoio/hugo/pull/10569) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [tpl: Improve template funcs GoDoc](https://github.com/gohugoio/hugo/pull/10564) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [tpl/resources: Fix data race in ToCSS](https://github.com/gohugoio/hugo/pull/10563) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [tpl: Improve template funcs GoDoc](https://github.com/gohugoio/hugo/pull/10564) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
+- [tpl/resources: Fix data race in ToCSS](https://github.com/gohugoio/hugo/pull/10563) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [Add some docs for workspaces](https://github.com/gohugoio/hugoDocs/pull/1940) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
-- [ethersys](https://github.com/ethersys) (6 days ago)
+- [ethersys](https://github.com/ethersys) (1 week ago)
 - [flipacholas](https://github.com/flipacholas) (2 weeks ago)
 - [npee](https://github.com/npee) (1 month ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (2 months ago)
