@@ -10,8 +10,8 @@
 
 ### Recent Pull Requests
 
-- [Create a struct with all of Hugo&#39;s config options](https://github.com/gohugoio/hugo/pull/10602) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [feat/miscgodoc30dec](https://github.com/gohugoio/hugo/pull/10591) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Create a struct with all of Hugo&#39;s config options](https://github.com/gohugoio/hugo/pull/10602) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [feat/miscgodoc30dec](https://github.com/gohugoio/hugo/pull/10591) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add HUGO_PUBLISHDIR to the Node environment](https://github.com/gohugoio/hugo/pull/10569) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [tpl: Improve template funcs GoDoc](https://github.com/gohugoio/hugo/pull/10564) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [tpl/resources: Fix data race in ToCSS](https://github.com/gohugoio/hugo/pull/10563) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
@@ -20,7 +20,7 @@
 
 - [ethersys](https://github.com/ethersys) (1 week ago)
 - [flipacholas](https://github.com/flipacholas) (2 weeks ago)
-- [npee](https://github.com/npee) (1 month ago)
+- [npee](https://github.com/npee) (2 months ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (2 months ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (3 months ago)
 
