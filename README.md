@@ -10,8 +10,8 @@
 
 ### Recent Pull Requests
 
-- [Add *.adobedtm.com to local server config](https://github.com/linode/docs/pull/5989) on [linode/docs](https://github.com/linode/docs) (today)
-- [Create a struct with all of Hugo&#39;s config options](https://github.com/gohugoio/hugo/pull/10602) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add *.adobedtm.com to local server config](https://github.com/linode/docs/pull/5989) on [linode/docs](https://github.com/linode/docs) (1 day ago)
+- [Create a struct with all of Hugo&#39;s config options](https://github.com/gohugoio/hugo/pull/10602) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [feat/miscgodoc30dec](https://github.com/gohugoio/hugo/pull/10591) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add HUGO_PUBLISHDIR to the Node environment](https://github.com/gohugoio/hugo/pull/10569) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [tpl: Improve template funcs GoDoc](https://github.com/gohugoio/hugo/pull/10564) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
