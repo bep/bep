@@ -10,7 +10,7 @@
 
 ### Recent Pull Requests
 
-- [Implement pinch zooming on mobile](https://github.com/bep/gallerydeluxe/pull/11) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (today)
+- [Implement pinch zooming on mobile](https://github.com/bep/gallerydeluxe/pull/11) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 day ago)
 - [Add *.adobedtm.com to local server config](https://github.com/linode/docs/pull/5989) on [linode/docs](https://github.com/linode/docs) (1 week ago)
 - [Create a struct with all of Hugo&#39;s config options](https://github.com/gohugoio/hugo/pull/10602) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [feat/miscgodoc30dec](https://github.com/gohugoio/hugo/pull/10591) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
@@ -19,7 +19,7 @@
 ### Recent sponsors (big thank you!)
 
 - [ethersys](https://github.com/ethersys) (2 weeks ago)
-- [flipacholas](https://github.com/flipacholas) (3 weeks ago)
+- [flipacholas](https://github.com/flipacholas) (4 weeks ago)
 - [npee](https://github.com/npee) (2 months ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (2 months ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (3 months ago)
