@@ -10,11 +10,11 @@
 
 ### Recent Pull Requests
 
+- [Consider both fingers when moving when pinching](https://github.com/bep/gallerydeluxe/pull/12) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (today)
 - [Preserve front matter slice value types (e.g. int)](https://github.com/gohugoio/hugo/pull/10625) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [fix/getremote 10616 10604](https://github.com/gohugoio/hugo/pull/10623) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade github.com/evanw/esbuild v0.15.18 =&gt; v0.17.0](https://github.com/gohugoio/hugo/pull/10622) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Make hugo.toml the new config.toml](https://github.com/gohugoio/hugo/pull/10621) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Implement pinch zooming on mobile](https://github.com/bep/gallerydeluxe/pull/11) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
