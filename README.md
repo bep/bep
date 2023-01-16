@@ -10,11 +10,11 @@
 
 ### Recent Pull Requests
 
+- [Preserve front matter slice value types (e.g. int)](https://github.com/gohugoio/hugo/pull/10625) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [fix/getremote 10616 10604](https://github.com/gohugoio/hugo/pull/10623) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade github.com/evanw/esbuild v0.15.18 =&gt; v0.17.0](https://github.com/gohugoio/hugo/pull/10622) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Make hugo.toml the new config.toml](https://github.com/gohugoio/hugo/pull/10621) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Implement pinch zooming on mobile](https://github.com/bep/gallerydeluxe/pull/11) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (2 days ago)
-- [Add *.adobedtm.com to local server config](https://github.com/linode/docs/pull/5989) on [linode/docs](https://github.com/linode/docs) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
