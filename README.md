@@ -19,10 +19,10 @@
 ### Recent sponsors (big thank you!)
 
 - [ethersys](https://github.com/ethersys) (2 weeks ago)
-- [flipacholas](https://github.com/flipacholas) (1 month ago)
 - [npee](https://github.com/npee) (2 months ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (2 months ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (3 months ago)
+- [rlove](https://github.com/rlove) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
