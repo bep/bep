@@ -10,16 +10,16 @@
 
 ### Recent Pull Requests
 
-- [Consider both fingers when moving when pinching](https://github.com/bep/gallerydeluxe/pull/12) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (today)
-- [Preserve front matter slice value types (e.g. int)](https://github.com/gohugoio/hugo/pull/10625) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [fix/getremote 10616 10604](https://github.com/gohugoio/hugo/pull/10623) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade github.com/evanw/esbuild v0.15.18 =&gt; v0.17.0](https://github.com/gohugoio/hugo/pull/10622) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Make hugo.toml the new config.toml](https://github.com/gohugoio/hugo/pull/10621) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Consider both fingers when moving when pinching](https://github.com/bep/gallerydeluxe/pull/12) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 day ago)
+- [Preserve front matter slice value types (e.g. int)](https://github.com/gohugoio/hugo/pull/10625) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [fix/getremote 10616 10604](https://github.com/gohugoio/hugo/pull/10623) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Upgrade github.com/evanw/esbuild v0.15.18 =&gt; v0.17.0](https://github.com/gohugoio/hugo/pull/10622) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Make hugo.toml the new config.toml](https://github.com/gohugoio/hugo/pull/10621) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
 - [ethersys](https://github.com/ethersys) (2 weeks ago)
-- [flipacholas](https://github.com/flipacholas) (4 weeks ago)
+- [flipacholas](https://github.com/flipacholas) (1 month ago)
 - [npee](https://github.com/npee) (2 months ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (2 months ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (3 months ago)
