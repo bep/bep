@@ -10,11 +10,11 @@
 
 ### Recent Pull Requests
 
-- [Fix permalinks issue with repeated sections](https://github.com/gohugoio/hugo/pull/10627) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl/strings: Add findRESubmatch](https://github.com/gohugoio/hugo/pull/10626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Consider both fingers when moving when pinching](https://github.com/bep/gallerydeluxe/pull/12) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (3 days ago)
-- [Preserve front matter slice value types (e.g. int)](https://github.com/gohugoio/hugo/pull/10625) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [fix/getremote 10616 10604](https://github.com/gohugoio/hugo/pull/10623) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix permalinks issue with repeated sections](https://github.com/gohugoio/hugo/pull/10627) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [tpl/strings: Add findRESubmatch](https://github.com/gohugoio/hugo/pull/10626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Consider both fingers when moving when pinching](https://github.com/bep/gallerydeluxe/pull/12) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (4 days ago)
+- [Preserve front matter slice value types (e.g. int)](https://github.com/gohugoio/hugo/pull/10625) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [fix/getremote 10616 10604](https://github.com/gohugoio/hugo/pull/10623) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
