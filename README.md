@@ -10,18 +10,18 @@
 
 ### Recent Pull Requests
 
-- [Fix permalinks issue with repeated sections](https://github.com/gohugoio/hugo/pull/10627) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [tpl/strings: Add findRESubmatch](https://github.com/gohugoio/hugo/pull/10626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Consider both fingers when moving when pinching](https://github.com/bep/gallerydeluxe/pull/12) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (4 days ago)
-- [Preserve front matter slice value types (e.g. int)](https://github.com/gohugoio/hugo/pull/10625) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [fix/getremote 10616 10604](https://github.com/gohugoio/hugo/pull/10623) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix permalinks issue with repeated sections](https://github.com/gohugoio/hugo/pull/10627) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [tpl/strings: Add findRESubmatch](https://github.com/gohugoio/hugo/pull/10626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Consider both fingers when moving when pinching](https://github.com/bep/gallerydeluxe/pull/12) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (5 days ago)
+- [Preserve front matter slice value types (e.g. int)](https://github.com/gohugoio/hugo/pull/10625) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [fix/getremote 10616 10604](https://github.com/gohugoio/hugo/pull/10623) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [ethersys](https://github.com/ethersys) (3 weeks ago)
 - [npee](https://github.com/npee) (2 months ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (2 months ago)
-- [kaizimmerm](https://github.com/kaizimmerm) (3 months ago)
+- [kaizimmerm](https://github.com/kaizimmerm) (4 months ago)
 - [rlove](https://github.com/rlove) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
