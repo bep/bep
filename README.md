@@ -10,8 +10,8 @@
 
 ### Recent Pull Requests
 
-- [Fix permalinks issue with repeated sections](https://github.com/gohugoio/hugo/pull/10627) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [tpl/strings: Add findRESubmatch](https://github.com/gohugoio/hugo/pull/10626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Fix permalinks issue with repeated sections](https://github.com/gohugoio/hugo/pull/10627) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [tpl/strings: Add findRESubmatch](https://github.com/gohugoio/hugo/pull/10626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Consider both fingers when moving when pinching](https://github.com/bep/gallerydeluxe/pull/12) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 week ago)
 - [Preserve front matter slice value types (e.g. int)](https://github.com/gohugoio/hugo/pull/10625) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [fix/getremote 10616 10604](https://github.com/gohugoio/hugo/pull/10623) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
