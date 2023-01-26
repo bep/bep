@@ -10,8 +10,8 @@
 
 ### Recent Pull Requests
 
-- [Make GetOrCreate return a bool indicating if the value was found in the cache](https://github.com/bep/lazycache/pull/4) on [bep/lazycache](https://github.com/bep/lazycache) (today)
-- [Only invoke a given cached partial once](https://github.com/gohugoio/hugo/pull/10652) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Make GetOrCreate return a bool indicating if the value was found in the cache](https://github.com/bep/lazycache/pull/4) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
+- [Only invoke a given cached partial once](https://github.com/gohugoio/hugo/pull/10652) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix permalinks issue with repeated sections](https://github.com/gohugoio/hugo/pull/10627) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [tpl/strings: Add findRESubmatch](https://github.com/gohugoio/hugo/pull/10626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Consider both fingers when moving when pinching](https://github.com/bep/gallerydeluxe/pull/12) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 week ago)
