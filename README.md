@@ -1,5 +1,21 @@
 ## Greetings from Norway! 🇳🇴
 
+### Recent Pull Requests
+
+- [Fix shortcode detection in RenderString](https://github.com/gohugoio/hugo/pull/10655) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Make GetOrCreate return a bool indicating if the value was found in the cache](https://github.com/bep/lazycache/pull/4) on [bep/lazycache](https://github.com/bep/lazycache) (2 days ago)
+- [Only invoke a given cached partial once](https://github.com/gohugoio/hugo/pull/10652) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix permalinks issue with repeated sections](https://github.com/gohugoio/hugo/pull/10627) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [tpl/strings: Add findRESubmatch](https://github.com/gohugoio/hugo/pull/10626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+
+### Recent sponsors (big thank you!)
+
+- [n8nio](https://github.com/n8nio) (1 day ago)
+- [ethersys](https://github.com/ethersys) (1 month ago)
+- [npee](https://github.com/npee) (2 months ago)
+- [forgeronvirtuel](https://github.com/forgeronvirtuel) (2 months ago)
+- [kaizimmerm](https://github.com/kaizimmerm) (4 months ago)
+
 ### Some of my Active Projects
 
 | Repo  | Description |
@@ -17,22 +33,6 @@
 | [firstupdotenv](https://github.com/bep/firstupdotenv)  | Loads env from the first `firstup.env` it finds. |
 | [buildpkg](https://github.com/bep/buildpkg)  | Builds, signs, notarizes and staples a MacOS pkg file. |
 
-
-### Recent Pull Requests
-
-- [Fix shortcode detection in RenderString](https://github.com/gohugoio/hugo/pull/10655) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Make GetOrCreate return a bool indicating if the value was found in the cache](https://github.com/bep/lazycache/pull/4) on [bep/lazycache](https://github.com/bep/lazycache) (2 days ago)
-- [Only invoke a given cached partial once](https://github.com/gohugoio/hugo/pull/10652) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix permalinks issue with repeated sections](https://github.com/gohugoio/hugo/pull/10627) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [tpl/strings: Add findRESubmatch](https://github.com/gohugoio/hugo/pull/10626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-
-### Recent sponsors (big thank you!)
-
-- [n8nio](https://github.com/n8nio) (1 day ago)
-- [ethersys](https://github.com/ethersys) (1 month ago)
-- [npee](https://github.com/npee) (2 months ago)
-- [forgeronvirtuel](https://github.com/forgeronvirtuel) (2 months ago)
-- [kaizimmerm](https://github.com/kaizimmerm) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
