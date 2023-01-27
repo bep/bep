@@ -1,5 +1,15 @@
 ## Greetings from Norway! 🇳🇴
 
+### Recent Pull Requests
+{{range recentPullRequests 5}}
+- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+### Recent sponsors (big thank you!)
+{{range sponsors 5}}
+- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
 ### Some of my Active Projects
 
 | Repo  | Description |
@@ -17,16 +27,6 @@
 | [firstupdotenv](https://github.com/bep/firstupdotenv)  | Loads env from the first `firstup.env` it finds. |
 | [buildpkg](https://github.com/bep/buildpkg)  | Builds, signs, notarizes and staples a MacOS pkg file. |
 
-
-### Recent Pull Requests
-{{range recentPullRequests 5}}
-- [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
-
-### Recent sponsors (big thank you!)
-{{range sponsors 5}}
-- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
-{{- end}}
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
