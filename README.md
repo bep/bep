@@ -11,10 +11,10 @@
 ### Recent sponsors (big thank you!)
 
 - [n8nio](https://github.com/n8nio) (1 day ago)
-- [ethersys](https://github.com/ethersys) (1 month ago)
 - [npee](https://github.com/npee) (2 months ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (2 months ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (4 months ago)
+- [rlove](https://github.com/rlove) (4 months ago)
 
 ### Some of my Active Projects
 
