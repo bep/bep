@@ -16,6 +16,8 @@
 - [kaizimmerm](https://github.com/kaizimmerm) (4 months ago)
 - [rlove](https://github.com/rlove) (4 months ago)
 
+For more information, see [the sponsors page](https://github.com/sponsors/bep/).
+
 ### Some of my Active Projects
 
 | Repo  | Description |
@@ -32,9 +34,6 @@
 | [s3rpc](https://github.com/bep/s3rpc)  | RCP via AWS S3. |
 | [firstupdotenv](https://github.com/bep/firstupdotenv)  | Loads env from the first `firstup.env` it finds. |
 | [buildpkg](https://github.com/bep/buildpkg)  | Builds, signs, notarizes and staples a MacOS pkg file. |
-
-
-For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
 ### Contact info
 - Twitter: https://twitter.com/bepsays/
