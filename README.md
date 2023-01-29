@@ -30,6 +30,7 @@ For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 | [DocuAPI](https://github.com/bep/docuapi)  | Beautiful multilingual API documentation theme for Hugo.  |
 | [logg](https://github.com/bep/logg)  | A Fast and Structured logging package for Go.  |
 | [godartsass](https://github.com/bep/godartsass)  | Go API backed by the native Dart Sass Embedded executable. |
+| [gowebp]https://github.com/bep/gowebp)  |C bindings and an Go API for encoding Webp images. |
 | [ExecRPC](https://github.com/bep/execrpc)  | RCP via `os/exec` with generic types.  |
 | [s3rpc](https://github.com/bep/s3rpc)  | RCP via AWS S3. |
 | [firstupdotenv](https://github.com/bep/firstupdotenv)  | Loads env from the first `firstup.env` it finds. |
