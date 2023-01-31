@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl/strings: Add strings.ContainsNonSpace](https://github.com/gohugoio/hugo/pull/10677) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Add some shortcode testcases](https://github.com/gohugoio/hugo/pull/10676) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix shortcode detection in RenderString](https://github.com/gohugoio/hugo/pull/10655) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Make GetOrCreate return a bool indicating if the value was found in the cache](https://github.com/bep/lazycache/pull/4) on [bep/lazycache](https://github.com/bep/lazycache) (6 days ago)
 - [Only invoke a given cached partial once](https://github.com/gohugoio/hugo/pull/10652) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Fix permalinks issue with repeated sections](https://github.com/gohugoio/hugo/pull/10627) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [tpl/strings: Add findRESubmatch](https://github.com/gohugoio/hugo/pull/10626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
