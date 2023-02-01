@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [commands: Fix server url rewrites (http status 200)](https://github.com/gohugoio/hugo/pull/10678) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/strings: Add strings.ContainsNonSpace](https://github.com/gohugoio/hugo/pull/10677) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add some shortcode testcases](https://github.com/gohugoio/hugo/pull/10676) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix shortcode detection in RenderString](https://github.com/gohugoio/hugo/pull/10655) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Make GetOrCreate return a bool indicating if the value was found in the cache](https://github.com/bep/lazycache/pull/4) on [bep/lazycache](https://github.com/bep/lazycache) (6 days ago)
+- [commands: Fix server url rewrites (http status 200)](https://github.com/gohugoio/hugo/pull/10678) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/strings: Add strings.ContainsNonSpace](https://github.com/gohugoio/hugo/pull/10677) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add some shortcode testcases](https://github.com/gohugoio/hugo/pull/10676) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix shortcode detection in RenderString](https://github.com/gohugoio/hugo/pull/10655) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Make GetOrCreate return a bool indicating if the value was found in the cache](https://github.com/bep/lazycache/pull/4) on [bep/lazycache](https://github.com/bep/lazycache) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [n8nio](https://github.com/n8nio) (5 days ago)
+- [n8nio](https://github.com/n8nio) (6 days ago)
 - [npee](https://github.com/npee) (2 months ago)
-- [forgeronvirtuel](https://github.com/forgeronvirtuel) (2 months ago)
+- [forgeronvirtuel](https://github.com/forgeronvirtuel) (3 months ago)
 - [kaizimmerm](https://github.com/kaizimmerm) (4 months ago)
 - [rlove](https://github.com/rlove) (4 months ago)
 
