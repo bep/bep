@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [commands: Fix server url rewrites (http status 200)](https://github.com/gohugoio/hugo/pull/10678) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [tpl/strings: Add strings.ContainsNonSpace](https://github.com/gohugoio/hugo/pull/10677) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Add some shortcode testcases](https://github.com/gohugoio/hugo/pull/10676) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [commands: Fix server url rewrites (http status 200)](https://github.com/gohugoio/hugo/pull/10678) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [tpl/strings: Add strings.ContainsNonSpace](https://github.com/gohugoio/hugo/pull/10677) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Add some shortcode testcases](https://github.com/gohugoio/hugo/pull/10676) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Fix shortcode detection in RenderString](https://github.com/gohugoio/hugo/pull/10655) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Make GetOrCreate return a bool indicating if the value was found in the cache](https://github.com/bep/lazycache/pull/4) on [bep/lazycache](https://github.com/bep/lazycache) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [Silicon-Ally](https://github.com/Silicon-Ally) (1 day ago)
-- [jhvanderschee](https://github.com/jhvanderschee) (1 day ago)
+- [Silicon-Ally](https://github.com/Silicon-Ally) (2 days ago)
+- [jhvanderschee](https://github.com/jhvanderschee) (2 days ago)
 - [n8nio](https://github.com/n8nio) (1 week ago)
-- [npee](https://github.com/npee) (2 months ago)
+- [npee](https://github.com/npee) (3 months ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
