@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Make the HTML collector parsing more robust](https://github.com/gohugoio/hugo/pull/10703) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix scroll issue on Android](https://github.com/bep/gallerydeluxe/pull/14) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (today)
 - [feat/go120 10691](https://github.com/gohugoio/hugo/pull/10702) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix slow HTML elements collector for the pre case](https://github.com/gohugoio/hugo/pull/10700) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [commands: Fix server url rewrites (http status 200)](https://github.com/gohugoio/hugo/pull/10678) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [tpl/strings: Add strings.ContainsNonSpace](https://github.com/gohugoio/hugo/pull/10677) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
