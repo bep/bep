@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [feat/go120 10691](https://github.com/gohugoio/hugo/pull/10702) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix slow HTML elements collector for the pre case](https://github.com/gohugoio/hugo/pull/10700) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [commands: Fix server url rewrites (http status 200)](https://github.com/gohugoio/hugo/pull/10678) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [tpl/strings: Add strings.ContainsNonSpace](https://github.com/gohugoio/hugo/pull/10677) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Add some shortcode testcases](https://github.com/gohugoio/hugo/pull/10676) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Fix shortcode detection in RenderString](https://github.com/gohugoio/hugo/pull/10655) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
