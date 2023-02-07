@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [rexarski](https://github.com/rexarski) (today)
 - [Silicon-Ally](https://github.com/Silicon-Ally) (4 days ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (4 days ago)
 - [n8nio](https://github.com/n8nio) (1 week ago)
 - [npee](https://github.com/npee) (3 months ago)
-- [forgeronvirtuel](https://github.com/forgeronvirtuel) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
