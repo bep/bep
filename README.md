@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Make the HTML collector parsing more robust](https://github.com/gohugoio/hugo/pull/10703) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix scroll issue on Android](https://github.com/bep/gallerydeluxe/pull/14) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 day ago)
-- [feat/go120 10691](https://github.com/gohugoio/hugo/pull/10702) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix slow HTML elements collector for the pre case](https://github.com/gohugoio/hugo/pull/10700) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Make the HTML collector parsing more robust](https://github.com/gohugoio/hugo/pull/10703) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix scroll issue on Android](https://github.com/bep/gallerydeluxe/pull/14) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (2 days ago)
+- [feat/go120 10691](https://github.com/gohugoio/hugo/pull/10702) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix slow HTML elements collector for the pre case](https://github.com/gohugoio/hugo/pull/10700) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [commands: Fix server url rewrites (http status 200)](https://github.com/gohugoio/hugo/pull/10678) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [rexarski](https://github.com/rexarski) (today)
-- [Silicon-Ally](https://github.com/Silicon-Ally) (4 days ago)
-- [jhvanderschee](https://github.com/jhvanderschee) (4 days ago)
+- [rexarski](https://github.com/rexarski) (1 day ago)
+- [Silicon-Ally](https://github.com/Silicon-Ally) (5 days ago)
+- [jhvanderschee](https://github.com/jhvanderschee) (5 days ago)
 - [n8nio](https://github.com/n8nio) (1 week ago)
 - [npee](https://github.com/npee) (3 months ago)
 
