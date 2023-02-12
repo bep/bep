@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add fragments support to related](https://github.com/gohugoio/hugo/pull/10714) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Make the HTML collector parsing more robust](https://github.com/gohugoio/hugo/pull/10703) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Fix scroll issue on Android](https://github.com/bep/gallerydeluxe/pull/14) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (5 days ago)
-- [feat/go120 10691](https://github.com/gohugoio/hugo/pull/10702) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Fix slow HTML elements collector for the pre case](https://github.com/gohugoio/hugo/pull/10700) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Add fragments support to related](https://github.com/gohugoio/hugo/pull/10714) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Make the HTML collector parsing more robust](https://github.com/gohugoio/hugo/pull/10703) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Fix scroll issue on Android](https://github.com/bep/gallerydeluxe/pull/14) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (6 days ago)
+- [feat/go120 10691](https://github.com/gohugoio/hugo/pull/10702) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Fix slow HTML elements collector for the pre case](https://github.com/gohugoio/hugo/pull/10700) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [rexarski](https://github.com/rexarski) (4 days ago)
+- [rexarski](https://github.com/rexarski) (5 days ago)
 - [Silicon-Ally](https://github.com/Silicon-Ally) (1 week ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (1 week ago)
 - [n8nio](https://github.com/n8nio) (2 weeks ago)
