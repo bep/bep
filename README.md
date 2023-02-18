@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Add fragments support to related](https://github.com/gohugoio/hugo/pull/10714) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Add fragments support to related](https://github.com/gohugoio/hugo/pull/10714) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Make the HTML collector parsing more robust](https://github.com/gohugoio/hugo/pull/10703) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix scroll issue on Android](https://github.com/bep/gallerydeluxe/pull/14) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 week ago)
 - [feat/go120 10691](https://github.com/gohugoio/hugo/pull/10702) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
