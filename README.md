@@ -6,7 +6,7 @@
 - [Make the HTML collector parsing more robust](https://github.com/gohugoio/hugo/pull/10703) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix scroll issue on Android](https://github.com/bep/gallerydeluxe/pull/14) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 week ago)
 - [feat/go120 10691](https://github.com/gohugoio/hugo/pull/10702) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Fix slow HTML elements collector for the pre case](https://github.com/gohugoio/hugo/pull/10700) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Fix slow HTML elements collector for the pre case](https://github.com/gohugoio/hugo/pull/10700) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
