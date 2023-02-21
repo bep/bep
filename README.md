@@ -10,7 +10,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [rexarski](https://github.com/rexarski) (1 week ago)
+- [rexarski](https://github.com/rexarski) (2 weeks ago)
 - [Silicon-Ally](https://github.com/Silicon-Ally) (2 weeks ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (2 weeks ago)
 - [n8nio](https://github.com/n8nio) (3 weeks ago)
