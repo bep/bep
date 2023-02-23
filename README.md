@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [page: Add some concurrency to the building of the related page index](https://github.com/gohugoio/hugo/pull/10739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add Related fragments config](https://github.com/gohugoio/hugoDocs/pull/1979) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [page: Add some concurrency to the building of the related page index](https://github.com/gohugoio/hugo/pull/10739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add Related fragments config](https://github.com/gohugoio/hugoDocs/pull/1979) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [Add fragments support to related](https://github.com/gohugoio/hugo/pull/10714) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Make the HTML collector parsing more robust](https://github.com/gohugoio/hugo/pull/10703) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [Fix scroll issue on Android](https://github.com/bep/gallerydeluxe/pull/14) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (2 weeks ago)
@@ -13,7 +13,7 @@
 - [rexarski](https://github.com/rexarski) (2 weeks ago)
 - [Silicon-Ally](https://github.com/Silicon-Ally) (2 weeks ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (2 weeks ago)
-- [n8nio](https://github.com/n8nio) (3 weeks ago)
+- [n8nio](https://github.com/n8nio) (4 weeks ago)
 - [npee](https://github.com/npee) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
