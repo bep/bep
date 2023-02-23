@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [github: Update Go build matrix](https://github.com/spf13/afero/pull/385) on [spf13/afero](https://github.com/spf13/afero) (today)
 - [page: Add some concurrency to the building of the related page index](https://github.com/gohugoio/hugo/pull/10739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add Related fragments config](https://github.com/gohugoio/hugoDocs/pull/1979) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [Add fragments support to related](https://github.com/gohugoio/hugo/pull/10714) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Make the HTML collector parsing more robust](https://github.com/gohugoio/hugo/pull/10703) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [Fix scroll issue on Android](https://github.com/bep/gallerydeluxe/pull/14) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
