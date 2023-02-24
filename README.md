@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Run  hugo mod get -u ./...](https://github.com/bep/docuapi/pull/90) on [bep/docuapi](https://github.com/bep/docuapi) (today)
 - [Split parse and render for Goldmark](https://github.com/gohugoio/hugo/pull/10752) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [related: Add config option cardinalityThreshold](https://github.com/gohugoio/hugo/pull/10745) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [github: Update Go build matrix](https://github.com/spf13/afero/pull/385) on [spf13/afero](https://github.com/spf13/afero) (1 day ago)
 - [page: Add some concurrency to the building of the related page index](https://github.com/gohugoio/hugo/pull/10739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add Related fragments config](https://github.com/gohugoio/hugoDocs/pull/1979) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
