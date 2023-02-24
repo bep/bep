@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [related: Add config option cardinalityThreshold](https://github.com/gohugoio/hugo/pull/10745) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [github: Update Go build matrix](https://github.com/spf13/afero/pull/385) on [spf13/afero](https://github.com/spf13/afero) (today)
-- [page: Add some concurrency to the building of the related page index](https://github.com/gohugoio/hugo/pull/10739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add Related fragments config](https://github.com/gohugoio/hugoDocs/pull/1979) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [related: Add config option cardinalityThreshold](https://github.com/gohugoio/hugo/pull/10745) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [github: Update Go build matrix](https://github.com/spf13/afero/pull/385) on [spf13/afero](https://github.com/spf13/afero) (1 day ago)
+- [page: Add some concurrency to the building of the related page index](https://github.com/gohugoio/hugo/pull/10739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add Related fragments config](https://github.com/gohugoio/hugoDocs/pull/1979) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 - [Add fragments support to related](https://github.com/gohugoio/hugo/pull/10714) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
 - [rexarski](https://github.com/rexarski) (2 weeks ago)
-- [Silicon-Ally](https://github.com/Silicon-Ally) (2 weeks ago)
-- [jhvanderschee](https://github.com/jhvanderschee) (2 weeks ago)
+- [Silicon-Ally](https://github.com/Silicon-Ally) (3 weeks ago)
+- [jhvanderschee](https://github.com/jhvanderschee) (3 weeks ago)
 - [n8nio](https://github.com/n8nio) (4 weeks ago)
 - [npee](https://github.com/npee) (3 months ago)
 
