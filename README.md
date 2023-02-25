@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Run  hugo mod get -u ./...](https://github.com/bep/docuapi/pull/90) on [bep/docuapi](https://github.com/bep/docuapi) (today)
-- [Split parse and render for Goldmark](https://github.com/gohugoio/hugo/pull/10752) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [related: Add config option cardinalityThreshold](https://github.com/gohugoio/hugo/pull/10745) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [github: Update Go build matrix](https://github.com/spf13/afero/pull/385) on [spf13/afero](https://github.com/spf13/afero) (1 day ago)
-- [page: Add some concurrency to the building of the related page index](https://github.com/gohugoio/hugo/pull/10739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Run  hugo mod get -u ./...](https://github.com/bep/docuapi/pull/90) on [bep/docuapi](https://github.com/bep/docuapi) (1 day ago)
+- [Split parse and render for Goldmark](https://github.com/gohugoio/hugo/pull/10752) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [related: Add config option cardinalityThreshold](https://github.com/gohugoio/hugo/pull/10745) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [github: Update Go build matrix](https://github.com/spf13/afero/pull/385) on [spf13/afero](https://github.com/spf13/afero) (2 days ago)
+- [page: Add some concurrency to the building of the related page index](https://github.com/gohugoio/hugo/pull/10739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [rexarski](https://github.com/rexarski) (2 weeks ago)
 - [Silicon-Ally](https://github.com/Silicon-Ally) (3 weeks ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (3 weeks ago)
-- [n8nio](https://github.com/n8nio) (4 weeks ago)
+- [n8nio](https://github.com/n8nio) (1 month ago)
 - [npee](https://github.com/npee) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
