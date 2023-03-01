@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add a page template func](https://github.com/gohugoio/hugo/pull/10755) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Run  hugo mod get -u ./...](https://github.com/bep/docuapi/pull/90) on [bep/docuapi](https://github.com/bep/docuapi) (4 days ago)
-- [Split parse and render for Goldmark](https://github.com/gohugoio/hugo/pull/10752) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [related: Add config option cardinalityThreshold](https://github.com/gohugoio/hugo/pull/10745) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [github: Update Go build matrix](https://github.com/spf13/afero/pull/385) on [spf13/afero](https://github.com/spf13/afero) (5 days ago)
+- [Add a page template func](https://github.com/gohugoio/hugo/pull/10755) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Run  hugo mod get -u ./...](https://github.com/bep/docuapi/pull/90) on [bep/docuapi](https://github.com/bep/docuapi) (5 days ago)
+- [Split parse and render for Goldmark](https://github.com/gohugoio/hugo/pull/10752) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [related: Add config option cardinalityThreshold](https://github.com/gohugoio/hugo/pull/10745) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [github: Update Go build matrix](https://github.com/spf13/afero/pull/385) on [spf13/afero](https://github.com/spf13/afero) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [frjo](https://github.com/frjo) (1 day ago)
+- [frjo](https://github.com/frjo) (2 days ago)
 - [rexarski](https://github.com/rexarski) (3 weeks ago)
 - [Silicon-Ally](https://github.com/Silicon-Ally) (3 weeks ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (3 weeks ago)
