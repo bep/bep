@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix &#34;page&#34; not defined](https://github.com/gohugoio/hugo/pull/10775) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix chunk shuffle for Go 1.20](https://github.com/gohugoio/hugoreleaser/pull/37) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (1 day ago)
 - [fix/chunk](https://github.com/gohugoio/hugoreleaser/pull/36) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (1 day ago)
 - [Fix 2 unclosed notes shortcodes](https://github.com/linode/docs/pull/6122) on [linode/docs](https://github.com/linode/docs) (1 day ago)
 - [Add a page template func](https://github.com/gohugoio/hugo/pull/10755) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Run  hugo mod get -u ./...](https://github.com/bep/docuapi/pull/90) on [bep/docuapi](https://github.com/bep/docuapi) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
