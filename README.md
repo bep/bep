@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Fix chunk shuffle for Go 1.20](https://github.com/gohugoio/hugoreleaser/pull/37) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (today)
-- [fix/chunk](https://github.com/gohugoio/hugoreleaser/pull/36) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (today)
-- [Fix 2 unclosed notes shortcodes](https://github.com/linode/docs/pull/6122) on [linode/docs](https://github.com/linode/docs) (today)
-- [Add a page template func](https://github.com/gohugoio/hugo/pull/10755) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Run  hugo mod get -u ./...](https://github.com/bep/docuapi/pull/90) on [bep/docuapi](https://github.com/bep/docuapi) (5 days ago)
+- [Fix chunk shuffle for Go 1.20](https://github.com/gohugoio/hugoreleaser/pull/37) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (1 day ago)
+- [fix/chunk](https://github.com/gohugoio/hugoreleaser/pull/36) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (1 day ago)
+- [Fix 2 unclosed notes shortcodes](https://github.com/linode/docs/pull/6122) on [linode/docs](https://github.com/linode/docs) (1 day ago)
+- [Add a page template func](https://github.com/gohugoio/hugo/pull/10755) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Run  hugo mod get -u ./...](https://github.com/bep/docuapi/pull/90) on [bep/docuapi](https://github.com/bep/docuapi) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [frjo](https://github.com/frjo) (2 days ago)
+- [frjo](https://github.com/frjo) (3 days ago)
 - [rexarski](https://github.com/rexarski) (3 weeks ago)
 - [Silicon-Ally](https://github.com/Silicon-Ally) (3 weeks ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (3 weeks ago)
