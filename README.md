@@ -12,9 +12,9 @@
 
 - [frjo](https://github.com/frjo) (5 days ago)
 - [rexarski](https://github.com/rexarski) (3 weeks ago)
-- [Silicon-Ally](https://github.com/Silicon-Ally) (4 weeks ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (4 weeks ago)
 - [n8nio](https://github.com/n8nio) (1 month ago)
+- [npee](https://github.com/npee) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
