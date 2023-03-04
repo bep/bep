@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Work around --gc failure on Windows &lt;= 10](https://github.com/gohugoio/hugo/pull/10786) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix &#34;page&#34; not defined](https://github.com/gohugoio/hugo/pull/10775) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix chunk shuffle for Go 1.20](https://github.com/gohugoio/hugoreleaser/pull/37) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (3 days ago)
 - [fix/chunk](https://github.com/gohugoio/hugoreleaser/pull/36) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (3 days ago)
 - [Fix 2 unclosed notes shortcodes](https://github.com/linode/docs/pull/6122) on [linode/docs](https://github.com/linode/docs) (3 days ago)
-- [Add a page template func](https://github.com/gohugoio/hugo/pull/10755) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
