@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Allow page.TableOfContents on self in shortcode](https://github.com/gohugoio/hugo/pull/10793) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix &#34;context canceled&#34; with partial](https://github.com/gohugoio/hugo/pull/10790) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Page context handling in i18n](https://github.com/gohugoio/hugo/pull/10787) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Work around --gc failure on Windows &lt;= 10](https://github.com/gohugoio/hugo/pull/10786) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix &#34;page&#34; not defined](https://github.com/gohugoio/hugo/pull/10775) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix chunk shuffle for Go 1.20](https://github.com/gohugoio/hugoreleaser/pull/37) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
