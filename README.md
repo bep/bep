@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Fix &#34;context canceled&#34; with partial](https://github.com/gohugoio/hugo/pull/10790) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Page context handling in i18n](https://github.com/gohugoio/hugo/pull/10787) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Work around --gc failure on Windows &lt;= 10](https://github.com/gohugoio/hugo/pull/10786) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix &#34;page&#34; not defined](https://github.com/gohugoio/hugo/pull/10775) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix chunk shuffle for Go 1.20](https://github.com/gohugoio/hugoreleaser/pull/37) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (3 days ago)
+- [Fix &#34;context canceled&#34; with partial](https://github.com/gohugoio/hugo/pull/10790) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Page context handling in i18n](https://github.com/gohugoio/hugo/pull/10787) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Work around --gc failure on Windows &lt;= 10](https://github.com/gohugoio/hugo/pull/10786) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix &#34;page&#34; not defined](https://github.com/gohugoio/hugo/pull/10775) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix chunk shuffle for Go 1.20](https://github.com/gohugoio/hugoreleaser/pull/37) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [frjo](https://github.com/frjo) (5 days ago)
+- [frjo](https://github.com/frjo) (6 days ago)
 - [rexarski](https://github.com/rexarski) (3 weeks ago)
-- [jhvanderschee](https://github.com/jhvanderschee) (4 weeks ago)
+- [jhvanderschee](https://github.com/jhvanderschee) (1 month ago)
 - [n8nio](https://github.com/n8nio) (1 month ago)
 - [npee](https://github.com/npee) (3 months ago)
 
