@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix failing tests on Windows with Go 1.20](https://github.com/spf13/afero/pull/387) on [spf13/afero](https://github.com/spf13/afero) (today)
 - [temp/brock](https://github.com/spf13/afero/pull/386) on [spf13/afero](https://github.com/spf13/afero) (today)
 - [Allow page.TableOfContents on self in shortcode](https://github.com/gohugoio/hugo/pull/10793) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix &#34;context canceled&#34; with partial](https://github.com/gohugoio/hugo/pull/10790) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Page context handling in i18n](https://github.com/gohugoio/hugo/pull/10787) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Work around --gc failure on Windows &lt;= 10](https://github.com/gohugoio/hugo/pull/10786) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
