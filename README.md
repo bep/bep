@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [feat/hugmod 10801](https://github.com/gohugoio/hugo/pull/10807) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Don&#39;t fail when calling Paginate with an empty pages.PagesGroup](https://github.com/gohugoio/hugo/pull/10803) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix failing tests on Windows with Go 1.20](https://github.com/spf13/afero/pull/387) on [spf13/afero](https://github.com/spf13/afero) (2 days ago)
 - [temp/brock](https://github.com/spf13/afero/pull/386) on [spf13/afero](https://github.com/spf13/afero) (2 days ago)
 - [Allow page.TableOfContents on self in shortcode](https://github.com/gohugoio/hugo/pull/10793) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix &#34;context canceled&#34; with partial](https://github.com/gohugoio/hugo/pull/10790) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
