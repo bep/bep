@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [Imatvoid](https://github.com/Imatvoid) (today)
 - [frjo](https://github.com/frjo) (1 week ago)
 - [rexarski](https://github.com/rexarski) (4 weeks ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (1 month ago)
 - [n8nio](https://github.com/n8nio) (1 month ago)
-- [npee](https://github.com/npee) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
