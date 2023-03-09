@@ -10,7 +10,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [Imatvoid](https://github.com/Imatvoid) (1 day ago)
+- [morrisxyang](https://github.com/morrisxyang) (1 day ago)
 - [frjo](https://github.com/frjo) (1 week ago)
 - [rexarski](https://github.com/rexarski) (1 month ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (1 month ago)
