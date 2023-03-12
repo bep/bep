@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [feat/hugmod 10801](https://github.com/gohugoio/hugo/pull/10807) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Don&#39;t fail when calling Paginate with an empty pages.PagesGroup](https://github.com/gohugoio/hugo/pull/10803) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix failing tests on Windows with Go 1.20](https://github.com/spf13/afero/pull/387) on [spf13/afero](https://github.com/spf13/afero) (5 days ago)
-- [temp/brock](https://github.com/spf13/afero/pull/386) on [spf13/afero](https://github.com/spf13/afero) (5 days ago)
-- [Allow page.TableOfContents on self in shortcode](https://github.com/gohugoio/hugo/pull/10793) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [feat/hugmod 10801](https://github.com/gohugoio/hugo/pull/10807) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Don&#39;t fail when calling Paginate with an empty pages.PagesGroup](https://github.com/gohugoio/hugo/pull/10803) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix failing tests on Windows with Go 1.20](https://github.com/spf13/afero/pull/387) on [spf13/afero](https://github.com/spf13/afero) (6 days ago)
+- [temp/brock](https://github.com/spf13/afero/pull/386) on [spf13/afero](https://github.com/spf13/afero) (6 days ago)
+- [Allow page.TableOfContents on self in shortcode](https://github.com/gohugoio/hugo/pull/10793) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [jixingcn](https://github.com/jixingcn) (today)
-- [morrisxyang](https://github.com/morrisxyang) (3 days ago)
+- [jixingcn](https://github.com/jixingcn) (1 day ago)
+- [morrisxyang](https://github.com/morrisxyang) (4 days ago)
 - [frjo](https://github.com/frjo) (1 week ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (1 month ago)
 - [n8nio](https://github.com/n8nio) (1 month ago)
