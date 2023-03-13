@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Fix &#34;unknown shortcode token&#34; when calling shortcode within fenced code block](https://github.com/gohugoio/hugo/pull/10822) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [feat/hugmod 10801](https://github.com/gohugoio/hugo/pull/10807) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Don&#39;t fail when calling Paginate with an empty pages.PagesGroup](https://github.com/gohugoio/hugo/pull/10803) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix failing tests on Windows with Go 1.20](https://github.com/spf13/afero/pull/387) on [spf13/afero](https://github.com/spf13/afero) (6 days ago)
-- [temp/brock](https://github.com/spf13/afero/pull/386) on [spf13/afero](https://github.com/spf13/afero) (6 days ago)
+- [Fix &#34;unknown shortcode token&#34; when calling shortcode within fenced code block](https://github.com/gohugoio/hugo/pull/10822) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [feat/hugmod 10801](https://github.com/gohugoio/hugo/pull/10807) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Don&#39;t fail when calling Paginate with an empty pages.PagesGroup](https://github.com/gohugoio/hugo/pull/10803) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix failing tests on Windows with Go 1.20](https://github.com/spf13/afero/pull/387) on [spf13/afero](https://github.com/spf13/afero) (1 week ago)
+- [temp/brock](https://github.com/spf13/afero/pull/386) on [spf13/afero](https://github.com/spf13/afero) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [jixingcn](https://github.com/jixingcn) (1 day ago)
-- [morrisxyang](https://github.com/morrisxyang) (4 days ago)
-- [frjo](https://github.com/frjo) (1 week ago)
+- [jixingcn](https://github.com/jixingcn) (2 days ago)
+- [morrisxyang](https://github.com/morrisxyang) (5 days ago)
+- [frjo](https://github.com/frjo) (2 weeks ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (1 month ago)
 - [n8nio](https://github.com/n8nio) (1 month ago)
 
