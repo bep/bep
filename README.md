@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [github: Reduce config to Ubuntu and the failing part](https://github.com/gohugoio/hugo/pull/10833) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix &#34;unknown shortcode token&#34; when calling shortcode within fenced code block](https://github.com/gohugoio/hugo/pull/10822) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [feat/hugmod 10801](https://github.com/gohugoio/hugo/pull/10807) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Don&#39;t fail when calling Paginate with an empty pages.PagesGroup](https://github.com/gohugoio/hugo/pull/10803) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Fix failing tests on Windows with Go 1.20](https://github.com/spf13/afero/pull/387) on [spf13/afero](https://github.com/spf13/afero) (1 week ago)
-- [temp/brock](https://github.com/spf13/afero/pull/386) on [spf13/afero](https://github.com/spf13/afero) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
