@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [markup/goldmark: Fail on invalid Markdown attributes](https://github.com/gohugoio/hugo/pull/10836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [github: Reduce config to Ubuntu and the failing part](https://github.com/gohugoio/hugo/pull/10833) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [markup/goldmark: Fail on invalid Markdown attributes](https://github.com/gohugoio/hugo/pull/10836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [github: Reduce config to Ubuntu and the failing part](https://github.com/gohugoio/hugo/pull/10833) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix &#34;unknown shortcode token&#34; when calling shortcode within fenced code block](https://github.com/gohugoio/hugo/pull/10822) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [feat/hugmod 10801](https://github.com/gohugoio/hugo/pull/10807) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Don&#39;t fail when calling Paginate with an empty pages.PagesGroup](https://github.com/gohugoio/hugo/pull/10803) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [devsr-gt](https://github.com/devsr-gt) (1 day ago)
+- [devsr-gt](https://github.com/devsr-gt) (2 days ago)
 - [jixingcn](https://github.com/jixingcn) (1 week ago)
 - [morrisxyang](https://github.com/morrisxyang) (1 week ago)
 - [frjo](https://github.com/frjo) (3 weeks ago)
