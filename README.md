@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
-- [fuww](https://github.com/fuww) (today)
 - [devsr-gt](https://github.com/devsr-gt) (4 days ago)
 - [jixingcn](https://github.com/jixingcn) (1 week ago)
 - [morrisxyang](https://github.com/morrisxyang) (2 weeks ago)
 - [frjo](https://github.com/frjo) (3 weeks ago)
+- [jhvanderschee](https://github.com/jhvanderschee) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
