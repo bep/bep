@@ -14,7 +14,7 @@
 - [devsr-gt](https://github.com/devsr-gt) (1 week ago)
 - [jixingcn](https://github.com/jixingcn) (2 weeks ago)
 - [morrisxyang](https://github.com/morrisxyang) (3 weeks ago)
-- [frjo](https://github.com/frjo) (1 month ago)
+- [jhvanderschee](https://github.com/jhvanderschee) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
