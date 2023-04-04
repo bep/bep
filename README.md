@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Fix some quote issues with code block attributes](https://github.com/linode/docs/pull/6218) on [linode/docs](https://github.com/linode/docs) (4 days ago)
-- [Add test for ToC vs include](https://github.com/gohugoio/hugo/pull/10867) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [markup/goldmark: Fail on invalid Markdown attributes](https://github.com/gohugoio/hugo/pull/10836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [github: Reduce config to Ubuntu and the failing part](https://github.com/gohugoio/hugo/pull/10833) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
+- [Fix some quote issues with code block attributes](https://github.com/linode/docs/pull/6218) on [linode/docs](https://github.com/linode/docs) (5 days ago)
+- [Add test for ToC vs include](https://github.com/gohugoio/hugo/pull/10867) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [markup/goldmark: Fail on invalid Markdown attributes](https://github.com/gohugoio/hugo/pull/10836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
+- [github: Reduce config to Ubuntu and the failing part](https://github.com/gohugoio/hugo/pull/10833) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 - [Fix &#34;unknown shortcode token&#34; when calling shortcode within fenced code block](https://github.com/gohugoio/hugo/pull/10822) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
-- [JeppeKlitgaard](https://github.com/JeppeKlitgaard) (5 days ago)
+- [JeppeKlitgaard](https://github.com/JeppeKlitgaard) (6 days ago)
 - [devsr-gt](https://github.com/devsr-gt) (2 weeks ago)
 - [jixingcn](https://github.com/jixingcn) (3 weeks ago)
 - [morrisxyang](https://github.com/morrisxyang) (3 weeks ago)
-- [jhvanderschee](https://github.com/jhvanderschee) (1 month ago)
+- [jhvanderschee](https://github.com/jhvanderschee) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
