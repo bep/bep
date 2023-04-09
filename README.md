@@ -6,12 +6,12 @@
 - [Add test for ToC vs include](https://github.com/gohugoio/hugo/pull/10867) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [markup/goldmark: Fail on invalid Markdown attributes](https://github.com/gohugoio/hugo/pull/10836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 - [github: Reduce config to Ubuntu and the failing part](https://github.com/gohugoio/hugo/pull/10833) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
-- [Fix &#34;unknown shortcode token&#34; when calling shortcode within fenced code block](https://github.com/gohugoio/hugo/pull/10822) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
+- [Fix &#34;unknown shortcode token&#34; when calling shortcode within fenced code block](https://github.com/gohugoio/hugo/pull/10822) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
 - [JeppeKlitgaard](https://github.com/JeppeKlitgaard) (1 week ago)
-- [devsr-gt](https://github.com/devsr-gt) (2 weeks ago)
+- [devsr-gt](https://github.com/devsr-gt) (3 weeks ago)
 - [jixingcn](https://github.com/jixingcn) (4 weeks ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (2 months ago)
 - [n8nio](https://github.com/n8nio) (2 months ago)
