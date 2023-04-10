@@ -12,7 +12,7 @@
 
 - [JeppeKlitgaard](https://github.com/JeppeKlitgaard) (1 week ago)
 - [devsr-gt](https://github.com/devsr-gt) (3 weeks ago)
-- [jixingcn](https://github.com/jixingcn) (4 weeks ago)
+- [jixingcn](https://github.com/jixingcn) (1 month ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (2 months ago)
 - [n8nio](https://github.com/n8nio) (2 months ago)
 
