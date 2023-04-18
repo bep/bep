@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [Fix malformed Markdown attribute](https://github.com/linode/docs/pull/6256) on [linode/docs](https://github.com/linode/docs) (4 days ago)
-- [markup/goldmark: Add config options for the typographer extension](https://github.com/gohugoio/hugo/pull/10892) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix malformed Markdown attribute](https://github.com/linode/docs/pull/6256) on [linode/docs](https://github.com/linode/docs) (5 days ago)
+- [markup/goldmark: Add config options for the typographer extension](https://github.com/gohugoio/hugo/pull/10892) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Fix some quote issues with code block attributes](https://github.com/linode/docs/pull/6218) on [linode/docs](https://github.com/linode/docs) (2 weeks ago)
 - [Add test for ToC vs include](https://github.com/gohugoio/hugo/pull/10867) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [markup/goldmark: Fail on invalid Markdown attributes](https://github.com/gohugoio/hugo/pull/10836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 month ago)
@@ -11,7 +11,7 @@
 ### Recent sponsors (big thank you!)
 
 - [JeppeKlitgaard](https://github.com/JeppeKlitgaard) (2 weeks ago)
-- [devsr-gt](https://github.com/devsr-gt) (4 weeks ago)
+- [devsr-gt](https://github.com/devsr-gt) (1 month ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (2 months ago)
 - [n8nio](https://github.com/n8nio) (2 months ago)
 - [npee](https://github.com/npee) (5 months ago)
