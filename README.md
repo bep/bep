@@ -4,7 +4,7 @@
 
 - [Fix malformed Markdown attribute](https://github.com/linode/docs/pull/6256) on [linode/docs](https://github.com/linode/docs) (2 weeks ago)
 - [markup/goldmark: Add config options for the typographer extension](https://github.com/gohugoio/hugo/pull/10892) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [Fix some quote issues with code block attributes](https://github.com/linode/docs/pull/6218) on [linode/docs](https://github.com/linode/docs) (4 weeks ago)
+- [Fix some quote issues with code block attributes](https://github.com/linode/docs/pull/6218) on [linode/docs](https://github.com/linode/docs) (1 month ago)
 - [Add test for ToC vs include](https://github.com/gohugoio/hugo/pull/10867) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 month ago)
 - [markup/goldmark: Fail on invalid Markdown attributes](https://github.com/gohugoio/hugo/pull/10836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 month ago)
 
