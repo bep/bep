@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/bep/s3deploy/pull/374) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
+- [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/gohugoio/hugoreleaser/pull/39) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (today)
 - [Fix malformed Markdown attribute](https://github.com/linode/docs/pull/6256) on [linode/docs](https://github.com/linode/docs) (2 weeks ago)
 - [markup/goldmark: Add config options for the typographer extension](https://github.com/gohugoio/hugo/pull/10892) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [Fix some quote issues with code block attributes](https://github.com/linode/docs/pull/6218) on [linode/docs](https://github.com/linode/docs) (1 month ago)
-- [Add test for ToC vs include](https://github.com/gohugoio/hugo/pull/10867) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 month ago)
-- [markup/goldmark: Fail on invalid Markdown attributes](https://github.com/gohugoio/hugo/pull/10836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 month ago)
 
 ### Recent sponsors (big thank you!)
 
