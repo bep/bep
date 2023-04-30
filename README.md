@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [Improve errors](https://github.com/bep/cobrakai/pull/2) on [bep/cobrakai](https://github.com/bep/cobrakai) (today)
-- [Simplify API](https://github.com/bep/cobrakai/pull/1) on [bep/cobrakai](https://github.com/bep/cobrakai) (today)
+- [Improve errors](https://github.com/bep/simplecobra/pull/2) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
+- [Simplify API](https://github.com/bep/simplecobra/pull/1) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
 - [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/bep/s3deploy/pull/374) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
 - [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/gohugoio/hugoreleaser/pull/39) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (1 day ago)
 - [Fix malformed Markdown attribute](https://github.com/linode/docs/pull/6256) on [linode/docs](https://github.com/linode/docs) (2 weeks ago)
