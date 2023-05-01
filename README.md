@@ -2,10 +2,10 @@
 
 ### Recent Pull Requests
 
-- [Improve errors](https://github.com/bep/simplecobra/pull/2) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
-- [Simplify API](https://github.com/bep/simplecobra/pull/1) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
-- [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/bep/s3deploy/pull/374) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
-- [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/gohugoio/hugoreleaser/pull/39) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (1 day ago)
+- [Improve errors](https://github.com/bep/simplecobra/pull/2) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
+- [Simplify API](https://github.com/bep/simplecobra/pull/1) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
+- [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/bep/s3deploy/pull/374) on [bep/s3deploy](https://github.com/bep/s3deploy) (2 days ago)
+- [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/gohugoio/hugoreleaser/pull/39) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (2 days ago)
 - [Fix malformed Markdown attribute](https://github.com/linode/docs/pull/6256) on [linode/docs](https://github.com/linode/docs) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
