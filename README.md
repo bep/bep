@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Only Init the running command and its ancestors](https://github.com/bep/simplecobra/pull/3) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
-- [Improve errors](https://github.com/bep/simplecobra/pull/2) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
-- [Simplify API](https://github.com/bep/simplecobra/pull/1) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
-- [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/bep/s3deploy/pull/374) on [bep/s3deploy](https://github.com/bep/s3deploy) (2 days ago)
-- [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/gohugoio/hugoreleaser/pull/39) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (2 days ago)
+- [Only Init the running command and its ancestors](https://github.com/bep/simplecobra/pull/3) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
+- [Improve errors](https://github.com/bep/simplecobra/pull/2) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
+- [Simplify API](https://github.com/bep/simplecobra/pull/1) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
+- [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/bep/s3deploy/pull/374) on [bep/s3deploy](https://github.com/bep/s3deploy) (3 days ago)
+- [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/gohugoio/hugoreleaser/pull/39) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
@@ -14,7 +14,7 @@
 - [jhvanderschee](https://github.com/jhvanderschee) (2 months ago)
 - [n8nio](https://github.com/n8nio) (3 months ago)
 - [npee](https://github.com/npee) (5 months ago)
-- [forgeronvirtuel](https://github.com/forgeronvirtuel) (5 months ago)
+- [forgeronvirtuel](https://github.com/forgeronvirtuel) (6 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
