@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by doing a full copy of binaries](https://github.com/rogpeppe/go-internal/pull/220) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (today)
 - [testscript: fix &#34;signal: killed&#34; exec errors on MacOS](https://github.com/rogpeppe/go-internal/pull/219) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (1 day ago)
 - [Only Init the running command and its ancestors](https://github.com/bep/simplecobra/pull/3) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
 - [Improve errors](https://github.com/bep/simplecobra/pull/2) on [bep/simplecobra](https://github.com/bep/simplecobra) (3 days ago)
 - [Simplify API](https://github.com/bep/simplecobra/pull/1) on [bep/simplecobra](https://github.com/bep/simplecobra) (3 days ago)
-- [deps: Update github.com/rogpeppe/go-internal v1.9.0 =&gt; v1.10.0](https://github.com/bep/s3deploy/pull/374) on [bep/s3deploy](https://github.com/bep/s3deploy) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
