@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [testscript: fix &#34;signal: killed&#34; exec errors](https://github.com/rogpeppe/go-internal/pull/219) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (1 day ago)
+- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS](https://github.com/rogpeppe/go-internal/pull/219) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (1 day ago)
 - [Only Init the running command and its ancestors](https://github.com/bep/simplecobra/pull/3) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
 - [Improve errors](https://github.com/bep/simplecobra/pull/2) on [bep/simplecobra](https://github.com/bep/simplecobra) (3 days ago)
 - [Simplify API](https://github.com/bep/simplecobra/pull/1) on [bep/simplecobra](https://github.com/bep/simplecobra) (3 days ago)
