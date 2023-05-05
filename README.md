@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by using os.Symlink on darwin](https://github.com/rogpeppe/go-internal/pull/221) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (today)
-- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by doing a full copy of binaries](https://github.com/rogpeppe/go-internal/pull/220) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (1 day ago)
-- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by adding a 200ms sleep on darwin](https://github.com/rogpeppe/go-internal/pull/219) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (2 days ago)
-- [Only Init the running command and its ancestors](https://github.com/bep/simplecobra/pull/3) on [bep/simplecobra](https://github.com/bep/simplecobra) (3 days ago)
-- [Improve errors](https://github.com/bep/simplecobra/pull/2) on [bep/simplecobra](https://github.com/bep/simplecobra) (4 days ago)
+- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by using os.Symlink on darwin](https://github.com/rogpeppe/go-internal/pull/221) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (1 day ago)
+- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by doing a full copy of binaries](https://github.com/rogpeppe/go-internal/pull/220) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (2 days ago)
+- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by adding a 200ms sleep on darwin](https://github.com/rogpeppe/go-internal/pull/219) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (3 days ago)
+- [Only Init the running command and its ancestors](https://github.com/bep/simplecobra/pull/3) on [bep/simplecobra](https://github.com/bep/simplecobra) (4 days ago)
+- [Improve errors](https://github.com/bep/simplecobra/pull/2) on [bep/simplecobra](https://github.com/bep/simplecobra) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
