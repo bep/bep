@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [testscript: use unix.CloneFile on MacOs ](https://github.com/rogpeppe/go-internal/pull/222) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (today)
-- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by using os.Symlink on darwin](https://github.com/rogpeppe/go-internal/pull/221) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (1 day ago)
-- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by doing a full copy of binaries](https://github.com/rogpeppe/go-internal/pull/220) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (2 days ago)
-- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by adding a 200ms sleep on darwin](https://github.com/rogpeppe/go-internal/pull/219) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (3 days ago)
-- [Only Init the running command and its ancestors](https://github.com/bep/simplecobra/pull/3) on [bep/simplecobra](https://github.com/bep/simplecobra) (4 days ago)
+- [testscript: use unix.CloneFile on MacOs ](https://github.com/rogpeppe/go-internal/pull/222) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (1 day ago)
+- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by using os.Symlink on darwin](https://github.com/rogpeppe/go-internal/pull/221) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (2 days ago)
+- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by doing a full copy of binaries](https://github.com/rogpeppe/go-internal/pull/220) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (3 days ago)
+- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by adding a 200ms sleep on darwin](https://github.com/rogpeppe/go-internal/pull/219) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (4 days ago)
+- [Only Init the running command and its ancestors](https://github.com/bep/simplecobra/pull/3) on [bep/simplecobra](https://github.com/bep/simplecobra) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [devsr-gt](https://github.com/devsr-gt) (1 month ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (3 months ago)
 - [n8nio](https://github.com/n8nio) (3 months ago)
-- [npee](https://github.com/npee) (5 months ago)
+- [npee](https://github.com/npee) (6 months ago)
 - [forgeronvirtuel](https://github.com/forgeronvirtuel) (6 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
