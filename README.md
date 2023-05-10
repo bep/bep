@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [readme: Add a paragraph about the difference between this and Cobra](https://github.com/bep/simplecobra/pull/4) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
-- [Do not run codecov on forked PRs](https://github.com/bep/s3deploy/pull/385) on [bep/s3deploy](https://github.com/bep/s3deploy) (3 days ago)
-- [Rework test scripts](https://github.com/bep/s3deploy/pull/384) on [bep/s3deploy](https://github.com/bep/s3deploy) (3 days ago)
-- [testscript: use unix.CloneFile on MacOs ](https://github.com/rogpeppe/go-internal/pull/222) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (4 days ago)
-- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by using os.Symlink on darwin](https://github.com/rogpeppe/go-internal/pull/221) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (5 days ago)
+- [readme: Add a paragraph about the difference between this and Cobra](https://github.com/bep/simplecobra/pull/4) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
+- [Do not run codecov on forked PRs](https://github.com/bep/s3deploy/pull/385) on [bep/s3deploy](https://github.com/bep/s3deploy) (4 days ago)
+- [Rework test scripts](https://github.com/bep/s3deploy/pull/384) on [bep/s3deploy](https://github.com/bep/s3deploy) (4 days ago)
+- [testscript: use unix.CloneFile on MacOs ](https://github.com/rogpeppe/go-internal/pull/222) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (5 days ago)
+- [testscript: fix &#34;signal: killed&#34; exec errors on MacOS by using os.Symlink on darwin](https://github.com/rogpeppe/go-internal/pull/221) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
