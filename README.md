@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [bwrst](https://github.com/bwrst) (today)
 - [devsr-gt](https://github.com/devsr-gt) (1 month ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (3 months ago)
 - [n8nio](https://github.com/n8nio) (3 months ago)
 - [npee](https://github.com/npee) (6 months ago)
-- [forgeronvirtuel](https://github.com/forgeronvirtuel) (6 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
