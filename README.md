@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Improve test coverage for error situations](https://github.com/bep/simplecobra/pull/6) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
 - [ Add the running command to Init](https://github.com/bep/simplecobra/pull/5) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
 - [readme: Add a paragraph about the difference between this and Cobra](https://github.com/bep/simplecobra/pull/4) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
 - [Do not run codecov on forked PRs](https://github.com/bep/s3deploy/pull/385) on [bep/s3deploy](https://github.com/bep/s3deploy) (5 days ago)
 - [Rework test scripts](https://github.com/bep/s3deploy/pull/384) on [bep/s3deploy](https://github.com/bep/s3deploy) (5 days ago)
-- [testscript: use unix.CloneFile on MacOs ](https://github.com/rogpeppe/go-internal/pull/222) on [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
