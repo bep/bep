@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Improve test coverage for error situations](https://github.com/bep/simplecobra/pull/6) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
-- [ Add the running command to Init](https://github.com/bep/simplecobra/pull/5) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
-- [readme: Add a paragraph about the difference between this and Cobra](https://github.com/bep/simplecobra/pull/4) on [bep/simplecobra](https://github.com/bep/simplecobra) (3 days ago)
-- [Do not run codecov on forked PRs](https://github.com/bep/s3deploy/pull/385) on [bep/s3deploy](https://github.com/bep/s3deploy) (6 days ago)
-- [Rework test scripts](https://github.com/bep/s3deploy/pull/384) on [bep/s3deploy](https://github.com/bep/s3deploy) (6 days ago)
+- [Improve test coverage for error situations](https://github.com/bep/simplecobra/pull/6) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
+- [ Add the running command to Init](https://github.com/bep/simplecobra/pull/5) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
+- [readme: Add a paragraph about the difference between this and Cobra](https://github.com/bep/simplecobra/pull/4) on [bep/simplecobra](https://github.com/bep/simplecobra) (4 days ago)
+- [Do not run codecov on forked PRs](https://github.com/bep/s3deploy/pull/385) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 week ago)
+- [Rework test scripts](https://github.com/bep/s3deploy/pull/384) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [dnhn](https://github.com/dnhn) (today)
-- [bwrst](https://github.com/bwrst) (1 day ago)
+- [dnhn](https://github.com/dnhn) (1 day ago)
+- [bwrst](https://github.com/bwrst) (2 days ago)
 - [devsr-gt](https://github.com/devsr-gt) (1 month ago)
 - [jhvanderschee](https://github.com/jhvanderschee) (3 months ago)
 - [n8nio](https://github.com/n8nio) (3 months ago)
