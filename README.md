@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Improve test coverage for error situations](https://github.com/bep/simplecobra/pull/6) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
-- [ Add the running command to Init](https://github.com/bep/simplecobra/pull/5) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
-- [readme: Add a paragraph about the difference between this and Cobra](https://github.com/bep/simplecobra/pull/4) on [bep/simplecobra](https://github.com/bep/simplecobra) (4 days ago)
-- [Do not run codecov on forked PRs](https://github.com/bep/s3deploy/pull/385) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 week ago)
-- [Rework test scripts](https://github.com/bep/s3deploy/pull/384) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 week ago)
+- [Fix &#34;unknown command&#34; message when no suggestion](https://github.com/gohugoio/hugo/pull/10987) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Avoid writing to hugo_stats.json when there are no changes](https://github.com/gohugoio/hugo/pull/10986) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Add cache busting config to support Tailwind 3](https://github.com/gohugoio/hugo/pull/10983) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [commands: Make all list commands list what &#39;all&#39; did before](https://github.com/gohugoio/hugo/pull/10977) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Allow whitelisting mediaTypes used in resources.GetRemote](https://github.com/gohugoio/hugo/pull/10973) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [dnhn](https://github.com/dnhn) (1 day ago)
-- [bwrst](https://github.com/bwrst) (2 days ago)
-- [devsr-gt](https://github.com/devsr-gt) (1 month ago)
-- [jhvanderschee](https://github.com/jhvanderschee) (3 months ago)
-- [n8nio](https://github.com/n8nio) (3 months ago)
+- [modeckimellett](https://github.com/modeckimellett) (2 days ago)
+- [dwermke](https://github.com/dwermke) (5 days ago)
+- [adorebo](https://github.com/adorebo) (1 week ago)
+- [dnhn](https://github.com/dnhn) (1 week ago)
+- [bwrst](https://github.com/bwrst) (1 week ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
