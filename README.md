@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix regression when config for OutputFormat.BaseName is an empty string](https://github.com/gohugoio/hugo/pull/11005) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add --format to hugo config](https://github.com/gohugoio/hugo/pull/10989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix &#34;unknown command&#34; message when no suggestion](https://github.com/gohugoio/hugo/pull/10987) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Avoid writing to hugo_stats.json when there are no changes](https://github.com/gohugoio/hugo/pull/10986) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add cache busting config to support Tailwind 3](https://github.com/gohugoio/hugo/pull/10983) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [commands: Make all list commands list what &#39;all&#39; did before](https://github.com/gohugoio/hugo/pull/10977) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
