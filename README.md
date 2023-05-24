@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Fix regression when config for OutputFormat.BaseName is an empty string](https://github.com/gohugoio/hugo/pull/11005) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add --format to hugo config](https://github.com/gohugoio/hugo/pull/10989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix &#34;unknown command&#34; message when no suggestion](https://github.com/gohugoio/hugo/pull/10987) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Avoid writing to hugo_stats.json when there are no changes](https://github.com/gohugoio/hugo/pull/10986) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add cache busting config to support Tailwind 3](https://github.com/gohugoio/hugo/pull/10983) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix regression when config for OutputFormat.BaseName is an empty string](https://github.com/gohugoio/hugo/pull/11005) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add --format to hugo config](https://github.com/gohugoio/hugo/pull/10989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix &#34;unknown command&#34; message when no suggestion](https://github.com/gohugoio/hugo/pull/10987) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Avoid writing to hugo_stats.json when there are no changes](https://github.com/gohugoio/hugo/pull/10986) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add cache busting config to support Tailwind 3](https://github.com/gohugoio/hugo/pull/10983) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [modeckimellett](https://github.com/modeckimellett) (3 days ago)
-- [dwermke](https://github.com/dwermke) (6 days ago)
+- [modeckimellett](https://github.com/modeckimellett) (4 days ago)
+- [dwermke](https://github.com/dwermke) (1 week ago)
 - [adorebo](https://github.com/adorebo) (1 week ago)
 - [dnhn](https://github.com/dnhn) (1 week ago)
 - [bwrst](https://github.com/bwrst) (1 week ago)
