@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Use a trie with a rune slice](https://github.com/bep/triebytesmapper/pull/1) on [bep/triebytesmapper](https://github.com/bep/triebytesmapper) (1 day ago)
-- [Fix regression when loading config  -e is empty or HUGO_ENV or HUGO_ENVIRONMENT is set](https://github.com/gohugoio/hugo/pull/11014) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix regression with site.IsServer when not running a server](https://github.com/gohugoio/hugo/pull/11011) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix regression when config for OutputFormat.BaseName is an empty string](https://github.com/gohugoio/hugo/pull/11005) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add --format to hugo config](https://github.com/gohugoio/hugo/pull/10989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Use a trie with a rune slice](https://github.com/bep/triebytesmapper/pull/1) on [bep/triebytesmapper](https://github.com/bep/triebytesmapper) (2 days ago)
+- [Fix regression when loading config  -e is empty or HUGO_ENV or HUGO_ENVIRONMENT is set](https://github.com/gohugoio/hugo/pull/11014) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix regression with site.IsServer when not running a server](https://github.com/gohugoio/hugo/pull/11011) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix regression when config for OutputFormat.BaseName is an empty string](https://github.com/gohugoio/hugo/pull/11005) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add --format to hugo config](https://github.com/gohugoio/hugo/pull/10989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [modeckimellett](https://github.com/modeckimellett) (5 days ago)
+- [modeckimellett](https://github.com/modeckimellett) (6 days ago)
 - [dwermke](https://github.com/dwermke) (1 week ago)
 - [adorebo](https://github.com/adorebo) (1 week ago)
-- [dnhn](https://github.com/dnhn) (1 week ago)
+- [dnhn](https://github.com/dnhn) (2 weeks ago)
 - [bwrst](https://github.com/bwrst) (2 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
