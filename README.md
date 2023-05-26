@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [demo: Demonstrate a way to control execution flow from e.g. single.html to the base template](https://github.com/gohugoio/hugo/pull/11024) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Use a trie with a rune slice](https://github.com/bep/triebytesmapper/pull/1) on [bep/triebytesmapper](https://github.com/bep/triebytesmapper) (2 days ago)
 - [Fix regression when loading config  -e is empty or HUGO_ENV or HUGO_ENVIRONMENT is set](https://github.com/gohugoio/hugo/pull/11014) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix regression with site.IsServer when not running a server](https://github.com/gohugoio/hugo/pull/11011) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix regression when config for OutputFormat.BaseName is an empty string](https://github.com/gohugoio/hugo/pull/11005) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add --format to hugo config](https://github.com/gohugoio/hugo/pull/10989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
