@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix potential deadlock in ByParam](https://github.com/gohugoio/hugo/pull/11042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix potential deadlock in ByParam](https://github.com/gohugoio/hugo/pull/11041) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Don&#39;t create the public folder unless needed](https://github.com/gohugoio/hugo/pull/11034) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc regression fixes](https://github.com/gohugoio/hugo/pull/11029) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [demo: Demonstrate a way to control execution flow from e.g. single.html to the base template](https://github.com/gohugoio/hugo/pull/11024) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Use a trie with a rune slice](https://github.com/bep/triebytesmapper/pull/1) on [bep/triebytesmapper](https://github.com/bep/triebytesmapper) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
