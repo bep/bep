@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Prevent double escaping of image alt-text in Goldmar typographer](https://github.com/gohugoio/hugo/pull/11049) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [fix/misc01126 1](https://github.com/gohugoio/hugo/pull/11048) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix potential deadlock in ByParam](https://github.com/gohugoio/hugo/pull/11043) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix potential deadlock in ByParam](https://github.com/gohugoio/hugo/pull/11042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix potential deadlock in ByParam](https://github.com/gohugoio/hugo/pull/11041) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Don&#39;t create the public folder unless needed](https://github.com/gohugoio/hugo/pull/11034) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
