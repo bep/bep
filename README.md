@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [github: Upgrade mingw on Windows](https://github.com/gohugoio/hugo/pull/11053) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Prevent double escaping of image alt-text in Goldmar typographer](https://github.com/gohugoio/hugo/pull/11049) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [fix/misc01126 1](https://github.com/gohugoio/hugo/pull/11048) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix potential deadlock in ByParam](https://github.com/gohugoio/hugo/pull/11043) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix potential deadlock in ByParam](https://github.com/gohugoio/hugo/pull/11042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [github: Upgrade mingw on Windows](https://github.com/gohugoio/hugo/pull/11053) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Prevent double escaping of image alt-text in Goldmar typographer](https://github.com/gohugoio/hugo/pull/11049) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [fix/misc01126 1](https://github.com/gohugoio/hugo/pull/11048) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix potential deadlock in ByParam](https://github.com/gohugoio/hugo/pull/11043) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix potential deadlock in ByParam](https://github.com/gohugoio/hugo/pull/11042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
@@ -14,7 +14,7 @@
 - [dwermke](https://github.com/dwermke) (2 weeks ago)
 - [adorebo](https://github.com/adorebo) (2 weeks ago)
 - [dnhn](https://github.com/dnhn) (2 weeks ago)
-- [bwrst](https://github.com/bwrst) (2 weeks ago)
+- [bwrst](https://github.com/bwrst) (3 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
