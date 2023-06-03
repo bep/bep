@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [commands: Add --certFile and --keyFile to server](https://github.com/gohugoio/hugo/pull/11065) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc bug fixes](https://github.com/gohugoio/hugo/pull/11063) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [fix/hugoconfigoutputmounts 11040](https://github.com/gohugoio/hugo/pull/11058) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [github: Fix Windows build](https://github.com/gohugoio/hugo/pull/11056) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [github: Upgrade mingw on Windows](https://github.com/gohugoio/hugo/pull/11053) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [commands: Add --certFile and --keyFile to server](https://github.com/gohugoio/hugo/pull/11065) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc bug fixes](https://github.com/gohugoio/hugo/pull/11063) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [fix/hugoconfigoutputmounts 11040](https://github.com/gohugoio/hugo/pull/11058) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [github: Fix Windows build](https://github.com/gohugoio/hugo/pull/11056) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [github: Upgrade mingw on Windows](https://github.com/gohugoio/hugo/pull/11053) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [modeckimellett](https://github.com/modeckimellett) (1 week ago)
+- [modeckimellett](https://github.com/modeckimellett) (2 weeks ago)
 - [dwermke](https://github.com/dwermke) (2 weeks ago)
-- [adorebo](https://github.com/adorebo) (2 weeks ago)
+- [adorebo](https://github.com/adorebo) (3 weeks ago)
 - [dnhn](https://github.com/dnhn) (3 weeks ago)
 - [bwrst](https://github.com/bwrst) (3 weeks ago)
 
