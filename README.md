@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [commands: Add --certFile and --keyFile to server](https://github.com/gohugoio/hugo/pull/11065) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [commands: Add TLS/HTTPS support to hugo server](https://github.com/gohugoio/hugo/pull/11065) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Misc bug fixes](https://github.com/gohugoio/hugo/pull/11063) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [fix/hugoconfigoutputmounts 11040](https://github.com/gohugoio/hugo/pull/11058) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [github: Fix Windows build](https://github.com/gohugoio/hugo/pull/11056) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
