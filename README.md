@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [donaldjenkins](https://github.com/donaldjenkins) (today)
 - [modeckimellett](https://github.com/modeckimellett) (2 weeks ago)
 - [dwermke](https://github.com/dwermke) (2 weeks ago)
 - [adorebo](https://github.com/adorebo) (3 weeks ago)
 - [dnhn](https://github.com/dnhn) (3 weeks ago)
-- [bwrst](https://github.com/bwrst) (3 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
