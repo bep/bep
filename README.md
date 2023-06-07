@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [commands: Add TLS/HTTPS support to hugo server](https://github.com/gohugoio/hugo/pull/11065) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Misc bug fixes](https://github.com/gohugoio/hugo/pull/11063) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [fix/hugoconfigoutputmounts 11040](https://github.com/gohugoio/hugo/pull/11058) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [github: Fix Windows build](https://github.com/gohugoio/hugo/pull/11056) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [github: Upgrade mingw on Windows](https://github.com/gohugoio/hugo/pull/11053) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [commands: Add TLS/HTTPS support to hugo server](https://github.com/gohugoio/hugo/pull/11065) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Misc bug fixes](https://github.com/gohugoio/hugo/pull/11063) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [fix/hugoconfigoutputmounts 11040](https://github.com/gohugoio/hugo/pull/11058) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [github: Fix Windows build](https://github.com/gohugoio/hugo/pull/11056) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [github: Upgrade mingw on Windows](https://github.com/gohugoio/hugo/pull/11053) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [donaldjenkins](https://github.com/donaldjenkins) (today)
+- [donaldjenkins](https://github.com/donaldjenkins) (1 day ago)
 - [modeckimellett](https://github.com/modeckimellett) (2 weeks ago)
-- [dwermke](https://github.com/dwermke) (2 weeks ago)
+- [dwermke](https://github.com/dwermke) (3 weeks ago)
 - [adorebo](https://github.com/adorebo) (3 weeks ago)
 - [dnhn](https://github.com/dnhn) (3 weeks ago)
 
