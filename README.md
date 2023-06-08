@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Allow images to be passed in as a slice](https://github.com/bep/gallerydeluxe/pull/22) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (today)
-- [commands: Add TLS/HTTPS support to hugo server](https://github.com/gohugoio/hugo/pull/11065) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Misc bug fixes](https://github.com/gohugoio/hugo/pull/11063) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [fix/hugoconfigoutputmounts 11040](https://github.com/gohugoio/hugo/pull/11058) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [github: Fix Windows build](https://github.com/gohugoio/hugo/pull/11056) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Allow images to be passed in as a slice](https://github.com/bep/gallerydeluxe/pull/22) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 day ago)
+- [commands: Add TLS/HTTPS support to hugo server](https://github.com/gohugoio/hugo/pull/11065) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Misc bug fixes](https://github.com/gohugoio/hugo/pull/11063) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [fix/hugoconfigoutputmounts 11040](https://github.com/gohugoio/hugo/pull/11058) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [github: Fix Windows build](https://github.com/gohugoio/hugo/pull/11056) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [donaldjenkins](https://github.com/donaldjenkins) (1 day ago)
+- [donaldjenkins](https://github.com/donaldjenkins) (2 days ago)
 - [modeckimellett](https://github.com/modeckimellett) (2 weeks ago)
 - [dwermke](https://github.com/dwermke) (3 weeks ago)
 - [adorebo](https://github.com/adorebo) (3 weeks ago)
