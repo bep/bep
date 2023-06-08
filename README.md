@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Run go get -u .](https://github.com/bep/godartsass/pull/18) on [bep/godartsass](https://github.com/bep/godartsass) (today)
 - [Update to use the Dart Sass binary and the new v2 protocol](https://github.com/bep/godartsass/pull/17) on [bep/godartsass](https://github.com/bep/godartsass) (today)
 - [Allow images to be passed in as a slice](https://github.com/bep/gallerydeluxe/pull/22) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 day ago)
 - [commands: Add TLS/HTTPS support to hugo server](https://github.com/gohugoio/hugo/pull/11065) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Misc bug fixes](https://github.com/gohugoio/hugo/pull/11063) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [fix/hugoconfigoutputmounts 11040](https://github.com/gohugoio/hugo/pull/11058) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
