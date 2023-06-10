@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Misc Dart Sass](https://github.com/gohugoio/hugo/pull/11075) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Send interrupt on Close on GOOS != windows ](https://github.com/bep/godartsass/pull/20) on [bep/godartsass](https://github.com/bep/godartsass) (1 day ago)
-- [Run go get -u .](https://github.com/bep/godartsass/pull/18) on [bep/godartsass](https://github.com/bep/godartsass) (1 day ago)
-- [Update to use the Dart Sass binary and the new v2 protocol](https://github.com/bep/godartsass/pull/17) on [bep/godartsass](https://github.com/bep/godartsass) (1 day ago)
-- [Allow images to be passed in as a slice](https://github.com/bep/gallerydeluxe/pull/22) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (2 days ago)
+- [Misc Dart Sass](https://github.com/gohugoio/hugo/pull/11075) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Send interrupt on Close on GOOS != windows ](https://github.com/bep/godartsass/pull/20) on [bep/godartsass](https://github.com/bep/godartsass) (2 days ago)
+- [Run go get -u .](https://github.com/bep/godartsass/pull/18) on [bep/godartsass](https://github.com/bep/godartsass) (2 days ago)
+- [Update to use the Dart Sass binary and the new v2 protocol](https://github.com/bep/godartsass/pull/17) on [bep/godartsass](https://github.com/bep/godartsass) (2 days ago)
+- [Allow images to be passed in as a slice](https://github.com/bep/gallerydeluxe/pull/22) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [donaldjenkins](https://github.com/donaldjenkins) (3 days ago)
-- [modeckimellett](https://github.com/modeckimellett) (2 weeks ago)
+- [donaldjenkins](https://github.com/donaldjenkins) (4 days ago)
+- [modeckimellett](https://github.com/modeckimellett) (3 weeks ago)
 - [dwermke](https://github.com/dwermke) (3 weeks ago)
-- [adorebo](https://github.com/adorebo) (3 weeks ago)
+- [adorebo](https://github.com/adorebo) (4 weeks ago)
 - [dnhn](https://github.com/dnhn) (4 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
