@@ -14,7 +14,7 @@
 - [modeckimellett](https://github.com/modeckimellett) (3 weeks ago)
 - [dwermke](https://github.com/dwermke) (3 weeks ago)
 - [adorebo](https://github.com/adorebo) (4 weeks ago)
-- [dnhn](https://github.com/dnhn) (1 month ago)
+- [bwrst](https://github.com/bwrst) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
