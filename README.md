@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [commands: Remove flags log, verboseLog, add flag logLevel, deprecate flags verbose and debug](https://github.com/gohugoio/hugo/pull/11088) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [helpers: Avoid url.Parse in RelURL and AbsURL if we can](https://github.com/gohugoio/hugo/pull/11087) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc Dart Sass](https://github.com/gohugoio/hugo/pull/11075) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Send interrupt on Close on GOOS != windows ](https://github.com/bep/godartsass/pull/20) on [bep/godartsass](https://github.com/bep/godartsass) (4 days ago)
 - [Run go get -u .](https://github.com/bep/godartsass/pull/18) on [bep/godartsass](https://github.com/bep/godartsass) (4 days ago)
-- [Update to use the Dart Sass binary and the new v2 protocol](https://github.com/bep/godartsass/pull/17) on [bep/godartsass](https://github.com/bep/godartsass) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
