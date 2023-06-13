@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl/collections: Fix append when appending a slice to a slice of slices](https://github.com/gohugoio/hugo/pull/11093) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix handling of aliases (e.g. hugo server)](https://github.com/gohugoio/hugo/pull/11092) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix handling of aliases](https://github.com/bep/simplecobra/pull/8) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
 - [tpl/math: Allow variadic math functions to take slice args, add math.Product, math.Sum](https://github.com/gohugoio/hugo/pull/11091) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [commands: Remove flags log, verboseLog, add flag logLevel, deprecate flags verbose and debug](https://github.com/gohugoio/hugo/pull/11088) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [helpers: Avoid url.Parse in RelURL and AbsURL if we can](https://github.com/gohugoio/hugo/pull/11087) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
