@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [commands: Remove flags log, verboseLog, add flag logLevel, deprecate flags verbose and debug](https://github.com/gohugoio/hugo/pull/11088) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [helpers: Avoid url.Parse in RelURL and AbsURL if we can](https://github.com/gohugoio/hugo/pull/11087) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc Dart Sass](https://github.com/gohugoio/hugo/pull/11075) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Send interrupt on Close on GOOS != windows ](https://github.com/bep/godartsass/pull/20) on [bep/godartsass](https://github.com/bep/godartsass) (4 days ago)
-- [Run go get -u .](https://github.com/bep/godartsass/pull/18) on [bep/godartsass](https://github.com/bep/godartsass) (4 days ago)
+- [commands: Remove flags log, verboseLog, add flag logLevel, deprecate flags verbose and debug](https://github.com/gohugoio/hugo/pull/11088) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [helpers: Avoid url.Parse in RelURL and AbsURL if we can](https://github.com/gohugoio/hugo/pull/11087) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc Dart Sass](https://github.com/gohugoio/hugo/pull/11075) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Send interrupt on Close on GOOS != windows ](https://github.com/bep/godartsass/pull/20) on [bep/godartsass](https://github.com/bep/godartsass) (5 days ago)
+- [Run go get -u .](https://github.com/bep/godartsass/pull/18) on [bep/godartsass](https://github.com/bep/godartsass) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [donaldjenkins](https://github.com/donaldjenkins) (6 days ago)
+- [donaldjenkins](https://github.com/donaldjenkins) (1 week ago)
 - [modeckimellett](https://github.com/modeckimellett) (3 weeks ago)
 - [dwermke](https://github.com/dwermke) (3 weeks ago)
 - [adorebo](https://github.com/adorebo) (1 month ago)
