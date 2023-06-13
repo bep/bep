@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix handling of aliases (e.g. hugo server)](https://github.com/gohugoio/hugo/pull/11092) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Fix handling of aliases](https://github.com/bep/simplecobra/pull/8) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
+- [tpl/math: Allow variadic math functions to take slice args, add math.Product, math.Sum](https://github.com/gohugoio/hugo/pull/11091) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [commands: Remove flags log, verboseLog, add flag logLevel, deprecate flags verbose and debug](https://github.com/gohugoio/hugo/pull/11088) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [helpers: Avoid url.Parse in RelURL and AbsURL if we can](https://github.com/gohugoio/hugo/pull/11087) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc Dart Sass](https://github.com/gohugoio/hugo/pull/11075) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Send interrupt on Close on GOOS != windows ](https://github.com/bep/godartsass/pull/20) on [bep/godartsass](https://github.com/bep/godartsass) (5 days ago)
-- [Run go get -u .](https://github.com/bep/godartsass/pull/18) on [bep/godartsass](https://github.com/bep/godartsass) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
