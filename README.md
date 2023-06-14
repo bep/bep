@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc Append fixes](https://github.com/gohugoio/hugo/pull/11104) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix .Width and .Height for animated gifs](https://github.com/gohugoio/hugo/pull/11103) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix config merge regression with root slices (e.g. disableKinds)](https://github.com/gohugoio/hugo/pull/11099) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl/collections: Fix append when appending a slice to a slice of slices](https://github.com/gohugoio/hugo/pull/11093) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix handling of aliases (e.g. hugo server)](https://github.com/gohugoio/hugo/pull/11092) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix handling of aliases](https://github.com/bep/simplecobra/pull/8) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
