@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Fix config merge regression with root slices (e.g. disableKinds)](https://github.com/gohugoio/hugo/pull/11099) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/collections: Fix append when appending a slice to a slice of slices](https://github.com/gohugoio/hugo/pull/11093) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix handling of aliases (e.g. hugo server)](https://github.com/gohugoio/hugo/pull/11092) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix handling of aliases](https://github.com/bep/simplecobra/pull/8) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
-- [tpl/math: Allow variadic math functions to take slice args, add math.Product, math.Sum](https://github.com/gohugoio/hugo/pull/11091) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Fix config merge regression with root slices (e.g. disableKinds)](https://github.com/gohugoio/hugo/pull/11099) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/collections: Fix append when appending a slice to a slice of slices](https://github.com/gohugoio/hugo/pull/11093) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix handling of aliases (e.g. hugo server)](https://github.com/gohugoio/hugo/pull/11092) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix handling of aliases](https://github.com/bep/simplecobra/pull/8) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
+- [tpl/math: Allow variadic math functions to take slice args, add math.Product, math.Sum](https://github.com/gohugoio/hugo/pull/11091) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
-- [martinjagodic](https://github.com/martinjagodic) (today)
+- [martinjagodic](https://github.com/martinjagodic) (1 day ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (1 week ago)
 - [modeckimellett](https://github.com/modeckimellett) (3 weeks ago)
-- [dwermke](https://github.com/dwermke) (3 weeks ago)
+- [dwermke](https://github.com/dwermke) (4 weeks ago)
 - [adorebo](https://github.com/adorebo) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
