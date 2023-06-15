@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix upstream Go templates bug with reversed key/value assignment](https://github.com/gohugoio/hugo/pull/11114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc Append fixes](https://github.com/gohugoio/hugo/pull/11104) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix .Width and .Height for animated gifs](https://github.com/gohugoio/hugo/pull/11103) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix config merge regression with root slices (e.g. disableKinds)](https://github.com/gohugoio/hugo/pull/11099) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [tpl/collections: Fix append when appending a slice to a slice of slices](https://github.com/gohugoio/hugo/pull/11093) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix handling of aliases (e.g. hugo server)](https://github.com/gohugoio/hugo/pull/11092) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
