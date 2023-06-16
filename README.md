@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Fix upstream Go templates bug with reversed key/value assignment](https://github.com/gohugoio/hugo/pull/11114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc Append fixes](https://github.com/gohugoio/hugo/pull/11104) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix .Width and .Height for animated gifs](https://github.com/gohugoio/hugo/pull/11103) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix config merge regression with root slices (e.g. disableKinds)](https://github.com/gohugoio/hugo/pull/11099) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl/collections: Fix append when appending a slice to a slice of slices](https://github.com/gohugoio/hugo/pull/11093) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix upstream Go templates bug with reversed key/value assignment](https://github.com/gohugoio/hugo/pull/11114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc Append fixes](https://github.com/gohugoio/hugo/pull/11104) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix .Width and .Height for animated gifs](https://github.com/gohugoio/hugo/pull/11103) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix config merge regression with root slices (e.g. disableKinds)](https://github.com/gohugoio/hugo/pull/11099) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [tpl/collections: Fix append when appending a slice to a slice of slices](https://github.com/gohugoio/hugo/pull/11093) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [martinjagodic](https://github.com/martinjagodic) (2 days ago)
+- [martinjagodic](https://github.com/martinjagodic) (3 days ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (1 week ago)
 - [modeckimellett](https://github.com/modeckimellett) (3 weeks ago)
-- [dwermke](https://github.com/dwermke) (4 weeks ago)
+- [dwermke](https://github.com/dwermke) (1 month ago)
 - [adorebo](https://github.com/adorebo) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
