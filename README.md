@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [wildtechgarden](https://github.com/wildtechgarden) (today)
 - [martinjagodic](https://github.com/martinjagodic) (5 days ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (1 week ago)
 - [modeckimellett](https://github.com/modeckimellett) (4 weeks ago)
 - [dwermke](https://github.com/dwermke) (1 month ago)
-- [adorebo](https://github.com/adorebo) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
