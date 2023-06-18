@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix deploy defaults for non-zero flag values (e.g. maxDeletes, invalidateCDN)](https://github.com/gohugoio/hugo/pull/11129) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add structured logging](https://github.com/gohugoio/hugo/pull/11122) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix upstream Go templates bug with reversed key/value assignment](https://github.com/gohugoio/hugo/pull/11114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Misc Append fixes](https://github.com/gohugoio/hugo/pull/11104) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Fix .Width and .Height for animated gifs](https://github.com/gohugoio/hugo/pull/11103) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix config merge regression with root slices (e.g. disableKinds)](https://github.com/gohugoio/hugo/pull/11099) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
