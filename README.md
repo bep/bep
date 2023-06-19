@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Revert &#34;deps: Update github.com/tdewolff/minify/v2 v2.12.5 =&gt; v2.12.6&#34;](https://github.com/gohugoio/hugo/pull/11133) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix deploy defaults for non-zero flag values (e.g. maxDeletes, invalidateCDN)](https://github.com/gohugoio/hugo/pull/11129) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add structured logging](https://github.com/gohugoio/hugo/pull/11122) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix upstream Go templates bug with reversed key/value assignment](https://github.com/gohugoio/hugo/pull/11114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Misc Append fixes](https://github.com/gohugoio/hugo/pull/11104) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Fix .Width and .Height for animated gifs](https://github.com/gohugoio/hugo/pull/11103) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
