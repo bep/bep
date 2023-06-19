@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Fix deploy defaults for non-zero flag values (e.g. maxDeletes, invalidateCDN)](https://github.com/gohugoio/hugo/pull/11129) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add structured logging](https://github.com/gohugoio/hugo/pull/11122) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix upstream Go templates bug with reversed key/value assignment](https://github.com/gohugoio/hugo/pull/11114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Misc Append fixes](https://github.com/gohugoio/hugo/pull/11104) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix .Width and .Height for animated gifs](https://github.com/gohugoio/hugo/pull/11103) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix deploy defaults for non-zero flag values (e.g. maxDeletes, invalidateCDN)](https://github.com/gohugoio/hugo/pull/11129) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add structured logging](https://github.com/gohugoio/hugo/pull/11122) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix upstream Go templates bug with reversed key/value assignment](https://github.com/gohugoio/hugo/pull/11114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Misc Append fixes](https://github.com/gohugoio/hugo/pull/11104) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix .Width and .Height for animated gifs](https://github.com/gohugoio/hugo/pull/11103) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [wildtechgarden](https://github.com/wildtechgarden) (today)
-- [martinjagodic](https://github.com/martinjagodic) (5 days ago)
+- [wildtechgarden](https://github.com/wildtechgarden) (1 day ago)
+- [martinjagodic](https://github.com/martinjagodic) (6 days ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (1 week ago)
-- [modeckimellett](https://github.com/modeckimellett) (4 weeks ago)
+- [modeckimellett](https://github.com/modeckimellett) (1 month ago)
 - [dwermke](https://github.com/dwermke) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
