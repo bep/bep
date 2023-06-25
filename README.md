@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Fix broken nodeploy setup](https://github.com/gohugoio/hugo/pull/11152) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Revert &#34;deps: Update github.com/tdewolff/minify/v2 v2.12.5 =&gt; v2.12.6&#34;](https://github.com/gohugoio/hugo/pull/11133) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Fix deploy defaults for non-zero flag values (e.g. maxDeletes, invalidateCDN)](https://github.com/gohugoio/hugo/pull/11129) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Fix broken nodeploy setup](https://github.com/gohugoio/hugo/pull/11152) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Revert &#34;deps: Update github.com/tdewolff/minify/v2 v2.12.5 =&gt; v2.12.6&#34;](https://github.com/gohugoio/hugo/pull/11133) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Fix deploy defaults for non-zero flag values (e.g. maxDeletes, invalidateCDN)](https://github.com/gohugoio/hugo/pull/11129) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add structured logging](https://github.com/gohugoio/hugo/pull/11122) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix upstream Go templates bug with reversed key/value assignment](https://github.com/gohugoio/hugo/pull/11114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (today)
-- [wildtechgarden](https://github.com/wildtechgarden) (6 days ago)
+- [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (1 day ago)
+- [wildtechgarden](https://github.com/wildtechgarden) (1 week ago)
 - [martinjagodic](https://github.com/martinjagodic) (1 week ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (2 weeks ago)
 - [modeckimellett](https://github.com/modeckimellett) (1 month ago)
