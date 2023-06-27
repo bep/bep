@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Fix false path warnings with resources.PostProcess ](https://github.com/gohugoio/hugo/pull/11171) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix broken nodeploy setup](https://github.com/gohugoio/hugo/pull/11152) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix false path warnings with resources.PostProcess ](https://github.com/gohugoio/hugo/pull/11171) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix broken nodeploy setup](https://github.com/gohugoio/hugo/pull/11152) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Revert &#34;deps: Update github.com/tdewolff/minify/v2 v2.12.5 =&gt; v2.12.6&#34;](https://github.com/gohugoio/hugo/pull/11133) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix deploy defaults for non-zero flag values (e.g. maxDeletes, invalidateCDN)](https://github.com/gohugoio/hugo/pull/11129) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add structured logging](https://github.com/gohugoio/hugo/pull/11122) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (2 days ago)
+- [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (3 days ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (1 week ago)
-- [martinjagodic](https://github.com/martinjagodic) (1 week ago)
-- [donaldjenkins](https://github.com/donaldjenkins) (2 weeks ago)
+- [martinjagodic](https://github.com/martinjagodic) (2 weeks ago)
+- [donaldjenkins](https://github.com/donaldjenkins) (3 weeks ago)
 - [modeckimellett](https://github.com/modeckimellett) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
