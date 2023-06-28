@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc permalinks adjustments](https://github.com/gohugoio/hugo/pull/11185) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix output formats and media type  per language config regression](https://github.com/gohugoio/hugo/pull/11182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix false path warnings with resources.PostProcess](https://github.com/gohugoio/hugo/pull/11174) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix false path warnings with resources.PostProcess ](https://github.com/gohugoio/hugo/pull/11171) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix broken nodeploy setup](https://github.com/gohugoio/hugo/pull/11152) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Revert &#34;deps: Update github.com/tdewolff/minify/v2 v2.12.5 =&gt; v2.12.6&#34;](https://github.com/gohugoio/hugo/pull/11133) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
