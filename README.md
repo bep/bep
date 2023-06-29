@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Misc permalinks adjustments](https://github.com/gohugoio/hugo/pull/11185) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix output formats and media type  per language config regression](https://github.com/gohugoio/hugo/pull/11182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix false path warnings with resources.PostProcess](https://github.com/gohugoio/hugo/pull/11174) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix false path warnings with resources.PostProcess ](https://github.com/gohugoio/hugo/pull/11171) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix broken nodeploy setup](https://github.com/gohugoio/hugo/pull/11152) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Misc permalinks adjustments](https://github.com/gohugoio/hugo/pull/11185) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix output formats and media type  per language config regression](https://github.com/gohugoio/hugo/pull/11182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix false path warnings with resources.PostProcess](https://github.com/gohugoio/hugo/pull/11174) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix false path warnings with resources.PostProcess ](https://github.com/gohugoio/hugo/pull/11171) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix broken nodeploy setup](https://github.com/gohugoio/hugo/pull/11152) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (4 days ago)
+- [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (5 days ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (1 week ago)
 - [martinjagodic](https://github.com/martinjagodic) (2 weeks ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (3 weeks ago)
