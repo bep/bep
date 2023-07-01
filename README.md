@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [github: Build for Dragonfly in CI build](https://github.com/gohugoio/hugo/pull/11196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Make build.writeStats a struct](https://github.com/gohugoio/hugo/pull/11194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Only print the path warnings once](https://github.com/gohugoio/hugo/pull/11188) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc permalinks adjustments](https://github.com/gohugoio/hugo/pull/11185) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix output formats and media type  per language config regression](https://github.com/gohugoio/hugo/pull/11182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix false path warnings with resources.PostProcess](https://github.com/gohugoio/hugo/pull/11174) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
