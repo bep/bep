@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [github: Build for Dragonfly in CI build](https://github.com/gohugoio/hugo/pull/11196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Make build.writeStats a struct](https://github.com/gohugoio/hugo/pull/11194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Only print the path warnings once](https://github.com/gohugoio/hugo/pull/11188) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc permalinks adjustments](https://github.com/gohugoio/hugo/pull/11185) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix output formats and media type  per language config regression](https://github.com/gohugoio/hugo/pull/11182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [github: Build for Dragonfly in CI build](https://github.com/gohugoio/hugo/pull/11196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Make build.writeStats a struct](https://github.com/gohugoio/hugo/pull/11194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Only print the path warnings once](https://github.com/gohugoio/hugo/pull/11188) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc permalinks adjustments](https://github.com/gohugoio/hugo/pull/11185) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix output formats and media type  per language config regression](https://github.com/gohugoio/hugo/pull/11182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [kresnasatya](https://github.com/kresnasatya) (today)
+- [kresnasatya](https://github.com/kresnasatya) (1 day ago)
 - [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (1 week ago)
-- [wildtechgarden](https://github.com/wildtechgarden) (1 week ago)
+- [wildtechgarden](https://github.com/wildtechgarden) (2 weeks ago)
 - [martinjagodic](https://github.com/martinjagodic) (2 weeks ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (3 weeks ago)
 
