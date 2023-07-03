@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Rework the build.writeStats struct](https://github.com/gohugoio/hugo/pull/11201) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [github: Build for Dragonfly in CI build](https://github.com/gohugoio/hugo/pull/11196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Make build.writeStats a struct](https://github.com/gohugoio/hugo/pull/11194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Only print the path warnings once](https://github.com/gohugoio/hugo/pull/11188) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc permalinks adjustments](https://github.com/gohugoio/hugo/pull/11185) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Rework the build.writeStats struct](https://github.com/gohugoio/hugo/pull/11201) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [github: Build for Dragonfly in CI build](https://github.com/gohugoio/hugo/pull/11196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Make build.writeStats a struct](https://github.com/gohugoio/hugo/pull/11194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Only print the path warnings once](https://github.com/gohugoio/hugo/pull/11188) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc permalinks adjustments](https://github.com/gohugoio/hugo/pull/11185) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [kresnasatya](https://github.com/kresnasatya) (1 day ago)
+- [kresnasatya](https://github.com/kresnasatya) (2 days ago)
 - [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (1 week ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (2 weeks ago)
 - [martinjagodic](https://github.com/martinjagodic) (2 weeks ago)
