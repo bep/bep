@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add titleCaseStyle none and firstupper](https://github.com/gohugoio/hugo/pull/11212) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add github.com/bep/galleriesdeluxe](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/310) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 day ago)
 - [Rework the build.writeStats struct](https://github.com/gohugoio/hugo/pull/11201) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [github: Build for Dragonfly in CI build](https://github.com/gohugoio/hugo/pull/11196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Make build.writeStats a struct](https://github.com/gohugoio/hugo/pull/11194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Only print the path warnings once](https://github.com/gohugoio/hugo/pull/11188) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
