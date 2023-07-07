@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add titleCaseStyle none and firstupper](https://github.com/gohugoio/hugo/pull/11212) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add github.com/bep/galleriesdeluxe](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/310) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (2 days ago)
-- [Rework the build.writeStats struct](https://github.com/gohugoio/hugo/pull/11201) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [github: Build for Dragonfly in CI build](https://github.com/gohugoio/hugo/pull/11196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Make build.writeStats a struct](https://github.com/gohugoio/hugo/pull/11194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Add titleCaseStyle none and firstupper](https://github.com/gohugoio/hugo/pull/11212) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add github.com/bep/galleriesdeluxe](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/310) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (3 days ago)
+- [Rework the build.writeStats struct](https://github.com/gohugoio/hugo/pull/11201) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [github: Build for Dragonfly in CI build](https://github.com/gohugoio/hugo/pull/11196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Make build.writeStats a struct](https://github.com/gohugoio/hugo/pull/11194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [kresnasatya](https://github.com/kresnasatya) (5 days ago)
+- [kresnasatya](https://github.com/kresnasatya) (6 days ago)
 - [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (1 week ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (2 weeks ago)
 - [martinjagodic](https://github.com/martinjagodic) (3 weeks ago)
