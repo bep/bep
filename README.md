@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Make imageConfig work with modules](https://github.com/gohugoio/hugo/pull/11227) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Restore language.disabled config](https://github.com/gohugoio/hugo/pull/11226) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/11224) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add titleCaseStyle none and firstupper](https://github.com/gohugoio/hugo/pull/11212) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add github.com/bep/galleriesdeluxe](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/310) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (4 days ago)
+- [Make imageConfig work with modules](https://github.com/gohugoio/hugo/pull/11227) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Restore language.disabled config](https://github.com/gohugoio/hugo/pull/11226) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/11224) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add titleCaseStyle none and firstupper](https://github.com/gohugoio/hugo/pull/11212) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add github.com/bep/galleriesdeluxe](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/310) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [kresnasatya](https://github.com/kresnasatya) (1 week ago)
 - [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (2 weeks ago)
-- [wildtechgarden](https://github.com/wildtechgarden) (2 weeks ago)
+- [wildtechgarden](https://github.com/wildtechgarden) (3 weeks ago)
 - [martinjagodic](https://github.com/martinjagodic) (3 weeks ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (1 month ago)
 
