@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl/collections: Fix WordCount (etc.) regression in Where, Sort, Delimit](https://github.com/gohugoio/hugo/pull/11236) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Make imageConfig work with modules](https://github.com/gohugoio/hugo/pull/11227) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Restore language.disabled config](https://github.com/gohugoio/hugo/pull/11226) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/11224) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Add titleCaseStyle none and firstupper](https://github.com/gohugoio/hugo/pull/11212) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Add github.com/bep/galleriesdeluxe](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/310) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
