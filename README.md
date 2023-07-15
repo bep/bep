@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/11245) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl/collections: Fix WordCount (etc.) regression in Where, Sort, Delimit](https://github.com/gohugoio/hugo/pull/11236) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Make imageConfig work with modules](https://github.com/gohugoio/hugo/pull/11227) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Restore language.disabled config](https://github.com/gohugoio/hugo/pull/11226) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/11224) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/11245) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl/collections: Fix WordCount (etc.) regression in Where, Sort, Delimit](https://github.com/gohugoio/hugo/pull/11236) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Make imageConfig work with modules](https://github.com/gohugoio/hugo/pull/11227) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Restore language.disabled config](https://github.com/gohugoio/hugo/pull/11226) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/11224) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [kresnasatya](https://github.com/kresnasatya) (1 week ago)
-- [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (2 weeks ago)
+- [kresnasatya](https://github.com/kresnasatya) (2 weeks ago)
+- [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (3 weeks ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (3 weeks ago)
 - [martinjagodic](https://github.com/martinjagodic) (1 month ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (1 month ago)
