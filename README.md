@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [fix/misc230719](https://github.com/gohugoio/hugo/pull/11269) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Improve error messages for PostCSS etc.](https://github.com/gohugoio/hugo/pull/11261) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix setting config from env with complex (e.g. YAML) strings](https://github.com/gohugoio/hugo/pull/11252) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/11245) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [tpl/collections: Fix WordCount (etc.) regression in Where, Sort, Delimit](https://github.com/gohugoio/hugo/pull/11236) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Make imageConfig work with modules](https://github.com/gohugoio/hugo/pull/11227) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
