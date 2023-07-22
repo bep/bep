@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Fix broken handling of legacy taxonomyTerm in disableKinds](https://github.com/gohugoio/hugo/pull/11271) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [fix/misc230719](https://github.com/gohugoio/hugo/pull/11269) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Improve error messages for PostCSS etc.](https://github.com/gohugoio/hugo/pull/11261) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix setting config from env with complex (e.g. YAML) strings](https://github.com/gohugoio/hugo/pull/11252) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix broken handling of legacy taxonomyTerm in disableKinds](https://github.com/gohugoio/hugo/pull/11271) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [fix/misc230719](https://github.com/gohugoio/hugo/pull/11269) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Improve error messages for PostCSS etc.](https://github.com/gohugoio/hugo/pull/11261) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix setting config from env with complex (e.g. YAML) strings](https://github.com/gohugoio/hugo/pull/11252) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/11245) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [kresnasatya](https://github.com/kresnasatya) (2 weeks ago)
-- [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (3 weeks ago)
+- [kresnasatya](https://github.com/kresnasatya) (3 weeks ago)
+- [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (4 weeks ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (1 month ago)
 - [martinjagodic](https://github.com/martinjagodic) (1 month ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (1 month ago)
