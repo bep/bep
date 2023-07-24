@@ -11,10 +11,10 @@
 ### Recent sponsors (big thank you!)
 
 - [kresnasatya](https://github.com/kresnasatya) (3 weeks ago)
-- [suzuki-shunsuke](https://github.com/suzuki-shunsuke) (1 month ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (1 month ago)
 - [martinjagodic](https://github.com/martinjagodic) (1 month ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (1 month ago)
+- [modeckimellett](https://github.com/modeckimellett) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
