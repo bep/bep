@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix multiple languages in HUGO_DISABLELANGUAGES](https://github.com/gohugoio/hugo/pull/11294) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Use os.UserCacheDir as first fallback if cacheDir is not set](https://github.com/gohugoio/hugo/pull/11292) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix broken handling of legacy taxonomyTerm in disableKinds](https://github.com/gohugoio/hugo/pull/11271) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [fix/misc230719](https://github.com/gohugoio/hugo/pull/11269) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Improve error messages for PostCSS etc.](https://github.com/gohugoio/hugo/pull/11261) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Fix setting config from env with complex (e.g. YAML) strings](https://github.com/gohugoio/hugo/pull/11252) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
