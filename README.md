@@ -6,7 +6,7 @@
 - [fix/misc230719](https://github.com/gohugoio/hugo/pull/11269) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Improve error messages for PostCSS etc.](https://github.com/gohugoio/hugo/pull/11261) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix setting config from env with complex (e.g. YAML) strings](https://github.com/gohugoio/hugo/pull/11252) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/11245) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/11245) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
