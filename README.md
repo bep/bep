@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [Misc validation and deprecation](https://github.com/gohugoio/hugo/pull/11297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix multiple languages in HUGO_DISABLELANGUAGES](https://github.com/gohugoio/hugo/pull/11294) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Use os.UserCacheDir as first fallback if cacheDir is not set](https://github.com/gohugoio/hugo/pull/11292) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc validation and deprecation](https://github.com/gohugoio/hugo/pull/11297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix multiple languages in HUGO_DISABLELANGUAGES](https://github.com/gohugoio/hugo/pull/11294) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Use os.UserCacheDir as first fallback if cacheDir is not set](https://github.com/gohugoio/hugo/pull/11292) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix broken handling of legacy taxonomyTerm in disableKinds](https://github.com/gohugoio/hugo/pull/11271) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [fix/misc230719](https://github.com/gohugoio/hugo/pull/11269) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
