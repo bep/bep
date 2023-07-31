@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix module config watch regression](https://github.com/gohugoio/hugo/pull/11315) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc config](https://github.com/bep/docuapi/pull/98) on [bep/docuapi](https://github.com/bep/docuapi) (today)
 - [Fix so temporary images do not get published](https://github.com/gohugoio/hugo/pull/11306) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc validation and deprecation](https://github.com/gohugoio/hugo/pull/11297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix multiple languages in HUGO_DISABLELANGUAGES](https://github.com/gohugoio/hugo/pull/11294) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Use os.UserCacheDir as first fallback if cacheDir is not set](https://github.com/gohugoio/hugo/pull/11292) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
