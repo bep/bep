@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Fix so temporary images do not get published](https://github.com/gohugoio/hugo/pull/11306) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc validation and deprecation](https://github.com/gohugoio/hugo/pull/11297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix multiple languages in HUGO_DISABLELANGUAGES](https://github.com/gohugoio/hugo/pull/11294) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Use os.UserCacheDir as first fallback if cacheDir is not set](https://github.com/gohugoio/hugo/pull/11292) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix so temporary images do not get published](https://github.com/gohugoio/hugo/pull/11306) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc validation and deprecation](https://github.com/gohugoio/hugo/pull/11297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix multiple languages in HUGO_DISABLELANGUAGES](https://github.com/gohugoio/hugo/pull/11294) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Use os.UserCacheDir as first fallback if cacheDir is not set](https://github.com/gohugoio/hugo/pull/11292) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Fix broken handling of legacy taxonomyTerm in disableKinds](https://github.com/gohugoio/hugo/pull/11271) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [priort](https://github.com/priort) (today)
-- [kresnasatya](https://github.com/kresnasatya) (4 weeks ago)
+- [priort](https://github.com/priort) (1 day ago)
+- [kresnasatya](https://github.com/kresnasatya) (1 month ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (1 month ago)
 - [martinjagodic](https://github.com/martinjagodic) (1 month ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (1 month ago)
