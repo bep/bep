@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add Page.RenderShortcodes](https://github.com/gohugoio/hugo/pull/11320) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix module config watch regression](https://github.com/gohugoio/hugo/pull/11315) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc config](https://github.com/bep/docuapi/pull/98) on [bep/docuapi](https://github.com/bep/docuapi) (1 day ago)
 - [Fix so temporary images do not get published](https://github.com/gohugoio/hugo/pull/11306) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Misc validation and deprecation](https://github.com/gohugoio/hugo/pull/11297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix multiple languages in HUGO_DISABLELANGUAGES](https://github.com/gohugoio/hugo/pull/11294) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
