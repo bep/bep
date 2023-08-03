@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add retry with exponential backoff in resources.GetRemote for temporary HTTP errors](https://github.com/gohugoio/hugo/pull/11326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add Page.RenderShortcodes](https://github.com/gohugoio/hugo/pull/11320) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix module config watch regression](https://github.com/gohugoio/hugo/pull/11315) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Misc config](https://github.com/bep/docuapi/pull/98) on [bep/docuapi](https://github.com/bep/docuapi) (3 days ago)
 - [Fix so temporary images do not get published](https://github.com/gohugoio/hugo/pull/11306) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Misc validation and deprecation](https://github.com/gohugoio/hugo/pull/11297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
