@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Return original error on resources.GetRemote retry timeouts](https://github.com/gohugoio/hugo/pull/11334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [testing: Write test caches to /tmp](https://github.com/gohugoio/hugo/pull/11333) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add retry in resources.GetRemote for temporary HTTP errors](https://github.com/gohugoio/hugo/pull/11326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add Page.RenderShortcodes](https://github.com/gohugoio/hugo/pull/11320) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix module config watch regression](https://github.com/gohugoio/hugo/pull/11315) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Misc config](https://github.com/bep/docuapi/pull/98) on [bep/docuapi](https://github.com/bep/docuapi) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
