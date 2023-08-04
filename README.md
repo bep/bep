@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add retry with exponential backoff in resources.GetRemote for temporary HTTP errors](https://github.com/gohugoio/hugo/pull/11326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add Page.RenderShortcodes](https://github.com/gohugoio/hugo/pull/11320) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix module config watch regression](https://github.com/gohugoio/hugo/pull/11315) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Misc config](https://github.com/bep/docuapi/pull/98) on [bep/docuapi](https://github.com/bep/docuapi) (3 days ago)
-- [Fix so temporary images do not get published](https://github.com/gohugoio/hugo/pull/11306) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add retry with exponential backoff in resources.GetRemote for temporary HTTP errors](https://github.com/gohugoio/hugo/pull/11326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add Page.RenderShortcodes](https://github.com/gohugoio/hugo/pull/11320) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix module config watch regression](https://github.com/gohugoio/hugo/pull/11315) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Misc config](https://github.com/bep/docuapi/pull/98) on [bep/docuapi](https://github.com/bep/docuapi) (4 days ago)
+- [Fix so temporary images do not get published](https://github.com/gohugoio/hugo/pull/11306) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [priort](https://github.com/priort) (4 days ago)
+- [priort](https://github.com/priort) (5 days ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (1 month ago)
 - [martinjagodic](https://github.com/martinjagodic) (1 month ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (1 month ago)
