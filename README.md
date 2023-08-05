@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Return original error on resources.GetRemote retry timeouts](https://github.com/gohugoio/hugo/pull/11334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [testing: Write test caches to /tmp](https://github.com/gohugoio/hugo/pull/11333) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add retry in resources.GetRemote for temporary HTTP errors](https://github.com/gohugoio/hugo/pull/11326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add Page.RenderShortcodes](https://github.com/gohugoio/hugo/pull/11320) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix module config watch regression](https://github.com/gohugoio/hugo/pull/11315) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Return original error on resources.GetRemote retry timeouts](https://github.com/gohugoio/hugo/pull/11334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [testing: Write test caches to /tmp](https://github.com/gohugoio/hugo/pull/11333) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add retry in resources.GetRemote for temporary HTTP errors](https://github.com/gohugoio/hugo/pull/11326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add Page.RenderShortcodes](https://github.com/gohugoio/hugo/pull/11320) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix module config watch regression](https://github.com/gohugoio/hugo/pull/11315) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [priort](https://github.com/priort) (5 days ago)
+- [priort](https://github.com/priort) (6 days ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (1 month ago)
 - [martinjagodic](https://github.com/martinjagodic) (1 month ago)
-- [donaldjenkins](https://github.com/donaldjenkins) (1 month ago)
+- [donaldjenkins](https://github.com/donaldjenkins) (2 months ago)
 - [modeckimellett](https://github.com/modeckimellett) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
