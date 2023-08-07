@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [docs: Replace docs.json with docs.yaml](https://github.com/gohugoio/hugo/pull/11346) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [docs: Float vs int in config](https://github.com/gohugoio/hugo/pull/11346) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Replace docs.json with docs.yaml](https://github.com/gohugoio/hugoDocs/pull/2181) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Add all config to docshelper.json](https://github.com/gohugoio/hugo/pull/11344) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Sync go-i18n with upstream](https://github.com/gohugoio/hugo/pull/11337) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
