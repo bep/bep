@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [deps: Sync go-i18n with upstream](https://github.com/gohugoio/hugo/pull/11337) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [sync20230805](https://github.com/gohugoio/go-i18n/pull/1) on [gohugoio/go-i18n](https://github.com/gohugoio/go-i18n) (1 day ago)
-- [Return original error on resources.GetRemote retry timeouts](https://github.com/gohugoio/hugo/pull/11334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [testing: Write test caches to /tmp](https://github.com/gohugoio/hugo/pull/11333) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add retry in resources.GetRemote for temporary HTTP errors](https://github.com/gohugoio/hugo/pull/11326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [deps: Sync go-i18n with upstream](https://github.com/gohugoio/hugo/pull/11337) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [sync20230805](https://github.com/gohugoio/go-i18n/pull/1) on [gohugoio/go-i18n](https://github.com/gohugoio/go-i18n) (2 days ago)
+- [Return original error on resources.GetRemote retry timeouts](https://github.com/gohugoio/hugo/pull/11334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [testing: Write test caches to /tmp](https://github.com/gohugoio/hugo/pull/11333) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add retry in resources.GetRemote for temporary HTTP errors](https://github.com/gohugoio/hugo/pull/11326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
