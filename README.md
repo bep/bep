@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [docs: Float vs int in config](https://github.com/gohugoio/hugo/pull/11346) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Replace docs.json with docs.yaml](https://github.com/gohugoio/hugoDocs/pull/2181) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [Add all config to docshelper.json](https://github.com/gohugoio/hugo/pull/11344) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Sync go-i18n with upstream](https://github.com/gohugoio/hugo/pull/11337) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [sync20230805](https://github.com/gohugoio/go-i18n/pull/1) on [gohugoio/go-i18n](https://github.com/gohugoio/go-i18n) (2 days ago)
+- [docs: Float vs int in config](https://github.com/gohugoio/hugo/pull/11346) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Replace docs.json with docs.yaml](https://github.com/gohugoio/hugoDocs/pull/2181) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [Add all config to docshelper.json](https://github.com/gohugoio/hugo/pull/11344) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Sync go-i18n with upstream](https://github.com/gohugoio/hugo/pull/11337) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [sync20230805](https://github.com/gohugoio/go-i18n/pull/1) on [gohugoio/go-i18n](https://github.com/gohugoio/go-i18n) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
