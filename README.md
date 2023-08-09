@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [3colorr](https://github.com/3colorr) (today)
 - [priort](https://github.com/priort) (1 week ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (1 month ago)
 - [martinjagodic](https://github.com/martinjagodic) (1 month ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (2 months ago)
-- [modeckimellett](https://github.com/modeckimellett) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
