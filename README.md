@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [github: Bump Hugo and actions versions](https://github.com/bep/golibtemplate/pull/2) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (3 days ago)
-- [docs: Float vs int in config](https://github.com/gohugoio/hugo/pull/11346) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Replace docs.json with docs.yaml](https://github.com/gohugoio/hugoDocs/pull/2181) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
-- [Add all config to docshelper.json](https://github.com/gohugoio/hugo/pull/11344) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [deps: Sync go-i18n with upstream](https://github.com/gohugoio/hugo/pull/11337) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [github: Bump Hugo and actions versions](https://github.com/bep/golibtemplate/pull/2) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (4 days ago)
+- [docs: Float vs int in config](https://github.com/gohugoio/hugo/pull/11346) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Replace docs.json with docs.yaml](https://github.com/gohugoio/hugoDocs/pull/2181) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
+- [Add all config to docshelper.json](https://github.com/gohugoio/hugo/pull/11344) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [deps: Sync go-i18n with upstream](https://github.com/gohugoio/hugo/pull/11337) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [3colorr](https://github.com/3colorr) (2 days ago)
+- [3colorr](https://github.com/3colorr) (3 days ago)
 - [priort](https://github.com/priort) (1 week ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (1 month ago)
-- [martinjagodic](https://github.com/martinjagodic) (1 month ago)
+- [martinjagodic](https://github.com/martinjagodic) (2 months ago)
 - [donaldjenkins](https://github.com/donaldjenkins) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
