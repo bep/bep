@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add PNG support](https://github.com/bep/imagemeta/pull/4) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Buffered io](https://github.com/bep/imagemeta/pull/3) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Add webp support](https://github.com/bep/imagemeta/pull/2) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 - [github: Bump Hugo and actions versions](https://github.com/bep/golibtemplate/pull/2) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (5 days ago)
 - [docs: Float vs int in config](https://github.com/gohugoio/hugo/pull/11346) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Replace docs.json with docs.yaml](https://github.com/gohugoio/hugoDocs/pull/2181) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
