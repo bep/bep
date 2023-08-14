@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Remove webp dependency and some other performance tweaks](https://github.com/bep/imagemeta/pull/5) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Add PNG support](https://github.com/bep/imagemeta/pull/4) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 - [Buffered io](https://github.com/bep/imagemeta/pull/3) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 - [Add webp support](https://github.com/bep/imagemeta/pull/2) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 - [github: Bump Hugo and actions versions](https://github.com/bep/golibtemplate/pull/2) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (6 days ago)
-- [docs: Float vs int in config](https://github.com/gohugoio/hugo/pull/11346) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
