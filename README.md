@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc](https://github.com/bep/imagemeta/pull/7) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Handle IPTC slice values etc.](https://github.com/bep/imagemeta/pull/6) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 - [Remove webp dependency and some other performance tweaks](https://github.com/bep/imagemeta/pull/5) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 - [Add PNG support](https://github.com/bep/imagemeta/pull/4) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 - [Buffered io](https://github.com/bep/imagemeta/pull/3) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
-- [Add webp support](https://github.com/bep/imagemeta/pull/2) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
