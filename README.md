@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Handle IPTC slice values etc.](https://github.com/bep/imagemeta/pull/6) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Remove webp dependency and some other performance tweaks](https://github.com/bep/imagemeta/pull/5) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Add PNG support](https://github.com/bep/imagemeta/pull/4) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Buffered io](https://github.com/bep/imagemeta/pull/3) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Add webp support](https://github.com/bep/imagemeta/pull/2) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Handle IPTC slice values etc.](https://github.com/bep/imagemeta/pull/6) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Remove webp dependency and some other performance tweaks](https://github.com/bep/imagemeta/pull/5) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Add PNG support](https://github.com/bep/imagemeta/pull/4) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Buffered io](https://github.com/bep/imagemeta/pull/3) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Add webp support](https://github.com/bep/imagemeta/pull/2) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [3colorr](https://github.com/3colorr) (5 days ago)
+- [3colorr](https://github.com/3colorr) (6 days ago)
 - [priort](https://github.com/priort) (2 weeks ago)
 - [wildtechgarden](https://github.com/wildtechgarden) (1 month ago)
 - [martinjagodic](https://github.com/martinjagodic) (2 months ago)
