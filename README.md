@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Add HandleXMP option](https://github.com/bep/imagemeta/pull/8) on [bep/imagemeta](https://github.com/bep/imagemeta) (5 days ago)
-- [Misc](https://github.com/bep/imagemeta/pull/7) on [bep/imagemeta](https://github.com/bep/imagemeta) (5 days ago)
-- [Handle IPTC slice values etc.](https://github.com/bep/imagemeta/pull/6) on [bep/imagemeta](https://github.com/bep/imagemeta) (6 days ago)
-- [Remove webp dependency and some other performance tweaks](https://github.com/bep/imagemeta/pull/5) on [bep/imagemeta](https://github.com/bep/imagemeta) (6 days ago)
-- [Add PNG support](https://github.com/bep/imagemeta/pull/4) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 week ago)
+- [Fix Stat for directories opened with OpenDir](https://github.com/bep/overlayfs/pull/8) on [bep/overlayfs](https://github.com/bep/overlayfs) (1 week ago)
+- [Add WithDirsMerger](https://github.com/bep/overlayfs/pull/7) on [bep/overlayfs](https://github.com/bep/overlayfs) (1 week ago)
+- [feat/union dir](https://github.com/bep/overlayfs/pull/6) on [bep/overlayfs](https://github.com/bep/overlayfs) (1 week ago)
+- [Fix invalid mounts config for the server watch](https://github.com/linode/docs/pull/6635) on [linode/docs](https://github.com/linode/docs) (3 weeks ago)
+- [Add $image.Process](https://github.com/gohugoio/hugo/pull/11485) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
-- [3colorr](https://github.com/3colorr) (1 week ago)
-- [priort](https://github.com/priort) (3 weeks ago)
-- [wildtechgarden](https://github.com/wildtechgarden) (2 months ago)
-- [martinjagodic](https://github.com/martinjagodic) (2 months ago)
-- [donaldjenkins](https://github.com/donaldjenkins) (2 months ago)
+- [noesya](https://github.com/noesya) (3 days ago)
+- [kevinctracy](https://github.com/kevinctracy) (2 weeks ago)
+- [derme302](https://github.com/derme302) (2 weeks ago)
+- [curegit](https://github.com/curegit) (1 month ago)
+- [3colorr](https://github.com/3colorr) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
