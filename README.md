@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [Revise the deprecation logging](https://github.com/gohugoio/hugo/pull/11609) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Remove rest of the now unused emoji code](https://github.com/gohugoio/hugo/pull/11607) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Revise the deprecation logging](https://github.com/gohugoio/hugo/pull/11609) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Remove rest of the now unused emoji code](https://github.com/gohugoio/hugo/pull/11607) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl/debug: Add debug.Timer](https://github.com/gohugoio/hugo/pull/11581) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix Stat for directories opened with OpenDir](https://github.com/bep/overlayfs/pull/8) on [bep/overlayfs](https://github.com/bep/overlayfs) (2 weeks ago)
 - [Add WithDirsMerger](https://github.com/bep/overlayfs/pull/7) on [bep/overlayfs](https://github.com/bep/overlayfs) (2 weeks ago)
