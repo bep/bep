@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Testing](https://github.com/gohugoio/hugo/pull/11619) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [tpl/collections: Make delimit return a string](https://github.com/gohugoio/hugo/pull/11618) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Revise the deprecation logging](https://github.com/gohugoio/hugo/pull/11609) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Remove rest of the now unused emoji code](https://github.com/gohugoio/hugo/pull/11607) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [tpl/debug: Add debug.Timer](https://github.com/gohugoio/hugo/pull/11581) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Fix Stat for directories opened with OpenDir](https://github.com/bep/overlayfs/pull/8) on [bep/overlayfs](https://github.com/bep/overlayfs) (2 weeks ago)
-- [Add WithDirsMerger](https://github.com/bep/overlayfs/pull/7) on [bep/overlayfs](https://github.com/bep/overlayfs) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
