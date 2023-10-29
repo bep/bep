@@ -2,10 +2,10 @@
 
 ### Recent Pull Requests
 
-- [Testing](https://github.com/gohugoio/hugo/pull/11619) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/collections: Make delimit return a string](https://github.com/gohugoio/hugo/pull/11618) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Revise the deprecation logging](https://github.com/gohugoio/hugo/pull/11609) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Remove rest of the now unused emoji code](https://github.com/gohugoio/hugo/pull/11607) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Testing](https://github.com/gohugoio/hugo/pull/11619) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/collections: Make delimit return a string](https://github.com/gohugoio/hugo/pull/11618) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Revise the deprecation logging](https://github.com/gohugoio/hugo/pull/11609) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Remove rest of the now unused emoji code](https://github.com/gohugoio/hugo/pull/11607) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [tpl/debug: Add debug.Timer](https://github.com/gohugoio/hugo/pull/11581) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
