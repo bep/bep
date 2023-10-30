@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [i18n: Add language strings for Norwegian bokmål and Norwegian nynorsk](https://github.com/imfing/hextra/pull/172) on [imfing/hextra](https://github.com/imfing/hextra) (today)
 - [deps: Upgrade github.com/PuerkitoBio/purell v1.1.1 =&gt; v1.2.1](https://github.com/gohugoio/hugo/pull/11632) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Make site.BaseURL and $pager.URL a string](https://github.com/gohugoio/hugo/pull/11626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Testing](https://github.com/gohugoio/hugo/pull/11619) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [tpl/collections: Make delimit return a string](https://github.com/gohugoio/hugo/pull/11618) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Revise the deprecation logging](https://github.com/gohugoio/hugo/pull/11609) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
