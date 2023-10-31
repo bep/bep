@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [i18n: Add language strings for Norwegian bokmål and Norwegian nynorsk](https://github.com/imfing/hextra/pull/172) on [imfing/hextra](https://github.com/imfing/hextra) (today)
-- [deps: Upgrade github.com/PuerkitoBio/purell v1.1.1 =&gt; v1.2.1](https://github.com/gohugoio/hugo/pull/11632) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Make site.BaseURL and $pager.URL a string](https://github.com/gohugoio/hugo/pull/11626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Testing](https://github.com/gohugoio/hugo/pull/11619) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl/collections: Make delimit return a string](https://github.com/gohugoio/hugo/pull/11618) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [i18n: Add language strings for Norwegian bokmål and Norwegian nynorsk](https://github.com/imfing/hextra/pull/172) on [imfing/hextra](https://github.com/imfing/hextra) (1 day ago)
+- [deps: Upgrade github.com/PuerkitoBio/purell v1.1.1 =&gt; v1.2.1](https://github.com/gohugoio/hugo/pull/11632) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Make site.BaseURL and $pager.URL a string](https://github.com/gohugoio/hugo/pull/11626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Testing](https://github.com/gohugoio/hugo/pull/11619) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [tpl/collections: Make delimit return a string](https://github.com/gohugoio/hugo/pull/11618) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [noesya](https://github.com/noesya) (2 weeks ago)
-- [kevinctracy](https://github.com/kevinctracy) (3 weeks ago)
-- [derme302](https://github.com/derme302) (3 weeks ago)
+- [kevinctracy](https://github.com/kevinctracy) (4 weeks ago)
+- [derme302](https://github.com/derme302) (4 weeks ago)
 - [curegit](https://github.com/curegit) (1 month ago)
 - [3colorr](https://github.com/3colorr) (2 months ago)
 
