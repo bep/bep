@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [fix/deprecated 11645](https://github.com/gohugoio/hugo/pull/11659) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix deprecation printing on info level](https://github.com/gohugoio/hugo/pull/11643) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [i18n: Add language strings for Norwegian bokmål and Norwegian nynorsk](https://github.com/imfing/hextra/pull/172) on [imfing/hextra](https://github.com/imfing/hextra) (2 days ago)
-- [deps: Upgrade github.com/PuerkitoBio/purell v1.1.1 =&gt; v1.2.1](https://github.com/gohugoio/hugo/pull/11632) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Make site.BaseURL and $pager.URL a string](https://github.com/gohugoio/hugo/pull/11626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [fix/deprecated 11645](https://github.com/gohugoio/hugo/pull/11659) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix deprecation printing on info level](https://github.com/gohugoio/hugo/pull/11643) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [i18n: Add language strings for Norwegian bokmål and Norwegian nynorsk](https://github.com/imfing/hextra/pull/172) on [imfing/hextra](https://github.com/imfing/hextra) (3 days ago)
+- [deps: Upgrade github.com/PuerkitoBio/purell v1.1.1 =&gt; v1.2.1](https://github.com/gohugoio/hugo/pull/11632) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Make site.BaseURL and $pager.URL a string](https://github.com/gohugoio/hugo/pull/11626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [noesya](https://github.com/noesya) (2 weeks ago)
-- [kevinctracy](https://github.com/kevinctracy) (4 weeks ago)
-- [derme302](https://github.com/derme302) (4 weeks ago)
+- [kevinctracy](https://github.com/kevinctracy) (1 month ago)
+- [derme302](https://github.com/derme302) (1 month ago)
 - [curegit](https://github.com/curegit) (1 month ago)
 - [3colorr](https://github.com/3colorr) (2 months ago)
 
