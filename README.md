@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [fix/deprecated 11645](https://github.com/gohugoio/hugo/pull/11659) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix deprecation printing on info level](https://github.com/gohugoio/hugo/pull/11643) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [i18n: Add language strings for Norwegian bokmål and Norwegian nynorsk](https://github.com/imfing/hextra/pull/172) on [imfing/hextra](https://github.com/imfing/hextra) (5 days ago)
-- [deps: Upgrade github.com/PuerkitoBio/purell v1.1.1 =&gt; v1.2.1](https://github.com/gohugoio/hugo/pull/11632) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Make site.BaseURL and $pager.URL a string](https://github.com/gohugoio/hugo/pull/11626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [fix/deprecated 11645](https://github.com/gohugoio/hugo/pull/11659) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix deprecation printing on info level](https://github.com/gohugoio/hugo/pull/11643) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [i18n: Add language strings for Norwegian bokmål and Norwegian nynorsk](https://github.com/imfing/hextra/pull/172) on [imfing/hextra](https://github.com/imfing/hextra) (6 days ago)
+- [deps: Upgrade github.com/PuerkitoBio/purell v1.1.1 =&gt; v1.2.1](https://github.com/gohugoio/hugo/pull/11632) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Make site.BaseURL and $pager.URL a string](https://github.com/gohugoio/hugo/pull/11626) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
