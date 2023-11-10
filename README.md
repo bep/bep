@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Update to AlpineJS v3.13.2](https://github.com/gohugoio/hugo-mod-jslibs-dist/pull/4) on [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) (today)
 - [Add logg.ErrStopLogEntry](https://github.com/bep/logg/pull/12) on [bep/logg](https://github.com/bep/logg) (4 days ago)
 - [Add a way to stop a log entry in the handler chain](https://github.com/bep/logg/pull/11) on [bep/logg](https://github.com/bep/logg) (4 days ago)
 - [fix/deprecated 11645](https://github.com/gohugoio/hugo/pull/11659) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix deprecation printing on info level](https://github.com/gohugoio/hugo/pull/11643) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [i18n: Add language strings for Norwegian bokmål and Norwegian nynorsk](https://github.com/imfing/hextra/pull/172) on [imfing/hextra](https://github.com/imfing/hextra) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
