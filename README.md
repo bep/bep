@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add logg.ErrStopLogEntry](https://github.com/bep/logg/pull/12) on [bep/logg](https://github.com/bep/logg) (3 days ago)
-- [Add a way to stop a log entry in the handler chain](https://github.com/bep/logg/pull/11) on [bep/logg](https://github.com/bep/logg) (3 days ago)
+- [Add logg.ErrStopLogEntry](https://github.com/bep/logg/pull/12) on [bep/logg](https://github.com/bep/logg) (4 days ago)
+- [Add a way to stop a log entry in the handler chain](https://github.com/bep/logg/pull/11) on [bep/logg](https://github.com/bep/logg) (4 days ago)
 - [fix/deprecated 11645](https://github.com/gohugoio/hugo/pull/11659) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix deprecation printing on info level](https://github.com/gohugoio/hugo/pull/11643) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [i18n: Add language strings for Norwegian bokmål and Norwegian nynorsk](https://github.com/imfing/hextra/pull/172) on [imfing/hextra](https://github.com/imfing/hextra) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [mangometer](https://github.com/mangometer) (1 day ago)
+- [mangometer](https://github.com/mangometer) (2 days ago)
 - [noesya](https://github.com/noesya) (3 weeks ago)
 - [kevinctracy](https://github.com/kevinctracy) (1 month ago)
 - [derme302](https://github.com/derme302) (1 month ago)
