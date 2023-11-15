@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Update to AlpineJS v3.13.2](https://github.com/gohugoio/hugo-mod-jslibs-dist/pull/4) on [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) (4 days ago)
+- [Update to AlpineJS v3.13.2](https://github.com/gohugoio/hugo-mod-jslibs-dist/pull/4) on [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) (5 days ago)
 - [Add logg.ErrStopLogEntry](https://github.com/bep/logg/pull/12) on [bep/logg](https://github.com/bep/logg) (1 week ago)
 - [Add a way to stop a log entry in the handler chain](https://github.com/bep/logg/pull/11) on [bep/logg](https://github.com/bep/logg) (1 week ago)
-- [fix/deprecated 11645](https://github.com/gohugoio/hugo/pull/11659) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [fix/deprecated 11645](https://github.com/gohugoio/hugo/pull/11659) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [Fix deprecation printing on info level](https://github.com/gohugoio/hugo/pull/11643) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
-- [mangometer](https://github.com/mangometer) (6 days ago)
-- [noesya](https://github.com/noesya) (4 weeks ago)
+- [mangometer](https://github.com/mangometer) (1 week ago)
+- [noesya](https://github.com/noesya) (1 month ago)
 - [kevinctracy](https://github.com/kevinctracy) (1 month ago)
 - [derme302](https://github.com/derme302) (1 month ago)
 - [curegit](https://github.com/curegit) (1 month ago)
