@@ -6,7 +6,7 @@
 - [Add logg.ErrStopLogEntry](https://github.com/bep/logg/pull/12) on [bep/logg](https://github.com/bep/logg) (2 weeks ago)
 - [Add a way to stop a log entry in the handler chain](https://github.com/bep/logg/pull/11) on [bep/logg](https://github.com/bep/logg) (2 weeks ago)
 - [fix/deprecated 11645](https://github.com/gohugoio/hugo/pull/11659) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [Fix deprecation printing on info level](https://github.com/gohugoio/hugo/pull/11643) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
+- [Fix deprecation printing on info level](https://github.com/gohugoio/hugo/pull/11643) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
