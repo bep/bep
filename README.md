@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade to libwebp 1.3.2](https://github.com/gohugoio/hugo/pull/11750) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps/libwebp132 take](https://github.com/bep/gowebp/pull/11) on [bep/gowebp](https://github.com/bep/gowebp) (today)
 - [deps/libwebp132 take2](https://github.com/bep/gowebp/pull/10) on [bep/gowebp](https://github.com/bep/gowebp) (today)
 - [github: Bump Go versions](https://github.com/bep/gowebp/pull/9) on [bep/gowebp](https://github.com/bep/gowebp) (today)
 - [deps/libwebp132](https://github.com/bep/gowebp/pull/8) on [bep/gowebp](https://github.com/bep/gowebp) (today)
-- [deps: Upgraded github.com/spf13/cobra v1.7.0 =&gt; v1.8.0](https://github.com/gohugoio/hugo/pull/11745) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 
 ### Recent sponsors (big thank you!)
 
