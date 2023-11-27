@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgraded github.com/spf13/cobra v1.7.0 =&gt; v1.8.0](https://github.com/gohugoio/hugo/pull/11745) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Update all direct dependencies](https://github.com/bep/simplecobra/pull/11) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
 - [Update to AlpineJS v3.13.2](https://github.com/gohugoio/hugo-mod-jslibs-dist/pull/4) on [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) (2 weeks ago)
 - [Add logg.ErrStopLogEntry](https://github.com/bep/logg/pull/12) on [bep/logg](https://github.com/bep/logg) (3 weeks ago)
 - [Add a way to stop a log entry in the handler chain](https://github.com/bep/logg/pull/11) on [bep/logg](https://github.com/bep/logg) (3 weeks ago)
-- [fix/deprecated 11645](https://github.com/gohugoio/hugo/pull/11659) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
