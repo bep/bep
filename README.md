@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps/libwebp132 take2](https://github.com/bep/gowebp/pull/10) on [bep/gowebp](https://github.com/bep/gowebp) (today)
+- [github: Bump Go versions](https://github.com/bep/gowebp/pull/9) on [bep/gowebp](https://github.com/bep/gowebp) (today)
 - [deps/libwebp132](https://github.com/bep/gowebp/pull/8) on [bep/gowebp](https://github.com/bep/gowebp) (today)
 - [deps: Upgraded github.com/spf13/cobra v1.7.0 =&gt; v1.8.0](https://github.com/gohugoio/hugo/pull/11745) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Update all direct dependencies](https://github.com/bep/simplecobra/pull/11) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
-- [Update to AlpineJS v3.13.2](https://github.com/gohugoio/hugo-mod-jslibs-dist/pull/4) on [gohugoio/hugo-mod-jslibs-dist](https://github.com/gohugoio/hugo-mod-jslibs-dist) (2 weeks ago)
-- [Add logg.ErrStopLogEntry](https://github.com/bep/logg/pull/12) on [bep/logg](https://github.com/bep/logg) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
