@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [esycat](https://github.com/esycat) (today)
 - [mangometer](https://github.com/mangometer) (2 weeks ago)
 - [noesya](https://github.com/noesya) (1 month ago)
 - [kevinctracy](https://github.com/kevinctracy) (1 month ago)
 - [derme302](https://github.com/derme302) (1 month ago)
-- [curegit](https://github.com/curegit) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
