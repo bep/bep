@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [github: Investigate build issues](https://github.com/gohugoio/hugo/pull/11769) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps/update20231128](https://github.com/spf13/cast/pull/205) on [spf13/cast](https://github.com/spf13/cast) (2 days ago)
-- [deps: Update all direct dependencies](https://github.com/spf13/afero/pull/410) on [spf13/afero](https://github.com/spf13/afero) (2 days ago)
-- [deps: Upgrade to libwebp 1.3.2](https://github.com/gohugoio/hugo/pull/11750) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [deps/libwebp132 take](https://github.com/bep/gowebp/pull/11) on [bep/gowebp](https://github.com/bep/gowebp) (3 days ago)
+- [github: Investigate build issues](https://github.com/gohugoio/hugo/pull/11769) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps/update20231128](https://github.com/spf13/cast/pull/205) on [spf13/cast](https://github.com/spf13/cast) (3 days ago)
+- [deps: Update all direct dependencies](https://github.com/spf13/afero/pull/410) on [spf13/afero](https://github.com/spf13/afero) (3 days ago)
+- [deps: Upgrade to libwebp 1.3.2](https://github.com/gohugoio/hugo/pull/11750) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [deps/libwebp132 take](https://github.com/bep/gowebp/pull/11) on [bep/gowebp](https://github.com/bep/gowebp) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [tabletcorry](https://github.com/tabletcorry) (1 day ago)
-- [esycat](https://github.com/esycat) (2 days ago)
+- [tabletcorry](https://github.com/tabletcorry) (2 days ago)
+- [esycat](https://github.com/esycat) (3 days ago)
 - [mangometer](https://github.com/mangometer) (3 weeks ago)
 - [noesya](https://github.com/noesya) (1 month ago)
 - [kevinctracy](https://github.com/kevinctracy) (1 month ago)
