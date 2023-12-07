@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [Pull in the latest code from Go&#39;s template packages](https://github.com/gohugoio/hugo/pull/11771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [github: Investigate build issues](https://github.com/gohugoio/hugo/pull/11769) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Pull in the latest code from Go&#39;s template packages](https://github.com/gohugoio/hugo/pull/11771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [github: Investigate build issues](https://github.com/gohugoio/hugo/pull/11769) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [deps/update20231128](https://github.com/spf13/cast/pull/205) on [spf13/cast](https://github.com/spf13/cast) (1 week ago)
 - [deps: Update all direct dependencies](https://github.com/spf13/afero/pull/410) on [spf13/afero](https://github.com/spf13/afero) (1 week ago)
 - [deps: Upgrade to libwebp 1.3.2](https://github.com/gohugoio/hugo/pull/11750) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
