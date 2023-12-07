@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [tomott12345](https://github.com/tomott12345) (today)
 - [tabletcorry](https://github.com/tabletcorry) (1 week ago)
 - [esycat](https://github.com/esycat) (1 week ago)
 - [mangometer](https://github.com/mangometer) (4 weeks ago)
 - [noesya](https://github.com/noesya) (1 month ago)
-- [kevinctracy](https://github.com/kevinctracy) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
