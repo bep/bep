@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Pull in the latest code from Go&#39;s template packages](https://github.com/gohugoio/hugo/pull/11771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Pull in the latest code from Go&#39;s template packages](https://github.com/gohugoio/hugo/pull/11771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [github: Investigate build issues](https://github.com/gohugoio/hugo/pull/11769) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [deps/update20231128](https://github.com/spf13/cast/pull/205) on [spf13/cast](https://github.com/spf13/cast) (1 week ago)
 - [deps: Update all direct dependencies](https://github.com/spf13/afero/pull/410) on [spf13/afero](https://github.com/spf13/afero) (1 week ago)
@@ -10,10 +10,10 @@
 
 ### Recent sponsors (big thank you!)
 
-- [tomott12345](https://github.com/tomott12345) (today)
+- [tomott12345](https://github.com/tomott12345) (1 day ago)
 - [tabletcorry](https://github.com/tabletcorry) (1 week ago)
 - [esycat](https://github.com/esycat) (1 week ago)
-- [mangometer](https://github.com/mangometer) (4 weeks ago)
+- [mangometer](https://github.com/mangometer) (1 month ago)
 - [noesya](https://github.com/noesya) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
