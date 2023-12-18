@@ -6,7 +6,7 @@
 - [github: Investigate build issues](https://github.com/gohugoio/hugo/pull/11769) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [deps/update20231128](https://github.com/spf13/cast/pull/205) on [spf13/cast](https://github.com/spf13/cast) (2 weeks ago)
 - [deps: Update all direct dependencies](https://github.com/spf13/afero/pull/410) on [spf13/afero](https://github.com/spf13/afero) (2 weeks ago)
-- [deps: Upgrade to libwebp 1.3.2](https://github.com/gohugoio/hugo/pull/11750) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
+- [deps: Upgrade to libwebp 1.3.2](https://github.com/gohugoio/hugo/pull/11750) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
