@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [all: Remove unused code](https://github.com/gohugoio/hugo/pull/11817) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [all: Remove unused code](https://github.com/gohugoio/hugo/pull/11817) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Pull in the latest code from Go&#39;s template packages](https://github.com/gohugoio/hugo/pull/11771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [github: Investigate build issues](https://github.com/gohugoio/hugo/pull/11769) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [deps/update20231128](https://github.com/spf13/cast/pull/205) on [spf13/cast](https://github.com/spf13/cast) (2 weeks ago)
-- [deps: Update all direct dependencies](https://github.com/spf13/afero/pull/410) on [spf13/afero](https://github.com/spf13/afero) (2 weeks ago)
+- [deps/update20231128](https://github.com/spf13/cast/pull/205) on [spf13/cast](https://github.com/spf13/cast) (3 weeks ago)
+- [deps: Update all direct dependencies](https://github.com/spf13/afero/pull/410) on [spf13/afero](https://github.com/spf13/afero) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
 - [tomott12345](https://github.com/tomott12345) (1 week ago)
 - [tabletcorry](https://github.com/tabletcorry) (2 weeks ago)
-- [esycat](https://github.com/esycat) (2 weeks ago)
+- [esycat](https://github.com/esycat) (3 weeks ago)
 - [noesya](https://github.com/noesya) (2 months ago)
 - [kevinctracy](https://github.com/kevinctracy) (2 months ago)
 
