@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [all: Rework page store, add a dynacache to enable bigger data/content, and some general spring cleaning](https://github.com/gohugoio/hugo/pull/11830) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [all: Remove unused code](https://github.com/gohugoio/hugo/pull/11817) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Pull in the latest code from Go&#39;s template packages](https://github.com/gohugoio/hugo/pull/11771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 - [github: Investigate build issues](https://github.com/gohugoio/hugo/pull/11769) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 - [deps/update20231128](https://github.com/spf13/cast/pull/205) on [spf13/cast](https://github.com/spf13/cast) (3 weeks ago)
-- [deps: Update all direct dependencies](https://github.com/spf13/afero/pull/410) on [spf13/afero](https://github.com/spf13/afero) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
