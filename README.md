@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [deps: Update github.com/hashicorp/golang-lru/v2 v2.0.1 =&gt; v2.0.7](https://github.com/bep/lazycache/pull/5) on [bep/lazycache](https://github.com/bep/lazycache) (today)
-- [all: Rework page store, add a dynacache to enable bigger data/content, and some general spring cleaning](https://github.com/gohugoio/hugo/pull/11830) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Update github.com/hashicorp/golang-lru/v2 v2.0.1 =&gt; v2.0.7](https://github.com/bep/lazycache/pull/5) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
+- [all: Rework page store, add a dynacache to enable bigger data/content, and some general spring cleaning](https://github.com/gohugoio/hugo/pull/11830) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [all: Remove unused code](https://github.com/gohugoio/hugo/pull/11817) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Pull in the latest code from Go&#39;s template packages](https://github.com/gohugoio/hugo/pull/11771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 - [github: Investigate build issues](https://github.com/gohugoio/hugo/pull/11769) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
@@ -12,7 +12,7 @@
 
 - [tomott12345](https://github.com/tomott12345) (2 weeks ago)
 - [tabletcorry](https://github.com/tabletcorry) (3 weeks ago)
-- [esycat](https://github.com/esycat) (3 weeks ago)
+- [esycat](https://github.com/esycat) (4 weeks ago)
 - [noesya](https://github.com/noesya) (2 months ago)
 - [kevinctracy](https://github.com/kevinctracy) (2 months ago)
 
