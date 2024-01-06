@@ -10,7 +10,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [tomott12345](https://github.com/tomott12345) (4 weeks ago)
+- [tomott12345](https://github.com/tomott12345) (1 month ago)
 - [tabletcorry](https://github.com/tabletcorry) (1 month ago)
 - [esycat](https://github.com/esycat) (1 month ago)
 - [noesya](https://github.com/noesya) (2 months ago)
