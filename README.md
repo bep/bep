@@ -3,9 +3,9 @@
 ### Recent Pull Requests
 
 - [Add OnEvict to options](https://github.com/bep/lazycache/pull/6) on [bep/lazycache](https://github.com/bep/lazycache) (1 week ago)
-- [deps: Update github.com/hashicorp/golang-lru/v2 v2.0.1 =&gt; v2.0.7](https://github.com/bep/lazycache/pull/5) on [bep/lazycache](https://github.com/bep/lazycache) (1 week ago)
+- [deps: Update github.com/hashicorp/golang-lru/v2 v2.0.1 =&gt; v2.0.7](https://github.com/bep/lazycache/pull/5) on [bep/lazycache](https://github.com/bep/lazycache) (2 weeks ago)
 - [all: Rework page store, add a dynacache to enable bigger data/content, and some general spring cleaning](https://github.com/gohugoio/hugo/pull/11830) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [all: Remove unused code](https://github.com/gohugoio/hugo/pull/11817) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
+- [all: Remove unused code](https://github.com/gohugoio/hugo/pull/11817) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 - [Pull in the latest code from Go&#39;s template packages](https://github.com/gohugoio/hugo/pull/11771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 month ago)
 
 ### Recent sponsors (big thank you!)
