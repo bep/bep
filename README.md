@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Add OnEvict to options](https://github.com/bep/lazycache/pull/6) on [bep/lazycache](https://github.com/bep/lazycache) (1 week ago)
-- [deps: Update github.com/hashicorp/golang-lru/v2 v2.0.1 =&gt; v2.0.7](https://github.com/bep/lazycache/pull/5) on [bep/lazycache](https://github.com/bep/lazycache) (2 weeks ago)
-- [all: Rework page store, add a dynacache to enable bigger data/content, and some general spring cleaning](https://github.com/gohugoio/hugo/pull/11830) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [all: Remove unused code](https://github.com/gohugoio/hugo/pull/11817) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
-- [Pull in the latest code from Go&#39;s template packages](https://github.com/gohugoio/hugo/pull/11771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 month ago)
+- [Fix regression for outputs defined in front matter for term pages](https://github.com/gohugoio/hugo/pull/12280) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Remove some (minor) superflous change tracking on first builds](https://github.com/gohugoio/hugo/pull/12279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [hugolib: Remove Site.HomeAbsURL](https://github.com/gohugoio/hugo/pull/12268) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix .Parent when there are overlapping regular pages inbetween](https://github.com/gohugoio/hugo/pull/12265) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [deps: Upgrade github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.1.0 =&gt; v0.2.0](https://github.com/gohugoio/hugo/pull/12264) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [tomott12345](https://github.com/tomott12345) (1 month ago)
-- [tabletcorry](https://github.com/tabletcorry) (1 month ago)
-- [esycat](https://github.com/esycat) (1 month ago)
-- [noesya](https://github.com/noesya) (2 months ago)
-- [kevinctracy](https://github.com/kevinctracy) (3 months ago)
+- [LITUATUI](https://github.com/LITUATUI) (6 days ago)
+- [anandkkpr](https://github.com/anandkkpr) (1 week ago)
+- [daronyondem](https://github.com/daronyondem) (2 weeks ago)
+- [ryan4yin](https://github.com/ryan4yin) (2 months ago)
+- [tomott12345](https://github.com/tomott12345) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
