@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Create pages from JSONL/YAML Documents](https://github.com/gohugoio/hugo/pull/12283) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix regression for outputs defined in front matter for term pages](https://github.com/gohugoio/hugo/pull/12280) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Remove some (minor) superflous change tracking on first builds](https://github.com/gohugoio/hugo/pull/12279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [hugolib: Remove Site.HomeAbsURL](https://github.com/gohugoio/hugo/pull/12268) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix .Parent when there are overlapping regular pages inbetween](https://github.com/gohugoio/hugo/pull/12265) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [deps: Upgrade github.com/gohugoio/hugo-goldmark-extensions/passthrough v0.1.0 =&gt; v0.2.0](https://github.com/gohugoio/hugo/pull/12264) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
