@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Create pages from JSONL/YAML Documents](https://github.com/gohugoio/hugo/pull/12283) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix regression for outputs defined in front matter for term pages](https://github.com/gohugoio/hugo/pull/12280) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Remove some (minor) superflous change tracking on first builds](https://github.com/gohugoio/hugo/pull/12279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [hugolib: Remove Site.HomeAbsURL](https://github.com/gohugoio/hugo/pull/12268) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix .Parent when there are overlapping regular pages inbetween](https://github.com/gohugoio/hugo/pull/12265) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Create pages from JSONL/YAML Documents](https://github.com/gohugoio/hugo/pull/12283) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix regression for outputs defined in front matter for term pages](https://github.com/gohugoio/hugo/pull/12280) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Remove some (minor) superflous change tracking on first builds](https://github.com/gohugoio/hugo/pull/12279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [hugolib: Remove Site.HomeAbsURL](https://github.com/gohugoio/hugo/pull/12268) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix .Parent when there are overlapping regular pages inbetween](https://github.com/gohugoio/hugo/pull/12265) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [LITUATUI](https://github.com/LITUATUI) (6 days ago)
+- [LITUATUI](https://github.com/LITUATUI) (1 week ago)
 - [anandkkpr](https://github.com/anandkkpr) (1 week ago)
 - [daronyondem](https://github.com/daronyondem) (2 weeks ago)
 - [ryan4yin](https://github.com/ryan4yin) (2 months ago)
