@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Fix rebuild when changing mixes case named templates](https://github.com/gohugoio/hugo/pull/12287) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Fix rebuild when changing mixed case named templates](https://github.com/gohugoio/hugo/pull/12287) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Create pages from JSONL/YAML Documents](https://github.com/gohugoio/hugo/pull/12283) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix regression for outputs defined in front matter for term pages](https://github.com/gohugoio/hugo/pull/12280) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Remove some (minor) superflous change tracking on first builds](https://github.com/gohugoio/hugo/pull/12279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
