@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Add streaming support](https://github.com/bep/execrpc/pull/5) on [bep/execrpc](https://github.com/bep/execrpc) (1 day ago)
-- [Fix rebuild when changing mixed case named templates](https://github.com/gohugoio/hugo/pull/12287) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Create pages from JSONL/YAML Documents](https://github.com/gohugoio/hugo/pull/12283) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix regression for outputs defined in front matter for term pages](https://github.com/gohugoio/hugo/pull/12280) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Remove some (minor) superflous change tracking on first builds](https://github.com/gohugoio/hugo/pull/12279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add streaming support](https://github.com/bep/execrpc/pull/5) on [bep/execrpc](https://github.com/bep/execrpc) (2 days ago)
+- [Fix rebuild when changing mixed case named templates](https://github.com/gohugoio/hugo/pull/12287) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Create pages from JSONL/YAML Documents](https://github.com/gohugoio/hugo/pull/12283) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix regression for outputs defined in front matter for term pages](https://github.com/gohugoio/hugo/pull/12280) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Remove some (minor) superflous change tracking on first builds](https://github.com/gohugoio/hugo/pull/12279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
