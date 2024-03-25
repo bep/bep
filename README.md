@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Add streaming support](https://github.com/bep/execrpc/pull/5) on [bep/execrpc](https://github.com/bep/execrpc) (2 days ago)
-- [Fix rebuild when changing mixed case named templates](https://github.com/gohugoio/hugo/pull/12287) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Create pages from JSONL/YAML Documents](https://github.com/gohugoio/hugo/pull/12283) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Fix regression for outputs defined in front matter for term pages](https://github.com/gohugoio/hugo/pull/12280) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Remove some (minor) superflous change tracking on first builds](https://github.com/gohugoio/hugo/pull/12279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Add streaming support](https://github.com/bep/execrpc/pull/5) on [bep/execrpc](https://github.com/bep/execrpc) (3 days ago)
+- [Fix rebuild when changing mixed case named templates](https://github.com/gohugoio/hugo/pull/12287) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Create pages from JSONL/YAML Documents](https://github.com/gohugoio/hugo/pull/12283) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Fix regression for outputs defined in front matter for term pages](https://github.com/gohugoio/hugo/pull/12280) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Remove some (minor) superflous change tracking on first builds](https://github.com/gohugoio/hugo/pull/12279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [LITUATUI](https://github.com/LITUATUI) (1 week ago)
 - [anandkkpr](https://github.com/anandkkpr) (2 weeks ago)
-- [daronyondem](https://github.com/daronyondem) (2 weeks ago)
+- [daronyondem](https://github.com/daronyondem) (3 weeks ago)
 - [ryan4yin](https://github.com/ryan4yin) (2 months ago)
 - [tomott12345](https://github.com/tomott12345) (3 months ago)
 
