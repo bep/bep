@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Fix panic with debug.Dump with Page when running the server](https://github.com/gohugoio/hugo/pull/12313) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix panic with debug.Dump with Page when running the server](https://github.com/gohugoio/hugo/pull/12313) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Add streaming support](https://github.com/bep/execrpc/pull/5) on [bep/execrpc](https://github.com/bep/execrpc) (1 week ago)
 - [Fix rebuild when changing mixed case named templates](https://github.com/gohugoio/hugo/pull/12287) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Create pages from JSONL/YAML Documents](https://github.com/gohugoio/hugo/pull/12283) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
@@ -10,8 +10,8 @@
 
 ### Recent sponsors (big thank you!)
 
-- [yvoictra](https://github.com/yvoictra) (today)
-- [lumoz](https://github.com/lumoz) (5 days ago)
+- [yvoictra](https://github.com/yvoictra) (1 day ago)
+- [lumoz](https://github.com/lumoz) (6 days ago)
 - [LITUATUI](https://github.com/LITUATUI) (2 weeks ago)
 - [anandkkpr](https://github.com/anandkkpr) (3 weeks ago)
 - [daronyondem](https://github.com/daronyondem) (3 weeks ago)
