@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [testing: Increase client timeout](https://github.com/bep/execrpc/pull/8) on [bep/execrpc](https://github.com/bep/execrpc) (today)
-- [testing: Extend server wait to make the tests less flaky](https://github.com/bep/execrpc/pull/7) on [bep/execrpc](https://github.com/bep/execrpc) (today)
-- [Fix panic with debug.Dump with Page when running the server](https://github.com/gohugoio/hugo/pull/12313) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [testing: Increase client timeout](https://github.com/bep/execrpc/pull/8) on [bep/execrpc](https://github.com/bep/execrpc) (1 day ago)
+- [testing: Extend server wait to make the tests less flaky](https://github.com/bep/execrpc/pull/7) on [bep/execrpc](https://github.com/bep/execrpc) (1 day ago)
+- [Fix panic with debug.Dump with Page when running the server](https://github.com/gohugoio/hugo/pull/12313) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Add streaming support](https://github.com/bep/execrpc/pull/5) on [bep/execrpc](https://github.com/bep/execrpc) (1 week ago)
 - [Fix rebuild when changing mixed case named templates](https://github.com/gohugoio/hugo/pull/12287) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [yvoictra](https://github.com/yvoictra) (1 day ago)
-- [lumoz](https://github.com/lumoz) (6 days ago)
+- [yvoictra](https://github.com/yvoictra) (2 days ago)
+- [lumoz](https://github.com/lumoz) (1 week ago)
 - [LITUATUI](https://github.com/LITUATUI) (2 weeks ago)
 - [anandkkpr](https://github.com/anandkkpr) (3 weeks ago)
-- [daronyondem](https://github.com/daronyondem) (3 weeks ago)
+- [daronyondem](https://github.com/daronyondem) (4 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
