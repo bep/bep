@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix resource bundling for overlapping page.md vs page.txt](https://github.com/gohugoio/hugo/pull/12331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [testing: Increase client timeout](https://github.com/bep/execrpc/pull/8) on [bep/execrpc](https://github.com/bep/execrpc) (2 days ago)
 - [testing: Extend server wait to make the tests less flaky](https://github.com/bep/execrpc/pull/7) on [bep/execrpc](https://github.com/bep/execrpc) (2 days ago)
 - [Fix panic with debug.Dump with Page when running the server](https://github.com/gohugoio/hugo/pull/12313) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add streaming support](https://github.com/bep/execrpc/pull/5) on [bep/execrpc](https://github.com/bep/execrpc) (1 week ago)
-- [Fix rebuild when changing mixed case named templates](https://github.com/gohugoio/hugo/pull/12287) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
