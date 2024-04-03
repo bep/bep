@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add an optional Init func to the server](https://github.com/bep/execrpc/pull/9) on [bep/execrpc](https://github.com/bep/execrpc) (today)
 - [Fix resource bundling for overlapping page.md vs page.txt](https://github.com/gohugoio/hugo/pull/12331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [testing: Increase client timeout](https://github.com/bep/execrpc/pull/8) on [bep/execrpc](https://github.com/bep/execrpc) (3 days ago)
 - [testing: Extend server wait to make the tests less flaky](https://github.com/bep/execrpc/pull/7) on [bep/execrpc](https://github.com/bep/execrpc) (3 days ago)
 - [Fix panic with debug.Dump with Page when running the server](https://github.com/gohugoio/hugo/pull/12313) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Add streaming support](https://github.com/bep/execrpc/pull/5) on [bep/execrpc](https://github.com/bep/execrpc) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
