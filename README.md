@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add an optional Init func to the server](https://github.com/bep/execrpc/pull/9) on [bep/execrpc](https://github.com/bep/execrpc) (today)
-- [Fix resource bundling for overlapping page.md vs page.txt](https://github.com/gohugoio/hugo/pull/12331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [testing: Increase client timeout](https://github.com/bep/execrpc/pull/8) on [bep/execrpc](https://github.com/bep/execrpc) (3 days ago)
-- [testing: Extend server wait to make the tests less flaky](https://github.com/bep/execrpc/pull/7) on [bep/execrpc](https://github.com/bep/execrpc) (3 days ago)
+- [Add an optional Init func to the server](https://github.com/bep/execrpc/pull/9) on [bep/execrpc](https://github.com/bep/execrpc) (1 day ago)
+- [Fix resource bundling for overlapping page.md vs page.txt](https://github.com/gohugoio/hugo/pull/12331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [testing: Increase client timeout](https://github.com/bep/execrpc/pull/8) on [bep/execrpc](https://github.com/bep/execrpc) (4 days ago)
+- [testing: Extend server wait to make the tests less flaky](https://github.com/bep/execrpc/pull/7) on [bep/execrpc](https://github.com/bep/execrpc) (4 days ago)
 - [Fix panic with debug.Dump with Page when running the server](https://github.com/gohugoio/hugo/pull/12313) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [yvoictra](https://github.com/yvoictra) (4 days ago)
+- [yvoictra](https://github.com/yvoictra) (5 days ago)
 - [lumoz](https://github.com/lumoz) (1 week ago)
 - [LITUATUI](https://github.com/LITUATUI) (3 weeks ago)
 - [anandkkpr](https://github.com/anandkkpr) (3 weeks ago)
