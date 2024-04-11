@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12361) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12360) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix sectionPagesMenu for pages in root level](https://github.com/gohugoio/hugo/pull/12349) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Strip hash sign (#) from file paths/URLs](https://github.com/gohugoio/hugo/pull/12347) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Don&#39;t collect terms for pages marked as &#34;list: never&#34;](https://github.com/gohugoio/hugo/pull/12340) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Add an optional Init func to the server](https://github.com/bep/execrpc/pull/9) on [bep/execrpc](https://github.com/bep/execrpc) (1 week ago)
-- [Fix resource bundling for overlapping page.md vs page.txt](https://github.com/gohugoio/hugo/pull/12331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
