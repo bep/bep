@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [poc: RenderShortcodes vs render hooks vs page.GetPage](https://github.com/gohugoio/hugo/pull/12364) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12361) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12360) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix sectionPagesMenu for pages in root level](https://github.com/gohugoio/hugo/pull/12349) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Strip hash sign (#) from file paths/URLs](https://github.com/gohugoio/hugo/pull/12347) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Don&#39;t collect terms for pages marked as &#34;list: never&#34;](https://github.com/gohugoio/hugo/pull/12340) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
