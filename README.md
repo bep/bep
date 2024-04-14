@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [poc: RenderShortcodes vs render hooks vs page.GetPage](https://github.com/gohugoio/hugo/pull/12364) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add .PageInner to render hooks](https://github.com/gohugoio/hugo/pull/12364) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12361) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12360) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix sectionPagesMenu for pages in root level](https://github.com/gohugoio/hugo/pull/12349) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
