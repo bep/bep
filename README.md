@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [poc: RenderShortcodes vs render hooks vs page.GetPage](https://github.com/gohugoio/hugo/pull/12364) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12361) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12360) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [poc: RenderShortcodes vs render hooks vs page.GetPage](https://github.com/gohugoio/hugo/pull/12364) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12361) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12360) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix sectionPagesMenu for pages in root level](https://github.com/gohugoio/hugo/pull/12349) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Strip hash sign (#) from file paths/URLs](https://github.com/gohugoio/hugo/pull/12347) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
@@ -14,7 +14,7 @@
 - [lumoz](https://github.com/lumoz) (2 weeks ago)
 - [LITUATUI](https://github.com/LITUATUI) (1 month ago)
 - [daronyondem](https://github.com/daronyondem) (1 month ago)
-- [ryan4yin](https://github.com/ryan4yin) (2 months ago)
+- [ryan4yin](https://github.com/ryan4yin) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
