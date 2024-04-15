@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [github: Add a &#34;free space&#34; step on Ubuntu](https://github.com/gohugoio/hugo/pull/12372) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc GitHub](https://github.com/gohugoio/hugo/pull/12371) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Pass .RenderShortcodes&#39; Page to render hooks as .PageInner](https://github.com/gohugoio/hugo/pull/12364) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12361) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12360) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [github: Add a &#34;free space&#34; step on Ubuntu](https://github.com/gohugoio/hugo/pull/12372) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc GitHub](https://github.com/gohugoio/hugo/pull/12371) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Pass .RenderShortcodes&#39; Page to render hooks as .PageInner](https://github.com/gohugoio/hugo/pull/12364) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12361) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [github: Fix CI build](https://github.com/gohugoio/hugo/pull/12360) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [yvoictra](https://github.com/yvoictra) (2 weeks ago)
-- [lumoz](https://github.com/lumoz) (2 weeks ago)
+- [lumoz](https://github.com/lumoz) (3 weeks ago)
 - [LITUATUI](https://github.com/LITUATUI) (1 month ago)
 - [daronyondem](https://github.com/daronyondem) (1 month ago)
 - [ryan4yin](https://github.com/ryan4yin) (3 months ago)
