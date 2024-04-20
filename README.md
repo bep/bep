@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix partial rebuilds for SCSS fetched with GetMatch and similar](https://github.com/gohugoio/hugo/pull/12400) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl: Use erroridf for remote YouTube errors](https://github.com/gohugoio/hugo/pull/12385) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [ Fix server rebuilds when adding a content file on Linux](https://github.com/gohugoio/hugo/pull/12379) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [turbo: Upgrade to v8.0.4](https://github.com/gohugoio/hugo-mod-jslibs/pull/8) on [gohugoio/hugo-mod-jslibs](https://github.com/gohugoio/hugo-mod-jslibs) (5 days ago)
 - [Add Luminance to Color](https://github.com/gohugoio/hugo/pull/12374) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [github: Add a &#34;free space&#34; step on Ubuntu](https://github.com/gohugoio/hugo/pull/12372) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
