@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [markup/goldmark: Fix data race in the hugocontext wrapper](https://github.com/gohugoio/hugo/pull/12413) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl: Escape .Title in built-in image and link render hooks](https://github.com/gohugoio/hugo/pull/12411) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [modules: Fix potential infinite loop in module collection](https://github.com/gohugoio/hugo/pull/12409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Only add root sections to the section pages menu](https://github.com/gohugoio/hugo/pull/12403) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [commands: Print &#34;Webserver is ...&#34; right before &#34;Total ...&#34;](https://github.com/gohugoio/hugo/pull/12401) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix partial rebuilds for SCSS fetched with GetMatch and similar](https://github.com/gohugoio/hugo/pull/12400) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
