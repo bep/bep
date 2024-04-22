@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
+- [modules: Fix potential infinite loop in module collection](https://github.com/gohugoio/hugo/pull/12409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Only add root sections to the section pages menu](https://github.com/gohugoio/hugo/pull/12403) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [commands: Print &#34;Webserver is ...&#34; right before &#34;Total ...&#34;](https://github.com/gohugoio/hugo/pull/12401) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix partial rebuilds for SCSS fetched with GetMatch and similar](https://github.com/gohugoio/hugo/pull/12400) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [tpl: Use erroridf for remote YouTube errors](https://github.com/gohugoio/hugo/pull/12385) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [ Fix server rebuilds when adding a content file on Linux](https://github.com/gohugoio/hugo/pull/12379) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
+- [berthubert](https://github.com/berthubert) (today)
 - [yvoictra](https://github.com/yvoictra) (3 weeks ago)
 - [lumoz](https://github.com/lumoz) (4 weeks ago)
 - [LITUATUI](https://github.com/LITUATUI) (1 month ago)
 - [daronyondem](https://github.com/daronyondem) (1 month ago)
-- [ryan4yin](https://github.com/ryan4yin) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
