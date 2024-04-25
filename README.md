@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/12431) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Use Apache License without modification](https://github.com/gohugoio/hugo/pull/12416) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [markup/goldmark: Fix data race in the hugocontext wrapper](https://github.com/gohugoio/hugo/pull/12413) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [tpl: Escape .Title in built-in image and link render hooks](https://github.com/gohugoio/hugo/pull/12411) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [modules: Fix potential infinite loop in module collection](https://github.com/gohugoio/hugo/pull/12409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Only add root sections to the section pages menu](https://github.com/gohugoio/hugo/pull/12403) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
