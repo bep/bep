@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [KianNH](https://github.com/KianNH) (today)
 - [berthubert](https://github.com/berthubert) (3 days ago)
 - [yvoictra](https://github.com/yvoictra) (3 weeks ago)
 - [LITUATUI](https://github.com/LITUATUI) (1 month ago)
 - [daronyondem](https://github.com/daronyondem) (1 month ago)
-- [ryan4yin](https://github.com/ryan4yin) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
