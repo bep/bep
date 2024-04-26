@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/12431) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Use Apache License without modification](https://github.com/gohugoio/hugo/pull/12416) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [markup/goldmark: Fix data race in the hugocontext wrapper](https://github.com/gohugoio/hugo/pull/12413) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [tpl: Escape .Title in built-in image and link render hooks](https://github.com/gohugoio/hugo/pull/12411) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [modules: Fix potential infinite loop in module collection](https://github.com/gohugoio/hugo/pull/12409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/12431) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Use Apache License without modification](https://github.com/gohugoio/hugo/pull/12416) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [markup/goldmark: Fix data race in the hugocontext wrapper](https://github.com/gohugoio/hugo/pull/12413) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [tpl: Escape .Title in built-in image and link render hooks](https://github.com/gohugoio/hugo/pull/12411) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [modules: Fix potential infinite loop in module collection](https://github.com/gohugoio/hugo/pull/12409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [KianNH](https://github.com/KianNH) (today)
-- [berthubert](https://github.com/berthubert) (3 days ago)
+- [KianNH](https://github.com/KianNH) (1 day ago)
+- [berthubert](https://github.com/berthubert) (4 days ago)
 - [yvoictra](https://github.com/yvoictra) (3 weeks ago)
 - [LITUATUI](https://github.com/LITUATUI) (1 month ago)
 - [daronyondem](https://github.com/daronyondem) (1 month ago)
