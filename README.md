@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add github.com/frjo/hugo-theme-zen/v3](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/456) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (today)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/12431) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Use Apache License without modification](https://github.com/gohugoio/hugo/pull/12416) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [markup/goldmark: Fix data race in the hugocontext wrapper](https://github.com/gohugoio/hugo/pull/12413) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [tpl: Escape .Title in built-in image and link render hooks](https://github.com/gohugoio/hugo/pull/12411) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [modules: Fix potential infinite loop in module collection](https://github.com/gohugoio/hugo/pull/12409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
