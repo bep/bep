@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Create pages from _content.gotmpl](https://github.com/gohugoio/hugo/pull/12440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add github.com/frjo/hugo-theme-zen/v3](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/456) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (today)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/12431) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Use Apache License without modification](https://github.com/gohugoio/hugo/pull/12416) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [markup/goldmark: Fix data race in the hugocontext wrapper](https://github.com/gohugoio/hugo/pull/12413) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Create pages from _content.gotmpl](https://github.com/gohugoio/hugo/pull/12440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add github.com/frjo/hugo-theme-zen/v3](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/456) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 day ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/12431) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Use Apache License without modification](https://github.com/gohugoio/hugo/pull/12416) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [markup/goldmark: Fix data race in the hugocontext wrapper](https://github.com/gohugoio/hugo/pull/12413) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [KianNH](https://github.com/KianNH) (1 day ago)
-- [berthubert](https://github.com/berthubert) (4 days ago)
-- [yvoictra](https://github.com/yvoictra) (3 weeks ago)
+- [KianNH](https://github.com/KianNH) (2 days ago)
+- [berthubert](https://github.com/berthubert) (5 days ago)
+- [yvoictra](https://github.com/yvoictra) (4 weeks ago)
 - [LITUATUI](https://github.com/LITUATUI) (1 month ago)
 - [daronyondem](https://github.com/daronyondem) (1 month ago)
 
