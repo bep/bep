@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Make sure replaced pages gets marked as stale](https://github.com/gohugoio/hugo/pull/12448) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [cache/dynacache: Don&#39;t mark all evicted items as stale](https://github.com/gohugoio/hugo/pull/12446) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Create pages from _content.gotmpl](https://github.com/gohugoio/hugo/pull/12440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Add github.com/frjo/hugo-theme-zen/v3](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/456) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (4 days ago)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/12431) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Use Apache License without modification](https://github.com/gohugoio/hugo/pull/12416) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
