@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Make sure replaced pages gets marked as stale](https://github.com/gohugoio/hugo/pull/12448) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [cache/dynacache: Don&#39;t mark all evicted items as stale](https://github.com/gohugoio/hugo/pull/12446) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Create pages from _content.gotmpl](https://github.com/gohugoio/hugo/pull/12440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Add github.com/frjo/hugo-theme-zen/v3](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/456) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (4 days ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/12431) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Make sure replaced pages gets marked as stale](https://github.com/gohugoio/hugo/pull/12448) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [cache/dynacache: Don&#39;t mark all evicted items as stale](https://github.com/gohugoio/hugo/pull/12446) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Create pages from _content.gotmpl](https://github.com/gohugoio/hugo/pull/12440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Add github.com/frjo/hugo-theme-zen/v3](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/456) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (5 days ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/12431) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [KianNH](https://github.com/KianNH) (5 days ago)
+- [KianNH](https://github.com/KianNH) (6 days ago)
 - [berthubert](https://github.com/berthubert) (1 week ago)
 - [yvoictra](https://github.com/yvoictra) (1 month ago)
 - [LITUATUI](https://github.com/LITUATUI) (1 month ago)
