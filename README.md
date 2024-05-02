@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [ livereload: Improve the livereload script build and update to v4.0.2](https://github.com/gohugoio/hugo/pull/12455) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix rebuilds on cascade deletes/renames](https://github.com/gohugoio/hugo/pull/12452) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Make sure replaced pages gets marked as stale](https://github.com/gohugoio/hugo/pull/12448) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [cache/dynacache: Don&#39;t mark all evicted items as stale](https://github.com/gohugoio/hugo/pull/12446) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Create pages from _content.gotmpl](https://github.com/gohugoio/hugo/pull/12440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Add github.com/frjo/hugo-theme-zen/v3](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/456) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
