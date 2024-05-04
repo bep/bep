@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [extras: Some refactorings](https://github.com/gohugoio/hugo-goldmark-extensions/pull/20) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (today)
 - [Make the cache eviction logic for stale entities more robust](https://github.com/gohugoio/hugo/pull/12460) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [ livereload: Improve the livereload script build and update to v4.0.2](https://github.com/gohugoio/hugo/pull/12455) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix rebuilds on cascade deletes/renames](https://github.com/gohugoio/hugo/pull/12452) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Make sure replaced pages gets marked as stale](https://github.com/gohugoio/hugo/pull/12448) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [cache/dynacache: Don&#39;t mark all evicted items as stale](https://github.com/gohugoio/hugo/pull/12446) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
