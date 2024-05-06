@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Fix one more resource change eviction logic issue](https://github.com/gohugoio/hugo/pull/12461) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [extras: Some refactorings](https://github.com/gohugoio/hugo-goldmark-extensions/pull/20) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (1 day ago)
-- [Make the cache eviction logic for stale entities more robust](https://github.com/gohugoio/hugo/pull/12460) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [ livereload: Improve the livereload script build and update to v4.0.2](https://github.com/gohugoio/hugo/pull/12455) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix rebuilds on cascade deletes/renames](https://github.com/gohugoio/hugo/pull/12452) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix one more resource change eviction logic issue](https://github.com/gohugoio/hugo/pull/12461) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [extras: Some refactorings](https://github.com/gohugoio/hugo-goldmark-extensions/pull/20) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (2 days ago)
+- [Make the cache eviction logic for stale entities more robust](https://github.com/gohugoio/hugo/pull/12460) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [ livereload: Improve the livereload script build and update to v4.0.2](https://github.com/gohugoio/hugo/pull/12455) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix rebuilds on cascade deletes/renames](https://github.com/gohugoio/hugo/pull/12452) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [KianNH](https://github.com/KianNH) (1 week ago)
-- [berthubert](https://github.com/berthubert) (1 week ago)
+- [berthubert](https://github.com/berthubert) (2 weeks ago)
 - [yvoictra](https://github.com/yvoictra) (1 month ago)
 - [LITUATUI](https://github.com/LITUATUI) (1 month ago)
 - [daronyondem](https://github.com/daronyondem) (2 months ago)
