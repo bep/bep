@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [deps: Downgrade github.com/getkin/kin-openapi v0.124.0 =&gt; v0.123.0](https://github.com/gohugoio/hugo/pull/12474) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix one more resource change eviction logic issue](https://github.com/gohugoio/hugo/pull/12461) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [deps: Downgrade github.com/getkin/kin-openapi v0.124.0 =&gt; v0.123.0](https://github.com/gohugoio/hugo/pull/12474) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix one more resource change eviction logic issue](https://github.com/gohugoio/hugo/pull/12461) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [extras: Some refactorings](https://github.com/gohugoio/hugo-goldmark-extensions/pull/20) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (1 week ago)
 - [Make the cache eviction logic for stale entities more robust](https://github.com/gohugoio/hugo/pull/12460) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [ livereload: Improve the livereload script build and update to v4.0.2](https://github.com/gohugoio/hugo/pull/12455) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
@@ -13,7 +13,7 @@
 - [KianNH](https://github.com/KianNH) (2 weeks ago)
 - [berthubert](https://github.com/berthubert) (2 weeks ago)
 - [yvoictra](https://github.com/yvoictra) (1 month ago)
-- [LITUATUI](https://github.com/LITUATUI) (1 month ago)
+- [LITUATUI](https://github.com/LITUATUI) (2 months ago)
 - [daronyondem](https://github.com/daronyondem) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
