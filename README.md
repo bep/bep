@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [Update content-adapters.md](https://github.com/gohugoio/hugoDocs/pull/2578) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [deps: Downgrade github.com/getkin/kin-openapi v0.124.0 =&gt; v0.123.0](https://github.com/gohugoio/hugo/pull/12474) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Update content-adapters.md](https://github.com/gohugoio/hugoDocs/pull/2578) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [deps: Downgrade github.com/getkin/kin-openapi v0.124.0 =&gt; v0.123.0](https://github.com/gohugoio/hugo/pull/12474) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix one more resource change eviction logic issue](https://github.com/gohugoio/hugo/pull/12461) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [extras: Some refactorings](https://github.com/gohugoio/hugo-goldmark-extensions/pull/20) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (1 week ago)
 - [Make the cache eviction logic for stale entities more robust](https://github.com/gohugoio/hugo/pull/12460) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
