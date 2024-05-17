@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Also warn about duplicate content paths with --printPathWarnings](https://github.com/gohugoio/hugo/pull/12512) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Disable demo link and links in theme READMEs](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/463) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (2 days ago)
 - [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12498) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Update content-adapters.md](https://github.com/gohugoio/hugoDocs/pull/2578) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 - [deps: Downgrade github.com/getkin/kin-openapi v0.124.0 =&gt; v0.123.0](https://github.com/gohugoio/hugo/pull/12474) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Fix one more resource change eviction logic issue](https://github.com/gohugoio/hugo/pull/12461) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
