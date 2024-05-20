@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add a HTTP cache for remote resources.](https://github.com/gohugoio/hugo/pull/12523) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc adjustments](https://github.com/gohugoio/httpcache/pull/2) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (1 day ago)
 - [Add RoundTripDefer option, unexport CachedResponse](https://github.com/gohugoio/httpcache/pull/1) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (3 days ago)
 - [Also warn about duplicate content paths with --printPathWarnings](https://github.com/gohugoio/hugo/pull/12512) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Disable demo link and links in theme READMEs](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/463) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (5 days ago)
-- [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12498) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
