@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Make sure both the x-etags are always set](https://github.com/gohugoio/httpcache/pull/3) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (today)
-- [Add a HTTP cache for remote resources.](https://github.com/gohugoio/hugo/pull/12523) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc adjustments](https://github.com/gohugoio/httpcache/pull/2) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (2 days ago)
-- [Add RoundTripDefer option, unexport CachedResponse](https://github.com/gohugoio/httpcache/pull/1) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (4 days ago)
-- [Also warn about duplicate content paths with --printPathWarnings](https://github.com/gohugoio/hugo/pull/12512) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Make sure both the x-etags are always set](https://github.com/gohugoio/httpcache/pull/3) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (1 day ago)
+- [Add a HTTP cache for remote resources.](https://github.com/gohugoio/hugo/pull/12523) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc adjustments](https://github.com/gohugoio/httpcache/pull/2) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (3 days ago)
+- [Add RoundTripDefer option, unexport CachedResponse](https://github.com/gohugoio/httpcache/pull/1) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (5 days ago)
+- [Also warn about duplicate content paths with --printPathWarnings](https://github.com/gohugoio/hugo/pull/12512) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [KianNH](https://github.com/KianNH) (3 weeks ago)
-- [berthubert](https://github.com/berthubert) (4 weeks ago)
+- [berthubert](https://github.com/berthubert) (1 month ago)
 - [yvoictra](https://github.com/yvoictra) (1 month ago)
 - [LITUATUI](https://github.com/LITUATUI) (2 months ago)
 - [daronyondem](https://github.com/daronyondem) (2 months ago)
