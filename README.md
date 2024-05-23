@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Document HTTP cache config](https://github.com/gohugoio/hugoDocs/pull/2593) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Add ShouldCache option](https://github.com/gohugoio/httpcache/pull/4) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (1 day ago)
 - [Make sure both the x-etags are always set](https://github.com/gohugoio/httpcache/pull/3) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (2 days ago)
 - [Add a HTTP cache for remote resources.](https://github.com/gohugoio/hugo/pull/12523) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Misc adjustments](https://github.com/gohugoio/httpcache/pull/2) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (4 days ago)
-- [Add RoundTripDefer option, unexport CachedResponse](https://github.com/gohugoio/httpcache/pull/1) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
