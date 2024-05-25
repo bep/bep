@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Document HTTP cache config](https://github.com/gohugoio/hugoDocs/pull/2593) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [Add ShouldCache option](https://github.com/gohugoio/httpcache/pull/4) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (2 days ago)
-- [Make sure both the x-etags are always set](https://github.com/gohugoio/httpcache/pull/3) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (3 days ago)
-- [Add a HTTP cache for remote resources.](https://github.com/gohugoio/hugo/pull/12523) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Misc adjustments](https://github.com/gohugoio/httpcache/pull/2) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (5 days ago)
+- [Document HTTP cache config](https://github.com/gohugoio/hugoDocs/pull/2593) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [Add ShouldCache option](https://github.com/gohugoio/httpcache/pull/4) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (3 days ago)
+- [Make sure both the x-etags are always set](https://github.com/gohugoio/httpcache/pull/3) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (4 days ago)
+- [Add a HTTP cache for remote resources.](https://github.com/gohugoio/hugo/pull/12523) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Misc adjustments](https://github.com/gohugoio/httpcache/pull/2) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [KianNH](https://github.com/KianNH) (4 weeks ago)
+- [KianNH](https://github.com/KianNH) (1 month ago)
 - [yvoictra](https://github.com/yvoictra) (1 month ago)
 - [LITUATUI](https://github.com/LITUATUI) (2 months ago)
 - [daronyondem](https://github.com/daronyondem) (2 months ago)
