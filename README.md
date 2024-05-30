@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [github: Trigger a test build](https://github.com/gohugoio/hugo/pull/12550) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12549) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Document HTTP cache config](https://github.com/gohugoio/hugoDocs/pull/2593) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 - [Add ShouldCache option](https://github.com/gohugoio/httpcache/pull/4) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (1 week ago)
-- [Make sure both the x-etags are always set](https://github.com/gohugoio/httpcache/pull/3) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
