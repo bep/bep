@@ -12,9 +12,9 @@
 
 - [willfaught](https://github.com/willfaught) (2 days ago)
 - [KianNH](https://github.com/KianNH) (1 month ago)
-- [yvoictra](https://github.com/yvoictra) (2 months ago)
 - [LITUATUI](https://github.com/LITUATUI) (2 months ago)
 - [daronyondem](https://github.com/daronyondem) (2 months ago)
+- [ryan4yin](https://github.com/ryan4yin) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
