@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [content adapter: Handle &lt;!--more--&gt; separator in content.value](https://github.com/gohugoio/hugo/pull/12557) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [content adapter: Fix server crash on partial edit](https://github.com/gohugoio/hugo/pull/12553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [github: Trigger a test build](https://github.com/gohugoio/hugo/pull/12550) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12549) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Document HTTP cache config](https://github.com/gohugoio/hugoDocs/pull/2593) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
