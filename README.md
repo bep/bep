@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [content adapter: Fix server crash on partial edit](https://github.com/gohugoio/hugo/pull/12553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [github: Trigger a test build](https://github.com/gohugoio/hugo/pull/12550) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12549) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [content adapter: Fix server crash on partial edit](https://github.com/gohugoio/hugo/pull/12553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [github: Trigger a test build](https://github.com/gohugoio/hugo/pull/12550) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12549) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Document HTTP cache config](https://github.com/gohugoio/hugoDocs/pull/2593) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [willfaught](https://github.com/willfaught) (3 days ago)
+- [willfaught](https://github.com/willfaught) (4 days ago)
 - [KianNH](https://github.com/KianNH) (1 month ago)
 - [LITUATUI](https://github.com/LITUATUI) (2 months ago)
 - [daronyondem](https://github.com/daronyondem) (2 months ago)
