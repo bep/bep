@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [content adapter: Handle &lt;!--more--&gt; separator in content.value](https://github.com/gohugoio/hugo/pull/12557) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [content adapter: Fix server crash on partial edit](https://github.com/gohugoio/hugo/pull/12553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [github: Trigger a test build](https://github.com/gohugoio/hugo/pull/12550) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12549) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [content adapter: Handle &lt;!--more--&gt; separator in content.value](https://github.com/gohugoio/hugo/pull/12557) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [content adapter: Fix server crash on partial edit](https://github.com/gohugoio/hugo/pull/12553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [github: Trigger a test build](https://github.com/gohugoio/hugo/pull/12550) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12549) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [willfaught](https://github.com/willfaught) (4 days ago)
+- [willfaught](https://github.com/willfaught) (5 days ago)
 - [KianNH](https://github.com/KianNH) (1 month ago)
 - [LITUATUI](https://github.com/LITUATUI) (2 months ago)
-- [daronyondem](https://github.com/daronyondem) (2 months ago)
+- [daronyondem](https://github.com/daronyondem) (3 months ago)
 - [ryan4yin](https://github.com/ryan4yin) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
