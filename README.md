@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [content adapter: Fix site.GetPage using the base part of the path](https://github.com/gohugoio/hugo/pull/12562) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [content adapter: Handle &lt;!--more--&gt; separator in content.value](https://github.com/gohugoio/hugo/pull/12557) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [content adapter: Fix server crash on partial edit](https://github.com/gohugoio/hugo/pull/12553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [github: Trigger a test build](https://github.com/gohugoio/hugo/pull/12550) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12549) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
