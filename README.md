@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc remote HTTP/content adapter enhancements](https://github.com/gohugoio/hugo/pull/12571) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Support stale cache entries](https://github.com/gohugoio/httpcache/pull/5) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (1 day ago)
 - [content adapter: Fix site.GetPage using the base part of the path](https://github.com/gohugoio/hugo/pull/12562) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [content adapter: Handle &lt;!--more--&gt; separator in content.value](https://github.com/gohugoio/hugo/pull/12557) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [content adapter: Fix server crash on partial edit](https://github.com/gohugoio/hugo/pull/12553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Misc content adapter fixes](https://github.com/gohugoio/hugo/pull/12551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
