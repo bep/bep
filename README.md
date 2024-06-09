@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Rename DefaultPageSize =&gt; PagerSize](https://github.com/gohugoio/hugo/pull/12582) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc js.Build](https://github.com/gohugoio/hugo/pull/12577) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add option to not generate aliases for first page of pagination pages](https://github.com/gohugoio/hugo/pull/12576) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc remote HTTP/content adapter enhancements](https://github.com/gohugoio/hugo/pull/12571) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Support stale cache entries](https://github.com/gohugoio/httpcache/pull/5) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (4 days ago)
+- [Rename DefaultPageSize =&gt; PagerSize](https://github.com/gohugoio/hugo/pull/12582) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc js.Build](https://github.com/gohugoio/hugo/pull/12577) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add option to not generate aliases for first page of pagination pages](https://github.com/gohugoio/hugo/pull/12576) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc remote HTTP/content adapter enhancements](https://github.com/gohugoio/hugo/pull/12571) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Support stale cache entries](https://github.com/gohugoio/httpcache/pull/5) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
