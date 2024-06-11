@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Implement defer](https://github.com/gohugoio/hugo/pull/12587) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Rename DefaultPageSize =&gt; PagerSize](https://github.com/gohugoio/hugo/pull/12582) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc js.Build](https://github.com/gohugoio/hugo/pull/12577) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add option to not generate aliases for first page of pagination pages](https://github.com/gohugoio/hugo/pull/12576) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Misc remote HTTP/content adapter enhancements](https://github.com/gohugoio/hugo/pull/12571) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Implement defer](https://github.com/gohugoio/hugo/pull/12587) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Rename DefaultPageSize =&gt; PagerSize](https://github.com/gohugoio/hugo/pull/12582) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc js.Build](https://github.com/gohugoio/hugo/pull/12577) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add option to not generate aliases for first page of pagination pages](https://github.com/gohugoio/hugo/pull/12576) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Misc remote HTTP/content adapter enhancements](https://github.com/gohugoio/hugo/pull/12571) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [willfaught](https://github.com/willfaught) (1 week ago)
+- [willfaught](https://github.com/willfaught) (2 weeks ago)
 - [KianNH](https://github.com/KianNH) (1 month ago)
-- [LITUATUI](https://github.com/LITUATUI) (2 months ago)
+- [LITUATUI](https://github.com/LITUATUI) (3 months ago)
 - [daronyondem](https://github.com/daronyondem) (3 months ago)
 - [ryan4yin](https://github.com/ryan4yin) (4 months ago)
 
