@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [Fix live reload when both CSS and HTML changes](https://github.com/gohugoio/hugo/pull/12601) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Implement defer](https://github.com/gohugoio/hugo/pull/12587) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Fix live reload when both CSS and HTML changes](https://github.com/gohugoio/hugo/pull/12601) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Implement defer](https://github.com/gohugoio/hugo/pull/12587) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Rename DefaultPageSize =&gt; PagerSize](https://github.com/gohugoio/hugo/pull/12582) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Misc js.Build](https://github.com/gohugoio/hugo/pull/12577) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add option to not generate aliases for first page of pagination pages](https://github.com/gohugoio/hugo/pull/12576) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
