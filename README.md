@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Use defer to load styles](https://github.com/bep/hugo-starter-tailwind-basic/pull/18) on [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) (1 day ago)
-- [Fix live reload when both CSS and HTML changes](https://github.com/gohugoio/hugo/pull/12601) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Implement defer](https://github.com/gohugoio/hugo/pull/12587) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Rename DefaultPageSize =&gt; PagerSize](https://github.com/gohugoio/hugo/pull/12582) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Misc js.Build](https://github.com/gohugoio/hugo/pull/12577) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [css.TailwinCSS etc.](https://github.com/gohugoio/hugo/pull/12619) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [common/hexec: Fall back to the binary in PATH if npx fails](https://github.com/gohugoio/hugo/pull/12616) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Tailwind 4 (in progress)](https://github.com/bep/hugo-starter-tailwind-basic/pull/19) on [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) (2 days ago)
+- [Document templates.Defer](https://github.com/gohugoio/hugoDocs/pull/2635) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [Speed up GetTerms](https://github.com/gohugoio/hugo/pull/12611) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [willfaught](https://github.com/willfaught) (2 weeks ago)
+- [willfaught](https://github.com/willfaught) (3 weeks ago)
 - [KianNH](https://github.com/KianNH) (1 month ago)
 - [LITUATUI](https://github.com/LITUATUI) (3 months ago)
 - [daronyondem](https://github.com/daronyondem) (3 months ago)
