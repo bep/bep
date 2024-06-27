@@ -2,10 +2,10 @@
 
 ### Recent Pull Requests
 
-- [css.TailwindCSS etc.](https://github.com/gohugoio/hugo/pull/12619) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [common/hexec: Fall back to the binary in PATH if npx fails](https://github.com/gohugoio/hugo/pull/12616) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Tailwind 4 (in progress)](https://github.com/bep/hugo-starter-tailwind-basic/pull/19) on [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) (5 days ago)
-- [Document templates.Defer](https://github.com/gohugoio/hugoDocs/pull/2635) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
+- [css.TailwindCSS etc.](https://github.com/gohugoio/hugo/pull/12619) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [common/hexec: Fall back to the binary in PATH if npx fails](https://github.com/gohugoio/hugo/pull/12616) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Tailwind 4 (in progress)](https://github.com/bep/hugo-starter-tailwind-basic/pull/19) on [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) (6 days ago)
+- [Document templates.Defer](https://github.com/gohugoio/hugoDocs/pull/2635) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
 - [Speed up GetTerms](https://github.com/gohugoio/hugo/pull/12611) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
