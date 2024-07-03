@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add hash.XxHash](https://github.com/gohugoio/hugo/pull/12636) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix it so publishDate rolls up to section, taxonomy, or term pages](https://github.com/gohugoio/hugo/pull/12633) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [React 18](https://github.com/gohugoio/hugoTestProjectJSModImports/pull/2) on [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) (6 days ago)
 - [css.TailwindCSS etc.](https://github.com/gohugoio/hugo/pull/12619) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [common/hexec: Fall back to the binary in PATH if npx fails](https://github.com/gohugoio/hugo/pull/12616) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Tailwind 4 (in progress)](https://github.com/bep/hugo-starter-tailwind-basic/pull/19) on [bep/hugo-starter-tailwind-basic](https://github.com/bep/hugo-starter-tailwind-basic) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
