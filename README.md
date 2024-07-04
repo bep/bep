@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix site.GetPage, never do short lookups for paths with leadig slash](https://github.com/gohugoio/hugo/pull/12639) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add hash.XxHash](https://github.com/gohugoio/hugo/pull/12636) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix it so publishDate rolls up to section, taxonomy, or term pages](https://github.com/gohugoio/hugo/pull/12633) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [React 18](https://github.com/gohugoio/hugoTestProjectJSModImports/pull/2) on [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) (1 week ago)
 - [css.TailwindCSS etc.](https://github.com/gohugoio/hugo/pull/12619) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [common/hexec: Fall back to the binary in PATH if npx fails](https://github.com/gohugoio/hugo/pull/12616) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
