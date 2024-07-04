@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [Add hash.XxHash](https://github.com/gohugoio/hugo/pull/12636) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix it so publishDate rolls up to section, taxonomy, or term pages](https://github.com/gohugoio/hugo/pull/12633) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [React 18](https://github.com/gohugoio/hugoTestProjectJSModImports/pull/2) on [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) (6 days ago)
+- [Add hash.XxHash](https://github.com/gohugoio/hugo/pull/12636) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix it so publishDate rolls up to section, taxonomy, or term pages](https://github.com/gohugoio/hugo/pull/12633) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [React 18](https://github.com/gohugoio/hugoTestProjectJSModImports/pull/2) on [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) (1 week ago)
 - [css.TailwindCSS etc.](https://github.com/gohugoio/hugo/pull/12619) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [common/hexec: Fall back to the binary in PATH if npx fails](https://github.com/gohugoio/hugo/pull/12616) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
@@ -14,7 +14,7 @@
 - [LITUATUI](https://github.com/LITUATUI) (3 months ago)
 - [daronyondem](https://github.com/daronyondem) (4 months ago)
 - [ryan4yin](https://github.com/ryan4yin) (5 months ago)
-- [tomott12345](https://github.com/tomott12345) (6 months ago)
+- [tomott12345](https://github.com/tomott12345) (7 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
