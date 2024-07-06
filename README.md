@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Use xxHash for the change detector](https://github.com/gohugoio/hugo/pull/12644) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add js.Bundle](https://github.com/gohugoio/hugo/pull/12641) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix site.GetPage, never do short lookups for paths with leadig slash](https://github.com/gohugoio/hugo/pull/12639) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Add hash.XxHash](https://github.com/gohugoio/hugo/pull/12636) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix it so publishDate rolls up to section, taxonomy, or term pages](https://github.com/gohugoio/hugo/pull/12633) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [React 18](https://github.com/gohugoio/hugoTestProjectJSModImports/pull/2) on [gohugoio/hugoTestProjectJSModImports](https://github.com/gohugoio/hugoTestProjectJSModImports) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
