@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [deps: Misc](https://github.com/gohugoio/hugo/pull/12650) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [commands: Simplify the browser live reload logic](https://github.com/gohugoio/hugo/pull/12647) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Use xxHash for the change detector](https://github.com/gohugoio/hugo/pull/12644) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add js.Bundle](https://github.com/gohugoio/hugo/pull/12641) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix site.GetPage, never do short lookups for paths with leadig slash](https://github.com/gohugoio/hugo/pull/12639) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [deps: Misc](https://github.com/gohugoio/hugo/pull/12650) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [commands: Simplify the browser live reload logic](https://github.com/gohugoio/hugo/pull/12647) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Use xxHash for the change detector](https://github.com/gohugoio/hugo/pull/12644) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add js.Bundle](https://github.com/gohugoio/hugo/pull/12641) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix site.GetPage, never do short lookups for paths with leadig slash](https://github.com/gohugoio/hugo/pull/12639) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
