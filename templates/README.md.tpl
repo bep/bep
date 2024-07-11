@@ -19,9 +19,10 @@ For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 | [Hugo](https://github.com/gohugoio/hugo)|A very fast framework for building websites. |
 | [hugoreleaser](https://github.com/gohugoio/hugoreleaser)| A tool to build, archive and release Go programs/libraries.  |
 | [s3deploy](https://github.com/bep/s3deploy)| A simple tool to deploy static websites to Amazon S3 and CloudFront with Gzip and custom headers support (e.g. "Cache-Control").|
+| [imagemeta](https://github.com/bep/imagemeta)| Read image (EXIF, IPTC, XMP) fr|
 | [SimpleCobra](https://github.com/bep/simplecobra)|A simpler API for the popular Cobra CLI.|
 | [Lazycache](https://github.com/bep/lazycache)| Thread safe in-memory LRU cache with non-blocking cache priming on cache misses.  |
-| [Gallery Deluxe](https://github.com/bep/gallerydeluxe)|Fast Hugo gallery theme/module suitable for lots of images.  |
+| [Gallery Deluxe](https://github.com/bep/gallerydeluxe)|Fast Hugo gallery theme/module suitable for lots of images (JPEG, WebP, TIFF, PNG).|
 | [DocuAPI](https://github.com/bep/docuapi)| Beautiful multilingual API documentation theme for Hugo.  |
 | [logg](https://github.com/bep/logg)| A Fast and Structured logging package for Go.  |
 | [godartsass](https://github.com/bep/godartsass)| Go API backed by the native Dart Sass Embedded executable. |
