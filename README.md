@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add some missing test cases](https://github.com/bep/imagemeta/pull/12) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Do not pass IFD pointers to ShouldHandleTag](https://github.com/bep/imagemeta/pull/11) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Add a ShouldHandleTag option](https://github.com/bep/imagemeta/pull/10) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Misc](https://github.com/bep/godartsass/pull/25) on [bep/godartsass](https://github.com/bep/godartsass) (1 day ago)
 - [Switch EXIF library](https://github.com/gohugoio/hugo/pull/12651) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Rework implementation to use exiftool as the facit](https://github.com/bep/imagemeta/pull/9) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
