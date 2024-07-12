@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Misc](https://github.com/bep/godartsass/pull/25) on [bep/godartsass](https://github.com/bep/godartsass) (today)
-- [Switch EXIF library](https://github.com/gohugoio/hugo/pull/12651) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Rework implementation to use exiftool as the facit](https://github.com/bep/imagemeta/pull/9) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
-- [deps: Misc](https://github.com/gohugoio/hugo/pull/12650) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [commands: Simplify the browser live reload logic](https://github.com/gohugoio/hugo/pull/12647) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Misc](https://github.com/bep/godartsass/pull/25) on [bep/godartsass](https://github.com/bep/godartsass) (1 day ago)
+- [Switch EXIF library](https://github.com/gohugoio/hugo/pull/12651) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Rework implementation to use exiftool as the facit](https://github.com/bep/imagemeta/pull/9) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
+- [deps: Misc](https://github.com/gohugoio/hugo/pull/12650) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [commands: Simplify the browser live reload logic](https://github.com/gohugoio/hugo/pull/12647) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [major](https://github.com/major) (today)
+- [major](https://github.com/major) (1 day ago)
 - [KianNH](https://github.com/KianNH) (2 months ago)
 - [LITUATUI](https://github.com/LITUATUI) (4 months ago)
 - [daronyondem](https://github.com/daronyondem) (4 months ago)
