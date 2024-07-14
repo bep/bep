@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix value offsets for WebP exif](https://github.com/bep/imagemeta/pull/14) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Add some missing test cases](https://github.com/bep/imagemeta/pull/12) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 - [Do not pass IFD pointers to ShouldHandleTag](https://github.com/bep/imagemeta/pull/11) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 - [Add a ShouldHandleTag option](https://github.com/bep/imagemeta/pull/10) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 - [Misc](https://github.com/bep/godartsass/pull/25) on [bep/godartsass](https://github.com/bep/godartsass) (3 days ago)
-- [Switch EXIF library](https://github.com/gohugoio/hugo/pull/12651) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
