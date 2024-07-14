@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [worming004](https://github.com/worming004) (today)
 - [devlikepro](https://github.com/devlikepro) (2 days ago)
 - [major](https://github.com/major) (3 days ago)
 - [KianNH](https://github.com/KianNH) (2 months ago)
 - [LITUATUI](https://github.com/LITUATUI) (4 months ago)
-- [daronyondem](https://github.com/daronyondem) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
