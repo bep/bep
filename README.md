@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Add some missing test cases](https://github.com/bep/imagemeta/pull/12) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Do not pass IFD pointers to ShouldHandleTag](https://github.com/bep/imagemeta/pull/11) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Add a ShouldHandleTag option](https://github.com/bep/imagemeta/pull/10) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Misc](https://github.com/bep/godartsass/pull/25) on [bep/godartsass](https://github.com/bep/godartsass) (2 days ago)
-- [Switch EXIF library](https://github.com/gohugoio/hugo/pull/12651) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add some missing test cases](https://github.com/bep/imagemeta/pull/12) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Do not pass IFD pointers to ShouldHandleTag](https://github.com/bep/imagemeta/pull/11) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Add a ShouldHandleTag option](https://github.com/bep/imagemeta/pull/10) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Misc](https://github.com/bep/godartsass/pull/25) on [bep/godartsass](https://github.com/bep/godartsass) (3 days ago)
+- [Switch EXIF library](https://github.com/gohugoio/hugo/pull/12651) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [devlikepro](https://github.com/devlikepro) (1 day ago)
-- [major](https://github.com/major) (2 days ago)
+- [devlikepro](https://github.com/devlikepro) (2 days ago)
+- [major](https://github.com/major) (3 days ago)
 - [KianNH](https://github.com/KianNH) (2 months ago)
 - [LITUATUI](https://github.com/LITUATUI) (4 months ago)
 - [daronyondem](https://github.com/daronyondem) (4 months ago)
