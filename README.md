@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Get ThumbnailOffset in line with how exiftool calculates it](https://github.com/bep/imagemeta/pull/15) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Fix value offsets for WebP exif](https://github.com/bep/imagemeta/pull/14) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Add some missing test cases](https://github.com/bep/imagemeta/pull/12) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 - [Do not pass IFD pointers to ShouldHandleTag](https://github.com/bep/imagemeta/pull/11) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 - [Add a ShouldHandleTag option](https://github.com/bep/imagemeta/pull/10) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
-- [Misc](https://github.com/bep/godartsass/pull/25) on [bep/godartsass](https://github.com/bep/godartsass) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
