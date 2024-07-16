@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Get ThumbnailOffset in line with how exiftool calculates it](https://github.com/bep/imagemeta/pull/15) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Fix value offsets for WebP exif](https://github.com/bep/imagemeta/pull/14) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Add some missing test cases](https://github.com/bep/imagemeta/pull/12) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
-- [Do not pass IFD pointers to ShouldHandleTag](https://github.com/bep/imagemeta/pull/11) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
-- [Add a ShouldHandleTag option](https://github.com/bep/imagemeta/pull/10) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
+- [Get ThumbnailOffset in line with how exiftool calculates it](https://github.com/bep/imagemeta/pull/15) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Fix value offsets for WebP exif](https://github.com/bep/imagemeta/pull/14) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Add some missing test cases](https://github.com/bep/imagemeta/pull/12) on [bep/imagemeta](https://github.com/bep/imagemeta) (4 days ago)
+- [Do not pass IFD pointers to ShouldHandleTag](https://github.com/bep/imagemeta/pull/11) on [bep/imagemeta](https://github.com/bep/imagemeta) (4 days ago)
+- [Add a ShouldHandleTag option](https://github.com/bep/imagemeta/pull/10) on [bep/imagemeta](https://github.com/bep/imagemeta) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [worming004](https://github.com/worming004) (1 day ago)
-- [devlikepro](https://github.com/devlikepro) (3 days ago)
-- [major](https://github.com/major) (4 days ago)
+- [worming004](https://github.com/worming004) (2 days ago)
+- [devlikepro](https://github.com/devlikepro) (4 days ago)
+- [major](https://github.com/major) (5 days ago)
 - [KianNH](https://github.com/KianNH) (2 months ago)
 - [LITUATUI](https://github.com/LITUATUI) (4 months ago)
 
