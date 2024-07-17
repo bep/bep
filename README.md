@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Only read Git log output from stdout](https://github.com/bep/gitmap/pull/15) on [bep/gitmap](https://github.com/bep/gitmap) (today)
 - [Implement EXIF and IPTC for TIFF files and improve IPTC type handling](https://github.com/bep/imagemeta/pull/17) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 - [Get ThumbnailOffset in line with how exiftool calculates it](https://github.com/bep/imagemeta/pull/15) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
 - [Fix value offsets for WebP exif](https://github.com/bep/imagemeta/pull/14) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
 - [Add some missing test cases](https://github.com/bep/imagemeta/pull/12) on [bep/imagemeta](https://github.com/bep/imagemeta) (5 days ago)
-- [Do not pass IFD pointers to ShouldHandleTag](https://github.com/bep/imagemeta/pull/11) on [bep/imagemeta](https://github.com/bep/imagemeta) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
