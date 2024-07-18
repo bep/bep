@@ -5,7 +5,7 @@
 - [Throw error if resources.PostProcess is used in a deferred template](https://github.com/gohugoio/hugo/pull/12663) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [deps: Upgrade github.com/bep/gitmap v1.4.0 =&gt; v1.6.0 (note)](https://github.com/gohugoio/hugo/pull/12662) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Only read Git log output from stdout](https://github.com/bep/gitmap/pull/15) on [bep/gitmap](https://github.com/bep/gitmap) (1 day ago)
-- [Implement EXIF and IPTC for TIFF files and improve IPTC type handling](https://github.com/bep/imagemeta/pull/17) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Misc updates/improvements](https://github.com/bep/imagemeta/pull/17) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 - [Get ThumbnailOffset in line with how exiftool calculates it](https://github.com/bep/imagemeta/pull/15) on [bep/imagemeta](https://github.com/bep/imagemeta) (4 days ago)
 
 ### Recent sponsors (big thank you!)
