@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Throw error if resources.PostProcess is used in a deferred template](https://github.com/gohugoio/hugo/pull/12663) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade github.com/bep/gitmap v1.4.0 =&gt; v1.6.0 (note)](https://github.com/gohugoio/hugo/pull/12662) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Only read Git log output from stdout](https://github.com/bep/gitmap/pull/15) on [bep/gitmap](https://github.com/bep/gitmap) (today)
-- [Implement EXIF and IPTC for TIFF files and improve IPTC type handling](https://github.com/bep/imagemeta/pull/17) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Get ThumbnailOffset in line with how exiftool calculates it](https://github.com/bep/imagemeta/pull/15) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
+- [Throw error if resources.PostProcess is used in a deferred template](https://github.com/gohugoio/hugo/pull/12663) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Upgrade github.com/bep/gitmap v1.4.0 =&gt; v1.6.0 (note)](https://github.com/gohugoio/hugo/pull/12662) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Only read Git log output from stdout](https://github.com/bep/gitmap/pull/15) on [bep/gitmap](https://github.com/bep/gitmap) (1 day ago)
+- [Implement EXIF and IPTC for TIFF files and improve IPTC type handling](https://github.com/bep/imagemeta/pull/17) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Get ThumbnailOffset in line with how exiftool calculates it](https://github.com/bep/imagemeta/pull/15) on [bep/imagemeta](https://github.com/bep/imagemeta) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [worming004](https://github.com/worming004) (3 days ago)
-- [devlikepro](https://github.com/devlikepro) (5 days ago)
-- [major](https://github.com/major) (6 days ago)
+- [worming004](https://github.com/worming004) (4 days ago)
+- [devlikepro](https://github.com/devlikepro) (6 days ago)
+- [major](https://github.com/major) (1 week ago)
 - [KianNH](https://github.com/KianNH) (2 months ago)
 - [LITUATUI](https://github.com/LITUATUI) (4 months ago)
 
