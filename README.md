@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix the bytes buffer slice allocation](https://github.com/bep/imagemeta/pull/23) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Move test images one level down and do some more fuzzing](https://github.com/bep/imagemeta/pull/22) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Handle some TODOs](https://github.com/bep/imagemeta/pull/21) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Add some fuzz tests](https://github.com/bep/imagemeta/pull/18) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Throw error if resources.PostProcess is used in a deferred template](https://github.com/gohugoio/hugo/pull/12663) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [deps: Upgrade github.com/bep/gitmap v1.4.0 =&gt; v1.6.0 (note)](https://github.com/gohugoio/hugo/pull/12662) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
