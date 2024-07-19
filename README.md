@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add some fuzz tests](https://github.com/bep/imagemeta/pull/18) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Throw error if resources.PostProcess is used in a deferred template](https://github.com/gohugoio/hugo/pull/12663) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [deps: Upgrade github.com/bep/gitmap v1.4.0 =&gt; v1.6.0 (note)](https://github.com/gohugoio/hugo/pull/12662) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Only read Git log output from stdout](https://github.com/bep/gitmap/pull/15) on [bep/gitmap](https://github.com/bep/gitmap) (2 days ago)
 - [Misc updates/improvements](https://github.com/bep/imagemeta/pull/17) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
-- [Get ThumbnailOffset in line with how exiftool calculates it](https://github.com/bep/imagemeta/pull/15) on [bep/imagemeta](https://github.com/bep/imagemeta) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
