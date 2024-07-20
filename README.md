@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Fix the bytes buffer slice allocation](https://github.com/bep/imagemeta/pull/23) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Move test images one level down and do some more fuzzing](https://github.com/bep/imagemeta/pull/22) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Handle some TODOs](https://github.com/bep/imagemeta/pull/21) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Add some fuzz tests](https://github.com/bep/imagemeta/pull/18) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Throw error if resources.PostProcess is used in a deferred template](https://github.com/gohugoio/hugo/pull/12663) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix the bytes buffer slice allocation](https://github.com/bep/imagemeta/pull/23) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Move test images one level down and do some more fuzzing](https://github.com/bep/imagemeta/pull/22) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Handle some TODOs](https://github.com/bep/imagemeta/pull/21) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Add some fuzz tests](https://github.com/bep/imagemeta/pull/18) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Throw error if resources.PostProcess is used in a deferred template](https://github.com/gohugoio/hugo/pull/12663) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [worming004](https://github.com/worming004) (5 days ago)
+- [worming004](https://github.com/worming004) (6 days ago)
 - [devlikepro](https://github.com/devlikepro) (1 week ago)
 - [major](https://github.com/major) (1 week ago)
 - [KianNH](https://github.com/KianNH) (2 months ago)
