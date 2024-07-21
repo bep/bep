@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix some more error cases found by Go Fuzz](https://github.com/bep/imagemeta/pull/25) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Do not warn when GPSLatitude/GPSLongitude is nil](https://github.com/bep/imagemeta/pull/24) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 - [Fix the bytes buffer slice allocation](https://github.com/bep/imagemeta/pull/23) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 - [Move test images one level down and do some more fuzzing](https://github.com/bep/imagemeta/pull/22) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 - [Handle some TODOs](https://github.com/bep/imagemeta/pull/21) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
-- [Add some fuzz tests](https://github.com/bep/imagemeta/pull/18) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
