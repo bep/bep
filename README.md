@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Do not warn when GPSLatitude/GPSLongitude is nil](https://github.com/bep/imagemeta/pull/24) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Fix the bytes buffer slice allocation](https://github.com/bep/imagemeta/pull/23) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Move test images one level down and do some more fuzzing](https://github.com/bep/imagemeta/pull/22) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Handle some TODOs](https://github.com/bep/imagemeta/pull/21) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Add some fuzz tests](https://github.com/bep/imagemeta/pull/18) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Do not warn when GPSLatitude/GPSLongitude is nil](https://github.com/bep/imagemeta/pull/24) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Fix the bytes buffer slice allocation](https://github.com/bep/imagemeta/pull/23) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Move test images one level down and do some more fuzzing](https://github.com/bep/imagemeta/pull/22) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Handle some TODOs](https://github.com/bep/imagemeta/pull/21) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Add some fuzz tests](https://github.com/bep/imagemeta/pull/18) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [worming004](https://github.com/worming004) (6 days ago)
+- [worming004](https://github.com/worming004) (1 week ago)
 - [devlikepro](https://github.com/devlikepro) (1 week ago)
 - [major](https://github.com/major) (1 week ago)
 - [KianNH](https://github.com/KianNH) (2 months ago)
