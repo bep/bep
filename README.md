@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Improve EXIF UserComment handling](https://github.com/bep/imagemeta/pull/27) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [One more fuzz error fix](https://github.com/bep/imagemeta/pull/26) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 - [deps: Upgrade github.com/bep/imagemeta v0.7.1 =&gt; v0.7.2](https://github.com/gohugoio/hugo/pull/12674) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix some more error cases found by Go Fuzz](https://github.com/bep/imagemeta/pull/25) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 - [Do not warn when GPSLatitude/GPSLongitude is nil](https://github.com/bep/imagemeta/pull/24) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
-- [Fix the bytes buffer slice allocation](https://github.com/bep/imagemeta/pull/23) on [bep/imagemeta](https://github.com/bep/imagemeta) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
