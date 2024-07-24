@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Improve EXIF UserComment handling](https://github.com/bep/imagemeta/pull/27) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [One more fuzz error fix](https://github.com/bep/imagemeta/pull/26) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
-- [deps: Upgrade github.com/bep/imagemeta v0.7.1 =&gt; v0.7.2](https://github.com/gohugoio/hugo/pull/12674) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix some more error cases found by Go Fuzz](https://github.com/bep/imagemeta/pull/25) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
-- [Do not warn when GPSLatitude/GPSLongitude is nil](https://github.com/bep/imagemeta/pull/24) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
+- [Improve EXIF UserComment handling](https://github.com/bep/imagemeta/pull/27) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [One more fuzz error fix](https://github.com/bep/imagemeta/pull/26) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
+- [deps: Upgrade github.com/bep/imagemeta v0.7.1 =&gt; v0.7.2](https://github.com/gohugoio/hugo/pull/12674) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix some more error cases found by Go Fuzz](https://github.com/bep/imagemeta/pull/25) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
+- [Do not warn when GPSLatitude/GPSLongitude is nil](https://github.com/bep/imagemeta/pull/24) on [bep/imagemeta](https://github.com/bep/imagemeta) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [gpiperagkas](https://github.com/gpiperagkas) (2 days ago)
+- [gpiperagkas](https://github.com/gpiperagkas) (3 days ago)
 - [worming004](https://github.com/worming004) (1 week ago)
 - [devlikepro](https://github.com/devlikepro) (1 week ago)
 - [major](https://github.com/major) (1 week ago)
-- [KianNH](https://github.com/KianNH) (2 months ago)
+- [KianNH](https://github.com/KianNH) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
