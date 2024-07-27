@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Embed Katex as Wasm](https://github.com/gohugoio/hugo/pull/12679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Improve EXIF UserComment handling](https://github.com/bep/imagemeta/pull/27) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
-- [One more fuzz error fix](https://github.com/bep/imagemeta/pull/26) on [bep/imagemeta](https://github.com/bep/imagemeta) (5 days ago)
-- [deps: Upgrade github.com/bep/imagemeta v0.7.1 =&gt; v0.7.2](https://github.com/gohugoio/hugo/pull/12674) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Fix some more error cases found by Go Fuzz](https://github.com/bep/imagemeta/pull/25) on [bep/imagemeta](https://github.com/bep/imagemeta) (5 days ago)
+- [Embed Katex as Wasm](https://github.com/gohugoio/hugo/pull/12679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Improve EXIF UserComment handling](https://github.com/bep/imagemeta/pull/27) on [bep/imagemeta](https://github.com/bep/imagemeta) (4 days ago)
+- [One more fuzz error fix](https://github.com/bep/imagemeta/pull/26) on [bep/imagemeta](https://github.com/bep/imagemeta) (6 days ago)
+- [deps: Upgrade github.com/bep/imagemeta v0.7.1 =&gt; v0.7.2](https://github.com/gohugoio/hugo/pull/12674) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Fix some more error cases found by Go Fuzz](https://github.com/bep/imagemeta/pull/25) on [bep/imagemeta](https://github.com/bep/imagemeta) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [gpiperagkas](https://github.com/gpiperagkas) (5 days ago)
+- [gpiperagkas](https://github.com/gpiperagkas) (6 days ago)
 - [worming004](https://github.com/worming004) (1 week ago)
 - [devlikepro](https://github.com/devlikepro) (2 weeks ago)
 - [major](https://github.com/major) (2 weeks ago)
