@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [Embed Katex as Wasm](https://github.com/gohugoio/hugo/pull/12679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Improve EXIF UserComment handling](https://github.com/bep/imagemeta/pull/27) on [bep/imagemeta](https://github.com/bep/imagemeta) (5 days ago)
+- [Embed Katex as Wasm](https://github.com/gohugoio/hugo/pull/12679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Improve EXIF UserComment handling](https://github.com/bep/imagemeta/pull/27) on [bep/imagemeta](https://github.com/bep/imagemeta) (6 days ago)
 - [One more fuzz error fix](https://github.com/bep/imagemeta/pull/26) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 week ago)
 - [deps: Upgrade github.com/bep/imagemeta v0.7.1 =&gt; v0.7.2](https://github.com/gohugoio/hugo/pull/12674) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix some more error cases found by Go Fuzz](https://github.com/bep/imagemeta/pull/25) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 week ago)
