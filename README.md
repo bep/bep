@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d =&gt; v0.23.0](https://github.com/gohugoio/hugo/pull/12692) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade github.com/bep/imagemeta v0.7.4 =&gt; v0.7.5](https://github.com/gohugoio/hugo/pull/12691) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade github.com/aws/aws-sdk-go-v2 v1.26.1 =&gt; v1.30.3](https://github.com/gohugoio/hugo/pull/12690) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc](https://github.com/bep/helpers/pull/3) on [bep/helpers](https://github.com/bep/helpers) (today)
 - [deps: Upgrade to github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.7.0](https://github.com/gohugoio/hugo/pull/12689) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix some warning reports](https://github.com/bep/imagemeta/pull/29) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 
 ### Recent sponsors (big thank you!)
 
