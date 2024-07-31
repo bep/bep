@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade to github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.7.0](https://github.com/gohugoio/hugo/pull/12689) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix some warning reports](https://github.com/bep/imagemeta/pull/29) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Remove the FormatV1/FormatV2 option](https://github.com/gohugoio/hashstructure/pull/1) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
 - [Misc hashing](https://github.com/gohugoio/hugo/pull/12687) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Embed Katex as Wasm](https://github.com/gohugoio/hugo/pull/12679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Improve EXIF UserComment handling](https://github.com/bep/imagemeta/pull/27) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
