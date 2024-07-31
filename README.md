@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix some warning reports](https://github.com/bep/imagemeta/pull/29) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Remove the FormatV1/FormatV2 option](https://github.com/gohugoio/hashstructure/pull/1) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
 - [Misc hashing](https://github.com/gohugoio/hugo/pull/12687) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Embed Katex as Wasm](https://github.com/gohugoio/hugo/pull/12679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Improve EXIF UserComment handling](https://github.com/bep/imagemeta/pull/27) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 week ago)
-- [One more fuzz error fix](https://github.com/bep/imagemeta/pull/26) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
