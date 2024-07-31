@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade github.com/aws/aws-sdk-go-v2 v1.26.1 =&gt; v1.30.3](https://github.com/gohugoio/hugo/pull/12690) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc](https://github.com/bep/helpers/pull/3) on [bep/helpers](https://github.com/bep/helpers) (today)
 - [deps: Upgrade to github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.7.0](https://github.com/gohugoio/hugo/pull/12689) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix some warning reports](https://github.com/bep/imagemeta/pull/29) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Remove the FormatV1/FormatV2 option](https://github.com/gohugoio/hashstructure/pull/1) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
-- [Misc hashing](https://github.com/gohugoio/hugo/pull/12687) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
