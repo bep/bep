@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [deps: Replace toolchain go1.21.0 =&gt; go 1.21](https://github.com/gohugoio/hugo/pull/12696) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Set toolchain go1.21.0 in go.mod](https://github.com/gohugoio/hugo/pull/12694) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d =&gt; v0.23.0](https://github.com/gohugoio/hugo/pull/12692) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade github.com/bep/imagemeta v0.7.4 =&gt; v0.7.5](https://github.com/gohugoio/hugo/pull/12691) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade github.com/aws/aws-sdk-go-v2 v1.26.1 =&gt; v1.30.3](https://github.com/gohugoio/hugo/pull/12690) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [deps: Replace toolchain go1.21.0 =&gt; go 1.21](https://github.com/gohugoio/hugo/pull/12696) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Set toolchain go1.21.0 in go.mod](https://github.com/gohugoio/hugo/pull/12694) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Upgrade golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d =&gt; v0.23.0](https://github.com/gohugoio/hugo/pull/12692) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Upgrade github.com/bep/imagemeta v0.7.4 =&gt; v0.7.5](https://github.com/gohugoio/hugo/pull/12691) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Upgrade github.com/aws/aws-sdk-go-v2 v1.26.1 =&gt; v1.30.3](https://github.com/gohugoio/hugo/pull/12690) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
 - [gpiperagkas](https://github.com/gpiperagkas) (1 week ago)
 - [worming004](https://github.com/worming004) (2 weeks ago)
 - [devlikepro](https://github.com/devlikepro) (2 weeks ago)
-- [major](https://github.com/major) (2 weeks ago)
+- [major](https://github.com/major) (3 weeks ago)
 - [KianNH](https://github.com/KianNH) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
