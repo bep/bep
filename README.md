@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade github.com/hairyhenderson/go-codeowners v0.4.0 =&gt; v0.5.0](https://github.com/gohugoio/hugo/pull/12704) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Upgrade to Go 1.22.5](https://github.com/gohugoio/hugo/pull/12697) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Replace toolchain go1.21.0 =&gt; go 1.21](https://github.com/gohugoio/hugo/pull/12696) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [deps: Set toolchain go1.21.0 in go.mod](https://github.com/gohugoio/hugo/pull/12694) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [deps: Upgrade golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d =&gt; v0.23.0](https://github.com/gohugoio/hugo/pull/12692) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [deps: Upgrade github.com/bep/imagemeta v0.7.4 =&gt; v0.7.5](https://github.com/gohugoio/hugo/pull/12691) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
