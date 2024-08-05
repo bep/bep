@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc adjustments](https://github.com/gohugoio/hugo-goldmark-extensions/pull/29) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (today)
+- [Add render hooks for inline and block passthrough snippets](https://github.com/gohugoio/hugo/pull/12717) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add experimental ImportResolver](https://github.com/tetratelabs/wazero/pull/2298) on [tetratelabs/wazero](https://github.com/tetratelabs/wazero) (today)
 - [Fix images.AutoOrient regression](https://github.com/gohugoio/hugo/pull/12713) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [deps: Upgrade github.com/hairyhenderson/go-codeowners v0.4.0 =&gt; v0.5.0](https://github.com/gohugoio/hugo/pull/12704) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Upgrade to Go 1.22.5](https://github.com/gohugoio/hugo/pull/12697) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [deps: Replace toolchain go1.21.0 =&gt; go 1.21](https://github.com/gohugoio/hugo/pull/12696) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
