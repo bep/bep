@@ -4,7 +4,7 @@
 
 - [Improve ImportResolver example](https://github.com/tetratelabs/wazero/pull/2299) on [tetratelabs/wazero](https://github.com/tetratelabs/wazero) (today)
 - [Misc adjustments](https://github.com/gohugoio/hugo-goldmark-extensions/pull/29) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (today)
-- [Add render hooks for inline and block passthrough snippets](https://github.com/gohugoio/hugo/pull/12717) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Add render hooks passthroughs and blockquotes (with GitHub alert support)](https://github.com/gohugoio/hugo/pull/12717) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add experimental ImportResolver](https://github.com/tetratelabs/wazero/pull/2298) on [tetratelabs/wazero](https://github.com/tetratelabs/wazero) (today)
 - [Fix images.AutoOrient regression](https://github.com/gohugoio/hugo/pull/12713) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
