@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Fix images.AutoOrient regression](https://github.com/gohugoio/hugo/pull/12713) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [deps: Upgrade github.com/hairyhenderson/go-codeowners v0.4.0 =&gt; v0.5.0](https://github.com/gohugoio/hugo/pull/12704) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Upgrade to Go 1.22.5](https://github.com/gohugoio/hugo/pull/12697) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [deps: Replace toolchain go1.21.0 =&gt; go 1.21](https://github.com/gohugoio/hugo/pull/12696) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [deps: Set toolchain go1.21.0 in go.mod](https://github.com/gohugoio/hugo/pull/12694) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix images.AutoOrient regression](https://github.com/gohugoio/hugo/pull/12713) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [deps: Upgrade github.com/hairyhenderson/go-codeowners v0.4.0 =&gt; v0.5.0](https://github.com/gohugoio/hugo/pull/12704) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Upgrade to Go 1.22.5](https://github.com/gohugoio/hugo/pull/12697) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [deps: Replace toolchain go1.21.0 =&gt; go 1.21](https://github.com/gohugoio/hugo/pull/12696) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [deps: Set toolchain go1.21.0 in go.mod](https://github.com/gohugoio/hugo/pull/12694) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [aheneneu](https://github.com/aheneneu) (3 days ago)
+- [aheneneu](https://github.com/aheneneu) (4 days ago)
 - [gpiperagkas](https://github.com/gpiperagkas) (2 weeks ago)
 - [worming004](https://github.com/worming004) (3 weeks ago)
 - [devlikepro](https://github.com/devlikepro) (3 weeks ago)
