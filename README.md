@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl/cast: Improve float](https://github.com/gohugoio/hugo/pull/12721) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Misc improvements](https://github.com/spf13/cast/pull/221) on [spf13/cast](https://github.com/spf13/cast) (today)
 - [Improve ImportResolver example](https://github.com/tetratelabs/wazero/pull/2299) on [tetratelabs/wazero](https://github.com/tetratelabs/wazero) (1 day ago)
 - [Misc adjustments](https://github.com/gohugoio/hugo-goldmark-extensions/pull/29) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (1 day ago)
 - [Add render hooks passthroughs and blockquotes (with GitHub alert support)](https://github.com/gohugoio/hugo/pull/12717) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add experimental ImportResolver](https://github.com/tetratelabs/wazero/pull/2298) on [tetratelabs/wazero](https://github.com/tetratelabs/wazero) (1 day ago)
-- [Fix images.AutoOrient regression](https://github.com/gohugoio/hugo/pull/12713) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
