@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Improve ImportResolver example](https://github.com/tetratelabs/wazero/pull/2299) on [tetratelabs/wazero](https://github.com/tetratelabs/wazero) (today)
-- [Misc adjustments](https://github.com/gohugoio/hugo-goldmark-extensions/pull/29) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (today)
-- [Add render hooks passthroughs and blockquotes (with GitHub alert support)](https://github.com/gohugoio/hugo/pull/12717) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add experimental ImportResolver](https://github.com/tetratelabs/wazero/pull/2298) on [tetratelabs/wazero](https://github.com/tetratelabs/wazero) (today)
-- [Fix images.AutoOrient regression](https://github.com/gohugoio/hugo/pull/12713) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Improve ImportResolver example](https://github.com/tetratelabs/wazero/pull/2299) on [tetratelabs/wazero](https://github.com/tetratelabs/wazero) (1 day ago)
+- [Misc adjustments](https://github.com/gohugoio/hugo-goldmark-extensions/pull/29) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (1 day ago)
+- [Add render hooks passthroughs and blockquotes (with GitHub alert support)](https://github.com/gohugoio/hugo/pull/12717) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add experimental ImportResolver](https://github.com/tetratelabs/wazero/pull/2298) on [tetratelabs/wazero](https://github.com/tetratelabs/wazero) (1 day ago)
+- [Fix images.AutoOrient regression](https://github.com/gohugoio/hugo/pull/12713) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [aheneneu](https://github.com/aheneneu) (4 days ago)
+- [aheneneu](https://github.com/aheneneu) (5 days ago)
 - [gpiperagkas](https://github.com/gpiperagkas) (2 weeks ago)
 - [worming004](https://github.com/worming004) (3 weeks ago)
 - [devlikepro](https://github.com/devlikepro) (3 weeks ago)
