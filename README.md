@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Add FuzzEncodePNG and FuzzEncodeJPG](https://github.com/bep/gowebp/pull/13) on [bep/gowebp](https://github.com/bep/gowebp) (today)
-- [Misc updates](https://github.com/bep/gowebp/pull/12) on [bep/gowebp](https://github.com/bep/gowebp) (today)
-- [Add FuzzHash](https://github.com/gohugoio/hashstructure/pull/2) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
-- [tpl/cast: Improve float](https://github.com/gohugoio/hugo/pull/12721) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc improvements](https://github.com/spf13/cast/pull/221) on [spf13/cast](https://github.com/spf13/cast) (1 day ago)
+- [Add FuzzEncodePNG and FuzzEncodeJPG](https://github.com/bep/gowebp/pull/13) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
+- [Misc updates](https://github.com/bep/gowebp/pull/12) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
+- [Add FuzzHash](https://github.com/gohugoio/hashstructure/pull/2) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
+- [tpl/cast: Improve float](https://github.com/gohugoio/hugo/pull/12721) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc improvements](https://github.com/spf13/cast/pull/221) on [spf13/cast](https://github.com/spf13/cast) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [aheneneu](https://github.com/aheneneu) (6 days ago)
+- [aheneneu](https://github.com/aheneneu) (1 week ago)
 - [gpiperagkas](https://github.com/gpiperagkas) (2 weeks ago)
 - [worming004](https://github.com/worming004) (3 weeks ago)
 - [devlikepro](https://github.com/devlikepro) (3 weeks ago)
-- [major](https://github.com/major) (3 weeks ago)
+- [major](https://github.com/major) (4 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
