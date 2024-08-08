@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade libwebp v1.4.0](https://github.com/gohugoio/hugo/pull/12729) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add FuzzEncodePNG and FuzzEncodeJPG](https://github.com/bep/gowebp/pull/13) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
 - [Misc updates](https://github.com/bep/gowebp/pull/12) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
 - [Add FuzzHash](https://github.com/gohugoio/hashstructure/pull/2) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
 - [tpl/cast: Improve float](https://github.com/gohugoio/hugo/pull/12721) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc improvements](https://github.com/spf13/cast/pull/221) on [spf13/cast](https://github.com/spf13/cast) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
