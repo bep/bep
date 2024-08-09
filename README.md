@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [github: Update GitHub actions versions](https://github.com/bep/punused/pull/5) on [bep/punused](https://github.com/bep/punused) (today)
 - [github: Update GH actions versions](https://github.com/bep/mclib/pull/1) on [bep/mclib](https://github.com/bep/mclib) (today)
 - [github: Update GH actions versions](https://github.com/bep/clocks/pull/3) on [bep/clocks](https://github.com/bep/clocks) (today)
 - [github: Update GH actions versions](https://github.com/bep/debounce/pull/6) on [bep/debounce](https://github.com/bep/debounce) (today)
 - [gh1](https://github.com/bep/llmi18n/pull/1) on [bep/llmi18n](https://github.com/bep/llmi18n) (today)
-- [Misc deps](https://github.com/bep/gomaintemplate/pull/1) on [bep/gomaintemplate](https://github.com/bep/gomaintemplate) (today)
 
 ### Recent sponsors (big thank you!)
 
