@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [github: Update actions versions](https://github.com/bep/imagemeta/pull/31) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
+- [Fix module path in go.mod](https://github.com/JamesWoolfenden/ghat/pull/9) on [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) (today)
+- [github: Build and publish Docker image on release](https://github.com/gohugoio/hugo/pull/12734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade libwebp v1.4.0](https://github.com/gohugoio/hugo/pull/12729) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add FuzzEncodePNG and FuzzEncodeJPG](https://github.com/bep/gowebp/pull/13) on [bep/gowebp](https://github.com/bep/gowebp) (2 days ago)
-- [Misc updates](https://github.com/bep/gowebp/pull/12) on [bep/gowebp](https://github.com/bep/gowebp) (2 days ago)
-- [Add FuzzHash](https://github.com/gohugoio/hashstructure/pull/2) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (2 days ago)
-- [tpl/cast: Improve float](https://github.com/gohugoio/hugo/pull/12721) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
