@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [deps: Upgrade libwebp v1.4.0](https://github.com/gohugoio/hugo/pull/12729) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add FuzzEncodePNG and FuzzEncodeJPG](https://github.com/bep/gowebp/pull/13) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
-- [Misc updates](https://github.com/bep/gowebp/pull/12) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
-- [Add FuzzHash](https://github.com/gohugoio/hashstructure/pull/2) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
-- [tpl/cast: Improve float](https://github.com/gohugoio/hugo/pull/12721) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [deps: Upgrade libwebp v1.4.0](https://github.com/gohugoio/hugo/pull/12729) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add FuzzEncodePNG and FuzzEncodeJPG](https://github.com/bep/gowebp/pull/13) on [bep/gowebp](https://github.com/bep/gowebp) (2 days ago)
+- [Misc updates](https://github.com/bep/gowebp/pull/12) on [bep/gowebp](https://github.com/bep/gowebp) (2 days ago)
+- [Add FuzzHash](https://github.com/gohugoio/hashstructure/pull/2) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (2 days ago)
+- [tpl/cast: Improve float](https://github.com/gohugoio/hugo/pull/12721) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [aheneneu](https://github.com/aheneneu) (1 week ago)
 - [gpiperagkas](https://github.com/gpiperagkas) (2 weeks ago)
 - [worming004](https://github.com/worming004) (3 weeks ago)
-- [devlikepro](https://github.com/devlikepro) (3 weeks ago)
+- [devlikepro](https://github.com/devlikepro) (4 weeks ago)
 - [major](https://github.com/major) (4 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
