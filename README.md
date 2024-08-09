@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [github: Update actions versions](https://github.com/bep/imagemeta/pull/31) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Fix module path in go.mod](https://github.com/JamesWoolfenden/ghat/pull/9) on [JamesWoolfenden/ghat](https://github.com/JamesWoolfenden/ghat) (today)
-- [github: Build and publish Docker image on release](https://github.com/gohugoio/hugo/pull/12734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade libwebp v1.4.0](https://github.com/gohugoio/hugo/pull/12729) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add FuzzEncodePNG and FuzzEncodeJPG](https://github.com/bep/gowebp/pull/13) on [bep/gowebp](https://github.com/bep/gowebp) (2 days ago)
+- [github: Update GH actions versions](https://github.com/bep/mclib/pull/1) on [bep/mclib](https://github.com/bep/mclib) (today)
+- [github: Update GH actions versions](https://github.com/bep/clocks/pull/3) on [bep/clocks](https://github.com/bep/clocks) (today)
+- [github: Update GH actions versions](https://github.com/bep/debounce/pull/6) on [bep/debounce](https://github.com/bep/debounce) (today)
+- [gh1](https://github.com/bep/llmi18n/pull/1) on [bep/llmi18n](https://github.com/bep/llmi18n) (today)
+- [Misc deps](https://github.com/bep/gomaintemplate/pull/1) on [bep/gomaintemplate](https://github.com/bep/gomaintemplate) (today)
 
 ### Recent sponsors (big thank you!)
 
