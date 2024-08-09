@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [AthulMuralidhar](https://github.com/AthulMuralidhar) (today)
 - [aheneneu](https://github.com/aheneneu) (1 week ago)
 - [gpiperagkas](https://github.com/gpiperagkas) (2 weeks ago)
 - [worming004](https://github.com/worming004) (3 weeks ago)
 - [devlikepro](https://github.com/devlikepro) (4 weeks ago)
-- [major](https://github.com/major) (4 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
