@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade github.com/bep/imagemeta v0.7.6 =&gt; v0.8.0](https://github.com/gohugoio/hugo/pull/12743) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Return undef for all &#43;inf/-inf/nan float values](https://github.com/bep/imagemeta/pull/32) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Fix compare of uints and ints in eq, gt etc.](https://github.com/gohugoio/hugo/pull/12742) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [github: Update GitHub actions versions](https://github.com/bep/punused/pull/5) on [bep/punused](https://github.com/bep/punused) (1 day ago)
 - [github: Update GH actions versions](https://github.com/bep/mclib/pull/1) on [bep/mclib](https://github.com/bep/mclib) (1 day ago)
-- [github: Update GH actions versions](https://github.com/bep/clocks/pull/3) on [bep/clocks](https://github.com/bep/clocks) (1 day ago)
-- [github: Update GH actions versions](https://github.com/bep/debounce/pull/6) on [bep/debounce](https://github.com/bep/debounce) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
