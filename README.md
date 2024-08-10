@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [github: Update GitHub actions versions](https://github.com/bep/punused/pull/5) on [bep/punused](https://github.com/bep/punused) (today)
-- [github: Update GH actions versions](https://github.com/bep/mclib/pull/1) on [bep/mclib](https://github.com/bep/mclib) (today)
-- [github: Update GH actions versions](https://github.com/bep/clocks/pull/3) on [bep/clocks](https://github.com/bep/clocks) (today)
-- [github: Update GH actions versions](https://github.com/bep/debounce/pull/6) on [bep/debounce](https://github.com/bep/debounce) (today)
-- [gh1](https://github.com/bep/llmi18n/pull/1) on [bep/llmi18n](https://github.com/bep/llmi18n) (today)
+- [github: Update GitHub actions versions](https://github.com/bep/punused/pull/5) on [bep/punused](https://github.com/bep/punused) (1 day ago)
+- [github: Update GH actions versions](https://github.com/bep/mclib/pull/1) on [bep/mclib](https://github.com/bep/mclib) (1 day ago)
+- [github: Update GH actions versions](https://github.com/bep/clocks/pull/3) on [bep/clocks](https://github.com/bep/clocks) (1 day ago)
+- [github: Update GH actions versions](https://github.com/bep/debounce/pull/6) on [bep/debounce](https://github.com/bep/debounce) (1 day ago)
+- [gh1](https://github.com/bep/llmi18n/pull/1) on [bep/llmi18n](https://github.com/bep/llmi18n) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
-- [AthulMuralidhar](https://github.com/AthulMuralidhar) (today)
+- [AthulMuralidhar](https://github.com/AthulMuralidhar) (1 day ago)
 - [aheneneu](https://github.com/aheneneu) (1 week ago)
 - [gpiperagkas](https://github.com/gpiperagkas) (2 weeks ago)
 - [worming004](https://github.com/worming004) (3 weeks ago)
