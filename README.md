@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Export Len](https://github.com/bep/lazycache/pull/9) on [bep/lazycache](https://github.com/bep/lazycache) (today)
-- [deps: Upgrade github.com/bep/imagemeta v0.7.6 =&gt; v0.8.0](https://github.com/gohugoio/hugo/pull/12743) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Return undef for all &#43;inf/-inf/nan float values](https://github.com/bep/imagemeta/pull/32) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Fix compare of uints and ints in eq, gt etc.](https://github.com/gohugoio/hugo/pull/12742) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [github: Update GitHub actions versions](https://github.com/bep/punused/pull/5) on [bep/punused](https://github.com/bep/punused) (1 day ago)
+- [Export Len](https://github.com/bep/lazycache/pull/9) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
+- [deps: Upgrade github.com/bep/imagemeta v0.7.6 =&gt; v0.8.0](https://github.com/gohugoio/hugo/pull/12743) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Return undef for all &#43;inf/-inf/nan float values](https://github.com/bep/imagemeta/pull/32) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Fix compare of uints and ints in eq, gt etc.](https://github.com/gohugoio/hugo/pull/12742) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [github: Update GitHub actions versions](https://github.com/bep/punused/pull/5) on [bep/punused](https://github.com/bep/punused) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [AthulMuralidhar](https://github.com/AthulMuralidhar) (1 day ago)
+- [AthulMuralidhar](https://github.com/AthulMuralidhar) (2 days ago)
 - [aheneneu](https://github.com/aheneneu) (1 week ago)
-- [gpiperagkas](https://github.com/gpiperagkas) (2 weeks ago)
-- [worming004](https://github.com/worming004) (3 weeks ago)
-- [devlikepro](https://github.com/devlikepro) (4 weeks ago)
+- [gpiperagkas](https://github.com/gpiperagkas) (3 weeks ago)
+- [worming004](https://github.com/worming004) (4 weeks ago)
+- [devlikepro](https://github.com/devlikepro) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
