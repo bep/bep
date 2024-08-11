@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Document transform.ToMath](https://github.com/gohugoio/hugoDocs/pull/2664) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [tpl/transform: Make Plainify and ToMath return template.HTML](https://github.com/gohugoio/hugo/pull/12744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Export Len](https://github.com/bep/lazycache/pull/9) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
 - [deps: Upgrade github.com/bep/imagemeta v0.7.6 =&gt; v0.8.0](https://github.com/gohugoio/hugo/pull/12743) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Return undef for all &#43;inf/-inf/nan float values](https://github.com/bep/imagemeta/pull/32) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Fix compare of uints and ints in eq, gt etc.](https://github.com/gohugoio/hugo/pull/12742) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
