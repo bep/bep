@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Improve Katex error handling](https://github.com/gohugoio/hugo/pull/12749) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add some more KaTeX options](https://github.com/gohugoio/hugo/pull/12747) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Document transform.ToMath](https://github.com/gohugoio/hugoDocs/pull/2664) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [tpl/transform: Make Plainify and ToMath return template.HTML](https://github.com/gohugoio/hugo/pull/12744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Export Len](https://github.com/bep/lazycache/pull/9) on [bep/lazycache](https://github.com/bep/lazycache) (2 days ago)
-- [deps: Upgrade github.com/bep/imagemeta v0.7.6 =&gt; v0.8.0](https://github.com/gohugoio/hugo/pull/12743) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
