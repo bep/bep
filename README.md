@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Improve Katex error handling](https://github.com/gohugoio/hugo/pull/12749) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add some more KaTeX options](https://github.com/gohugoio/hugo/pull/12747) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Document transform.ToMath](https://github.com/gohugoio/hugoDocs/pull/2664) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [tpl/transform: Make Plainify and ToMath return template.HTML](https://github.com/gohugoio/hugo/pull/12744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Export Len](https://github.com/bep/lazycache/pull/9) on [bep/lazycache](https://github.com/bep/lazycache) (2 days ago)
+- [Improve Katex error handling](https://github.com/gohugoio/hugo/pull/12749) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add some more KaTeX options](https://github.com/gohugoio/hugo/pull/12747) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Document transform.ToMath](https://github.com/gohugoio/hugoDocs/pull/2664) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [tpl/transform: Make Plainify and ToMath return template.HTML](https://github.com/gohugoio/hugo/pull/12744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Export Len](https://github.com/bep/lazycache/pull/9) on [bep/lazycache](https://github.com/bep/lazycache) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [AthulMuralidhar](https://github.com/AthulMuralidhar) (3 days ago)
+- [AthulMuralidhar](https://github.com/AthulMuralidhar) (4 days ago)
 - [aheneneu](https://github.com/aheneneu) (1 week ago)
 - [gpiperagkas](https://github.com/gpiperagkas) (3 weeks ago)
-- [worming004](https://github.com/worming004) (4 weeks ago)
+- [worming004](https://github.com/worming004) (1 month ago)
 - [devlikepro](https://github.com/devlikepro) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
