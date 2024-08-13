@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix nilpointer regression with empty blockquotes](https://github.com/gohugoio/hugo/pull/12757) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Improve Katex error handling](https://github.com/gohugoio/hugo/pull/12749) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add some more KaTeX options](https://github.com/gohugoio/hugo/pull/12747) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Document transform.ToMath](https://github.com/gohugoio/hugoDocs/pull/2664) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [tpl/transform: Make Plainify and ToMath return template.HTML](https://github.com/gohugoio/hugo/pull/12744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Export Len](https://github.com/bep/lazycache/pull/9) on [bep/lazycache](https://github.com/bep/lazycache) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
