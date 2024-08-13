@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add Page.Contents with scope support](https://github.com/gohugoio/hugo/pull/12759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [github: Adjust image workflow](https://github.com/gohugoio/hugo/pull/12758) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix nilpointer regression with empty blockquotes](https://github.com/gohugoio/hugo/pull/12757) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Improve Katex error handling](https://github.com/gohugoio/hugo/pull/12749) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add some more KaTeX options](https://github.com/gohugoio/hugo/pull/12747) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Document transform.ToMath](https://github.com/gohugoio/hugoDocs/pull/2664) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
