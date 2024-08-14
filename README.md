@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add Page.Contents with scope support](https://github.com/gohugoio/hugo/pull/12759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [github: Adjust image workflow](https://github.com/gohugoio/hugo/pull/12758) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix nilpointer regression with empty blockquotes](https://github.com/gohugoio/hugo/pull/12757) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Improve Katex error handling](https://github.com/gohugoio/hugo/pull/12749) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add some more KaTeX options](https://github.com/gohugoio/hugo/pull/12747) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add Page.Contents with scope support](https://github.com/gohugoio/hugo/pull/12759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [github: Adjust image workflow](https://github.com/gohugoio/hugo/pull/12758) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix nilpointer regression with empty blockquotes](https://github.com/gohugoio/hugo/pull/12757) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Improve Katex error handling](https://github.com/gohugoio/hugo/pull/12749) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add some more KaTeX options](https://github.com/gohugoio/hugo/pull/12747) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [AthulMuralidhar](https://github.com/AthulMuralidhar) (4 days ago)
+- [AthulMuralidhar](https://github.com/AthulMuralidhar) (5 days ago)
 - [aheneneu](https://github.com/aheneneu) (1 week ago)
 - [gpiperagkas](https://github.com/gpiperagkas) (3 weeks ago)
 - [worming004](https://github.com/worming004) (1 month ago)
