@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [markup/goldmark/blockquotes: Fix handling of lower/mixed case GitHub alerts](https://github.com/gohugoio/hugo/pull/12768) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl/transform: Don&#39;t run ToMath tests in parallel](https://github.com/gohugoio/hugo/pull/12766) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Upgrade to Go 1.23](https://github.com/gohugoio/hugo/pull/12764) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add Page.Contents with scope support](https://github.com/gohugoio/hugo/pull/12759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add Page.Markup with scope support](https://github.com/gohugoio/hugo/pull/12759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [github: Adjust image workflow](https://github.com/gohugoio/hugo/pull/12758) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix nilpointer regression with empty blockquotes](https://github.com/gohugoio/hugo/pull/12757) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
