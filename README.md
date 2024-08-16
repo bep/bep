@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [testing: New Markup/Content section](https://github.com/gohugoio/hugoDocs/pull/2672) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [fixgo123](https://github.com/bep/nogo/pull/1) on [bep/nogo](https://github.com/bep/nogo) (today)
-- [deps: Upgrade github.com/tetratelabs/wazero v1.7.4-0.20240805170331-2b12e189eeec =&gt; v1.8.0](https://github.com/gohugoio/hugo/pull/12770) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [markup/goldmark/blockquotes: Fix handling of lower/mixed case GitHub alerts](https://github.com/gohugoio/hugo/pull/12768) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl/transform: Don&#39;t run ToMath tests in parallel](https://github.com/gohugoio/hugo/pull/12766) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [testing: New Markup/Content section](https://github.com/gohugoio/hugoDocs/pull/2672) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [fixgo123](https://github.com/bep/nogo/pull/1) on [bep/nogo](https://github.com/bep/nogo) (1 day ago)
+- [deps: Upgrade github.com/tetratelabs/wazero v1.7.4-0.20240805170331-2b12e189eeec =&gt; v1.8.0](https://github.com/gohugoio/hugo/pull/12770) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [markup/goldmark/blockquotes: Fix handling of lower/mixed case GitHub alerts](https://github.com/gohugoio/hugo/pull/12768) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl/transform: Don&#39;t run ToMath tests in parallel](https://github.com/gohugoio/hugo/pull/12766) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [AthulMuralidhar](https://github.com/AthulMuralidhar) (6 days ago)
+- [AthulMuralidhar](https://github.com/AthulMuralidhar) (1 week ago)
 - [aheneneu](https://github.com/aheneneu) (2 weeks ago)
 - [gpiperagkas](https://github.com/gpiperagkas) (3 weeks ago)
 - [worming004](https://github.com/worming004) (1 month ago)
