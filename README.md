@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12783) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12782) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add config options page.nextPrevSortOrder/nextPrevInSectionSortOrder](https://github.com/gohugoio/hugo/pull/12780) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [testing: New Markup/Content section](https://github.com/gohugoio/hugoDocs/pull/2672) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 - [fixgo123](https://github.com/bep/nogo/pull/1) on [bep/nogo](https://github.com/bep/nogo) (3 days ago)
-- [deps: Upgrade github.com/tetratelabs/wazero v1.7.4-0.20240805170331-2b12e189eeec =&gt; v1.8.0](https://github.com/gohugoio/hugo/pull/12770) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
