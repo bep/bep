@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12783) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12782) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add config options page.nextPrevSortOrder/nextPrevInSectionSortOrder](https://github.com/gohugoio/hugo/pull/12780) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [testing: New Markup/Content section](https://github.com/gohugoio/hugoDocs/pull/2672) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
-- [fixgo123](https://github.com/bep/nogo/pull/1) on [bep/nogo](https://github.com/bep/nogo) (3 days ago)
+- [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12783) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12782) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add config options page.nextPrevSortOrder/nextPrevInSectionSortOrder](https://github.com/gohugoio/hugo/pull/12780) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [testing: New Markup/Content section](https://github.com/gohugoio/hugoDocs/pull/2672) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
+- [fixgo123](https://github.com/bep/nogo/pull/1) on [bep/nogo](https://github.com/bep/nogo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [caspermeijn](https://github.com/caspermeijn) (2 days ago)
+- [caspermeijn](https://github.com/caspermeijn) (3 days ago)
 - [AthulMuralidhar](https://github.com/AthulMuralidhar) (1 week ago)
 - [aheneneu](https://github.com/aheneneu) (2 weeks ago)
 - [gpiperagkas](https://github.com/gpiperagkas) (4 weeks ago)
