@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
+- [netlify: Hugo 0.133.0](https://github.com/bep/galleriesdeluxe/pull/10) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (today)
 - [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12783) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12782) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Add config options page.nextPrevSortOrder/nextPrevInSectionSortOrder](https://github.com/gohugoio/hugo/pull/12780) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [testing: New Markup/Content section](https://github.com/gohugoio/hugoDocs/pull/2672) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
-- [fixgo123](https://github.com/bep/nogo/pull/1) on [bep/nogo](https://github.com/bep/nogo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [caspermeijn](https://github.com/caspermeijn) (4 days ago)
 - [AthulMuralidhar](https://github.com/AthulMuralidhar) (1 week ago)
 - [aheneneu](https://github.com/aheneneu) (2 weeks ago)
-- [gpiperagkas](https://github.com/gpiperagkas) (1 month ago)
 - [worming004](https://github.com/worming004) (1 month ago)
+- [devlikepro](https://github.com/devlikepro) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
