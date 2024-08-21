@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add .circleci/config.yml](https://github.com/bep/circlecitest/pull/1) on [bep/circlecitest](https://github.com/bep/circlecitest) (today)
 - [git: Upgraded github.com/bep/gallerydeluxe v0.10.0 =&gt; v0.11.1](https://github.com/bep/galleriesdeluxe/pull/11) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (today)
 - [netlify: Hugo 0.133.0](https://github.com/bep/galleriesdeluxe/pull/10) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (1 day ago)
 - [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12783) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12782) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add config options page.nextPrevSortOrder/nextPrevInSectionSortOrder](https://github.com/gohugoio/hugo/pull/12780) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
