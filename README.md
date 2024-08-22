@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Add .circleci/config.yml](https://github.com/bep/circlecitest/pull/1) on [bep/circlecitest](https://github.com/bep/circlecitest) (today)
-- [git: Upgraded github.com/bep/gallerydeluxe v0.10.0 =&gt; v0.11.1](https://github.com/bep/galleriesdeluxe/pull/11) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (today)
-- [netlify: Hugo 0.133.0](https://github.com/bep/galleriesdeluxe/pull/10) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (1 day ago)
-- [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12783) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12782) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add .circleci/config.yml](https://github.com/bep/circlecitest/pull/1) on [bep/circlecitest](https://github.com/bep/circlecitest) (1 day ago)
+- [git: Upgraded github.com/bep/gallerydeluxe v0.10.0 =&gt; v0.11.1](https://github.com/bep/galleriesdeluxe/pull/11) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (1 day ago)
+- [netlify: Hugo 0.133.0](https://github.com/bep/galleriesdeluxe/pull/10) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (2 days ago)
+- [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12783) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12782) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [caspermeijn](https://github.com/caspermeijn) (5 days ago)
+- [caspermeijn](https://github.com/caspermeijn) (6 days ago)
 - [AthulMuralidhar](https://github.com/AthulMuralidhar) (1 week ago)
-- [aheneneu](https://github.com/aheneneu) (2 weeks ago)
+- [aheneneu](https://github.com/aheneneu) (3 weeks ago)
 - [worming004](https://github.com/worming004) (1 month ago)
 - [devlikepro](https://github.com/devlikepro) (1 month ago)
 
