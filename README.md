@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix missing method NameNormalized panic](https://github.com/gohugoio/hugo/pull/12796) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix handling of converted undefined floats](https://github.com/bep/imagemeta/pull/33) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 - [Add .circleci/config.yml](https://github.com/bep/circlecitest/pull/1) on [bep/circlecitest](https://github.com/bep/circlecitest) (4 days ago)
 - [git: Upgraded github.com/bep/gallerydeluxe v0.10.0 =&gt; v0.11.1](https://github.com/bep/galleriesdeluxe/pull/11) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (4 days ago)
 - [netlify: Hugo 0.133.0](https://github.com/bep/galleriesdeluxe/pull/10) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (5 days ago)
-- [releaser: Rework the run conditions](https://github.com/gohugoio/hugo/pull/12783) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
