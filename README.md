@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [libsass_src: Path libsass to throw detailed e.g. &#34;Too many open files&#34; exception](https://github.com/bep/golibsass/pull/12) on [bep/golibsass](https://github.com/bep/golibsass) (today)
 - [Adjust Circleci workflow to make the Docker images build](https://github.com/gohugoio/hugo/pull/12799) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix missing method NameNormalized panic](https://github.com/gohugoio/hugo/pull/12796) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix handling of converted undefined floats](https://github.com/bep/imagemeta/pull/33) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
 - [Add .circleci/config.yml](https://github.com/bep/circlecitest/pull/1) on [bep/circlecitest](https://github.com/bep/circlecitest) (6 days ago)
-- [git: Upgraded github.com/bep/gallerydeluxe v0.10.0 =&gt; v0.11.1](https://github.com/bep/galleriesdeluxe/pull/11) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
