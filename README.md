@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Libsass 3.6.6](https://github.com/bep/golibsass/pull/14) on [bep/golibsass](https://github.com/bep/golibsass) (today)
+- [Fix &#34;too many open files&#34; on MacOS](https://github.com/bep/golibsass/pull/13) on [bep/golibsass](https://github.com/bep/golibsass) (today)
 - [libsass_src: Path libsass to throw detailed e.g. &#34;Too many open files&#34; exception](https://github.com/bep/golibsass/pull/12) on [bep/golibsass](https://github.com/bep/golibsass) (1 day ago)
 - [Adjust Circleci workflow to make the Docker images build](https://github.com/gohugoio/hugo/pull/12799) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix missing method NameNormalized panic](https://github.com/gohugoio/hugo/pull/12796) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix handling of converted undefined floats](https://github.com/bep/imagemeta/pull/33) on [bep/imagemeta](https://github.com/bep/imagemeta) (4 days ago)
-- [Add .circleci/config.yml](https://github.com/bep/circlecitest/pull/1) on [bep/circlecitest](https://github.com/bep/circlecitest) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
