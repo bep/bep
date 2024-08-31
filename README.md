@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Add Markdown render hooks for tables](https://github.com/gohugoio/hugo/pull/12809) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade github.com/bep/golibsass v1.1.1 =&gt; v1.2.0](https://github.com/gohugoio/hugo/pull/12804) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Libsass 3.6.6](https://github.com/bep/golibsass/pull/14) on [bep/golibsass](https://github.com/bep/golibsass) (2 days ago)
-- [Fix &#34;too many open files&#34; on MacOS](https://github.com/bep/golibsass/pull/13) on [bep/golibsass](https://github.com/bep/golibsass) (2 days ago)
-- [libsass_src: Path libsass to throw detailed e.g. &#34;Too many open files&#34; exception](https://github.com/bep/golibsass/pull/12) on [bep/golibsass](https://github.com/bep/golibsass) (3 days ago)
+- [Add Markdown render hooks for tables](https://github.com/gohugoio/hugo/pull/12809) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Upgrade github.com/bep/golibsass v1.1.1 =&gt; v1.2.0](https://github.com/gohugoio/hugo/pull/12804) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Libsass 3.6.6](https://github.com/bep/golibsass/pull/14) on [bep/golibsass](https://github.com/bep/golibsass) (3 days ago)
+- [Fix &#34;too many open files&#34; on MacOS](https://github.com/bep/golibsass/pull/13) on [bep/golibsass](https://github.com/bep/golibsass) (3 days ago)
+- [libsass_src: Path libsass to throw detailed e.g. &#34;Too many open files&#34; exception](https://github.com/bep/golibsass/pull/12) on [bep/golibsass](https://github.com/bep/golibsass) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [caspermeijn](https://github.com/caspermeijn) (2 weeks ago)
 - [AthulMuralidhar](https://github.com/AthulMuralidhar) (3 weeks ago)
-- [aheneneu](https://github.com/aheneneu) (4 weeks ago)
+- [aheneneu](https://github.com/aheneneu) (1 month ago)
 - [worming004](https://github.com/worming004) (1 month ago)
 - [devlikepro](https://github.com/devlikepro) (1 month ago)
 
