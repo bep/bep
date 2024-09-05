@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc 0.134 fixes](https://github.com/gohugoio/hugo/pull/12836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add support for Obsidian type blockquote alerts](https://github.com/gohugoio/hugo/pull/12815) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Make all renderhook Text methods return template.HTML](https://github.com/gohugoio/hugo/pull/12813) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Add Markdown render hooks for tables](https://github.com/gohugoio/hugo/pull/12809) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [deps: Upgrade github.com/bep/golibsass v1.1.1 =&gt; v1.2.0](https://github.com/gohugoio/hugo/pull/12804) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Libsass 3.6.6](https://github.com/bep/golibsass/pull/14) on [bep/golibsass](https://github.com/bep/golibsass) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
