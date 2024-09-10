@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [Svelte, Vue tests ...](https://github.com/gohugoio/hugo/pull/12841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [slicehelpers: Add Partition](https://github.com/bep/helpers/pull/4) on [bep/helpers](https://github.com/bep/helpers) (2 days ago)
-- [Misc 0.134 fixes](https://github.com/gohugoio/hugo/pull/12836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Svelte, Vue tests ...](https://github.com/gohugoio/hugo/pull/12841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [slicehelpers: Add Partition](https://github.com/bep/helpers/pull/4) on [bep/helpers](https://github.com/bep/helpers) (3 days ago)
+- [Misc 0.134 fixes](https://github.com/gohugoio/hugo/pull/12836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Add support for Obsidian type blockquote alerts](https://github.com/gohugoio/hugo/pull/12815) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Make all renderhook Text methods return template.HTML](https://github.com/gohugoio/hugo/pull/12813) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
@@ -13,7 +13,7 @@
 - [caspermeijn](https://github.com/caspermeijn) (3 weeks ago)
 - [aheneneu](https://github.com/aheneneu) (1 month ago)
 - [worming004](https://github.com/worming004) (1 month ago)
-- [devlikepro](https://github.com/devlikepro) (1 month ago)
+- [devlikepro](https://github.com/devlikepro) (2 months ago)
 - [KianNH](https://github.com/KianNH) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
