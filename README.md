@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Don&#39;t count HTML markup in auto summaries](https://github.com/gohugoio/hugo/pull/12844) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Svelte, Vue tests ...](https://github.com/gohugoio/hugo/pull/12841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [slicehelpers: Add Partition](https://github.com/bep/helpers/pull/4) on [bep/helpers](https://github.com/bep/helpers) (3 days ago)
 - [Misc 0.134 fixes](https://github.com/gohugoio/hugo/pull/12836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Add support for Obsidian type blockquote alerts](https://github.com/gohugoio/hugo/pull/12815) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Make all renderhook Text methods return template.HTML](https://github.com/gohugoio/hugo/pull/12813) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
