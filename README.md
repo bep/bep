@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [internal/warpc: Improve the JS plugin API](https://github.com/gohugoio/hugo/pull/12848) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Don&#39;t count HTML markup in auto summaries](https://github.com/gohugoio/hugo/pull/12844) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Svelte, Vue tests ...](https://github.com/gohugoio/hugo/pull/12841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [slicehelpers: Add Partition](https://github.com/bep/helpers/pull/4) on [bep/helpers](https://github.com/bep/helpers) (5 days ago)
+- [internal/warpc: Improve the JS plugin API](https://github.com/gohugoio/hugo/pull/12848) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Don&#39;t count HTML markup in auto summaries](https://github.com/gohugoio/hugo/pull/12844) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Svelte, Vue tests ...](https://github.com/gohugoio/hugo/pull/12841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [slicehelpers: Add Partition](https://github.com/bep/helpers/pull/4) on [bep/helpers](https://github.com/bep/helpers) (6 days ago)
 - [Misc 0.134 fixes](https://github.com/gohugoio/hugo/pull/12836) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [caspermeijn](https://github.com/caspermeijn) (3 weeks ago)
+- [caspermeijn](https://github.com/caspermeijn) (4 weeks ago)
 - [aheneneu](https://github.com/aheneneu) (1 month ago)
 - [worming004](https://github.com/worming004) (2 months ago)
 - [devlikepro](https://github.com/devlikepro) (2 months ago)
