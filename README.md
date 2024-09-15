@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Remove Content-Security-Policy from the Hugo server config](https://github.com/linode/docs/pull/7100) on [linode/docs](https://github.com/linode/docs) (1 day ago)
-- [internal/warpc: Improve the JS plugin API](https://github.com/gohugoio/hugo/pull/12848) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Don&#39;t count HTML markup in auto summaries](https://github.com/gohugoio/hugo/pull/12844) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Svelte, Vue tests ...](https://github.com/gohugoio/hugo/pull/12841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Remove Content-Security-Policy from the Hugo server config](https://github.com/linode/docs/pull/7100) on [linode/docs](https://github.com/linode/docs) (2 days ago)
+- [internal/warpc: Improve the JS plugin API](https://github.com/gohugoio/hugo/pull/12848) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Don&#39;t count HTML markup in auto summaries](https://github.com/gohugoio/hugo/pull/12844) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Svelte, Vue tests ...](https://github.com/gohugoio/hugo/pull/12841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [slicehelpers: Add Partition](https://github.com/bep/helpers/pull/4) on [bep/helpers](https://github.com/bep/helpers) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [caspermeijn](https://github.com/caspermeijn) (4 weeks ago)
+- [caspermeijn](https://github.com/caspermeijn) (1 month ago)
 - [aheneneu](https://github.com/aheneneu) (1 month ago)
 - [worming004](https://github.com/worming004) (2 months ago)
 - [devlikepro](https://github.com/devlikepro) (2 months ago)
