@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Dart Sass 1.79.1, Hugo 0.134.2](https://github.com/bep/galleriesdeluxe/pull/12) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (today)
 - [Newline YAML demo](https://github.com/gohugoio/hugoDocs/pull/2702) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 - [Remove Content-Security-Policy from the Hugo server config](https://github.com/linode/docs/pull/7100) on [linode/docs](https://github.com/linode/docs) (6 days ago)
 - [internal/warpc: Improve the JS plugin API](https://github.com/gohugoio/hugo/pull/12848) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Don&#39;t count HTML markup in auto summaries](https://github.com/gohugoio/hugo/pull/12844) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Svelte, Vue tests ...](https://github.com/gohugoio/hugo/pull/12841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
