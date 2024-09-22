@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Rework opengraph and twitter_cards partials](https://github.com/bep/hugo-mod-misc/pull/2) on [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) (2 days ago)
-- [tpl: Remove RSS deprecation site.Author check](https://github.com/gohugoio/hugo/pull/12860) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc module improvements](https://github.com/gohugoio/hugo/pull/12859) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [deps: Dart Sass 1.79.1, Hugo 0.134.2](https://github.com/bep/galleriesdeluxe/pull/12) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (2 days ago)
-- [Newline YAML demo](https://github.com/gohugoio/hugoDocs/pull/2702) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
+- [Rework opengraph and twitter_cards partials](https://github.com/bep/hugo-mod-misc/pull/2) on [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) (3 days ago)
+- [tpl: Remove RSS deprecation site.Author check](https://github.com/gohugoio/hugo/pull/12860) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc module improvements](https://github.com/gohugoio/hugo/pull/12859) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [deps: Dart Sass 1.79.1, Hugo 0.134.2](https://github.com/bep/galleriesdeluxe/pull/12) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (3 days ago)
+- [Newline YAML demo](https://github.com/gohugoio/hugoDocs/pull/2702) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
@@ -14,7 +14,7 @@
 - [aheneneu](https://github.com/aheneneu) (1 month ago)
 - [worming004](https://github.com/worming004) (2 months ago)
 - [devlikepro](https://github.com/devlikepro) (2 months ago)
-- [KianNH](https://github.com/KianNH) (4 months ago)
+- [KianNH](https://github.com/KianNH) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
