@@ -2,10 +2,10 @@
 
 ### Recent Pull Requests
 
-- [Rework opengraph and twitter_cards partials](https://github.com/bep/hugo-mod-misc/pull/2) on [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) (5 days ago)
-- [tpl: Remove RSS deprecation site.Author check](https://github.com/gohugoio/hugo/pull/12860) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Misc module improvements](https://github.com/gohugoio/hugo/pull/12859) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [deps: Dart Sass 1.79.1, Hugo 0.134.2](https://github.com/bep/galleriesdeluxe/pull/12) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (5 days ago)
+- [Rework opengraph and twitter_cards partials](https://github.com/bep/hugo-mod-misc/pull/2) on [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) (6 days ago)
+- [tpl: Remove RSS deprecation site.Author check](https://github.com/gohugoio/hugo/pull/12860) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Misc module improvements](https://github.com/gohugoio/hugo/pull/12859) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [deps: Dart Sass 1.79.1, Hugo 0.134.2](https://github.com/bep/galleriesdeluxe/pull/12) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (6 days ago)
 - [Newline YAML demo](https://github.com/gohugoio/hugoDocs/pull/2702) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 
 ### Recent sponsors (big thank you!)
