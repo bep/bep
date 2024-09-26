@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tailwindcss: Write to a temp file as a workaround for upstream bug](https://github.com/gohugoio/hugo/pull/12881) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [deps: TailwindCSS 4.0.0-alpha.25](https://github.com/bep/hugo-testing-tailwindcss-v4/pull/1) on [bep/hugo-testing-tailwindcss-v4](https://github.com/bep/hugo-testing-tailwindcss-v4) (today)
 - [Rework opengraph and twitter_cards partials](https://github.com/bep/hugo-mod-misc/pull/2) on [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) (1 week ago)
 - [tpl: Remove RSS deprecation site.Author check](https://github.com/gohugoio/hugo/pull/12860) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Misc module improvements](https://github.com/gohugoio/hugo/pull/12859) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [deps: Dart Sass 1.79.1, Hugo 0.134.2](https://github.com/bep/galleriesdeluxe/pull/12) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (1 week ago)
-- [Newline YAML demo](https://github.com/gohugoio/hugoDocs/pull/2702) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
