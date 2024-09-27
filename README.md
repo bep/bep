@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix some invalid front matter dates](https://github.com/linode/docs/pull/7110) on [linode/docs](https://github.com/linode/docs) (today)
 - [tailwindcss: Write to a temp file as a workaround for upstream bug](https://github.com/gohugoio/hugo/pull/12881) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [deps: TailwindCSS 4.0.0-alpha.25](https://github.com/bep/hugo-testing-tailwindcss-v4/pull/1) on [bep/hugo-testing-tailwindcss-v4](https://github.com/bep/hugo-testing-tailwindcss-v4) (1 day ago)
 - [Rework opengraph and twitter_cards partials](https://github.com/bep/hugo-mod-misc/pull/2) on [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) (1 week ago)
 - [tpl: Remove RSS deprecation site.Author check](https://github.com/gohugoio/hugo/pull/12860) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Misc module improvements](https://github.com/gohugoio/hugo/pull/12859) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
