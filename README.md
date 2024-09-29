@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [github: Bump to Sass 1.79.4](https://github.com/bep/godartsass/pull/29) on [bep/godartsass](https://github.com/bep/godartsass) (today)
-- [Fix some invalid front matter dates](https://github.com/linode/docs/pull/7110) on [linode/docs](https://github.com/linode/docs) (1 day ago)
-- [tailwindcss: Write to a temp file as a workaround for upstream bug](https://github.com/gohugoio/hugo/pull/12881) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [deps: TailwindCSS 4.0.0-alpha.25](https://github.com/bep/hugo-testing-tailwindcss-v4/pull/1) on [bep/hugo-testing-tailwindcss-v4](https://github.com/bep/hugo-testing-tailwindcss-v4) (2 days ago)
+- [github: Bump to Sass 1.79.4](https://github.com/bep/godartsass/pull/29) on [bep/godartsass](https://github.com/bep/godartsass) (1 day ago)
+- [Fix some invalid front matter dates](https://github.com/linode/docs/pull/7110) on [linode/docs](https://github.com/linode/docs) (2 days ago)
+- [tailwindcss: Write to a temp file as a workaround for upstream bug](https://github.com/gohugoio/hugo/pull/12881) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [deps: TailwindCSS 4.0.0-alpha.25](https://github.com/bep/hugo-testing-tailwindcss-v4/pull/1) on [bep/hugo-testing-tailwindcss-v4](https://github.com/bep/hugo-testing-tailwindcss-v4) (3 days ago)
 - [Rework opengraph and twitter_cards partials](https://github.com/bep/hugo-mod-misc/pull/2) on [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [microdotblog](https://github.com/microdotblog) (3 days ago)
+- [microdotblog](https://github.com/microdotblog) (4 days ago)
 - [caspermeijn](https://github.com/caspermeijn) (1 month ago)
 - [aheneneu](https://github.com/aheneneu) (1 month ago)
 - [worming004](https://github.com/worming004) (2 months ago)
