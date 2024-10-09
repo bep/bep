@@ -10,7 +10,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [microdotblog](https://github.com/microdotblog) (1 week ago)
+- [microdotblog](https://github.com/microdotblog) (2 weeks ago)
 - [caspermeijn](https://github.com/caspermeijn) (1 month ago)
 - [aheneneu](https://github.com/aheneneu) (2 months ago)
 - [worming004](https://github.com/worming004) (2 months ago)
