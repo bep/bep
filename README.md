@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc Docker &#43; Go version upgrade](https://github.com/gohugoio/hugo/pull/12921) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [slicehelpers: Add Stack](https://github.com/bep/helpers/pull/5) on [bep/helpers](https://github.com/bep/helpers) (1 week ago)
 - [commands: Add &#34;hugo build&#34; as an alias for &#34;hugo&#34;](https://github.com/gohugoio/hugo/pull/12891) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [github: Bump to Sass 1.79.4](https://github.com/bep/godartsass/pull/29) on [bep/godartsass](https://github.com/bep/godartsass) (1 week ago)
 - [Fix some invalid front matter dates](https://github.com/linode/docs/pull/7110) on [linode/docs](https://github.com/linode/docs) (1 week ago)
-- [tailwindcss: Write to a temp file as a workaround for upstream bug](https://github.com/gohugoio/hugo/pull/12881) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
