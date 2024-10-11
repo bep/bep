@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Fix deprecation warning](https://github.com/bep/gallerydeluxe/pull/31) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (today)
-- [Misc Docker &#43; Go version upgrade](https://github.com/gohugoio/hugo/pull/12921) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix deprecation warning](https://github.com/bep/gallerydeluxe/pull/31) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 day ago)
+- [Misc Docker &#43; Go version upgrade](https://github.com/gohugoio/hugo/pull/12921) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [slicehelpers: Add Stack](https://github.com/bep/helpers/pull/5) on [bep/helpers](https://github.com/bep/helpers) (1 week ago)
 - [commands: Add &#34;hugo build&#34; as an alias for &#34;hugo&#34;](https://github.com/gohugoio/hugo/pull/12891) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [github: Bump to Sass 1.79.4](https://github.com/bep/godartsass/pull/29) on [bep/godartsass](https://github.com/bep/godartsass) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [ahnlak](https://github.com/ahnlak) (today)
+- [ahnlak](https://github.com/ahnlak) (1 day ago)
 - [microdotblog](https://github.com/microdotblog) (2 weeks ago)
 - [caspermeijn](https://github.com/caspermeijn) (1 month ago)
 - [aheneneu](https://github.com/aheneneu) (2 months ago)
