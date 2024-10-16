@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add flags/config -skip-local-files, -skip-local-dirs](https://github.com/bep/s3deploy/pull/502) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
 - [feat/nil](https://github.com/bep/predicate/pull/1) on [bep/predicate](https://github.com/bep/predicate) (today)
 - [Remove erroneously permalink validation](https://github.com/gohugoio/hugo/pull/12951) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix deprecation warning](https://github.com/bep/gallerydeluxe/pull/31) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (6 days ago)
 - [Misc Docker &#43; Go version upgrade](https://github.com/gohugoio/hugo/pull/12921) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [slicehelpers: Add Stack](https://github.com/bep/helpers/pull/5) on [bep/helpers](https://github.com/bep/helpers) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
