@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Never sanitize when set in front matter](https://github.com/gohugoio/hugo/pull/12955) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add flags/config -skip-local-files, -skip-local-dirs](https://github.com/bep/s3deploy/pull/502) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
-- [feat/nil](https://github.com/bep/predicate/pull/1) on [bep/predicate](https://github.com/bep/predicate) (today)
-- [Remove erroneously permalink validation](https://github.com/gohugoio/hugo/pull/12951) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix deprecation warning](https://github.com/bep/gallerydeluxe/pull/31) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (6 days ago)
+- [Never sanitize when set in front matter](https://github.com/gohugoio/hugo/pull/12955) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add flags/config -skip-local-files, -skip-local-dirs](https://github.com/bep/s3deploy/pull/502) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
+- [feat/nil](https://github.com/bep/predicate/pull/1) on [bep/predicate](https://github.com/bep/predicate) (1 day ago)
+- [Remove erroneously permalink validation](https://github.com/gohugoio/hugo/pull/12951) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix deprecation warning](https://github.com/bep/gallerydeluxe/pull/31) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [ahnlak](https://github.com/ahnlak) (6 days ago)
+- [ahnlak](https://github.com/ahnlak) (1 week ago)
 - [microdotblog](https://github.com/microdotblog) (3 weeks ago)
 - [caspermeijn](https://github.com/caspermeijn) (2 months ago)
 - [aheneneu](https://github.com/aheneneu) (2 months ago)
