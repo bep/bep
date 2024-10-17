@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add -strip-index-html](https://github.com/bep/s3deploy/pull/504) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
 - [Never sanitize when set in front matter](https://github.com/gohugoio/hugo/pull/12955) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add flags/config -skip-local-files, -skip-local-dirs](https://github.com/bep/s3deploy/pull/502) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
 - [feat/nil](https://github.com/bep/predicate/pull/1) on [bep/predicate](https://github.com/bep/predicate) (1 day ago)
 - [Remove erroneously permalink validation](https://github.com/gohugoio/hugo/pull/12951) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix deprecation warning](https://github.com/bep/gallerydeluxe/pull/31) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
