@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Print release tag in version](https://github.com/bep/s3deploy/pull/507) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
-- [release: Publish a tar.gz archive for MacOS](https://github.com/bep/s3deploy/pull/505) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
-- [Add -strip-index-html](https://github.com/bep/s3deploy/pull/504) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
-- [Never sanitize when set in front matter](https://github.com/gohugoio/hugo/pull/12955) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add flags/config -skip-local-files, -skip-local-dirs](https://github.com/bep/s3deploy/pull/502) on [bep/s3deploy](https://github.com/bep/s3deploy) (2 days ago)
+- [Print release tag in version](https://github.com/bep/s3deploy/pull/507) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
+- [release: Publish a tar.gz archive for MacOS](https://github.com/bep/s3deploy/pull/505) on [bep/s3deploy](https://github.com/bep/s3deploy) (2 days ago)
+- [Add -strip-index-html](https://github.com/bep/s3deploy/pull/504) on [bep/s3deploy](https://github.com/bep/s3deploy) (2 days ago)
+- [Never sanitize when set in front matter](https://github.com/gohugoio/hugo/pull/12955) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add flags/config -skip-local-files, -skip-local-dirs](https://github.com/bep/s3deploy/pull/502) on [bep/s3deploy](https://github.com/bep/s3deploy) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
