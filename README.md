@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Make sure that HugoSites is always closed when done](https://github.com/gohugoio/hugo/pull/12972) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Print release tag in version](https://github.com/bep/s3deploy/pull/507) on [bep/s3deploy](https://github.com/bep/s3deploy) (3 days ago)
-- [release: Publish a tar.gz archive for MacOS](https://github.com/bep/s3deploy/pull/505) on [bep/s3deploy](https://github.com/bep/s3deploy) (4 days ago)
-- [Add -strip-index-html](https://github.com/bep/s3deploy/pull/504) on [bep/s3deploy](https://github.com/bep/s3deploy) (4 days ago)
-- [Never sanitize when set in front matter](https://github.com/gohugoio/hugo/pull/12955) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Make sure that HugoSites is always closed when done](https://github.com/gohugoio/hugo/pull/12972) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Print release tag in version](https://github.com/bep/s3deploy/pull/507) on [bep/s3deploy](https://github.com/bep/s3deploy) (4 days ago)
+- [release: Publish a tar.gz archive for MacOS](https://github.com/bep/s3deploy/pull/505) on [bep/s3deploy](https://github.com/bep/s3deploy) (5 days ago)
+- [Add -strip-index-html](https://github.com/bep/s3deploy/pull/504) on [bep/s3deploy](https://github.com/bep/s3deploy) (5 days ago)
+- [Never sanitize when set in front matter](https://github.com/gohugoio/hugo/pull/12955) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
