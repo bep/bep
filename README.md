@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Add Button and Carousel JS examples](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/17) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (today)
-- [Make sure that HugoSites is always closed when done](https://github.com/gohugoio/hugo/pull/12972) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Print release tag in version](https://github.com/bep/s3deploy/pull/507) on [bep/s3deploy](https://github.com/bep/s3deploy) (4 days ago)
-- [release: Publish a tar.gz archive for MacOS](https://github.com/bep/s3deploy/pull/505) on [bep/s3deploy](https://github.com/bep/s3deploy) (5 days ago)
-- [Add -strip-index-html](https://github.com/bep/s3deploy/pull/504) on [bep/s3deploy](https://github.com/bep/s3deploy) (5 days ago)
+- [Add Button and Carousel JS examples](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/17) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (1 day ago)
+- [Make sure that HugoSites is always closed when done](https://github.com/gohugoio/hugo/pull/12972) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Print release tag in version](https://github.com/bep/s3deploy/pull/507) on [bep/s3deploy](https://github.com/bep/s3deploy) (5 days ago)
+- [release: Publish a tar.gz archive for MacOS](https://github.com/bep/s3deploy/pull/505) on [bep/s3deploy](https://github.com/bep/s3deploy) (6 days ago)
+- [Add -strip-index-html](https://github.com/bep/s3deploy/pull/504) on [bep/s3deploy](https://github.com/bep/s3deploy) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [ahnlak](https://github.com/ahnlak) (1 week ago)
-- [microdotblog](https://github.com/microdotblog) (3 weeks ago)
+- [microdotblog](https://github.com/microdotblog) (4 weeks ago)
 - [caspermeijn](https://github.com/caspermeijn) (2 months ago)
 - [aheneneu](https://github.com/aheneneu) (2 months ago)
 - [worming004](https://github.com/worming004) (3 months ago)
