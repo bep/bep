@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [hugolib: Fix stuck server errors on front matter errors](https://github.com/gohugoio/hugo/pull/12981) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add Button and Carousel JS examples](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/17) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (3 days ago)
-- [Make sure that HugoSites is always closed when done](https://github.com/gohugoio/hugo/pull/12972) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [hugolib: Fix stuck server errors on front matter errors](https://github.com/gohugoio/hugo/pull/12981) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add Button and Carousel JS examples](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/17) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (4 days ago)
+- [Make sure that HugoSites is always closed when done](https://github.com/gohugoio/hugo/pull/12972) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Print release tag in version](https://github.com/bep/s3deploy/pull/507) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 week ago)
 - [release: Publish a tar.gz archive for MacOS](https://github.com/bep/s3deploy/pull/505) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 week ago)
 
