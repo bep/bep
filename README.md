@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [dynacache: Fix potential deadlocks on panics in GetOrCreate](https://github.com/gohugoio/hugo/pull/12987) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix handling of panics in GetOrCreate](https://github.com/bep/lazycache/pull/10) on [bep/lazycache](https://github.com/bep/lazycache) (today)
-- [hugolib: Fix stuck server errors on front matter errors](https://github.com/gohugoio/hugo/pull/12981) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add Button and Carousel JS examples](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/17) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (4 days ago)
-- [Make sure that HugoSites is always closed when done](https://github.com/gohugoio/hugo/pull/12972) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [dynacache: Fix potential deadlocks on panics in GetOrCreate](https://github.com/gohugoio/hugo/pull/12987) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix handling of panics in GetOrCreate](https://github.com/bep/lazycache/pull/10) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
+- [hugolib: Fix stuck server errors on front matter errors](https://github.com/gohugoio/hugo/pull/12981) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add Button and Carousel JS examples](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/17) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (5 days ago)
+- [Make sure that HugoSites is always closed when done](https://github.com/gohugoio/hugo/pull/12972) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
