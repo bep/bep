@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Move the [build] documentation to its own page](https://github.com/gohugoio/hugoDocs/pull/2749) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [deps: Upgrade github.com/bep/lazycache v0.6.0 =&gt; v0.7.0](https://github.com/gohugoio/hugo/pull/12989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Preserve panics in  create](https://github.com/bep/lazycache/pull/11) on [bep/lazycache](https://github.com/bep/lazycache) (2 days ago)
 - [dynacache: Fix potential deadlocks on panics in GetOrCreate](https://github.com/gohugoio/hugo/pull/12987) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix handling of panics in GetOrCreate](https://github.com/bep/lazycache/pull/10) on [bep/lazycache](https://github.com/bep/lazycache) (3 days ago)
-- [hugolib: Fix stuck server errors on front matter errors](https://github.com/gohugoio/hugo/pull/12981) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
