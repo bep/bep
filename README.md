@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Improve RenderShortcodes inside HTML](https://github.com/gohugoio/hugo/pull/12996) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Dockerbep2](https://github.com/bep/hugo/pull/197) on [bep/hugo](https://github.com/bep/hugo) (today)
 - [Docker bep 1](https://github.com/bep/hugo/pull/196) on [bep/hugo](https://github.com/bep/hugo) (today)
 - [Build without the deploy feature by default](https://github.com/gohugoio/hugo/pull/12995) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Move the [build] documentation to its own page](https://github.com/gohugoio/hugoDocs/pull/2749) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [deps: Upgrade github.com/bep/lazycache v0.6.0 =&gt; v0.7.0](https://github.com/gohugoio/hugo/pull/12989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
