@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Move the [build] documentation to its own page](https://github.com/gohugoio/hugoDocs/pull/2749) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [deps: Upgrade github.com/bep/lazycache v0.6.0 =&gt; v0.7.0](https://github.com/gohugoio/hugo/pull/12989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Preserve panics in  create](https://github.com/bep/lazycache/pull/11) on [bep/lazycache](https://github.com/bep/lazycache) (2 days ago)
-- [dynacache: Fix potential deadlocks on panics in GetOrCreate](https://github.com/gohugoio/hugo/pull/12987) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix handling of panics in GetOrCreate](https://github.com/bep/lazycache/pull/10) on [bep/lazycache](https://github.com/bep/lazycache) (3 days ago)
+- [Move the [build] documentation to its own page](https://github.com/gohugoio/hugoDocs/pull/2749) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [deps: Upgrade github.com/bep/lazycache v0.6.0 =&gt; v0.7.0](https://github.com/gohugoio/hugo/pull/12989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Preserve panics in  create](https://github.com/bep/lazycache/pull/11) on [bep/lazycache](https://github.com/bep/lazycache) (3 days ago)
+- [dynacache: Fix potential deadlocks on panics in GetOrCreate](https://github.com/gohugoio/hugo/pull/12987) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix handling of panics in GetOrCreate](https://github.com/bep/lazycache/pull/10) on [bep/lazycache](https://github.com/bep/lazycache) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [ahnlak](https://github.com/ahnlak) (2 weeks ago)
 - [microdotblog](https://github.com/microdotblog) (1 month ago)
 - [caspermeijn](https://github.com/caspermeijn) (2 months ago)
-- [aheneneu](https://github.com/aheneneu) (2 months ago)
+- [aheneneu](https://github.com/aheneneu) (3 months ago)
 - [worming004](https://github.com/worming004) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
