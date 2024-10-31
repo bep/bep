@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Improve RenderShortcodes inside HTML](https://github.com/gohugoio/hugo/pull/12996) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Dockerbep2](https://github.com/bep/hugo/pull/197) on [bep/hugo](https://github.com/bep/hugo) (today)
-- [Docker bep 1](https://github.com/bep/hugo/pull/196) on [bep/hugo](https://github.com/bep/hugo) (today)
-- [Build without the deploy feature by default](https://github.com/gohugoio/hugo/pull/12995) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Move the [build] documentation to its own page](https://github.com/gohugoio/hugoDocs/pull/2749) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [Improve RenderShortcodes inside HTML](https://github.com/gohugoio/hugo/pull/12996) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Dockerbep2](https://github.com/bep/hugo/pull/197) on [bep/hugo](https://github.com/bep/hugo) (1 day ago)
+- [Docker bep 1](https://github.com/bep/hugo/pull/196) on [bep/hugo](https://github.com/bep/hugo) (1 day ago)
+- [Build without the deploy feature by default](https://github.com/gohugoio/hugo/pull/12995) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Move the [build] documentation to its own page](https://github.com/gohugoio/hugoDocs/pull/2749) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [ahnlak](https://github.com/ahnlak) (2 weeks ago)
+- [ahnlak](https://github.com/ahnlak) (3 weeks ago)
 - [microdotblog](https://github.com/microdotblog) (1 month ago)
 - [caspermeijn](https://github.com/caspermeijn) (2 months ago)
 - [aheneneu](https://github.com/aheneneu) (3 months ago)
