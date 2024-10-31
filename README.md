@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add trailing newline in guide included with the content shortcode](https://github.com/linode/docs/pull/7132) on [linode/docs](https://github.com/linode/docs) (today)
 - [Improve RenderShortcodes inside HTML](https://github.com/gohugoio/hugo/pull/12996) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Dockerbep2](https://github.com/bep/hugo/pull/197) on [bep/hugo](https://github.com/bep/hugo) (1 day ago)
 - [Docker bep 1](https://github.com/bep/hugo/pull/196) on [bep/hugo](https://github.com/bep/hugo) (1 day ago)
 - [Build without the deploy feature by default](https://github.com/gohugoio/hugo/pull/12995) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Move the [build] documentation to its own page](https://github.com/gohugoio/hugoDocs/pull/2749) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
