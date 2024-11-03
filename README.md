@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [markup/goldmark: Add warning (using Warnidf) on Goldmark &lt;!-- raw HTML omitted --&gt;](https://github.com/gohugoio/hugo/pull/13005) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade github.com/bep/godartsass/v2 v2.1.0 =&gt; v2.2.0](https://github.com/gohugoio/hugo/pull/13000) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Add trailing newline in guide included with the content shortcode](https://github.com/linode/docs/pull/7132) on [linode/docs](https://github.com/linode/docs) (3 days ago)
-- [Improve RenderShortcodes inside HTML](https://github.com/gohugoio/hugo/pull/12996) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Misc fixes and improvements](https://github.com/gohugoio/hugo/pull/12996) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Dockerbep2](https://github.com/bep/hugo/pull/197) on [bep/hugo](https://github.com/bep/hugo) (4 days ago)
-- [Docker bep 1](https://github.com/bep/hugo/pull/196) on [bep/hugo](https://github.com/bep/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
