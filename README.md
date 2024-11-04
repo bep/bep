@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Do not watch directories with no mounted files in it](https://github.com/gohugoio/hugo/pull/13008) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [markup/goldmark: Only log Raw HTML omitted WARN on block entering](https://github.com/gohugoio/hugo/pull/13006) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Replace HTML comments in markdown with the new comment shortcode](https://github.com/gohugoio/hugoDocs/pull/2758) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [markup/goldmark: Add warning (using Warnidf) on Goldmark &lt;!-- raw HTML omitted --&gt;](https://github.com/gohugoio/hugo/pull/13005) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [deps: Upgrade github.com/bep/godartsass/v2 v2.1.0 =&gt; v2.2.0](https://github.com/gohugoio/hugo/pull/13000) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add trailing newline in guide included with the content shortcode](https://github.com/linode/docs/pull/7132) on [linode/docs](https://github.com/linode/docs) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
