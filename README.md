@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix concurrent map read and map write in short page lookups](https://github.com/gohugoio/hugo/pull/13020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Alias Page.Scratch to Page.Store](https://github.com/gohugoio/hugo/pull/13017) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc 0.137.0 fixes](https://github.com/gohugoio/hugo/pull/13015) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Do not watch directories with no mounted files in it](https://github.com/gohugoio/hugo/pull/13008) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [markup/goldmark: Only log Raw HTML omitted WARN on block entering](https://github.com/gohugoio/hugo/pull/13006) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Replace HTML comments in markdown with the new comment shortcode](https://github.com/gohugoio/hugoDocs/pull/2758) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
