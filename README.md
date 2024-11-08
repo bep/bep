@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Fix concurrent map read and map write in short page lookups](https://github.com/gohugoio/hugo/pull/13020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Alias Page.Scratch to Page.Store](https://github.com/gohugoio/hugo/pull/13017) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc 0.137.0 fixes](https://github.com/gohugoio/hugo/pull/13015) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Do not watch directories with no mounted files in it](https://github.com/gohugoio/hugo/pull/13008) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [markup/goldmark: Only log Raw HTML omitted WARN on block entering](https://github.com/gohugoio/hugo/pull/13006) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix concurrent map read and map write in short page lookups](https://github.com/gohugoio/hugo/pull/13020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Alias Page.Scratch to Page.Store](https://github.com/gohugoio/hugo/pull/13017) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc 0.137.0 fixes](https://github.com/gohugoio/hugo/pull/13015) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Do not watch directories with no mounted files in it](https://github.com/gohugoio/hugo/pull/13008) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [markup/goldmark: Only log Raw HTML omitted WARN on block entering](https://github.com/gohugoio/hugo/pull/13006) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
