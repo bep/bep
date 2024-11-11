@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Fix concurrent map read and map write in short page lookups](https://github.com/gohugoio/hugo/pull/13020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Alias Page.Scratch to Page.Store](https://github.com/gohugoio/hugo/pull/13017) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Misc 0.137.0 fixes](https://github.com/gohugoio/hugo/pull/13015) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Do not watch directories with no mounted files in it](https://github.com/gohugoio/hugo/pull/13008) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [markup/goldmark: Only log Raw HTML omitted WARN on block entering](https://github.com/gohugoio/hugo/pull/13006) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Fix concurrent map read and map write in short page lookups](https://github.com/gohugoio/hugo/pull/13020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Alias Page.Scratch to Page.Store](https://github.com/gohugoio/hugo/pull/13017) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Misc 0.137.0 fixes](https://github.com/gohugoio/hugo/pull/13015) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Do not watch directories with no mounted files in it](https://github.com/gohugoio/hugo/pull/13008) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [markup/goldmark: Only log Raw HTML omitted WARN on block entering](https://github.com/gohugoio/hugo/pull/13006) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
@@ -14,7 +14,7 @@
 - [microdotblog](https://github.com/microdotblog) (1 month ago)
 - [caspermeijn](https://github.com/caspermeijn) (2 months ago)
 - [aheneneu](https://github.com/aheneneu) (3 months ago)
-- [worming004](https://github.com/worming004) (3 months ago)
+- [worming004](https://github.com/worming004) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
