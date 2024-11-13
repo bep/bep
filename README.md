@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Handle CFAPattern with invalid byte order](https://github.com/bep/imagemeta/pull/36) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Add missing out of bounds check](https://github.com/bep/imagemeta/pull/35) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Fix concurrent map read and map write in short page lookups](https://github.com/gohugoio/hugo/pull/13020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Alias Page.Scratch to Page.Store](https://github.com/gohugoio/hugo/pull/13017) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Misc 0.137.0 fixes](https://github.com/gohugoio/hugo/pull/13015) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Do not watch directories with no mounted files in it](https://github.com/gohugoio/hugo/pull/13008) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
