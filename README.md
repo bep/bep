@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [server: Strip ANSI escape codes from browser error log](https://github.com/gohugoio/hugo/pull/13038) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Replace to gopkg.in/yaml with github.com/goccy/go-yaml (note)](https://github.com/gohugoio/hugo/pull/13033) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add site.Store and hugo.Store and Shortcode.Store](https://github.com/gohugoio/hugo/pull/13032) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Handle CFAPattern with invalid byte order](https://github.com/bep/imagemeta/pull/36) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 - [Add missing out of bounds check](https://github.com/bep/imagemeta/pull/35) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Fix concurrent map read and map write in short page lookups](https://github.com/gohugoio/hugo/pull/13020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
