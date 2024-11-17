@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade github.com/bep/imagemeta v0.8.1 =&gt; v0.8.3](https://github.com/gohugoio/hugo/pull/13056) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Remove deprecations &lt;= v0.122.0 (note)](https://github.com/gohugoio/hugo/pull/13055) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix extra newline/paragraphs issue with .RenderShortcodes](https://github.com/gohugoio/hugo/pull/13053) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [commands: Add -O flag to server to open browser](https://github.com/gohugoio/hugo/pull/13042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [deps: Upgrade github.com/yuin/goldmark v1.7.4 =&gt; v1.7.8](https://github.com/gohugoio/hugo/pull/13039) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [server: Strip ANSI escape codes from browser error log](https://github.com/gohugoio/hugo/pull/13038) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
