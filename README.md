@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Make sure term is always set](https://github.com/gohugoio/hugo/pull/13064) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Bump to 4.0.0-alpha.34](https://github.com/bep/hugo-testing-tailwindcss-v4/pull/3) on [bep/hugo-testing-tailwindcss-v4](https://github.com/bep/hugo-testing-tailwindcss-v4) (today)
 - [dartsass: Add silenceDeprecations option](https://github.com/gohugoio/hugo/pull/13062) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc deprecation](https://github.com/bep/godartsass/pull/30) on [bep/godartsass](https://github.com/bep/godartsass) (today)
 - [dartsass: Remove support for v1 of the protocol/binary (note)](https://github.com/gohugoio/hugo/pull/13061) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade github.com/bep/imagemeta v0.8.1 =&gt; v0.8.3](https://github.com/gohugoio/hugo/pull/13056) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
