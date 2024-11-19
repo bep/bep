@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add hugo.Store, site.Store and Shortcode.Store](https://github.com/gohugoio/hugoDocs/pull/2771) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Make sure term is always set](https://github.com/gohugoio/hugo/pull/13064) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Bump to 4.0.0-alpha.34](https://github.com/bep/hugo-testing-tailwindcss-v4/pull/3) on [bep/hugo-testing-tailwindcss-v4](https://github.com/bep/hugo-testing-tailwindcss-v4) (1 day ago)
 - [dartsass: Add silenceDeprecations option](https://github.com/gohugoio/hugo/pull/13062) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc deprecation](https://github.com/bep/godartsass/pull/30) on [bep/godartsass](https://github.com/bep/godartsass) (1 day ago)
-- [dartsass: Remove support for v1 of the protocol/binary (note)](https://github.com/gohugoio/hugo/pull/13061) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
