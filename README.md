@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [dartsass: Fix nilpointer on Close when Dart Sass isn&#39;t installed](https://github.com/gohugoio/hugo/pull/13077) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add hugo.Store, site.Store and Shortcode.Store](https://github.com/gohugoio/hugoDocs/pull/2771) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
-- [Make sure term is always set](https://github.com/gohugoio/hugo/pull/13064) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Bump to 4.0.0-alpha.34](https://github.com/bep/hugo-testing-tailwindcss-v4/pull/3) on [bep/hugo-testing-tailwindcss-v4](https://github.com/bep/hugo-testing-tailwindcss-v4) (4 days ago)
-- [dartsass: Add silenceDeprecations option](https://github.com/gohugoio/hugo/pull/13062) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [dartsass: Fix nilpointer on Close when Dart Sass isn&#39;t installed](https://github.com/gohugoio/hugo/pull/13077) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add hugo.Store, site.Store and Shortcode.Store](https://github.com/gohugoio/hugoDocs/pull/2771) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
+- [Make sure term is always set](https://github.com/gohugoio/hugo/pull/13064) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Bump to 4.0.0-alpha.34](https://github.com/bep/hugo-testing-tailwindcss-v4/pull/3) on [bep/hugo-testing-tailwindcss-v4](https://github.com/bep/hugo-testing-tailwindcss-v4) (5 days ago)
+- [dartsass: Add silenceDeprecations option](https://github.com/gohugoio/hugo/pull/13062) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
