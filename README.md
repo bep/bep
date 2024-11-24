@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Fix minify](https://github.com/gohugoio/hugo/pull/13083) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [dartsass: Fix nilpointer on Close when Dart Sass isn&#39;t installed](https://github.com/gohugoio/hugo/pull/13077) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add hugo.Store, site.Store and Shortcode.Store](https://github.com/gohugoio/hugoDocs/pull/2771) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
-- [Make sure term is always set](https://github.com/gohugoio/hugo/pull/13064) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Bump to 4.0.0-alpha.34](https://github.com/bep/hugo-testing-tailwindcss-v4/pull/3) on [bep/hugo-testing-tailwindcss-v4](https://github.com/bep/hugo-testing-tailwindcss-v4) (5 days ago)
+- [Fix minify](https://github.com/gohugoio/hugo/pull/13083) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [dartsass: Fix nilpointer on Close when Dart Sass isn&#39;t installed](https://github.com/gohugoio/hugo/pull/13077) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add hugo.Store, site.Store and Shortcode.Store](https://github.com/gohugoio/hugoDocs/pull/2771) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
+- [Make sure term is always set](https://github.com/gohugoio/hugo/pull/13064) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Bump to 4.0.0-alpha.34](https://github.com/bep/hugo-testing-tailwindcss-v4/pull/3) on [bep/hugo-testing-tailwindcss-v4](https://github.com/bep/hugo-testing-tailwindcss-v4) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [ahnlak](https://github.com/ahnlak) (1 month ago)
-- [microdotblog](https://github.com/microdotblog) (1 month ago)
+- [microdotblog](https://github.com/microdotblog) (2 months ago)
 - [caspermeijn](https://github.com/caspermeijn) (3 months ago)
 - [aheneneu](https://github.com/aheneneu) (3 months ago)
 - [worming004](https://github.com/worming004) (4 months ago)
