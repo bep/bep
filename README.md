@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix server edits of resources included in shortcode/hooks](https://github.com/gohugoio/hugo/pull/13098) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix server edits of resources included in shortcode/hooks](https://github.com/gohugoio/hugo/pull/13094) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add license headers to source files](https://github.com/bep/godartsass/pull/33) on [bep/godartsass](https://github.com/bep/godartsass) (2 days ago)
 - [Fix potential deadlock on  panic](https://github.com/bep/godartsass/pull/32) on [bep/godartsass](https://github.com/bep/godartsass) (2 days ago)
 - [Fix minify](https://github.com/gohugoio/hugo/pull/13083) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [dartsass: Fix nilpointer on Close when Dart Sass isn&#39;t installed](https://github.com/gohugoio/hugo/pull/13077) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
