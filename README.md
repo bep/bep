@@ -13,8 +13,8 @@
 - [ahnlak](https://github.com/ahnlak) (1 month ago)
 - [microdotblog](https://github.com/microdotblog) (2 months ago)
 - [caspermeijn](https://github.com/caspermeijn) (3 months ago)
-- [aheneneu](https://github.com/aheneneu) (4 months ago)
 - [worming004](https://github.com/worming004) (4 months ago)
+- [devlikepro](https://github.com/devlikepro) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
