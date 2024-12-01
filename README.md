@@ -2,10 +2,10 @@
 
 ### Recent Pull Requests
 
-- [Fix server edits of resources included in shortcode/hooks](https://github.com/gohugoio/hugo/pull/13098) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix server edits of resources included in shortcode/hooks](https://github.com/gohugoio/hugo/pull/13094) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add license headers to source files](https://github.com/bep/godartsass/pull/33) on [bep/godartsass](https://github.com/bep/godartsass) (3 days ago)
-- [Fix potential deadlock on  panic](https://github.com/bep/godartsass/pull/32) on [bep/godartsass](https://github.com/bep/godartsass) (3 days ago)
+- [Fix server edits of resources included in shortcode/hooks](https://github.com/gohugoio/hugo/pull/13098) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix server edits of resources included in shortcode/hooks](https://github.com/gohugoio/hugo/pull/13094) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add license headers to source files](https://github.com/bep/godartsass/pull/33) on [bep/godartsass](https://github.com/bep/godartsass) (4 days ago)
+- [Fix potential deadlock on  panic](https://github.com/bep/godartsass/pull/32) on [bep/godartsass](https://github.com/bep/godartsass) (4 days ago)
 - [Fix minify](https://github.com/gohugoio/hugo/pull/13083) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
