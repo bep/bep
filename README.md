@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade github.com/bep/godartsass/v2 v2.3.1 =&gt; v2.3.2](https://github.com/gohugoio/hugo/pull/13114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Misc deps](https://github.com/bep/godartsass/pull/34) on [bep/godartsass](https://github.com/bep/godartsass) (today)
 - [Update JS docs vs Hugo v0.140](https://github.com/gohugoio/hugoDocs/pull/2787) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [Fix server edits of resources included in shortcode/hooks](https://github.com/gohugoio/hugo/pull/13098) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix server edits of resources included in shortcode/hooks](https://github.com/gohugoio/hugo/pull/13094) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Add license headers to source files](https://github.com/bep/godartsass/pull/33) on [bep/godartsass](https://github.com/bep/godartsass) (1 week ago)
-- [Fix potential deadlock on  panic](https://github.com/bep/godartsass/pull/32) on [bep/godartsass](https://github.com/bep/godartsass) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
