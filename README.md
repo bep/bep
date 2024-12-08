@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [deps: Upgrade github.com/bep/godartsass/v2 v2.3.1 =&gt; v2.3.2](https://github.com/gohugoio/hugo/pull/13114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc deps](https://github.com/bep/godartsass/pull/34) on [bep/godartsass](https://github.com/bep/godartsass) (1 day ago)
-- [Update JS docs vs Hugo v0.140](https://github.com/gohugoio/hugoDocs/pull/2787) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [deps: Upgrade github.com/bep/godartsass/v2 v2.3.1 =&gt; v2.3.2](https://github.com/gohugoio/hugo/pull/13114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc deps](https://github.com/bep/godartsass/pull/34) on [bep/godartsass](https://github.com/bep/godartsass) (2 days ago)
+- [Update JS docs vs Hugo v0.140](https://github.com/gohugoio/hugoDocs/pull/2787) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
 - [Fix server edits of resources included in shortcode/hooks](https://github.com/gohugoio/hugo/pull/13098) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix server edits of resources included in shortcode/hooks](https://github.com/gohugoio/hugo/pull/13094) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
