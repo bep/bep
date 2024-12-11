@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [JiHoon0422](https://github.com/JiHoon0422) (today)
 - [Dobefu](https://github.com/Dobefu) (3 days ago)
 - [ahnlak](https://github.com/ahnlak) (2 months ago)
 - [microdotblog](https://github.com/microdotblog) (2 months ago)
 - [caspermeijn](https://github.com/caspermeijn) (3 months ago)
-- [worming004](https://github.com/worming004) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
