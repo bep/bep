@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add config option disableDefaultLanguageRedirect](https://github.com/gohugoio/hugo/pull/13135) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix Sass imports of on the form index.{scss,sass}](https://github.com/gohugoio/hugo/pull/13124) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [deps: Upgrade github.com/bep/godartsass/v2 v2.3.1 =&gt; v2.3.2](https://github.com/gohugoio/hugo/pull/13114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Misc deps](https://github.com/bep/godartsass/pull/34) on [bep/godartsass](https://github.com/bep/godartsass) (6 days ago)
 - [Update JS docs vs Hugo v0.140](https://github.com/gohugoio/hugoDocs/pull/2787) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
-- [Fix server edits of resources included in shortcode/hooks](https://github.com/gohugoio/hugo/pull/13098) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
