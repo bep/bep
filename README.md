@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [js/esbuild: Build groups in order of their ID](https://github.com/gohugoio/hugo/pull/13141) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [js/esbuild: Add platform option](https://github.com/gohugoio/hugo/pull/13139) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Write all logging to stderr](https://github.com/gohugoio/hugo/pull/13138) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add config option disableDefaultLanguageRedirect](https://github.com/gohugoio/hugo/pull/13135) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix Sass imports of on the form index.{scss,sass}](https://github.com/gohugoio/hugo/pull/13124) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [deps: Upgrade github.com/bep/godartsass/v2 v2.3.1 =&gt; v2.3.2](https://github.com/gohugoio/hugo/pull/13114) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
