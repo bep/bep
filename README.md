@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc JS adjustments](https://github.com/gohugoio/hugo/pull/13144) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [js/esbuild: Build groups in order of their ID](https://github.com/gohugoio/hugo/pull/13141) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [js/esbuild: Add platform option](https://github.com/gohugoio/hugo/pull/13139) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Write all logging to stderr](https://github.com/gohugoio/hugo/pull/13138) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add config option disableDefaultLanguageRedirect](https://github.com/gohugoio/hugo/pull/13135) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix Sass imports of on the form index.{scss,sass}](https://github.com/gohugoio/hugo/pull/13124) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
