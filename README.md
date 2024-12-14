@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Misc JS adjustments](https://github.com/gohugoio/hugo/pull/13144) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [js/esbuild: Build groups in order of their ID](https://github.com/gohugoio/hugo/pull/13141) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [js/esbuild: Add platform option](https://github.com/gohugoio/hugo/pull/13139) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Write all logging to stderr](https://github.com/gohugoio/hugo/pull/13138) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add config option disableDefaultLanguageRedirect](https://github.com/gohugoio/hugo/pull/13135) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc JS adjustments](https://github.com/gohugoio/hugo/pull/13144) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [js/esbuild: Build groups in order of their ID](https://github.com/gohugoio/hugo/pull/13141) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [js/esbuild: Add platform option](https://github.com/gohugoio/hugo/pull/13139) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Write all logging to stderr](https://github.com/gohugoio/hugo/pull/13138) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add config option disableDefaultLanguageRedirect](https://github.com/gohugoio/hugo/pull/13135) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [JiHoon0422](https://github.com/JiHoon0422) (2 days ago)
-- [Dobefu](https://github.com/Dobefu) (5 days ago)
+- [JiHoon0422](https://github.com/JiHoon0422) (3 days ago)
+- [Dobefu](https://github.com/Dobefu) (6 days ago)
 - [ahnlak](https://github.com/ahnlak) (2 months ago)
 - [microdotblog](https://github.com/microdotblog) (2 months ago)
-- [caspermeijn](https://github.com/caspermeijn) (3 months ago)
+- [caspermeijn](https://github.com/caspermeijn) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
