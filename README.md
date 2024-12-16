@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Misc JS adjustments](https://github.com/gohugoio/hugo/pull/13144) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [js/esbuild: Build groups in order of their ID](https://github.com/gohugoio/hugo/pull/13141) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [js/esbuild: Add platform option](https://github.com/gohugoio/hugo/pull/13139) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Write all logging to stderr](https://github.com/gohugoio/hugo/pull/13138) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add config option disableDefaultLanguageRedirect](https://github.com/gohugoio/hugo/pull/13135) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc JS adjustments](https://github.com/gohugoio/hugo/pull/13144) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [js/esbuild: Build groups in order of their ID](https://github.com/gohugoio/hugo/pull/13141) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [js/esbuild: Add platform option](https://github.com/gohugoio/hugo/pull/13139) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Write all logging to stderr](https://github.com/gohugoio/hugo/pull/13138) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add config option disableDefaultLanguageRedirect](https://github.com/gohugoio/hugo/pull/13135) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [JiHoon0422](https://github.com/JiHoon0422) (4 days ago)
+- [JiHoon0422](https://github.com/JiHoon0422) (5 days ago)
 - [Dobefu](https://github.com/Dobefu) (1 week ago)
 - [ahnlak](https://github.com/ahnlak) (2 months ago)
 - [microdotblog](https://github.com/microdotblog) (2 months ago)
