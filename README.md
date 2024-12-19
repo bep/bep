@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc updates](https://github.com/gohugoio/hugoreleaser/pull/45) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (today)
 - [Fix panic on server rebuilds when using both base templates and template.Defer](https://github.com/gohugoio/hugo/pull/13155) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [js: Fix js.Batch for multihost setups](https://github.com/gohugoio/hugo/pull/13154) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Misc JS adjustments](https://github.com/gohugoio/hugo/pull/13144) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [js/esbuild: Build groups in order of their ID](https://github.com/gohugoio/hugo/pull/13141) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [js/esbuild: Add platform option](https://github.com/gohugoio/hugo/pull/13139) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
