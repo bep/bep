@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [releaser: Add withdeploy deb extended archives](https://github.com/gohugoio/hugo/pull/13173) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc updates](https://github.com/gohugoio/hugoreleaser/pull/45) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (today)
-- [Fix panic on server rebuilds when using both base templates and template.Defer](https://github.com/gohugoio/hugo/pull/13155) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [js: Fix js.Batch for multihost setups](https://github.com/gohugoio/hugo/pull/13154) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Misc JS adjustments](https://github.com/gohugoio/hugo/pull/13144) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [releaser: Add withdeploy deb extended archives](https://github.com/gohugoio/hugo/pull/13173) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc updates](https://github.com/gohugoio/hugoreleaser/pull/45) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (1 day ago)
+- [Fix panic on server rebuilds when using both base templates and template.Defer](https://github.com/gohugoio/hugo/pull/13155) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [js: Fix js.Batch for multihost setups](https://github.com/gohugoio/hugo/pull/13154) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Misc JS adjustments](https://github.com/gohugoio/hugo/pull/13144) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
