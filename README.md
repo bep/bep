@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [API changes](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/2) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (today)
+- [API changes](https://github.com/gohugoio/hugoreleaser-plugins-api/pull/1) on [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) (today)
 - [Pass ProtocolInfo to Init](https://github.com/bep/execrpc/pull/12) on [bep/execrpc](https://github.com/bep/execrpc) (today)
 - [releaser: Add withdeploy deb extended archives](https://github.com/gohugoio/hugo/pull/13173) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc updates](https://github.com/gohugoio/hugoreleaser/pull/45) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (1 day ago)
-- [Fix panic on server rebuilds when using both base templates and template.Defer](https://github.com/gohugoio/hugo/pull/13155) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [js: Fix js.Batch for multihost setups](https://github.com/gohugoio/hugo/pull/13154) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
