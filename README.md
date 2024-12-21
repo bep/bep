@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc](https://github.com/gohugoio/hugoreleaser/pull/46) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (today)
 - [API changes](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/2) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (1 day ago)
 - [API changes](https://github.com/gohugoio/hugoreleaser-plugins-api/pull/1) on [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) (1 day ago)
 - [Pass ProtocolInfo to Init](https://github.com/bep/execrpc/pull/12) on [bep/execrpc](https://github.com/bep/execrpc) (1 day ago)
 - [releaser: Add withdeploy deb extended archives](https://github.com/gohugoio/hugo/pull/13173) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc updates](https://github.com/gohugoio/hugoreleaser/pull/45) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
