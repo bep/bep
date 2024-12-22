@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [js/esbuild: Don&#39;t try to resolve packages in /assets marked as external](https://github.com/gohugoio/hugo/pull/13184) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix union, complement, symdiff, and intersect for transient resources](https://github.com/gohugoio/hugo/pull/13182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc](https://github.com/gohugoio/hugoreleaser/pull/46) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (1 day ago)
 - [API changes](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/2) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (2 days ago)
 - [API changes](https://github.com/gohugoio/hugoreleaser-plugins-api/pull/1) on [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) (2 days ago)
-- [Pass ProtocolInfo to Init](https://github.com/bep/execrpc/pull/12) on [bep/execrpc](https://github.com/bep/execrpc) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
