@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [rnwst](https://github.com/rnwst) (today)
 - [JiHoon0422](https://github.com/JiHoon0422) (1 week ago)
 - [Dobefu](https://github.com/Dobefu) (2 weeks ago)
 - [ahnlak](https://github.com/ahnlak) (2 months ago)
 - [microdotblog](https://github.com/microdotblog) (2 months ago)
-- [caspermeijn](https://github.com/caspermeijn) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
