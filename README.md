@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [js/esbuild: Don&#39;t try to resolve packages in /assets marked as external](https://github.com/gohugoio/hugo/pull/13184) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix union, complement, symdiff, and intersect for transient resources](https://github.com/gohugoio/hugo/pull/13182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc](https://github.com/gohugoio/hugoreleaser/pull/46) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (2 days ago)
-- [API changes](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/2) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (3 days ago)
-- [API changes](https://github.com/gohugoio/hugoreleaser-plugins-api/pull/1) on [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) (3 days ago)
+- [js/esbuild: Don&#39;t try to resolve packages in /assets marked as external](https://github.com/gohugoio/hugo/pull/13184) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix union, complement, symdiff, and intersect for transient resources](https://github.com/gohugoio/hugo/pull/13182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc](https://github.com/gohugoio/hugoreleaser/pull/46) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (3 days ago)
+- [API changes](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/2) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (4 days ago)
+- [API changes](https://github.com/gohugoio/hugoreleaser-plugins-api/pull/1) on [gohugoio/hugoreleaser-plugins-api](https://github.com/gohugoio/hugoreleaser-plugins-api) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [rnwst](https://github.com/rnwst) (1 day ago)
+- [rnwst](https://github.com/rnwst) (2 days ago)
 - [JiHoon0422](https://github.com/JiHoon0422) (1 week ago)
 - [Dobefu](https://github.com/Dobefu) (2 weeks ago)
 - [ahnlak](https://github.com/ahnlak) (2 months ago)
-- [microdotblog](https://github.com/microdotblog) (2 months ago)
+- [microdotblog](https://github.com/microdotblog) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
