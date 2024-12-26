@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [markup/highlight: Add wrapperClass option](https://github.com/gohugoio/hugo/pull/13194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [js/esbuild: Don&#39;t try to resolve packages in /assets marked as external](https://github.com/gohugoio/hugo/pull/13184) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix union, complement, symdiff, and intersect for transient resources](https://github.com/gohugoio/hugo/pull/13182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Misc](https://github.com/gohugoio/hugoreleaser/pull/46) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (4 days ago)
-- [API changes](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/2) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (5 days ago)
+- [markup/highlight: Add wrapperClass option](https://github.com/gohugoio/hugo/pull/13194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [js/esbuild: Don&#39;t try to resolve packages in /assets marked as external](https://github.com/gohugoio/hugo/pull/13184) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix union, complement, symdiff, and intersect for transient resources](https://github.com/gohugoio/hugo/pull/13182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Misc](https://github.com/gohugoio/hugoreleaser/pull/46) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (5 days ago)
+- [API changes](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/2) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [rnwst](https://github.com/rnwst) (3 days ago)
+- [rnwst](https://github.com/rnwst) (4 days ago)
 - [JiHoon0422](https://github.com/JiHoon0422) (2 weeks ago)
 - [Dobefu](https://github.com/Dobefu) (2 weeks ago)
 - [ahnlak](https://github.com/ahnlak) (2 months ago)
