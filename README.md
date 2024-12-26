@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix same resource file published more than once](https://github.com/gohugoio/hugo/pull/13195) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Improve concurrent test](https://github.com/bep/lazycache/pull/12) on [bep/lazycache](https://github.com/bep/lazycache) (today)
 - [markup/highlight: Add wrapperClass option](https://github.com/gohugoio/hugo/pull/13194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [js/esbuild: Don&#39;t try to resolve packages in /assets marked as external](https://github.com/gohugoio/hugo/pull/13184) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Fix union, complement, symdiff, and intersect for transient resources](https://github.com/gohugoio/hugo/pull/13182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Misc](https://github.com/gohugoio/hugoreleaser/pull/46) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
