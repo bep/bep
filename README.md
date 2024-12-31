@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [Fix same resource file published more than once](https://github.com/gohugoio/hugo/pull/13195) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Improve concurrent test](https://github.com/bep/lazycache/pull/12) on [bep/lazycache](https://github.com/bep/lazycache) (4 days ago)
-- [markup/highlight: Add wrapperClass option](https://github.com/gohugoio/hugo/pull/13194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix same resource file published more than once](https://github.com/gohugoio/hugo/pull/13195) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Improve concurrent test](https://github.com/bep/lazycache/pull/12) on [bep/lazycache](https://github.com/bep/lazycache) (5 days ago)
+- [markup/highlight: Add wrapperClass option](https://github.com/gohugoio/hugo/pull/13194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [js/esbuild: Don&#39;t try to resolve packages in /assets marked as external](https://github.com/gohugoio/hugo/pull/13184) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix union, complement, symdiff, and intersect for transient resources](https://github.com/gohugoio/hugo/pull/13182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
