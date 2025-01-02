@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [Fix server refresh on 404 template changes](https://github.com/gohugoio/hugo/pull/13210) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix same resource file published more than once](https://github.com/gohugoio/hugo/pull/13195) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Improve concurrent test](https://github.com/bep/lazycache/pull/12) on [bep/lazycache](https://github.com/bep/lazycache) (6 days ago)
+- [Fix server refresh on 404 template changes](https://github.com/gohugoio/hugo/pull/13210) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix same resource file published more than once](https://github.com/gohugoio/hugo/pull/13195) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Improve concurrent test](https://github.com/bep/lazycache/pull/12) on [bep/lazycache](https://github.com/bep/lazycache) (1 week ago)
 - [markup/highlight: Add wrapperClass option](https://github.com/gohugoio/hugo/pull/13194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [js/esbuild: Don&#39;t try to resolve packages in /assets marked as external](https://github.com/gohugoio/hugo/pull/13184) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
