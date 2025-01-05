@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [resources: Add FromOpts for more effective resource creation](https://github.com/gohugoio/hugo/pull/13213) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix server refresh on 404 template changes](https://github.com/gohugoio/hugo/pull/13210) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [resources: Add FromOpts for more effective resource creation](https://github.com/gohugoio/hugo/pull/13213) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix server refresh on 404 template changes](https://github.com/gohugoio/hugo/pull/13210) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Fix same resource file published more than once](https://github.com/gohugoio/hugo/pull/13195) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Improve concurrent test](https://github.com/bep/lazycache/pull/12) on [bep/lazycache](https://github.com/bep/lazycache) (1 week ago)
 - [markup/highlight: Add wrapperClass option](https://github.com/gohugoio/hugo/pull/13194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [rnwst](https://github.com/rnwst) (1 week ago)
+- [rnwst](https://github.com/rnwst) (2 weeks ago)
 - [JiHoon0422](https://github.com/JiHoon0422) (3 weeks ago)
-- [Dobefu](https://github.com/Dobefu) (3 weeks ago)
+- [Dobefu](https://github.com/Dobefu) (4 weeks ago)
 - [ahnlak](https://github.com/ahnlak) (2 months ago)
 - [microdotblog](https://github.com/microdotblog) (3 months ago)
 
