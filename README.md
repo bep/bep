@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [resources: Replace error handling in GetRemote with try (note)](https://github.com/gohugoio/hugo/pull/13217) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [resources: Add FromOpts for more effective resource creation](https://github.com/gohugoio/hugo/pull/13213) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix server refresh on 404 template changes](https://github.com/gohugoio/hugo/pull/13210) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Fix same resource file published more than once](https://github.com/gohugoio/hugo/pull/13195) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Improve concurrent test](https://github.com/bep/lazycache/pull/12) on [bep/lazycache](https://github.com/bep/lazycache) (1 week ago)
-- [markup/highlight: Add wrapperClass option](https://github.com/gohugoio/hugo/pull/13194) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
