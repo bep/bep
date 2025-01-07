@@ -12,9 +12,9 @@
 
 - [rnwst](https://github.com/rnwst) (2 weeks ago)
 - [JiHoon0422](https://github.com/JiHoon0422) (3 weeks ago)
-- [Dobefu](https://github.com/Dobefu) (1 month ago)
 - [ahnlak](https://github.com/ahnlak) (2 months ago)
 - [microdotblog](https://github.com/microdotblog) (3 months ago)
+- [caspermeijn](https://github.com/caspermeijn) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
