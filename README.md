@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [create: Respect --noBuildLock in hugo new](https://github.com/gohugoio/hugo/pull/13220) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [ tpl/images: Format the QR hashes as hex](https://github.com/gohugoio/hugo/pull/13219) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [resources: Replace error handling in GetRemote with try (note)](https://github.com/gohugoio/hugo/pull/13217) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [resources: Add FromOpts for more effective resource creation](https://github.com/gohugoio/hugo/pull/13213) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix server refresh on 404 template changes](https://github.com/gohugoio/hugo/pull/13210) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [create: Respect --noBuildLock in hugo new](https://github.com/gohugoio/hugo/pull/13220) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [ tpl/images: Format the QR hashes as hex](https://github.com/gohugoio/hugo/pull/13219) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [resources: Replace error handling in GetRemote with try (note)](https://github.com/gohugoio/hugo/pull/13217) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [resources: Add FromOpts for more effective resource creation](https://github.com/gohugoio/hugo/pull/13213) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix server refresh on 404 template changes](https://github.com/gohugoio/hugo/pull/13210) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [rnwst](https://github.com/rnwst) (2 weeks ago)
 - [JiHoon0422](https://github.com/JiHoon0422) (3 weeks ago)
-- [Dobefu](https://github.com/Dobefu) (4 weeks ago)
+- [Dobefu](https://github.com/Dobefu) (1 month ago)
 - [ahnlak](https://github.com/ahnlak) (2 months ago)
 - [microdotblog](https://github.com/microdotblog) (3 months ago)
 
