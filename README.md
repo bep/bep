@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Fix NPX issue with TailwindCSS v4](https://github.com/gohugoio/hugo/pull/13226) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [create: Respect --noBuildLock in hugo new](https://github.com/gohugoio/hugo/pull/13220) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [ tpl/images: Format the QR hashes as hex](https://github.com/gohugoio/hugo/pull/13219) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [resources: Replace error handling in GetRemote with try (note)](https://github.com/gohugoio/hugo/pull/13217) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [resources: Add FromOpts for more effective resource creation](https://github.com/gohugoio/hugo/pull/13213) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix NPX issue with TailwindCSS v4](https://github.com/gohugoio/hugo/pull/13226) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [create: Respect --noBuildLock in hugo new](https://github.com/gohugoio/hugo/pull/13220) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [ tpl/images: Format the QR hashes as hex](https://github.com/gohugoio/hugo/pull/13219) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [resources: Replace error handling in GetRemote with try (note)](https://github.com/gohugoio/hugo/pull/13217) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [resources: Add FromOpts for more effective resource creation](https://github.com/gohugoio/hugo/pull/13213) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [rnwst](https://github.com/rnwst) (2 weeks ago)
-- [JiHoon0422](https://github.com/JiHoon0422) (3 weeks ago)
-- [ahnlak](https://github.com/ahnlak) (2 months ago)
+- [JiHoon0422](https://github.com/JiHoon0422) (4 weeks ago)
+- [ahnlak](https://github.com/ahnlak) (3 months ago)
 - [microdotblog](https://github.com/microdotblog) (3 months ago)
 - [caspermeijn](https://github.com/caspermeijn) (4 months ago)
 
