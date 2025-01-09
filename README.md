@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Adjust error handling in ToMath vs try  (note)](https://github.com/gohugoio/hugo/pull/13240) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix branch resource overlapping bundle path](https://github.com/gohugoio/hugo/pull/13238) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [templates: Fix handling of multiple defers in the same template](https://github.com/gohugoio/hugo/pull/13237) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [resources/images: Add some golden tests for images.QR](https://github.com/gohugoio/hugo/pull/13235) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [resources/images: Add some golden tests for images.Text](https://github.com/gohugoio/hugo/pull/13233) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [images: Rework the golden tests](https://github.com/gohugoio/hugo/pull/13231) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
