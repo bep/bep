@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [resources/images: Add some golden tests for images.QR](https://github.com/gohugoio/hugo/pull/13235) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [resources/images: Add some golden tests for images.Text](https://github.com/gohugoio/hugo/pull/13233) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [images: Rework the golden tests](https://github.com/gohugoio/hugo/pull/13231) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix NPX issue with TailwindCSS v4](https://github.com/gohugoio/hugo/pull/13226) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [create: Respect --noBuildLock in hugo new](https://github.com/gohugoio/hugo/pull/13220) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [resources/images: Add some golden tests for images.QR](https://github.com/gohugoio/hugo/pull/13235) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [resources/images: Add some golden tests for images.Text](https://github.com/gohugoio/hugo/pull/13233) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [images: Rework the golden tests](https://github.com/gohugoio/hugo/pull/13231) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix NPX issue with TailwindCSS v4](https://github.com/gohugoio/hugo/pull/13226) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [create: Respect --noBuildLock in hugo new](https://github.com/gohugoio/hugo/pull/13220) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
