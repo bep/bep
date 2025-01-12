@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [resources/images: Move golden test files to sub folders](https://github.com/gohugoio/hugo/pull/13253) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [resources/images: Add images.Mask](https://github.com/gohugoio/hugo/pull/13246) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Adjust error handling in ToMath vs try  (note)](https://github.com/gohugoio/hugo/pull/13240) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix branch resource overlapping bundle path](https://github.com/gohugoio/hugo/pull/13238) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [templates: Fix handling of multiple defers in the same template](https://github.com/gohugoio/hugo/pull/13237) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [resources/images: Move golden test files to sub folders](https://github.com/gohugoio/hugo/pull/13253) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [resources/images: Add images.Mask](https://github.com/gohugoio/hugo/pull/13246) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Adjust error handling in ToMath vs try  (note)](https://github.com/gohugoio/hugo/pull/13240) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix branch resource overlapping bundle path](https://github.com/gohugoio/hugo/pull/13238) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [templates: Fix handling of multiple defers in the same template](https://github.com/gohugoio/hugo/pull/13237) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [rnwst](https://github.com/rnwst) (2 weeks ago)
+- [rnwst](https://github.com/rnwst) (3 weeks ago)
 - [JiHoon0422](https://github.com/JiHoon0422) (1 month ago)
 - [ahnlak](https://github.com/ahnlak) (3 months ago)
 - [microdotblog](https://github.com/microdotblog) (3 months ago)
