@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Use MapRange() to iterate maps](https://github.com/gohugoio/hashstructure/pull/4) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
 - [resources/images: Move golden test files to sub folders](https://github.com/gohugoio/hugo/pull/13253) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [resources/images: Add images.Mask](https://github.com/gohugoio/hugo/pull/13246) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Adjust error handling in ToMath vs try  (note)](https://github.com/gohugoio/hugo/pull/13240) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix branch resource overlapping bundle path](https://github.com/gohugoio/hugo/pull/13238) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [templates: Fix handling of multiple defers in the same template](https://github.com/gohugoio/hugo/pull/13237) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
