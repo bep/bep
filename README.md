@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add some golden test cases](https://github.com/gohugoio/hashstructure/pull/6) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
 - [Use SetIterKey/SetIterValue](https://github.com/gohugoio/hashstructure/pull/5) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
 - [Use MapRange() instead of MapKeys()](https://github.com/gohugoio/hugo/pull/13255) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Use MapRange() to iterate maps](https://github.com/gohugoio/hashstructure/pull/4) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
 - [resources/images: Move golden test files to sub folders](https://github.com/gohugoio/hugo/pull/13253) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [resources/images: Add images.Mask](https://github.com/gohugoio/hugo/pull/13246) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
