@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Use SetIterKey/SetIterValue](https://github.com/gohugoio/hashstructure/pull/5) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
-- [Use MapRange() instead of MapKeys()](https://github.com/gohugoio/hugo/pull/13255) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Use MapRange() to iterate maps](https://github.com/gohugoio/hashstructure/pull/4) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
-- [resources/images: Move golden test files to sub folders](https://github.com/gohugoio/hugo/pull/13253) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [resources/images: Add images.Mask](https://github.com/gohugoio/hugo/pull/13246) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Use SetIterKey/SetIterValue](https://github.com/gohugoio/hashstructure/pull/5) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
+- [Use MapRange() instead of MapKeys()](https://github.com/gohugoio/hugo/pull/13255) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Use MapRange() to iterate maps](https://github.com/gohugoio/hashstructure/pull/4) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
+- [resources/images: Move golden test files to sub folders](https://github.com/gohugoio/hugo/pull/13253) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [resources/images: Add images.Mask](https://github.com/gohugoio/hugo/pull/13246) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
@@ -14,7 +14,7 @@
 - [JiHoon0422](https://github.com/JiHoon0422) (1 month ago)
 - [ahnlak](https://github.com/ahnlak) (3 months ago)
 - [microdotblog](https://github.com/microdotblog) (3 months ago)
-- [caspermeijn](https://github.com/caspermeijn) (4 months ago)
+- [caspermeijn](https://github.com/caspermeijn) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
