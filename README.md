@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [commands: Add --printZero to the config command](https://github.com/gohugoio/hugo/pull/13264) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [For render hooks, only fallback to HTML (or the defaultOutputFormat) template](https://github.com/gohugoio/hugo/pull/13263) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade github.com/gohugoio/hashstructure from 0.1.0 to 0.3.0](https://github.com/gohugoio/hugo/pull/13258) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add some golden test cases](https://github.com/gohugoio/hashstructure/pull/6) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (2 days ago)
-- [Use SetIterKey/SetIterValue](https://github.com/gohugoio/hashstructure/pull/5) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (3 days ago)
+- [commands: Add --printZero to the config command](https://github.com/gohugoio/hugo/pull/13264) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [For render hooks, only fallback to HTML (or the defaultOutputFormat) template](https://github.com/gohugoio/hugo/pull/13263) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Upgrade github.com/gohugoio/hashstructure from 0.1.0 to 0.3.0](https://github.com/gohugoio/hugo/pull/13258) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add some golden test cases](https://github.com/gohugoio/hashstructure/pull/6) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (3 days ago)
+- [Use SetIterKey/SetIterValue](https://github.com/gohugoio/hashstructure/pull/5) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [crookm](https://github.com/crookm) (2 days ago)
+- [crookm](https://github.com/crookm) (3 days ago)
 - [rnwst](https://github.com/rnwst) (3 weeks ago)
 - [JiHoon0422](https://github.com/JiHoon0422) (1 month ago)
 - [ahnlak](https://github.com/ahnlak) (3 months ago)
