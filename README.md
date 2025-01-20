@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Remove the glossary template](https://github.com/gohugoio/hugoDocs/pull/2828) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [resources: Fix 2 image file cache key issues](https://github.com/gohugoio/hugo/pull/13274) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [tpl/tplimpl: Simplify some test assertions](https://github.com/gohugoio/hugo/pull/13270) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [commands: Add --printZero to the config command](https://github.com/gohugoio/hugo/pull/13264) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [For render hooks, only fallback to HTML (or the defaultOutputFormat) template](https://github.com/gohugoio/hugo/pull/13263) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Remove the glossary template](https://github.com/gohugoio/hugoDocs/pull/2828) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [resources: Fix 2 image file cache key issues](https://github.com/gohugoio/hugo/pull/13274) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [tpl/tplimpl: Simplify some test assertions](https://github.com/gohugoio/hugo/pull/13270) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [commands: Add --printZero to the config command](https://github.com/gohugoio/hugo/pull/13264) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [For render hooks, only fallback to HTML (or the defaultOutputFormat) template](https://github.com/gohugoio/hugo/pull/13263) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [crookm](https://github.com/crookm) (6 days ago)
+- [crookm](https://github.com/crookm) (1 week ago)
 - [rnwst](https://github.com/rnwst) (4 weeks ago)
 - [JiHoon0422](https://github.com/JiHoon0422) (1 month ago)
 - [ahnlak](https://github.com/ahnlak) (3 months ago)
