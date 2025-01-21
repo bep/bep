@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [livereload: Close connection on pageshow](https://github.com/gohugoio/hugo/pull/13290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix render hook&#39;s PlainText with typographer extension enabled](https://github.com/gohugoio/hugo/pull/13289) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Do not warn on potentially unsafe HTML comments when unsafe=false](https://github.com/gohugoio/hugo/pull/13288) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Remove the glossary template](https://github.com/gohugoio/hugoDocs/pull/2828) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [resources: Fix 2 image file cache key issues](https://github.com/gohugoio/hugo/pull/13274) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [tpl/tplimpl: Simplify some test assertions](https://github.com/gohugoio/hugo/pull/13270) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
