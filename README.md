@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [angusmci](https://github.com/angusmci) (today)
 - [crookm](https://github.com/crookm) (1 week ago)
 - [rnwst](https://github.com/rnwst) (1 month ago)
 - [JiHoon0422](https://github.com/JiHoon0422) (1 month ago)
 - [ahnlak](https://github.com/ahnlak) (3 months ago)
-- [microdotblog](https://github.com/microdotblog) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
