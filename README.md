@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [resources: Add responseHeaders option to resources.GetRemote](https://github.com/gohugoio/hugo/pull/13297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Make cascade front matter order deterministic](https://github.com/gohugoio/hugo/pull/13295) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [livereload: Close connection on pageshow](https://github.com/gohugoio/hugo/pull/13290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix render hook&#39;s PlainText with typographer extension enabled](https://github.com/gohugoio/hugo/pull/13289) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Do not warn on potentially unsafe HTML comments when unsafe=false](https://github.com/gohugoio/hugo/pull/13288) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Remove the glossary template](https://github.com/gohugoio/hugoDocs/pull/2828) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
