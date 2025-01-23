@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Make cascade front matter order deterministic](https://github.com/gohugoio/hugo/pull/13295) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [livereload: Close connection on pageshow](https://github.com/gohugoio/hugo/pull/13290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix render hook&#39;s PlainText with typographer extension enabled](https://github.com/gohugoio/hugo/pull/13289) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Do not warn on potentially unsafe HTML comments when unsafe=false](https://github.com/gohugoio/hugo/pull/13288) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Remove the glossary template](https://github.com/gohugoio/hugoDocs/pull/2828) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [Make cascade front matter order deterministic](https://github.com/gohugoio/hugo/pull/13295) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [livereload: Close connection on pageshow](https://github.com/gohugoio/hugo/pull/13290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix render hook&#39;s PlainText with typographer extension enabled](https://github.com/gohugoio/hugo/pull/13289) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Do not warn on potentially unsafe HTML comments when unsafe=false](https://github.com/gohugoio/hugo/pull/13288) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Remove the glossary template](https://github.com/gohugoio/hugoDocs/pull/2828) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [angusmci](https://github.com/angusmci) (today)
+- [angusmci](https://github.com/angusmci) (1 day ago)
 - [crookm](https://github.com/crookm) (1 week ago)
 - [rnwst](https://github.com/rnwst) (1 month ago)
 - [JiHoon0422](https://github.com/JiHoon0422) (1 month ago)
