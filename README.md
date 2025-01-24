@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix cascade with overlapping sections](https://github.com/gohugoio/hugo/pull/13305) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix some server rebuild issues for non-HTML custom output formats](https://github.com/gohugoio/hugo/pull/13304) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [resources: Add responseHeaders option to resources.GetRemote](https://github.com/gohugoio/hugo/pull/13297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Make cascade front matter order deterministic](https://github.com/gohugoio/hugo/pull/13295) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [livereload: Close connection on pageshow](https://github.com/gohugoio/hugo/pull/13290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix render hook&#39;s PlainText with typographer extension enabled](https://github.com/gohugoio/hugo/pull/13289) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
