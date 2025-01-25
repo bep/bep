@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Fix cascade with overlapping sections](https://github.com/gohugoio/hugo/pull/13305) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix some server rebuild issues for non-HTML custom output formats](https://github.com/gohugoio/hugo/pull/13304) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [resources: Add responseHeaders option to resources.GetRemote](https://github.com/gohugoio/hugo/pull/13297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Make cascade front matter order deterministic](https://github.com/gohugoio/hugo/pull/13295) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [livereload: Close connection on pageshow](https://github.com/gohugoio/hugo/pull/13290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix cascade with overlapping sections](https://github.com/gohugoio/hugo/pull/13305) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix some server rebuild issues for non-HTML custom output formats](https://github.com/gohugoio/hugo/pull/13304) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [resources: Add responseHeaders option to resources.GetRemote](https://github.com/gohugoio/hugo/pull/13297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Make cascade front matter order deterministic](https://github.com/gohugoio/hugo/pull/13295) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [livereload: Close connection on pageshow](https://github.com/gohugoio/hugo/pull/13290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [davidbeckonline](https://github.com/davidbeckonline) (today)
-- [angusmci](https://github.com/angusmci) (2 days ago)
+- [davidbeckonline](https://github.com/davidbeckonline) (1 day ago)
+- [angusmci](https://github.com/angusmci) (3 days ago)
 - [crookm](https://github.com/crookm) (1 week ago)
 - [rnwst](https://github.com/rnwst) (1 month ago)
 - [JiHoon0422](https://github.com/JiHoon0422) (1 month ago)
