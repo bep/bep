@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add resource vendoring](https://github.com/gohugoio/hugo/pull/13310) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix cascade with overlapping sections](https://github.com/gohugoio/hugo/pull/13305) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix some server rebuild issues for non-HTML custom output formats](https://github.com/gohugoio/hugo/pull/13304) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [resources: Add responseHeaders option to resources.GetRemote](https://github.com/gohugoio/hugo/pull/13297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Make cascade front matter order deterministic](https://github.com/gohugoio/hugo/pull/13295) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [livereload: Close connection on pageshow](https://github.com/gohugoio/hugo/pull/13290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
