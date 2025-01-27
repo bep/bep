@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Add resource vendoring](https://github.com/gohugoio/hugo/pull/13310) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix cascade with overlapping sections](https://github.com/gohugoio/hugo/pull/13305) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix some server rebuild issues for non-HTML custom output formats](https://github.com/gohugoio/hugo/pull/13304) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [resources: Add responseHeaders option to resources.GetRemote](https://github.com/gohugoio/hugo/pull/13297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Make cascade front matter order deterministic](https://github.com/gohugoio/hugo/pull/13295) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add resource vendoring](https://github.com/gohugoio/hugo/pull/13310) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix cascade with overlapping sections](https://github.com/gohugoio/hugo/pull/13305) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix some server rebuild issues for non-HTML custom output formats](https://github.com/gohugoio/hugo/pull/13304) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [resources: Add responseHeaders option to resources.GetRemote](https://github.com/gohugoio/hugo/pull/13297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Make cascade front matter order deterministic](https://github.com/gohugoio/hugo/pull/13295) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [davidbeckonline](https://github.com/davidbeckonline) (2 days ago)
-- [angusmci](https://github.com/angusmci) (4 days ago)
-- [crookm](https://github.com/crookm) (1 week ago)
+- [davidbeckonline](https://github.com/davidbeckonline) (3 days ago)
+- [angusmci](https://github.com/angusmci) (5 days ago)
+- [crookm](https://github.com/crookm) (2 weeks ago)
 - [rnwst](https://github.com/rnwst) (1 month ago)
 - [JiHoon0422](https://github.com/JiHoon0422) (1 month ago)
 
