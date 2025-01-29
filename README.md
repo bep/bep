@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix TailwindCSS related server rebuild issue](https://github.com/gohugoio/hugo/pull/13317) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add resource vendoring](https://github.com/gohugoio/hugo/pull/13310) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix cascade with overlapping sections](https://github.com/gohugoio/hugo/pull/13305) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Fix some server rebuild issues for non-HTML custom output formats](https://github.com/gohugoio/hugo/pull/13304) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [resources: Add responseHeaders option to resources.GetRemote](https://github.com/gohugoio/hugo/pull/13297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Make cascade front matter order deterministic](https://github.com/gohugoio/hugo/pull/13295) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
