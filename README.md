@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Don&#39;t re-render aliases on server rebuilds](https://github.com/gohugoio/hugo/pull/13318) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix TailwindCSS related server rebuild issue](https://github.com/gohugoio/hugo/pull/13317) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add resource vendoring](https://github.com/gohugoio/hugo/pull/13310) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix cascade with overlapping sections](https://github.com/gohugoio/hugo/pull/13305) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Fix some server rebuild issues for non-HTML custom output formats](https://github.com/gohugoio/hugo/pull/13304) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [resources: Add responseHeaders option to resources.GetRemote](https://github.com/gohugoio/hugo/pull/13297) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
