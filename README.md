@@ -2,10 +2,10 @@
 
 ### Recent Pull Requests
 
-- [Fix data race in pages from data](https://github.com/gohugoio/hugo/pull/13324) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Don&#39;t re-render aliases on server rebuilds](https://github.com/gohugoio/hugo/pull/13318) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix TailwindCSS related server rebuild issue](https://github.com/gohugoio/hugo/pull/13317) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add resource vendoring](https://github.com/gohugoio/hugo/pull/13310) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix data race in pages from data](https://github.com/gohugoio/hugo/pull/13324) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Don&#39;t re-render aliases on server rebuilds](https://github.com/gohugoio/hugo/pull/13318) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix TailwindCSS related server rebuild issue](https://github.com/gohugoio/hugo/pull/13317) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add resource vendoring](https://github.com/gohugoio/hugo/pull/13310) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Fix cascade with overlapping sections](https://github.com/gohugoio/hugo/pull/13305) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
