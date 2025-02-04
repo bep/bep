@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Fix RSS with baseURL with subrid when render hooks is enabled](https://github.com/gohugoio/hugo/pull/13334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Re-introduce the LRU-evicted identities in change set calculation](https://github.com/gohugoio/hugo/pull/13331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Deps](https://github.com/bep/simplecobra/pull/12) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
-- [Fix some server/watch rebuild issues](https://github.com/gohugoio/hugo/pull/13329) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix data race in pages from data](https://github.com/gohugoio/hugo/pull/13324) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix RSS with baseURL with subrid when render hooks is enabled](https://github.com/gohugoio/hugo/pull/13334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Re-introduce the LRU-evicted identities in change set calculation](https://github.com/gohugoio/hugo/pull/13331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Deps](https://github.com/bep/simplecobra/pull/12) on [bep/simplecobra](https://github.com/bep/simplecobra) (3 days ago)
+- [Fix some server/watch rebuild issues](https://github.com/gohugoio/hugo/pull/13329) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix data race in pages from data](https://github.com/gohugoio/hugo/pull/13324) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [LNA-DEV](https://github.com/LNA-DEV) (1 day ago)
+- [LNA-DEV](https://github.com/LNA-DEV) (2 days ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (1 week ago)
 - [angusmci](https://github.com/angusmci) (1 week ago)
 - [crookm](https://github.com/crookm) (3 weeks ago)
