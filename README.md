@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add support for complex64/complex128](https://github.com/gohugoio/hashstructure/pull/9) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
+- [Add a fast path for string inputs](https://github.com/gohugoio/hashstructure/pull/8) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
+- [Some performance optimizations](https://github.com/gohugoio/hashstructure/pull/7) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
 - [Add some more server options/improvements](https://github.com/gohugoio/hugo/pull/13348) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix shortcode name in error message on self-closing shortcodes with no .Inner](https://github.com/gohugoio/hugo/pull/13345) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix RSS with baseURL with subrid when render hooks is enabled](https://github.com/gohugoio/hugo/pull/13334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Re-introduce the LRU-evicted identities in change set calculation](https://github.com/gohugoio/hugo/pull/13331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Deps](https://github.com/bep/simplecobra/pull/12) on [bep/simplecobra](https://github.com/bep/simplecobra) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
