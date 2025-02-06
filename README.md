@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add some more server options/improvements](https://github.com/gohugoio/hugo/pull/13348) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix shortcode name in error message on self-closing shortcodes with no .Inner](https://github.com/gohugoio/hugo/pull/13345) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix RSS with baseURL with subrid when render hooks is enabled](https://github.com/gohugoio/hugo/pull/13334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Re-introduce the LRU-evicted identities in change set calculation](https://github.com/gohugoio/hugo/pull/13331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Deps](https://github.com/bep/simplecobra/pull/12) on [bep/simplecobra](https://github.com/bep/simplecobra) (4 days ago)
+- [Add some more server options/improvements](https://github.com/gohugoio/hugo/pull/13348) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix shortcode name in error message on self-closing shortcodes with no .Inner](https://github.com/gohugoio/hugo/pull/13345) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix RSS with baseURL with subrid when render hooks is enabled](https://github.com/gohugoio/hugo/pull/13334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Re-introduce the LRU-evicted identities in change set calculation](https://github.com/gohugoio/hugo/pull/13331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Deps](https://github.com/bep/simplecobra/pull/12) on [bep/simplecobra](https://github.com/bep/simplecobra) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [LNA-DEV](https://github.com/LNA-DEV) (3 days ago)
+- [LNA-DEV](https://github.com/LNA-DEV) (4 days ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (1 week ago)
 - [angusmci](https://github.com/angusmci) (2 weeks ago)
 - [crookm](https://github.com/crookm) (3 weeks ago)
