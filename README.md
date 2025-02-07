@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Add support for complex64/complex128](https://github.com/gohugoio/hashstructure/pull/9) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
-- [Add a fast path for string inputs](https://github.com/gohugoio/hashstructure/pull/8) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
-- [Some performance optimizations](https://github.com/gohugoio/hashstructure/pull/7) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
-- [Add some more server options/improvements](https://github.com/gohugoio/hugo/pull/13348) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix shortcode name in error message on self-closing shortcodes with no .Inner](https://github.com/gohugoio/hugo/pull/13345) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add support for complex64/complex128](https://github.com/gohugoio/hashstructure/pull/9) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
+- [Add a fast path for string inputs](https://github.com/gohugoio/hashstructure/pull/8) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
+- [Some performance optimizations](https://github.com/gohugoio/hashstructure/pull/7) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
+- [Add some more server options/improvements](https://github.com/gohugoio/hugo/pull/13348) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix shortcode name in error message on self-closing shortcodes with no .Inner](https://github.com/gohugoio/hugo/pull/13345) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [LNA-DEV](https://github.com/LNA-DEV) (4 days ago)
-- [davidbeckonline](https://github.com/davidbeckonline) (1 week ago)
+- [LNA-DEV](https://github.com/LNA-DEV) (5 days ago)
+- [davidbeckonline](https://github.com/davidbeckonline) (2 weeks ago)
 - [angusmci](https://github.com/angusmci) (2 weeks ago)
 - [crookm](https://github.com/crookm) (3 weeks ago)
 - [rnwst](https://github.com/rnwst) (1 month ago)
