@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Move &#34;print unused templates&#34; after renderDeferred](https://github.com/gohugoio/hugo/pull/13356) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add ContentTypes to config](https://github.com/gohugoio/hugo/pull/13353) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add support for complex64/complex128](https://github.com/gohugoio/hashstructure/pull/9) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
 - [Add a fast path for string inputs](https://github.com/gohugoio/hashstructure/pull/8) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
 - [Some performance optimizations](https://github.com/gohugoio/hashstructure/pull/7) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
-- [Add some more server options/improvements](https://github.com/gohugoio/hugo/pull/13348) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
