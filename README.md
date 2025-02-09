@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [v2](https://github.com/gohugoio/hugoDocs/pull/2875) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [Move &#34;print unused templates&#34; after renderDeferred](https://github.com/gohugoio/hugo/pull/13356) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add ContentTypes to config](https://github.com/gohugoio/hugo/pull/13353) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add support for complex64/complex128](https://github.com/gohugoio/hashstructure/pull/9) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (2 days ago)
-- [Add a fast path for string inputs](https://github.com/gohugoio/hashstructure/pull/8) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (2 days ago)
+- [v2](https://github.com/gohugoio/hugoDocs/pull/2875) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [Move &#34;print unused templates&#34; after renderDeferred](https://github.com/gohugoio/hugo/pull/13356) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add ContentTypes to config](https://github.com/gohugoio/hugo/pull/13353) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add support for complex64/complex128](https://github.com/gohugoio/hashstructure/pull/9) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (3 days ago)
+- [Add a fast path for string inputs](https://github.com/gohugoio/hashstructure/pull/8) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [LNA-DEV](https://github.com/LNA-DEV) (6 days ago)
+- [LNA-DEV](https://github.com/LNA-DEV) (1 week ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (2 weeks ago)
 - [angusmci](https://github.com/angusmci) (2 weeks ago)
 - [crookm](https://github.com/crookm) (3 weeks ago)
