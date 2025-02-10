@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [commands: Move the CHMOD event filter up](https://github.com/gohugoio/hugo/pull/13374) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [v2](https://github.com/gohugoio/hugoDocs/pull/2875) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [Move &#34;print unused templates&#34; after renderDeferred](https://github.com/gohugoio/hugo/pull/13356) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Add ContentTypes to config](https://github.com/gohugoio/hugo/pull/13353) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Add support for complex64/complex128](https://github.com/gohugoio/hashstructure/pull/9) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (4 days ago)
-- [Add a fast path for string inputs](https://github.com/gohugoio/hashstructure/pull/8) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
