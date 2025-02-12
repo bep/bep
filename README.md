@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Deprecate kind, lang, and path from front matter](https://github.com/gohugoio/hugo/pull/13376) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [commands: Move the CHMOD event filter up](https://github.com/gohugoio/hugo/pull/13374) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [v2](https://github.com/gohugoio/hugoDocs/pull/2875) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
-- [Move &#34;print unused templates&#34; after renderDeferred](https://github.com/gohugoio/hugo/pull/13356) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Add ContentTypes to config](https://github.com/gohugoio/hugo/pull/13353) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Deprecate kind, lang, and path from front matter](https://github.com/gohugoio/hugo/pull/13376) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [commands: Move the CHMOD event filter up](https://github.com/gohugoio/hugo/pull/13374) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [v2](https://github.com/gohugoio/hugoDocs/pull/2875) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
+- [Move &#34;print unused templates&#34; after renderDeferred](https://github.com/gohugoio/hugo/pull/13356) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Add ContentTypes to config](https://github.com/gohugoio/hugo/pull/13353) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [LNA-DEV](https://github.com/LNA-DEV) (1 week ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (2 weeks ago)
-- [angusmci](https://github.com/angusmci) (2 weeks ago)
-- [crookm](https://github.com/crookm) (4 weeks ago)
+- [angusmci](https://github.com/angusmci) (3 weeks ago)
+- [crookm](https://github.com/crookm) (1 month ago)
 - [rnwst](https://github.com/rnwst) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
