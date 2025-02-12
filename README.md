@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Upgrade to Go 1.24](https://github.com/gohugoio/hugo/pull/13383) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [theme: Move search button in navbar to the right on smaller screens](https://github.com/gohugoio/hugoDocs/pull/2887) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [theme: Misc fixes](https://github.com/gohugoio/hugoDocs/pull/2885) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Deprecate kind, lang, and path from front matter](https://github.com/gohugoio/hugo/pull/13376) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [commands: Move the CHMOD event filter up](https://github.com/gohugoio/hugo/pull/13374) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [v2](https://github.com/gohugoio/hugoDocs/pull/2875) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
-- [Move &#34;print unused templates&#34; after renderDeferred](https://github.com/gohugoio/hugo/pull/13356) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
