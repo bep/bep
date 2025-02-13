@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [js/esbuild: Add drop option](https://github.com/gohugoio/hugo/pull/13390) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add Prettier and config](https://github.com/gohugoio/hugoDocs/pull/2896) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Upgrade to Go 1.24](https://github.com/gohugoio/hugo/pull/13383) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [theme: Move search button in navbar to the right on smaller screens](https://github.com/gohugoio/hugoDocs/pull/2887) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [theme: Misc fixes](https://github.com/gohugoio/hugoDocs/pull/2885) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [Deprecate kind, lang, and path from front matter](https://github.com/gohugoio/hugo/pull/13376) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
