@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [theme: Fix some dark mode accessibility as reported by Axe core](https://github.com/gohugoio/hugoDocs/pull/2898) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Support menus as maps in content adapters](https://github.com/gohugoio/hugo/pull/13392) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [modules: Add GOAUTH to module config](https://github.com/gohugoio/hugo/pull/13391) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [js/esbuild: Add drop option](https://github.com/gohugoio/hugo/pull/13390) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add Prettier and config](https://github.com/gohugoio/hugoDocs/pull/2896) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [Upgrade to Go 1.24](https://github.com/gohugoio/hugo/pull/13383) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
