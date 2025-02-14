@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade to Bootstrap v5.3.3](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/19) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (today)
 - [theme: Reduce ToC to level 2-4](https://github.com/gohugoio/hugoDocs/pull/2907) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [theme: Fix some dark mode accessibility as reported by Axe core](https://github.com/gohugoio/hugoDocs/pull/2898) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [Support menus as maps in content adapters](https://github.com/gohugoio/hugo/pull/13392) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [modules: Add GOAUTH to module config](https://github.com/gohugoio/hugo/pull/13391) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [js/esbuild: Add drop option](https://github.com/gohugoio/hugo/pull/13390) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
