@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [theme: Fix some dark mode accessibility as reported by Axe core](https://github.com/gohugoio/hugoDocs/pull/2898) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [Support menus as maps in content adapters](https://github.com/gohugoio/hugo/pull/13392) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [modules: Add GOAUTH to module config](https://github.com/gohugoio/hugo/pull/13391) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [js/esbuild: Add drop option](https://github.com/gohugoio/hugo/pull/13390) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add Prettier and config](https://github.com/gohugoio/hugoDocs/pull/2896) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
+- [theme: Fix some dark mode accessibility as reported by Axe core](https://github.com/gohugoio/hugoDocs/pull/2898) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [Support menus as maps in content adapters](https://github.com/gohugoio/hugo/pull/13392) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [modules: Add GOAUTH to module config](https://github.com/gohugoio/hugo/pull/13391) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [js/esbuild: Add drop option](https://github.com/gohugoio/hugo/pull/13390) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add Prettier and config](https://github.com/gohugoio/hugoDocs/pull/2896) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
 - [LNA-DEV](https://github.com/LNA-DEV) (1 week ago)
-- [davidbeckonline](https://github.com/davidbeckonline) (2 weeks ago)
+- [davidbeckonline](https://github.com/davidbeckonline) (3 weeks ago)
 - [angusmci](https://github.com/angusmci) (3 weeks ago)
 - [crookm](https://github.com/crookm) (1 month ago)
 - [rnwst](https://github.com/rnwst) (1 month ago)
