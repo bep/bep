@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add autoID for decription terms](https://github.com/gohugoio/hugo/pull/13404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add slugorcontentbasename and contentbasename](https://github.com/gohugoio/hugo/pull/13402) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [deps: Upgrade to Bootstrap v5.3.3](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/19) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (2 days ago)
 - [theme: Reduce ToC to level 2-4](https://github.com/gohugoio/hugoDocs/pull/2907) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [theme: Fix some dark mode accessibility as reported by Axe core](https://github.com/gohugoio/hugoDocs/pull/2898) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
-- [Support menus as maps in content adapters](https://github.com/gohugoio/hugo/pull/13392) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
