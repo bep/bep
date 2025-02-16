@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Add autoID for decription terms](https://github.com/gohugoio/hugo/pull/13404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Add autoID for definition terms](https://github.com/gohugoio/hugo/pull/13404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add slugorcontentbasename and contentbasename](https://github.com/gohugoio/hugo/pull/13402) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [deps: Upgrade to Bootstrap v5.3.3](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/19) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (2 days ago)
 - [theme: Reduce ToC to level 2-4](https://github.com/gohugoio/hugoDocs/pull/2907) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
