@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Add slugorcontentbasename and contentbasename](https://github.com/gohugoio/hugo/pull/13402) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade to Bootstrap v5.3.3](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/19) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (1 day ago)
-- [theme: Reduce ToC to level 2-4](https://github.com/gohugoio/hugoDocs/pull/2907) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [theme: Fix some dark mode accessibility as reported by Axe core](https://github.com/gohugoio/hugoDocs/pull/2898) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
-- [Support menus as maps in content adapters](https://github.com/gohugoio/hugo/pull/13392) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add slugorcontentbasename and contentbasename](https://github.com/gohugoio/hugo/pull/13402) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Upgrade to Bootstrap v5.3.3](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/19) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (2 days ago)
+- [theme: Reduce ToC to level 2-4](https://github.com/gohugoio/hugoDocs/pull/2907) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [theme: Fix some dark mode accessibility as reported by Axe core](https://github.com/gohugoio/hugoDocs/pull/2898) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [Support menus as maps in content adapters](https://github.com/gohugoio/hugo/pull/13392) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [mrslima](https://github.com/mrslima) (1 day ago)
-- [LNA-DEV](https://github.com/LNA-DEV) (1 week ago)
+- [mrslima](https://github.com/mrslima) (2 days ago)
+- [LNA-DEV](https://github.com/LNA-DEV) (2 weeks ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (3 weeks ago)
 - [angusmci](https://github.com/angusmci) (3 weeks ago)
 - [crookm](https://github.com/crookm) (1 month ago)
