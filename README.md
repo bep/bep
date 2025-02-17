@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Make the header ids match the newly added dt ids](https://github.com/gohugoio/hugo/pull/13407) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/13407) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [theme: Add anchor links via JS](https://github.com/gohugoio/hugoDocs/pull/2914) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [Add autoID for definition terms](https://github.com/gohugoio/hugo/pull/13404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add slugorcontentbasename and contentbasename](https://github.com/gohugoio/hugo/pull/13402) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
