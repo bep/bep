@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Make the header ids match the newly added dt ids](https://github.com/gohugoio/hugo/pull/13407) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [theme: Add anchor links via JS](https://github.com/gohugoio/hugoDocs/pull/2914) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [Add autoID for definition terms](https://github.com/gohugoio/hugo/pull/13404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add slugorcontentbasename and contentbasename](https://github.com/gohugoio/hugo/pull/13402) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [deps: Upgrade to Bootstrap v5.3.3](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/19) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (2 days ago)
+- [Make the header ids match the newly added dt ids](https://github.com/gohugoio/hugo/pull/13407) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [theme: Add anchor links via JS](https://github.com/gohugoio/hugoDocs/pull/2914) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [Add autoID for definition terms](https://github.com/gohugoio/hugo/pull/13404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add slugorcontentbasename and contentbasename](https://github.com/gohugoio/hugo/pull/13402) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [deps: Upgrade to Bootstrap v5.3.3](https://github.com/gohugoio/hugo-mod-bootstrap-scss/pull/19) on [gohugoio/hugo-mod-bootstrap-scss](https://github.com/gohugoio/hugo-mod-bootstrap-scss) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [mrslima](https://github.com/mrslima) (2 days ago)
+- [mrslima](https://github.com/mrslima) (3 days ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (2 weeks ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (3 weeks ago)
 - [angusmci](https://github.com/angusmci) (3 weeks ago)
