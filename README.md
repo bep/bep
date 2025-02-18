@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [wjkoh](https://github.com/wjkoh) (today)
 - [mrslima](https://github.com/mrslima) (4 days ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (2 weeks ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (3 weeks ago)
 - [angusmci](https://github.com/angusmci) (3 weeks ago)
-- [crookm](https://github.com/crookm) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
