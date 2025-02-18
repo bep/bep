@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Move the dark class up to the html element](https://github.com/gohugoio/hugoDocs/pull/2924) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/13407) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [theme: Add anchor links via JS](https://github.com/gohugoio/hugoDocs/pull/2914) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [Add autoID for definition terms](https://github.com/gohugoio/hugo/pull/13404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add slugorcontentbasename and contentbasename](https://github.com/gohugoio/hugo/pull/13402) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Move the dark class up to the html element](https://github.com/gohugoio/hugoDocs/pull/2924) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/13407) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [theme: Add anchor links via JS](https://github.com/gohugoio/hugoDocs/pull/2914) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [Add autoID for definition terms](https://github.com/gohugoio/hugo/pull/13404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add slugorcontentbasename and contentbasename](https://github.com/gohugoio/hugo/pull/13402) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [mrslima](https://github.com/mrslima) (3 days ago)
+- [mrslima](https://github.com/mrslima) (4 days ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (2 weeks ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (3 weeks ago)
 - [angusmci](https://github.com/angusmci) (3 weeks ago)
