@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [theme: Autoformat layouts and assets](https://github.com/gohugoio/hugoDocs/pull/2931) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [theme: Add some more space on the right for copy buttons](https://github.com/gohugoio/hugoDocs/pull/2930) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [markup/goldmark: Fix panic on empty Markdown header](https://github.com/gohugoio/hugo/pull/13417) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Move the dark class up to the html element](https://github.com/gohugoio/hugoDocs/pull/2924) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/13407) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [theme: Add anchor links via JS](https://github.com/gohugoio/hugoDocs/pull/2914) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
