@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Move to the generics version of qt in github.com/go-quicktest/qt](https://github.com/bep/golibtemplate/pull/5) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (today)
-- [Fix --printPathWarnings when site calls templates.Defer](https://github.com/gohugoio/hugo/pull/13421) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [theme: Autoformat layouts and assets](https://github.com/gohugoio/hugoDocs/pull/2931) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [theme: Add some more space on the right for copy buttons](https://github.com/gohugoio/hugoDocs/pull/2930) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [markup/goldmark: Fix panic on empty Markdown header](https://github.com/gohugoio/hugo/pull/13417) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Move to the generics version of qt in github.com/go-quicktest/qt](https://github.com/bep/golibtemplate/pull/5) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (1 day ago)
+- [Fix --printPathWarnings when site calls templates.Defer](https://github.com/gohugoio/hugo/pull/13421) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [theme: Autoformat layouts and assets](https://github.com/gohugoio/hugoDocs/pull/2931) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [theme: Add some more space on the right for copy buttons](https://github.com/gohugoio/hugoDocs/pull/2930) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [markup/goldmark: Fix panic on empty Markdown header](https://github.com/gohugoio/hugo/pull/13417) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [wjkoh](https://github.com/wjkoh) (1 day ago)
-- [mrslima](https://github.com/mrslima) (5 days ago)
+- [wjkoh](https://github.com/wjkoh) (2 days ago)
+- [mrslima](https://github.com/mrslima) (6 days ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (2 weeks ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (3 weeks ago)
 - [angusmci](https://github.com/angusmci) (4 weeks ago)
