@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add transform.PortableText](https://github.com/gohugoio/hugo/pull/13432) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Move to the generics version of qt in github.com/go-quicktest/qt](https://github.com/bep/golibtemplate/pull/5) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (2 days ago)
-- [Fix --printPathWarnings when site calls templates.Defer](https://github.com/gohugoio/hugo/pull/13421) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [theme: Autoformat layouts and assets](https://github.com/gohugoio/hugoDocs/pull/2931) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
-- [theme: Add some more space on the right for copy buttons](https://github.com/gohugoio/hugoDocs/pull/2930) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [Add transform.PortableText](https://github.com/gohugoio/hugo/pull/13432) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Move to the generics version of qt in github.com/go-quicktest/qt](https://github.com/bep/golibtemplate/pull/5) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (3 days ago)
+- [Fix --printPathWarnings when site calls templates.Defer](https://github.com/gohugoio/hugo/pull/13421) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [theme: Autoformat layouts and assets](https://github.com/gohugoio/hugoDocs/pull/2931) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
+- [theme: Add some more space on the right for copy buttons](https://github.com/gohugoio/hugoDocs/pull/2930) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [wjkoh](https://github.com/wjkoh) (3 days ago)
+- [wjkoh](https://github.com/wjkoh) (4 days ago)
 - [mrslima](https://github.com/mrslima) (1 week ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (2 weeks ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (4 weeks ago)
