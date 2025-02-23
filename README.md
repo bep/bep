@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [experiment: Remove CGO/extended version](https://github.com/gohugoio/hugo/pull/13440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add transform.PortableText](https://github.com/gohugoio/hugo/pull/13432) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Move to the generics version of qt in github.com/go-quicktest/qt](https://github.com/bep/golibtemplate/pull/5) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (4 days ago)
 - [Fix --printPathWarnings when site calls templates.Defer](https://github.com/gohugoio/hugo/pull/13421) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [theme: Autoformat layouts and assets](https://github.com/gohugoio/hugoDocs/pull/2931) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
-- [theme: Add some more space on the right for copy buttons](https://github.com/gohugoio/hugoDocs/pull/2930) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
