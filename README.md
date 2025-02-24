@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix potential nilpointer in httpcache config](https://github.com/gohugoio/hugo/pull/13444) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Improve image handling](https://github.com/bep/goportabletext/pull/1) on [bep/goportabletext](https://github.com/bep/goportabletext) (today)
 - [experiment: Remove CGO/extended version](https://github.com/gohugoio/hugo/pull/13440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add transform.PortableText](https://github.com/gohugoio/hugo/pull/13432) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Move to the generics version of qt in github.com/go-quicktest/qt](https://github.com/bep/golibtemplate/pull/5) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (5 days ago)
-- [Fix --printPathWarnings when site calls templates.Defer](https://github.com/gohugoio/hugo/pull/13421) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
