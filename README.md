@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Fix potential nilpointer in httpcache config](https://github.com/gohugoio/hugo/pull/13444) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Improve image handling](https://github.com/bep/goportabletext/pull/1) on [bep/goportabletext](https://github.com/bep/goportabletext) (today)
-- [experiment: Remove CGO/extended version](https://github.com/gohugoio/hugo/pull/13440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add transform.PortableText](https://github.com/gohugoio/hugo/pull/13432) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Move to the generics version of qt in github.com/go-quicktest/qt](https://github.com/bep/golibtemplate/pull/5) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (5 days ago)
+- [Fix potential nilpointer in httpcache config](https://github.com/gohugoio/hugo/pull/13444) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Improve image handling](https://github.com/bep/goportabletext/pull/1) on [bep/goportabletext](https://github.com/bep/goportabletext) (1 day ago)
+- [experiment: Remove CGO/extended version](https://github.com/gohugoio/hugo/pull/13440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add transform.PortableText](https://github.com/gohugoio/hugo/pull/13432) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Move to the generics version of qt in github.com/go-quicktest/qt](https://github.com/bep/golibtemplate/pull/5) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (today)
-- [wjkoh](https://github.com/wjkoh) (6 days ago)
+- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (1 day ago)
+- [wjkoh](https://github.com/wjkoh) (1 week ago)
 - [mrslima](https://github.com/mrslima) (1 week ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (3 weeks ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (1 month ago)
