@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Use the page path and not the backing filename as the last resort in the default sort](https://github.com/gohugoio/hugo/pull/13454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade github.com/rogpeppe/go-internal v1.13.1 =&gt; v1.14.1](https://github.com/gohugoio/hugo/pull/13453) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [feat/go24](https://github.com/bep/execrpc/pull/13) on [bep/execrpc](https://github.com/bep/execrpc) (today)
 - [all: Run modernize -fix ./...](https://github.com/bep/goportabletext/pull/3) on [bep/goportabletext](https://github.com/bep/goportabletext) (today)
 - [all: Run modernize -fix ./...](https://github.com/gohugoio/hugo/pull/13452) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix some related content issues with content adapters](https://github.com/gohugoio/hugo/pull/13447) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
