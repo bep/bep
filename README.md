@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [theme: Swap sidebar order](https://github.com/gohugoio/hugoDocs/pull/2945) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Document transform.PortableText](https://github.com/gohugoio/hugoDocs/pull/2944) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [modern/feb25](https://github.com/bep/overlayfs/pull/10) on [bep/overlayfs](https://github.com/bep/overlayfs) (today)
 - [Make Go 1.23 the lower version](https://github.com/bep/predicate/pull/2) on [bep/predicate](https://github.com/bep/predicate) (today)
 - [modernize/feb25](https://github.com/bep/lazycache/pull/13) on [bep/lazycache](https://github.com/bep/lazycache) (today)
-- [modernize/feb25](https://github.com/bep/godartsass/pull/35) on [bep/godartsass](https://github.com/bep/godartsass) (today)
 
 ### Recent sponsors (big thank you!)
 
