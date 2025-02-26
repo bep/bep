@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Fix some related content issues with content adapters](https://github.com/gohugoio/hugo/pull/13447) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add support for type code](https://github.com/bep/goportabletext/pull/2) on [bep/goportabletext](https://github.com/bep/goportabletext) (today)
-- [Fix potential nilpointer in httpcache config](https://github.com/gohugoio/hugo/pull/13444) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Improve image handling](https://github.com/bep/goportabletext/pull/1) on [bep/goportabletext](https://github.com/bep/goportabletext) (1 day ago)
-- [experiment: Remove CGO/extended version](https://github.com/gohugoio/hugo/pull/13440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix some related content issues with content adapters](https://github.com/gohugoio/hugo/pull/13447) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add support for type code](https://github.com/bep/goportabletext/pull/2) on [bep/goportabletext](https://github.com/bep/goportabletext) (1 day ago)
+- [Fix potential nilpointer in httpcache config](https://github.com/gohugoio/hugo/pull/13444) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Improve image handling](https://github.com/bep/goportabletext/pull/1) on [bep/goportabletext](https://github.com/bep/goportabletext) (2 days ago)
+- [experiment: Remove CGO/extended version](https://github.com/gohugoio/hugo/pull/13440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (1 day ago)
+- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (2 days ago)
 - [wjkoh](https://github.com/wjkoh) (1 week ago)
 - [mrslima](https://github.com/mrslima) (1 week ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (3 weeks ago)
