@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Use the page path and not the backing filename as the last resort in the default sort](https://github.com/gohugoio/hugo/pull/13454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade github.com/rogpeppe/go-internal v1.13.1 =&gt; v1.14.1](https://github.com/gohugoio/hugo/pull/13453) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [feat/go24](https://github.com/bep/execrpc/pull/13) on [bep/execrpc](https://github.com/bep/execrpc) (today)
-- [all: Run modernize -fix ./...](https://github.com/bep/goportabletext/pull/3) on [bep/goportabletext](https://github.com/bep/goportabletext) (today)
-- [all: Run modernize -fix ./...](https://github.com/gohugoio/hugo/pull/13452) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [modern/feb25](https://github.com/bep/overlayfs/pull/10) on [bep/overlayfs](https://github.com/bep/overlayfs) (today)
+- [Make Go 1.23 the lower version](https://github.com/bep/predicate/pull/2) on [bep/predicate](https://github.com/bep/predicate) (today)
+- [modernize/feb25](https://github.com/bep/lazycache/pull/13) on [bep/lazycache](https://github.com/bep/lazycache) (today)
+- [modernize/feb25](https://github.com/bep/godartsass/pull/35) on [bep/godartsass](https://github.com/bep/godartsass) (today)
+- [Make GO 1.23 the lower version](https://github.com/bep/simplecobra/pull/13) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
 
 ### Recent sponsors (big thank you!)
 
