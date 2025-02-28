@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Revert &#34;deps: Upgrade github.com/rogpeppe/go-internal v1.13.1 =&gt; v1.14.1&#34;](https://github.com/gohugoio/hugo/pull/13466) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [theme: Swap sidebar order](https://github.com/gohugoio/hugoDocs/pull/2945) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [Document transform.PortableText](https://github.com/gohugoio/hugoDocs/pull/2944) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [modern/feb25](https://github.com/bep/overlayfs/pull/10) on [bep/overlayfs](https://github.com/bep/overlayfs) (2 days ago)
 - [Make Go 1.23 the lower version](https://github.com/bep/predicate/pull/2) on [bep/predicate](https://github.com/bep/predicate) (2 days ago)
-- [modernize/feb25](https://github.com/bep/lazycache/pull/13) on [bep/lazycache](https://github.com/bep/lazycache) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
