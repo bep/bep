@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [theme: Swap sidebar order](https://github.com/gohugoio/hugoDocs/pull/2945) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [Document transform.PortableText](https://github.com/gohugoio/hugoDocs/pull/2944) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [modern/feb25](https://github.com/bep/overlayfs/pull/10) on [bep/overlayfs](https://github.com/bep/overlayfs) (1 day ago)
-- [Make Go 1.23 the lower version](https://github.com/bep/predicate/pull/2) on [bep/predicate](https://github.com/bep/predicate) (1 day ago)
-- [modernize/feb25](https://github.com/bep/lazycache/pull/13) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
+- [theme: Swap sidebar order](https://github.com/gohugoio/hugoDocs/pull/2945) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [Document transform.PortableText](https://github.com/gohugoio/hugoDocs/pull/2944) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [modern/feb25](https://github.com/bep/overlayfs/pull/10) on [bep/overlayfs](https://github.com/bep/overlayfs) (2 days ago)
+- [Make Go 1.23 the lower version](https://github.com/bep/predicate/pull/2) on [bep/predicate](https://github.com/bep/predicate) (2 days ago)
+- [modernize/feb25](https://github.com/bep/lazycache/pull/13) on [bep/lazycache](https://github.com/bep/lazycache) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (3 days ago)
+- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (4 days ago)
 - [wjkoh](https://github.com/wjkoh) (1 week ago)
-- [mrslima](https://github.com/mrslima) (1 week ago)
+- [mrslima](https://github.com/mrslima) (2 weeks ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (3 weeks ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (1 month ago)
 
