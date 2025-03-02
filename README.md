@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Revert &#34;deps: Upgrade github.com/rogpeppe/go-internal v1.13.1 =&gt; v1.14.1&#34;](https://github.com/gohugoio/hugo/pull/13466) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [theme: Swap sidebar order](https://github.com/gohugoio/hugoDocs/pull/2945) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
-- [Document transform.PortableText](https://github.com/gohugoio/hugoDocs/pull/2944) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
-- [modern/feb25](https://github.com/bep/overlayfs/pull/10) on [bep/overlayfs](https://github.com/bep/overlayfs) (3 days ago)
-- [Make Go 1.23 the lower version](https://github.com/bep/predicate/pull/2) on [bep/predicate](https://github.com/bep/predicate) (3 days ago)
+- [Revert &#34;deps: Upgrade github.com/rogpeppe/go-internal v1.13.1 =&gt; v1.14.1&#34;](https://github.com/gohugoio/hugo/pull/13466) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [theme: Swap sidebar order](https://github.com/gohugoio/hugoDocs/pull/2945) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
+- [Document transform.PortableText](https://github.com/gohugoio/hugoDocs/pull/2944) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
+- [modern/feb25](https://github.com/bep/overlayfs/pull/10) on [bep/overlayfs](https://github.com/bep/overlayfs) (4 days ago)
+- [Make Go 1.23 the lower version](https://github.com/bep/predicate/pull/2) on [bep/predicate](https://github.com/bep/predicate) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (5 days ago)
+- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (6 days ago)
 - [wjkoh](https://github.com/wjkoh) (1 week ago)
 - [mrslima](https://github.com/mrslima) (2 weeks ago)
-- [LNA-DEV](https://github.com/LNA-DEV) (3 weeks ago)
+- [LNA-DEV](https://github.com/LNA-DEV) (4 weeks ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
