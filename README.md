@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [theme: Fix overflow issue for wide tables](https://github.com/gohugoio/hugoDocs/pull/2957) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
-- [commands: Skip flaky test on Windows](https://github.com/gohugoio/hugo/pull/13468) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [theme: Fix overflow issue for wide tables](https://github.com/gohugoio/hugoDocs/pull/2957) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
+- [commands: Skip flaky test on Windows](https://github.com/gohugoio/hugo/pull/13468) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Revert &#34;deps: Upgrade github.com/rogpeppe/go-internal v1.13.1 =&gt; v1.14.1&#34;](https://github.com/gohugoio/hugo/pull/13466) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [theme: Swap sidebar order](https://github.com/gohugoio/hugoDocs/pull/2945) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 - [Document transform.PortableText](https://github.com/gohugoio/hugoDocs/pull/2944) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
