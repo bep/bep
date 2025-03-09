@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [theme: Hide anchor until mouse-over](https://github.com/gohugoio/hugoDocs/pull/2983) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [theme: Fix inline partial refs](https://github.com/gohugoio/hugoDocs/pull/2978) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [theme: Fix overflow issue for wide tables](https://github.com/gohugoio/hugoDocs/pull/2957) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
 - [commands: Skip flaky test on Windows](https://github.com/gohugoio/hugo/pull/13468) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Revert &#34;deps: Upgrade github.com/rogpeppe/go-internal v1.13.1 =&gt; v1.14.1&#34;](https://github.com/gohugoio/hugo/pull/13466) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [theme: Swap sidebar order](https://github.com/gohugoio/hugoDocs/pull/2945) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
