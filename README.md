@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [theme: Hide anchor until mouse-over](https://github.com/gohugoio/hugoDocs/pull/2983) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [theme: Fix inline partial refs](https://github.com/gohugoio/hugoDocs/pull/2978) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [theme: Fix overflow issue for wide tables](https://github.com/gohugoio/hugoDocs/pull/2957) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
-- [commands: Skip flaky test on Windows](https://github.com/gohugoio/hugo/pull/13468) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [theme: Hide anchor until mouse-over](https://github.com/gohugoio/hugoDocs/pull/2983) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [theme: Fix inline partial refs](https://github.com/gohugoio/hugoDocs/pull/2978) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [theme: Fix overflow issue for wide tables](https://github.com/gohugoio/hugoDocs/pull/2957) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
+- [commands: Skip flaky test on Windows](https://github.com/gohugoio/hugo/pull/13468) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Revert &#34;deps: Upgrade github.com/rogpeppe/go-internal v1.13.1 =&gt; v1.14.1&#34;](https://github.com/gohugoio/hugo/pull/13466) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (1 week ago)
+- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (2 weeks ago)
 - [wjkoh](https://github.com/wjkoh) (2 weeks ago)
 - [mrslima](https://github.com/mrslima) (3 weeks ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (1 month ago)
