@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade golang.org/x/mod v0.23.0 =&gt; v0.24.0](https://github.com/gohugoio/hugo/pull/13488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [theme: Add a simple LRU cache for search](https://github.com/gohugoio/hugoDocs/pull/2991) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [Add Algolia logo/link to the search listing dialog](https://github.com/gohugoio/hugoDocs/pull/2989) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [theme: Hide anchor until mouse-over](https://github.com/gohugoio/hugoDocs/pull/2983) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 - [theme: Fix inline partial refs](https://github.com/gohugoio/hugoDocs/pull/2978) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
-- [theme: Fix overflow issue for wide tables](https://github.com/gohugoio/hugoDocs/pull/2957) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
