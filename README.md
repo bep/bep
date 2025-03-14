@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [deps: Upgrade golang.org/x/mod v0.23.0 =&gt; v0.24.0](https://github.com/gohugoio/hugo/pull/13488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [theme: Add a simple LRU cache for search](https://github.com/gohugoio/hugoDocs/pull/2991) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
-- [Add Algolia logo/link to the search listing dialog](https://github.com/gohugoio/hugoDocs/pull/2989) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
-- [theme: Hide anchor until mouse-over](https://github.com/gohugoio/hugoDocs/pull/2983) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
-- [theme: Fix inline partial refs](https://github.com/gohugoio/hugoDocs/pull/2978) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
+- [deps: Upgrade golang.org/x/mod v0.23.0 =&gt; v0.24.0](https://github.com/gohugoio/hugo/pull/13488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [theme: Add a simple LRU cache for search](https://github.com/gohugoio/hugoDocs/pull/2991) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [Add Algolia logo/link to the search listing dialog](https://github.com/gohugoio/hugoDocs/pull/2989) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [theme: Hide anchor until mouse-over](https://github.com/gohugoio/hugoDocs/pull/2983) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
+- [theme: Fix inline partial refs](https://github.com/gohugoio/hugoDocs/pull/2978) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (2 weeks ago)
 - [wjkoh](https://github.com/wjkoh) (3 weeks ago)
-- [mrslima](https://github.com/mrslima) (3 weeks ago)
+- [mrslima](https://github.com/mrslima) (4 weeks ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (1 month ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (1 month ago)
 
