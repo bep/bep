@@ -12,9 +12,9 @@
 
 - [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (2 weeks ago)
 - [wjkoh](https://github.com/wjkoh) (3 weeks ago)
-- [mrslima](https://github.com/mrslima) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (1 month ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (1 month ago)
+- [angusmci](https://github.com/angusmci) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
