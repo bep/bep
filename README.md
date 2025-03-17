@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [identity: Use clear to clear the finder seen map](https://github.com/gohugoio/hugo/pull/13497) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [theme: Update npm dependencies](https://github.com/gohugoio/hugoDocs/pull/2998) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
-- [Add LimitNumTags and LimitTagSize](https://github.com/bep/imagemeta/pull/39) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
-- [deps: Upgrade golang.org/x/mod v0.23.0 =&gt; v0.24.0](https://github.com/gohugoio/hugo/pull/13488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [theme: Add a simple LRU cache for search](https://github.com/gohugoio/hugoDocs/pull/2991) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
+- [identity: Use clear to clear the finder seen map](https://github.com/gohugoio/hugo/pull/13497) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [theme: Update npm dependencies](https://github.com/gohugoio/hugoDocs/pull/2998) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [Add LimitNumTags and LimitTagSize](https://github.com/bep/imagemeta/pull/39) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
+- [deps: Upgrade golang.org/x/mod v0.23.0 =&gt; v0.24.0](https://github.com/gohugoio/hugo/pull/13488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [theme: Add a simple LRU cache for search](https://github.com/gohugoio/hugoDocs/pull/2991) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (2 weeks ago)
+- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (3 weeks ago)
 - [wjkoh](https://github.com/wjkoh) (3 weeks ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (1 month ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (1 month ago)
