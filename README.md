@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Remove safeexec](https://github.com/bep/godartsass/pull/36) on [bep/godartsass](https://github.com/bep/godartsass) (today)
 - [identity: Use clear to clear the finder seen map](https://github.com/gohugoio/hugo/pull/13497) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [theme: Update npm dependencies](https://github.com/gohugoio/hugoDocs/pull/2998) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 - [Add LimitNumTags and LimitTagSize](https://github.com/bep/imagemeta/pull/39) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 week ago)
 - [deps: Upgrade golang.org/x/mod v0.23.0 =&gt; v0.24.0](https://github.com/gohugoio/hugo/pull/13488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [theme: Add a simple LRU cache for search](https://github.com/gohugoio/hugoDocs/pull/2991) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
