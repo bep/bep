@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Remove safeexec](https://github.com/bep/godartsass/pull/36) on [bep/godartsass](https://github.com/bep/godartsass) (today)
+- [Remove safeexec](https://github.com/bep/godartsass/pull/36) on [bep/godartsass](https://github.com/bep/godartsass) (1 day ago)
 - [identity: Use clear to clear the finder seen map](https://github.com/gohugoio/hugo/pull/13497) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [theme: Update npm dependencies](https://github.com/gohugoio/hugoDocs/pull/2998) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 - [Add LimitNumTags and LimitTagSize](https://github.com/bep/imagemeta/pull/39) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 week ago)
@@ -14,7 +14,7 @@
 - [wjkoh](https://github.com/wjkoh) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (1 month ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (1 month ago)
-- [angusmci](https://github.com/angusmci) (1 month ago)
+- [angusmci](https://github.com/angusmci) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
