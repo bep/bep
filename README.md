@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Remove safeexec](https://github.com/bep/godartsass/pull/36) on [bep/godartsass](https://github.com/bep/godartsass) (3 days ago)
+- [Remove safeexec](https://github.com/bep/godartsass/pull/36) on [bep/godartsass](https://github.com/bep/godartsass) (4 days ago)
 - [identity: Use clear to clear the finder seen map](https://github.com/gohugoio/hugo/pull/13497) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [theme: Update npm dependencies](https://github.com/gohugoio/hugoDocs/pull/2998) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 - [Add LimitNumTags and LimitTagSize](https://github.com/bep/imagemeta/pull/39) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 week ago)
-- [deps: Upgrade golang.org/x/mod v0.23.0 =&gt; v0.24.0](https://github.com/gohugoio/hugo/pull/13488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [deps: Upgrade golang.org/x/mod v0.23.0 =&gt; v0.24.0](https://github.com/gohugoio/hugo/pull/13488) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
-- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (4 weeks ago)
+- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (1 month ago)
 - [wjkoh](https://github.com/wjkoh) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (1 month ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (2 months ago)
