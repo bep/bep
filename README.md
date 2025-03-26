@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
-- [M-Hassan-Raza](https://github.com/M-Hassan-Raza) (1 month ago)
 - [wjkoh](https://github.com/wjkoh) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (1 month ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (2 months ago)
 - [angusmci](https://github.com/angusmci) (2 months ago)
+- [crookm](https://github.com/crookm) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
