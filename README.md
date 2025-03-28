@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [common/hreflect: Replace the map/RWMutex method cache with sync.Map](https://github.com/gohugoio/hugo/pull/13529) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Remove safeexec](https://github.com/bep/godartsass/pull/36) on [bep/godartsass](https://github.com/bep/godartsass) (5 days ago)
+- [common/hreflect: Replace the map/RWMutex method cache with sync.Map](https://github.com/gohugoio/hugo/pull/13529) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Remove safeexec](https://github.com/bep/godartsass/pull/36) on [bep/godartsass](https://github.com/bep/godartsass) (6 days ago)
 - [identity: Use clear to clear the finder seen map](https://github.com/gohugoio/hugo/pull/13497) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [theme: Update npm dependencies](https://github.com/gohugoio/hugoDocs/pull/2998) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
-- [Add LimitNumTags and LimitTagSize](https://github.com/bep/imagemeta/pull/39) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 week ago)
+- [theme: Update npm dependencies](https://github.com/gohugoio/hugoDocs/pull/2998) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 weeks ago)
+- [Add LimitNumTags and LimitTagSize](https://github.com/bep/imagemeta/pull/39) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
