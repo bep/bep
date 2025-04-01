@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [Reimplement and simplify Hugo&#39;s template system](https://github.com/gohugoio/hugo/pull/13541) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [common/hreflect: Replace the map/RWMutex method cache with sync.Map](https://github.com/gohugoio/hugo/pull/13529) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Reimplement and simplify Hugo&#39;s template system](https://github.com/gohugoio/hugo/pull/13541) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [common/hreflect: Replace the map/RWMutex method cache with sync.Map](https://github.com/gohugoio/hugo/pull/13529) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Remove safeexec](https://github.com/bep/godartsass/pull/36) on [bep/godartsass](https://github.com/bep/godartsass) (1 week ago)
 - [identity: Use clear to clear the finder seen map](https://github.com/gohugoio/hugo/pull/13497) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [theme: Update npm dependencies](https://github.com/gohugoio/hugoDocs/pull/2998) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 weeks ago)
