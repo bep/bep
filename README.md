@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [deps: Upgrade to TailwindCSS 4.1.0](https://github.com/gohugoio/hugoDocs/pull/3016) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [Reimplement and simplify Hugo&#39;s template system](https://github.com/gohugoio/hugo/pull/13541) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [deps: Upgrade to TailwindCSS 4.1.0](https://github.com/gohugoio/hugoDocs/pull/3016) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [Reimplement and simplify Hugo&#39;s template system](https://github.com/gohugoio/hugo/pull/13541) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [common/hreflect: Replace the map/RWMutex method cache with sync.Map](https://github.com/gohugoio/hugo/pull/13529) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Remove safeexec](https://github.com/bep/godartsass/pull/36) on [bep/godartsass](https://github.com/bep/godartsass) (1 week ago)
 - [identity: Use clear to clear the finder seen map](https://github.com/gohugoio/hugo/pull/13497) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
@@ -11,7 +11,7 @@
 ### Recent sponsors (big thank you!)
 
 - [wjkoh](https://github.com/wjkoh) (1 month ago)
-- [LNA-DEV](https://github.com/LNA-DEV) (1 month ago)
+- [LNA-DEV](https://github.com/LNA-DEV) (2 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (2 months ago)
 - [angusmci](https://github.com/angusmci) (2 months ago)
 - [crookm](https://github.com/crookm) (2 months ago)
