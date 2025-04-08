@@ -2,10 +2,10 @@
 
 ### Recent Pull Requests
 
-- [Misc XMP](https://github.com/bep/imagemeta/pull/43) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Misc](https://github.com/bep/imagemeta/pull/42) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [config: Use the non-global logger for deprecations when possible](https://github.com/gohugoio/hugo/pull/13555) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [deps: Upgrade to TailwindCSS 4.1.0](https://github.com/gohugoio/hugoDocs/pull/3016) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
+- [Misc XMP](https://github.com/bep/imagemeta/pull/43) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Misc](https://github.com/bep/imagemeta/pull/42) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [config: Use the non-global logger for deprecations when possible](https://github.com/gohugoio/hugo/pull/13555) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [deps: Upgrade to TailwindCSS 4.1.0](https://github.com/gohugoio/hugoDocs/pull/3016) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 - [Reimplement and simplify Hugo&#39;s template system](https://github.com/gohugoio/hugo/pull/13541) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
