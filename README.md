@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl: Add templates.Current](https://github.com/gohugoio/hugo/pull/13566) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [npm: Use tilde ranges for versions](https://github.com/gohugoio/hugoDocs/pull/3023) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [deps: TailwindCSS 4.1.3](https://github.com/gohugoio/hugoDocs/pull/3022) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [deps: Upgrade github.com/bep/imagemeta v0.10.0 =&gt; v0.11.0](https://github.com/gohugoio/hugo/pull/13559) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc XMP](https://github.com/bep/imagemeta/pull/43) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Misc](https://github.com/bep/imagemeta/pull/42) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
