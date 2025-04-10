@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl: Skip dot and temp files inside /layouts](https://github.com/gohugoio/hugo/pull/13580) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [theme: Move templates to new structure](https://github.com/gohugoio/hugoDocs/pull/3027) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [tpl: Warn and skip non-hook templates inside /layouts/_markup](https://github.com/gohugoio/hugo/pull/13578) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl: Add a partial lookup cache](https://github.com/gohugoio/hugo/pull/13576) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl: Add templates.Current](https://github.com/gohugoio/hugo/pull/13566) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [npm: Use tilde ranges for versions](https://github.com/gohugoio/hugoDocs/pull/3023) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
-- [deps: TailwindCSS 4.1.3](https://github.com/gohugoio/hugoDocs/pull/3022) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
