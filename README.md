@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl: Warn and skip non-hook templates inside /layouts/_markup](https://github.com/gohugoio/hugo/pull/13578) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl: Add a partial lookup cache](https://github.com/gohugoio/hugo/pull/13576) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl: Add templates.Current](https://github.com/gohugoio/hugo/pull/13566) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [npm: Use tilde ranges for versions](https://github.com/gohugoio/hugoDocs/pull/3023) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [deps: TailwindCSS 4.1.3](https://github.com/gohugoio/hugoDocs/pull/3022) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
-- [deps: Upgrade github.com/bep/imagemeta v0.10.0 =&gt; v0.11.0](https://github.com/gohugoio/hugo/pull/13559) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
