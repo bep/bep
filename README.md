@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13590) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl: Skip dot and temp files inside /layouts](https://github.com/gohugoio/hugo/pull/13580) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [theme: Move templates to new structure](https://github.com/gohugoio/hugoDocs/pull/3027) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [tpl: Warn and skip non-hook templates inside /layouts/_markup](https://github.com/gohugoio/hugo/pull/13578) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl: Add a partial lookup cache](https://github.com/gohugoio/hugo/pull/13576) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl: Add templates.Current](https://github.com/gohugoio/hugo/pull/13566) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
