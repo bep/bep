@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Move to new theme](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/554) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (today)
+- [Move to new theme](https://github.com/gohugoio/hugoThemesSite/pull/77) on [gohugoio/hugoThemesSite](https://github.com/gohugoio/hugoThemesSite) (today)
 - [Misc updates for moving the theme site to use this theme](https://github.com/gohugoio/hugoDocs/pull/3029) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13597) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl: Fix codeblock hook resolve issue](https://github.com/gohugoio/hugo/pull/13594) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13590) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl: Skip dot and temp files inside /layouts](https://github.com/gohugoio/hugo/pull/13580) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
