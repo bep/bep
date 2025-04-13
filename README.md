@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13597) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl: Fix codeblock hook resolve issue](https://github.com/gohugoio/hugo/pull/13594) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13590) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl: Skip dot and temp files inside /layouts](https://github.com/gohugoio/hugo/pull/13580) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [theme: Move templates to new structure](https://github.com/gohugoio/hugoDocs/pull/3027) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13597) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl: Fix codeblock hook resolve issue](https://github.com/gohugoio/hugo/pull/13594) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13590) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl: Skip dot and temp files inside /layouts](https://github.com/gohugoio/hugo/pull/13580) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [theme: Move templates to new structure](https://github.com/gohugoio/hugoDocs/pull/3027) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
@@ -14,7 +14,7 @@
 - [LNA-DEV](https://github.com/LNA-DEV) (2 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (2 months ago)
 - [angusmci](https://github.com/angusmci) (2 months ago)
-- [crookm](https://github.com/crookm) (2 months ago)
+- [crookm](https://github.com/crookm) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
