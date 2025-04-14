@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Update theme.toml](https://github.com/adityatelange/hugo-PaperMod/pull/1724) on [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) (today)
-- [Simplify module setup](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/555) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (today)
-- [Move to new theme](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/554) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (today)
-- [Move to new theme](https://github.com/gohugoio/hugoThemesSite/pull/77) on [gohugoio/hugoThemesSite](https://github.com/gohugoio/hugoThemesSite) (today)
-- [Misc updates for moving the theme site to use this theme](https://github.com/gohugoio/hugoDocs/pull/3029) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
+- [Update theme.toml](https://github.com/adityatelange/hugo-PaperMod/pull/1724) on [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) (1 day ago)
+- [Simplify module setup](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/555) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 day ago)
+- [Move to new theme](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/554) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 day ago)
+- [Move to new theme](https://github.com/gohugoio/hugoThemesSite/pull/77) on [gohugoio/hugoThemesSite](https://github.com/gohugoio/hugoThemesSite) (1 day ago)
+- [Misc updates for moving the theme site to use this theme](https://github.com/gohugoio/hugoDocs/pull/3029) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
