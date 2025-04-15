@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [tpl: Remove some unreached code branches](https://github.com/gohugoio/hugo/pull/13610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13608) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Update theme.toml](https://github.com/adityatelange/hugo-PaperMod/pull/1724) on [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) (1 day ago)
-- [Simplify module setup](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/555) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 day ago)
-- [Move to new theme](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/554) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 day ago)
+- [tpl: Remove some unreached code branches](https://github.com/gohugoio/hugo/pull/13610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13608) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Update theme.toml](https://github.com/adityatelange/hugo-PaperMod/pull/1724) on [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) (2 days ago)
+- [Simplify module setup](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/555) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (2 days ago)
+- [Move to new theme](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/554) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
