@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [tpl: Fix language handling in partials](https://github.com/gohugoio/hugo/pull/13614) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl: Remove some unreached code branches](https://github.com/gohugoio/hugo/pull/13610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13608) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Update theme.toml](https://github.com/adityatelange/hugo-PaperMod/pull/1724) on [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) (2 days ago)
-- [Simplify module setup](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/555) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (2 days ago)
+- [tpl: Fix language handling in partials](https://github.com/gohugoio/hugo/pull/13614) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl: Remove some unreached code branches](https://github.com/gohugoio/hugo/pull/13610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13608) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Update theme.toml](https://github.com/adityatelange/hugo-PaperMod/pull/1724) on [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) (3 days ago)
+- [Simplify module setup](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/555) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
