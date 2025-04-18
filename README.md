@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [theme: Rename internal templates from partials/ to _partials/](https://github.com/gohugoio/hugoDocs/pull/3035) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [tpl: Fix language handling in partials](https://github.com/gohugoio/hugo/pull/13614) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [tpl: Remove some unreached code branches](https://github.com/gohugoio/hugo/pull/13610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13608) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Update theme.toml](https://github.com/adityatelange/hugo-PaperMod/pull/1724) on [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) (5 days ago)
-- [Simplify module setup](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/555) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
