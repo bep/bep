@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [theme: Rename internal templates from partials/ to _partials/](https://github.com/gohugoio/hugoDocs/pull/3035) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [tpl: Fix language handling in partials](https://github.com/gohugoio/hugo/pull/13614) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [tpl: Remove some unreached code branches](https://github.com/gohugoio/hugo/pull/13610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13608) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Update theme.toml](https://github.com/adityatelange/hugo-PaperMod/pull/1724) on [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) (6 days ago)
+- [theme: Rename internal templates from partials/ to _partials/](https://github.com/gohugoio/hugoDocs/pull/3035) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [tpl: Fix language handling in partials](https://github.com/gohugoio/hugo/pull/13614) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [tpl: Remove some unreached code branches](https://github.com/gohugoio/hugo/pull/13610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13608) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Update theme.toml](https://github.com/adityatelange/hugo-PaperMod/pull/1724) on [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [olehermanse](https://github.com/olehermanse) (1 day ago)
+- [olehermanse](https://github.com/olehermanse) (2 days ago)
 - [wjkoh](https://github.com/wjkoh) (2 months ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (2 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (2 months ago)
