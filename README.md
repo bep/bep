@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl: Detect and fail on infinite template recursion](https://github.com/gohugoio/hugo/pull/13631) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl: Fix when layout specified in front matter and no match is found](https://github.com/gohugoio/hugo/pull/13629) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [theme: Rename internal templates from partials/ to _partials/](https://github.com/gohugoio/hugoDocs/pull/3035) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [tpl: Fix language handling in partials](https://github.com/gohugoio/hugo/pull/13614) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [tpl: Remove some unreached code branches](https://github.com/gohugoio/hugo/pull/13610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [tpl: Misc fixes](https://github.com/gohugoio/hugo/pull/13608) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
