@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [tpl: Detect and fail on infinite template recursion](https://github.com/gohugoio/hugo/pull/13631) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/13631) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl: Fix when layout specified in front matter and no match is found](https://github.com/gohugoio/hugo/pull/13629) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [theme: Rename internal templates from partials/ to _partials/](https://github.com/gohugoio/hugoDocs/pull/3035) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 - [tpl: Fix language handling in partials](https://github.com/gohugoio/hugo/pull/13614) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
