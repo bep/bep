@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Revert the breaking change from 0.146.0 with dots in content filenames](https://github.com/gohugoio/hugo/pull/13639) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/13638) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl: Fix indeterminate template lookup with templates with and withou… …t lang](https://github.com/gohugoio/hugo/pull/13637) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/13631) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [tpl: Fix when layout specified in front matter and no match is found](https://github.com/gohugoio/hugo/pull/13629) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [theme: Rename internal templates from partials/ to _partials/](https://github.com/gohugoio/hugoDocs/pull/3035) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
