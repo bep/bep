@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [tpl: Add a test case](https://github.com/gohugoio/hugo/pull/13637) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/13631) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl: Fix when layout specified in front matter and no match is found](https://github.com/gohugoio/hugo/pull/13629) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [theme: Rename internal templates from partials/ to _partials/](https://github.com/gohugoio/hugoDocs/pull/3035) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
-- [tpl: Fix language handling in partials](https://github.com/gohugoio/hugo/pull/13614) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [tpl: Add a test case](https://github.com/gohugoio/hugo/pull/13637) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/13631) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl: Fix when layout specified in front matter and no match is found](https://github.com/gohugoio/hugo/pull/13629) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [theme: Rename internal templates from partials/ to _partials/](https://github.com/gohugoio/hugoDocs/pull/3035) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
+- [tpl: Fix language handling in partials](https://github.com/gohugoio/hugo/pull/13614) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [olehermanse](https://github.com/olehermanse) (3 days ago)
+- [olehermanse](https://github.com/olehermanse) (4 days ago)
 - [wjkoh](https://github.com/wjkoh) (2 months ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (2 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (2 months ago)
-- [angusmci](https://github.com/angusmci) (2 months ago)
+- [angusmci](https://github.com/angusmci) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
