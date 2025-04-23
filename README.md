@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Check the _merge setup](https://github.com/gohugoio/hugo/pull/13644) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Revert the breaking change from 0.146.0 with dots in content filenames](https://github.com/gohugoio/hugo/pull/13639) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/13638) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl: Fix indeterminate template lookup with templates with and withou… …t lang](https://github.com/gohugoio/hugo/pull/13637) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/13631) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [tpl: Fix when layout specified in front matter and no match is found](https://github.com/gohugoio/hugo/pull/13629) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
