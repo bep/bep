@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [images.Text: Add option for vertical alignment](https://github.com/gohugoio/hugo/pull/13647) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Check the _merge setup](https://github.com/gohugoio/hugo/pull/13644) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Revert the breaking change from 0.146.0 with dots in content filenames](https://github.com/gohugoio/hugo/pull/13639) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/13638) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl: Fix indeterminate template lookup with templates with and withou… …t lang](https://github.com/gohugoio/hugo/pull/13637) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [images.Text: Add option for vertical alignment](https://github.com/gohugoio/hugo/pull/13647) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Check the _merge setup](https://github.com/gohugoio/hugo/pull/13644) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Revert the breaking change from 0.146.0 with dots in content filenames](https://github.com/gohugoio/hugo/pull/13639) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/13638) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [tpl: Fix indeterminate template lookup with templates with and withou… …t lang](https://github.com/gohugoio/hugo/pull/13637) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [olehermanse](https://github.com/olehermanse) (6 days ago)
+- [olehermanse](https://github.com/olehermanse) (1 week ago)
 - [wjkoh](https://github.com/wjkoh) (2 months ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (2 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (3 months ago)
