@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [tpl: Fix it so we always prefer internal codeblock rendering over render-codeblock-foo.html and similar](https://github.com/gohugoio/hugo/pull/13653) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [images.Text: Add option for vertical alignment](https://github.com/gohugoio/hugo/pull/13647) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Check the _merge setup](https://github.com/gohugoio/hugo/pull/13644) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Revert the breaking change from 0.146.0 with dots in content filenames](https://github.com/gohugoio/hugo/pull/13639) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/13638) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [tpl: Fix it so we always prefer internal codeblock rendering over render-codeblock-foo.html and similar](https://github.com/gohugoio/hugo/pull/13653) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [images.Text: Add option for vertical alignment](https://github.com/gohugoio/hugo/pull/13647) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Check the _merge setup](https://github.com/gohugoio/hugo/pull/13644) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Revert the breaking change from 0.146.0 with dots in content filenames](https://github.com/gohugoio/hugo/pull/13639) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/13638) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
