@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix it so the owning taxonomy gets rerendered in server when new tags are added](https://github.com/gohugoio/hugo/pull/13662) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add roles and versions as new dimensions (in addition to language)](https://github.com/gohugoio/hugo/pull/13660) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Role based output](https://github.com/gohugoio/hugo/pull/13658) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl: Fix it so we always prefer internal codeblock rendering over render-codeblock-foo.html and similar](https://github.com/gohugoio/hugo/pull/13653) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [images.Text: Add option for vertical alignment](https://github.com/gohugoio/hugo/pull/13647) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Check the _merge setup](https://github.com/gohugoio/hugo/pull/13644) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
