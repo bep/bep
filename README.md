@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [tpl: Fix overlapping layout sections](https://github.com/gohugoio/hugo/pull/13673) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix it so the owning taxonomy gets rerendered in server when new tags are added](https://github.com/gohugoio/hugo/pull/13662) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add roles and versions as new dimensions (in addition to language)](https://github.com/gohugoio/hugo/pull/13660) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Role based output](https://github.com/gohugoio/hugo/pull/13658) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [tpl: Fix it so we always prefer internal codeblock rendering over render-codeblock-foo.html and similar](https://github.com/gohugoio/hugo/pull/13653) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [tpl: Fix overlapping layout sections](https://github.com/gohugoio/hugo/pull/13673) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix it so the owning taxonomy gets rerendered in server when new tags are added](https://github.com/gohugoio/hugo/pull/13662) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add roles and versions as new dimensions (in addition to language)](https://github.com/gohugoio/hugo/pull/13660) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Role based output](https://github.com/gohugoio/hugo/pull/13658) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [tpl: Fix it so we always prefer internal codeblock rendering over render-codeblock-foo.html and similar](https://github.com/gohugoio/hugo/pull/13653) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
