@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [theme: Misc adjustments](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/562) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (today)
 - [Add roles and versions as new dimensions (in addition to language) ](https://github.com/gohugoio/hugo/pull/13679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl: Add some more test cases](https://github.com/gohugoio/hugo/pull/13676) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl: Fix overlapping layout sections](https://github.com/gohugoio/hugo/pull/13673) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix it so the owning taxonomy gets rerendered in server when new tags are added](https://github.com/gohugoio/hugo/pull/13662) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Add roles and versions as new dimensions (in addition to language)](https://github.com/gohugoio/hugo/pull/13660) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
