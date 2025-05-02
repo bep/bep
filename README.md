@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add roles and versions as new dimensions (in addition to language) ](https://github.com/gohugoio/hugo/pull/13679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl: Add some more test cases](https://github.com/gohugoio/hugo/pull/13676) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl: Fix overlapping layout sections](https://github.com/gohugoio/hugo/pull/13673) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix it so the owning taxonomy gets rerendered in server when new tags are added](https://github.com/gohugoio/hugo/pull/13662) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add roles and versions as new dimensions (in addition to language)](https://github.com/gohugoio/hugo/pull/13660) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add roles and versions as new dimensions (in addition to language) ](https://github.com/gohugoio/hugo/pull/13679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl: Add some more test cases](https://github.com/gohugoio/hugo/pull/13676) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl: Fix overlapping layout sections](https://github.com/gohugoio/hugo/pull/13673) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix it so the owning taxonomy gets rerendered in server when new tags are added](https://github.com/gohugoio/hugo/pull/13662) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add roles and versions as new dimensions (in addition to language)](https://github.com/gohugoio/hugo/pull/13660) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [olehermanse](https://github.com/olehermanse) (1 week ago)
+- [olehermanse](https://github.com/olehermanse) (2 weeks ago)
 - [wjkoh](https://github.com/wjkoh) (2 months ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (2 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (3 months ago)
