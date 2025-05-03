@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [config: Add some more merge tests](https://github.com/gohugoio/hugo/pull/13682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [theme: Misc adjustments](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/562) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (today)
-- [Add roles and versions as new dimensions (in addition to language) ](https://github.com/gohugoio/hugo/pull/13679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl: Add some more test cases](https://github.com/gohugoio/hugo/pull/13676) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl: Fix overlapping layout sections](https://github.com/gohugoio/hugo/pull/13673) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [config: Add some more merge tests](https://github.com/gohugoio/hugo/pull/13682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [theme: Misc adjustments](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/562) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 day ago)
+- [Add roles and versions as new dimensions (in addition to language) ](https://github.com/gohugoio/hugo/pull/13679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl: Add some more test cases](https://github.com/gohugoio/hugo/pull/13676) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl: Fix overlapping layout sections](https://github.com/gohugoio/hugo/pull/13673) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [olehermanse](https://github.com/olehermanse) (2 weeks ago)
 - [wjkoh](https://github.com/wjkoh) (2 months ago)
-- [LNA-DEV](https://github.com/LNA-DEV) (2 months ago)
+- [LNA-DEV](https://github.com/LNA-DEV) (3 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (3 months ago)
 - [angusmci](https://github.com/angusmci) (3 months ago)
 
