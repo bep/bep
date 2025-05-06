@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [tpl: Fix case issue in templates.Exists](https://github.com/gohugoio/hugo/pull/13686) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Prev next buttons](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/564) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (2 days ago)
-- [config: Add some more merge tests](https://github.com/gohugoio/hugo/pull/13682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [theme: Misc adjustments](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/562) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (3 days ago)
-- [Add roles and versions as new dimensions (in addition to language) ](https://github.com/gohugoio/hugo/pull/13679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [tpl: Fix case issue in templates.Exists](https://github.com/gohugoio/hugo/pull/13686) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Prev next buttons](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/564) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (3 days ago)
+- [config: Add some more merge tests](https://github.com/gohugoio/hugo/pull/13682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [theme: Misc adjustments](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/562) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (4 days ago)
+- [Add roles and versions as new dimensions (in addition to language) ](https://github.com/gohugoio/hugo/pull/13679) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
