@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Fix handling of &#34;outputs&#34; from content adapter pages](https://github.com/gohugoio/hugo/pull/13690) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl: Fix case issue in templates.Exists](https://github.com/gohugoio/hugo/pull/13686) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Prev next buttons](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/564) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (3 days ago)
-- [config: Add some more merge tests](https://github.com/gohugoio/hugo/pull/13682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [theme: Misc adjustments](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/562) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (4 days ago)
+- [Fix handling of &#34;outputs&#34; from content adapter pages](https://github.com/gohugoio/hugo/pull/13690) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl: Fix case issue in templates.Exists](https://github.com/gohugoio/hugo/pull/13686) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Prev next buttons](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/564) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (4 days ago)
+- [config: Add some more merge tests](https://github.com/gohugoio/hugo/pull/13682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [theme: Misc adjustments](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/562) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
