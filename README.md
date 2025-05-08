@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add a one pager about the new template system](https://github.com/gohugoio/hugoDocs/pull/3059) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Fix/implement cascade for content adapters](https://github.com/gohugoio/hugo/pull/13696) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix handling of &#34;outputs&#34; from content adapter pages](https://github.com/gohugoio/hugo/pull/13690) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [tpl: Fix case issue in templates.Exists](https://github.com/gohugoio/hugo/pull/13686) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Prev next buttons](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/564) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (5 days ago)
-- [config: Add some more merge tests](https://github.com/gohugoio/hugo/pull/13682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
