@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [config: Fix env override of slices](https://github.com/gohugoio/hugo/pull/13709) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add a one pager about the new template system](https://github.com/gohugoio/hugoDocs/pull/3059) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 - [Fix/implement cascade for content adapters](https://github.com/gohugoio/hugo/pull/13696) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Fix handling of &#34;outputs&#34; from content adapter pages](https://github.com/gohugoio/hugo/pull/13690) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [tpl: Fix case issue in templates.Exists](https://github.com/gohugoio/hugo/pull/13686) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Prev next buttons](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/564) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
