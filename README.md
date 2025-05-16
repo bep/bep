@@ -12,9 +12,9 @@
 
 - [rpapallas](https://github.com/rpapallas) (1 week ago)
 - [olehermanse](https://github.com/olehermanse) (4 weeks ago)
-- [wjkoh](https://github.com/wjkoh) (2 months ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (3 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (3 months ago)
+- [angusmci](https://github.com/angusmci) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
