@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/13716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [config: Fix env override of slices](https://github.com/gohugoio/hugo/pull/13709) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/13716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [config: Fix env override of slices](https://github.com/gohugoio/hugo/pull/13709) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add a one pager about the new template system](https://github.com/gohugoio/hugoDocs/pull/3059) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 - [Fix/implement cascade for content adapters](https://github.com/gohugoio/hugo/pull/13696) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix handling of &#34;outputs&#34; from content adapter pages](https://github.com/gohugoio/hugo/pull/13690) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
@@ -11,7 +11,7 @@
 ### Recent sponsors (big thank you!)
 
 - [rpapallas](https://github.com/rpapallas) (1 week ago)
-- [olehermanse](https://github.com/olehermanse) (4 weeks ago)
+- [olehermanse](https://github.com/olehermanse) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (3 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (3 months ago)
 - [angusmci](https://github.com/angusmci) (3 months ago)
