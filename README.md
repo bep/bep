@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Fix it so css.TailwindCSS inlineImports options isn&#39;t always enabled  (note)](https://github.com/gohugoio/hugo/pull/13720) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/13716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix it so css.TailwindCSS inlineImports options isn&#39;t always enabled  (note)](https://github.com/gohugoio/hugo/pull/13720) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/13716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [config: Fix env override of slices](https://github.com/gohugoio/hugo/pull/13709) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add a one pager about the new template system](https://github.com/gohugoio/hugoDocs/pull/3059) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
-- [Fix/implement cascade for content adapters](https://github.com/gohugoio/hugo/pull/13696) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Fix/implement cascade for content adapters](https://github.com/gohugoio/hugo/pull/13696) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
