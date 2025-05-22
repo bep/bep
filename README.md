@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Fix live reload when editing inline partials](https://github.com/gohugoio/hugo/pull/13725) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix it so css.TailwindCSS inlineImports options isn&#39;t always enabled  (note)](https://github.com/gohugoio/hugo/pull/13720) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/13716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix live reload when editing inline partials](https://github.com/gohugoio/hugo/pull/13725) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix it so css.TailwindCSS inlineImports options isn&#39;t always enabled  (note)](https://github.com/gohugoio/hugo/pull/13720) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/13716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [config: Fix env override of slices](https://github.com/gohugoio/hugo/pull/13709) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Add a one pager about the new template system](https://github.com/gohugoio/hugoDocs/pull/3059) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
+- [Add a one pager about the new template system](https://github.com/gohugoio/hugoDocs/pull/3059) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
-- [rpapallas](https://github.com/rpapallas) (1 week ago)
+- [rpapallas](https://github.com/rpapallas) (2 weeks ago)
 - [olehermanse](https://github.com/olehermanse) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (3 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (3 months ago)
-- [angusmci](https://github.com/angusmci) (3 months ago)
+- [angusmci](https://github.com/angusmci) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
