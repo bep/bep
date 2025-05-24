@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [commands: Make sure the browser gets refreshed on changes when --disableFastRender is set](https://github.com/gohugoio/hugo/pull/13734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix live reload when editing inline partials](https://github.com/gohugoio/hugo/pull/13725) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix it so css.TailwindCSS inlineImports options isn&#39;t always enabled  (note)](https://github.com/gohugoio/hugo/pull/13720) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [commands: Make sure the browser gets refreshed on changes when --disableFastRender is set](https://github.com/gohugoio/hugo/pull/13734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix live reload when editing inline partials](https://github.com/gohugoio/hugo/pull/13725) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix it so css.TailwindCSS inlineImports options isn&#39;t always enabled  (note)](https://github.com/gohugoio/hugo/pull/13720) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/13716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [config: Fix env override of slices](https://github.com/gohugoio/hugo/pull/13709) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
@@ -13,7 +13,7 @@
 - [rpapallas](https://github.com/rpapallas) (2 weeks ago)
 - [olehermanse](https://github.com/olehermanse) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (3 months ago)
-- [davidbeckonline](https://github.com/davidbeckonline) (3 months ago)
+- [davidbeckonline](https://github.com/davidbeckonline) (4 months ago)
 - [angusmci](https://github.com/angusmci) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
