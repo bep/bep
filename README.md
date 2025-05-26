@@ -2,10 +2,10 @@
 
 ### Recent Pull Requests
 
-- [Some TailwindCSS dir tests](https://github.com/gohugoio/hugo/pull/13739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [commands: Make sure the browser gets refreshed on changes when --disableFastRender is set](https://github.com/gohugoio/hugo/pull/13734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix live reload when editing inline partials](https://github.com/gohugoio/hugo/pull/13725) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix it so css.TailwindCSS inlineImports options isn&#39;t always enabled  (note)](https://github.com/gohugoio/hugo/pull/13720) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Some TailwindCSS dir tests](https://github.com/gohugoio/hugo/pull/13739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [commands: Make sure the browser gets refreshed on changes when --disableFastRender is set](https://github.com/gohugoio/hugo/pull/13734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix live reload when editing inline partials](https://github.com/gohugoio/hugo/pull/13725) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix it so css.TailwindCSS inlineImports options isn&#39;t always enabled  (note)](https://github.com/gohugoio/hugo/pull/13720) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/13716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
