@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [hacdias](https://github.com/hacdias) (today)
 - [rpapallas](https://github.com/rpapallas) (2 weeks ago)
 - [olehermanse](https://github.com/olehermanse) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (3 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (4 months ago)
-- [angusmci](https://github.com/angusmci) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
