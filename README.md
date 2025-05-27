@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Fix recent regression with cascading of params to content adapters](https://github.com/gohugoio/hugo/pull/13744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix it so e.g. de in layouts/_shortcodes/de.html is not interpreted as a language code](https://github.com/gohugoio/hugo/pull/13741) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Some TailwindCSS dir tests](https://github.com/gohugoio/hugo/pull/13739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [commands: Make sure the browser gets refreshed on changes when --disableFastRender is set](https://github.com/gohugoio/hugo/pull/13734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix live reload when editing inline partials](https://github.com/gohugoio/hugo/pull/13725) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix recent regression with cascading of params to content adapters](https://github.com/gohugoio/hugo/pull/13744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix it so e.g. de in layouts/_shortcodes/de.html is not interpreted as a language code](https://github.com/gohugoio/hugo/pull/13741) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Some TailwindCSS dir tests](https://github.com/gohugoio/hugo/pull/13739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [commands: Make sure the browser gets refreshed on changes when --disableFastRender is set](https://github.com/gohugoio/hugo/pull/13734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix live reload when editing inline partials](https://github.com/gohugoio/hugo/pull/13725) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
