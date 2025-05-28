@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Fix recent regression with cascading of params to content adapters](https://github.com/gohugoio/hugo/pull/13744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix it so e.g. de in layouts/_shortcodes/de.html is not interpreted as a language code](https://github.com/gohugoio/hugo/pull/13741) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Some TailwindCSS dir tests](https://github.com/gohugoio/hugo/pull/13739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [commands: Make sure the browser gets refreshed on changes when --disableFastRender is set](https://github.com/gohugoio/hugo/pull/13734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix live reload when editing inline partials](https://github.com/gohugoio/hugo/pull/13725) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Fix recent regression with cascading of params to content adapters](https://github.com/gohugoio/hugo/pull/13744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix it so e.g. de in layouts/_shortcodes/de.html is not interpreted as a language code](https://github.com/gohugoio/hugo/pull/13741) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Some TailwindCSS dir tests](https://github.com/gohugoio/hugo/pull/13739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [commands: Make sure the browser gets refreshed on changes when --disableFastRender is set](https://github.com/gohugoio/hugo/pull/13734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix live reload when editing inline partials](https://github.com/gohugoio/hugo/pull/13725) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [hacdias](https://github.com/hacdias) (today)
+- [hacdias](https://github.com/hacdias) (1 day ago)
 - [rpapallas](https://github.com/rpapallas) (2 weeks ago)
 - [olehermanse](https://github.com/olehermanse) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (3 months ago)
