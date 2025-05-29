@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [deps: Upgrade github.com/olekukonko/tablewriter v0.0.5 =&gt; v1.0.7](https://github.com/gohugoio/hugo/pull/13752) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Make sure that unreferenced but changed bundle resources gets republished](https://github.com/gohugoio/hugo/pull/13751) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix recent regression with cascading of params to content adapters](https://github.com/gohugoio/hugo/pull/13744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix it so e.g. de in layouts/_shortcodes/de.html is not interpreted as a language code](https://github.com/gohugoio/hugo/pull/13741) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Some TailwindCSS dir tests](https://github.com/gohugoio/hugo/pull/13739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [deps: Upgrade github.com/olekukonko/tablewriter v0.0.5 =&gt; v1.0.7](https://github.com/gohugoio/hugo/pull/13752) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Make sure that unreferenced but changed bundle resources gets republished](https://github.com/gohugoio/hugo/pull/13751) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix recent regression with cascading of params to content adapters](https://github.com/gohugoio/hugo/pull/13744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix it so e.g. de in layouts/_shortcodes/de.html is not interpreted as a language code](https://github.com/gohugoio/hugo/pull/13741) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Some TailwindCSS dir tests](https://github.com/gohugoio/hugo/pull/13739) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [hacdias](https://github.com/hacdias) (1 day ago)
-- [rpapallas](https://github.com/rpapallas) (2 weeks ago)
+- [hacdias](https://github.com/hacdias) (2 days ago)
+- [rpapallas](https://github.com/rpapallas) (3 weeks ago)
 - [olehermanse](https://github.com/olehermanse) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (3 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (4 months ago)
