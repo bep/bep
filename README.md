@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Handle KaTeX warnings](https://github.com/gohugoio/hugo/pull/13760) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Handle console.warn from KaTeX](https://github.com/gohugoio/hugo/pull/13759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade github.com/olekukonko/tablewriter v0.0.5 =&gt; v1.0.7](https://github.com/gohugoio/hugo/pull/13752) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Make sure that unreferenced but changed bundle resources gets republished](https://github.com/gohugoio/hugo/pull/13751) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix recent regression with cascading of params to content adapters](https://github.com/gohugoio/hugo/pull/13744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix it so e.g. de in layouts/_shortcodes/de.html is not interpreted as a language code](https://github.com/gohugoio/hugo/pull/13741) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
