@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix language handling in shortcode templates](https://github.com/gohugoio/hugo/pull/13768) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Handle KaTeX warnings](https://github.com/gohugoio/hugo/pull/13760) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Handle console.warn from KaTeX](https://github.com/gohugoio/hugo/pull/13759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [deps: Upgrade github.com/olekukonko/tablewriter v0.0.5 =&gt; v1.0.7](https://github.com/gohugoio/hugo/pull/13752) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Make sure that unreferenced but changed bundle resources gets republished](https://github.com/gohugoio/hugo/pull/13751) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix recent regression with cascading of params to content adapters](https://github.com/gohugoio/hugo/pull/13744) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
