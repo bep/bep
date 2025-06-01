@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Fix language handling in shortcode templates](https://github.com/gohugoio/hugo/pull/13768) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Handle KaTeX warnings](https://github.com/gohugoio/hugo/pull/13760) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Handle console.warn from KaTeX](https://github.com/gohugoio/hugo/pull/13759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [deps: Upgrade github.com/olekukonko/tablewriter v0.0.5 =&gt; v1.0.7](https://github.com/gohugoio/hugo/pull/13752) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Make sure that unreferenced but changed bundle resources gets republished](https://github.com/gohugoio/hugo/pull/13751) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix language handling in shortcode templates](https://github.com/gohugoio/hugo/pull/13768) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Handle KaTeX warnings](https://github.com/gohugoio/hugo/pull/13760) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Handle console.warn from KaTeX](https://github.com/gohugoio/hugo/pull/13759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [deps: Upgrade github.com/olekukonko/tablewriter v0.0.5 =&gt; v1.0.7](https://github.com/gohugoio/hugo/pull/13752) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Make sure that unreferenced but changed bundle resources gets republished](https://github.com/gohugoio/hugo/pull/13751) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [hacdias](https://github.com/hacdias) (4 days ago)
+- [hacdias](https://github.com/hacdias) (5 days ago)
 - [rpapallas](https://github.com/rpapallas) (3 weeks ago)
 - [olehermanse](https://github.com/olehermanse) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (3 months ago)
