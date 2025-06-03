@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [all: Replace _build with build in tests](https://github.com/gohugoio/hugo/pull/13771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [theme: Remove the print only QR code header](https://github.com/gohugoio/hugoDocs/pull/3095) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [Fix language handling in shortcode templates](https://github.com/gohugoio/hugo/pull/13768) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Handle KaTeX warnings](https://github.com/gohugoio/hugo/pull/13760) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Handle console.warn from KaTeX](https://github.com/gohugoio/hugo/pull/13759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [all: Replace _build with build in tests](https://github.com/gohugoio/hugo/pull/13771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [theme: Remove the print only QR code header](https://github.com/gohugoio/hugoDocs/pull/3095) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [Fix language handling in shortcode templates](https://github.com/gohugoio/hugo/pull/13768) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Handle KaTeX warnings](https://github.com/gohugoio/hugo/pull/13760) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Handle console.warn from KaTeX](https://github.com/gohugoio/hugo/pull/13759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [hacdias](https://github.com/hacdias) (6 days ago)
+- [hacdias](https://github.com/hacdias) (1 week ago)
 - [rpapallas](https://github.com/rpapallas) (3 weeks ago)
 - [olehermanse](https://github.com/olehermanse) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (4 months ago)
