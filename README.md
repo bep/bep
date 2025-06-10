@@ -10,7 +10,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [hacdias](https://github.com/hacdias) (1 week ago)
+- [hacdias](https://github.com/hacdias) (2 weeks ago)
 - [rpapallas](https://github.com/rpapallas) (1 month ago)
 - [olehermanse](https://github.com/olehermanse) (1 month ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (4 months ago)
