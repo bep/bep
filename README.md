@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [all: Replace _build with build in tests](https://github.com/gohugoio/hugo/pull/13771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [theme: Remove the print only QR code header](https://github.com/gohugoio/hugoDocs/pull/3095) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
-- [Fix language handling in shortcode templates](https://github.com/gohugoio/hugo/pull/13768) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [Handle KaTeX warnings](https://github.com/gohugoio/hugo/pull/13760) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [Handle console.warn from KaTeX](https://github.com/gohugoio/hugo/pull/13759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
+- [Remove WARN with false negatives](https://github.com/gohugoio/hugo/pull/13814) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [resources/page: Make sure a map is always initialized](https://github.com/gohugoio/hugo/pull/13812) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Allow creating home pages from content adapters](https://github.com/gohugoio/hugo/pull/13801) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [all: Replace _build with build in tests](https://github.com/gohugoio/hugo/pull/13771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
+- [theme: Remove the print only QR code header](https://github.com/gohugoio/hugoDocs/pull/3095) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
-- [hacdias](https://github.com/hacdias) (2 weeks ago)
+- [hacdias](https://github.com/hacdias) (3 weeks ago)
 - [rpapallas](https://github.com/rpapallas) (1 month ago)
-- [olehermanse](https://github.com/olehermanse) (1 month ago)
+- [olehermanse](https://github.com/olehermanse) (2 months ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (4 months ago)
-- [davidbeckonline](https://github.com/davidbeckonline) (4 months ago)
+- [davidbeckonline](https://github.com/davidbeckonline) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
