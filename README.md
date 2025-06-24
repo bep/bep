@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Remove WARN with false negatives](https://github.com/gohugoio/hugo/pull/13814) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [resources/page: Make sure a map is always initialized](https://github.com/gohugoio/hugo/pull/13812) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Remove WARN with false negatives](https://github.com/gohugoio/hugo/pull/13814) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [resources/page: Make sure a map is always initialized](https://github.com/gohugoio/hugo/pull/13812) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Allow creating home pages from content adapters](https://github.com/gohugoio/hugo/pull/13801) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [all: Replace _build with build in tests](https://github.com/gohugoio/hugo/pull/13771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 - [theme: Remove the print only QR code header](https://github.com/gohugoio/hugoDocs/pull/3095) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
-- [hacdias](https://github.com/hacdias) (3 weeks ago)
+- [hacdias](https://github.com/hacdias) (4 weeks ago)
 - [rpapallas](https://github.com/rpapallas) (1 month ago)
 - [olehermanse](https://github.com/olehermanse) (2 months ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (4 months ago)
