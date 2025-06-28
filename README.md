@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add some fake versions setup](https://github.com/gohugoio/hugoDocs/pull/3117) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Remove WARN with false negatives](https://github.com/gohugoio/hugo/pull/13814) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [resources/page: Make sure a map is always initialized](https://github.com/gohugoio/hugo/pull/13812) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Allow creating home pages from content adapters](https://github.com/gohugoio/hugo/pull/13801) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [all: Replace _build with build in tests](https://github.com/gohugoio/hugo/pull/13771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
-- [theme: Remove the print only QR code header](https://github.com/gohugoio/hugoDocs/pull/3095) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
