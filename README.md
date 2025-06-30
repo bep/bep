@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add some fake versions setup](https://github.com/gohugoio/hugoDocs/pull/3117) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [Add some fake versions setup](https://github.com/gohugoio/hugoDocs/pull/3117) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [Remove WARN with false negatives](https://github.com/gohugoio/hugo/pull/13814) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [resources/page: Make sure a map is always initialized](https://github.com/gohugoio/hugo/pull/13812) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Allow creating home pages from content adapters](https://github.com/gohugoio/hugo/pull/13801) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [all: Replace _build with build in tests](https://github.com/gohugoio/hugo/pull/13771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
+- [all: Replace _build with build in tests](https://github.com/gohugoio/hugo/pull/13771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
-- [timotheeandres](https://github.com/timotheeandres) (5 days ago)
+- [timotheeandres](https://github.com/timotheeandres) (6 days ago)
 - [hacdias](https://github.com/hacdias) (1 month ago)
 - [rpapallas](https://github.com/rpapallas) (1 month ago)
 - [olehermanse](https://github.com/olehermanse) (2 months ago)
