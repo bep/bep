@@ -12,9 +12,9 @@
 
 - [timotheeandres](https://github.com/timotheeandres) (1 week ago)
 - [hacdias](https://github.com/hacdias) (1 month ago)
-- [rpapallas](https://github.com/rpapallas) (1 month ago)
 - [olehermanse](https://github.com/olehermanse) (2 months ago)
 - [LNA-DEV](https://github.com/LNA-DEV) (4 months ago)
+- [davidbeckonline](https://github.com/davidbeckonline) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
