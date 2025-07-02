@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Add some fake versions setup](https://github.com/gohugoio/hugoDocs/pull/3117) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [Add some fake versions setup](https://github.com/gohugoio/hugoDocs/pull/3117) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
 - [Remove WARN with false negatives](https://github.com/gohugoio/hugo/pull/13814) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [resources/page: Make sure a map is always initialized](https://github.com/gohugoio/hugo/pull/13812) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Allow creating home pages from content adapters](https://github.com/gohugoio/hugo/pull/13801) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [all: Replace _build with build in tests](https://github.com/gohugoio/hugo/pull/13771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 weeks ago)
+- [all: Replace _build with build in tests](https://github.com/gohugoio/hugo/pull/13771) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 month ago)
 
 ### Recent sponsors (big thank you!)
 
 - [timotheeandres](https://github.com/timotheeandres) (1 week ago)
 - [hacdias](https://github.com/hacdias) (1 month ago)
 - [olehermanse](https://github.com/olehermanse) (2 months ago)
-- [LNA-DEV](https://github.com/LNA-DEV) (4 months ago)
+- [LNA-DEV](https://github.com/LNA-DEV) (5 months ago)
 - [davidbeckonline](https://github.com/davidbeckonline) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
