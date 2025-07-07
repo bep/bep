@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Misc URL issues](https://github.com/gohugoio/hugo/pull/13835) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc URL issues](https://github.com/gohugoio/hugo/pull/13835) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Add some fake versions setup](https://github.com/gohugoio/hugoDocs/pull/3117) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 - [Remove WARN with false negatives](https://github.com/gohugoio/hugo/pull/13814) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [resources/page: Make sure a map is always initialized](https://github.com/gohugoio/hugo/pull/13812) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
@@ -10,7 +10,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [ajboni](https://github.com/ajboni) (4 days ago)
+- [ajboni](https://github.com/ajboni) (5 days ago)
 - [timotheeandres](https://github.com/timotheeandres) (1 week ago)
 - [hacdias](https://github.com/hacdias) (1 month ago)
 - [olehermanse](https://github.com/olehermanse) (2 months ago)
