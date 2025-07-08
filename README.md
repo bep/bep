@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [MIsc](https://github.com/bep/gitmap/pull/20) on [bep/gitmap](https://github.com/bep/gitmap) (today)
 - [Add Ancestors (plural) method to GitInfo, rename Ancestor field to Parent](https://github.com/gohugoio/hugo/pull/13841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add Ancestors(), rename Ancestor to Parent](https://github.com/bep/gitmap/pull/19) on [bep/gitmap](https://github.com/bep/gitmap) (1 day ago)
 - [source: Expose Ancestor in GitInfo](https://github.com/gohugoio/hugo/pull/13837) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc URL issues](https://github.com/gohugoio/hugo/pull/13835) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add some fake versions setup](https://github.com/gohugoio/hugoDocs/pull/3117) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
