@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [MIsc](https://github.com/bep/gitmap/pull/20) on [bep/gitmap](https://github.com/bep/gitmap) (1 day ago)
-- [Add Ancestors (plural) method to GitInfo, rename Ancestor field to Parent](https://github.com/gohugoio/hugo/pull/13841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add Ancestors(), rename Ancestor to Parent](https://github.com/bep/gitmap/pull/19) on [bep/gitmap](https://github.com/bep/gitmap) (2 days ago)
-- [source: Expose Ancestor in GitInfo](https://github.com/gohugoio/hugo/pull/13837) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc URL issues](https://github.com/gohugoio/hugo/pull/13835) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [MIsc](https://github.com/bep/gitmap/pull/20) on [bep/gitmap](https://github.com/bep/gitmap) (2 days ago)
+- [Add Ancestors (plural) method to GitInfo, rename Ancestor field to Parent](https://github.com/gohugoio/hugo/pull/13841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add Ancestors(), rename Ancestor to Parent](https://github.com/bep/gitmap/pull/19) on [bep/gitmap](https://github.com/bep/gitmap) (3 days ago)
+- [source: Expose Ancestor in GitInfo](https://github.com/gohugoio/hugo/pull/13837) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc URL issues](https://github.com/gohugoio/hugo/pull/13835) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [securebitsorg](https://github.com/securebitsorg) (1 day ago)
+- [securebitsorg](https://github.com/securebitsorg) (2 days ago)
 - [ajboni](https://github.com/ajboni) (1 week ago)
 - [timotheeandres](https://github.com/timotheeandres) (2 weeks ago)
 - [hacdias](https://github.com/hacdias) (1 month ago)
