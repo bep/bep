@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Fix assignment to entry in nil ma](https://github.com/gohugoio/hugo/pull/13854) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix assignment to entry in nil map](https://github.com/gohugoio/hugo/pull/13854) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [deps: Downgrade github.com/niklasfasching/go-org v1.9.0 =&gt; v1.8.0](https://github.com/gohugoio/hugo/pull/13852) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [MIsc](https://github.com/bep/gitmap/pull/20) on [bep/gitmap](https://github.com/bep/gitmap) (3 days ago)
 - [Add Ancestors (plural) method to GitInfo, rename Ancestor field to Parent](https://github.com/gohugoio/hugo/pull/13841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
