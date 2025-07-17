@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [Fix assignment to entry in nil map](https://github.com/gohugoio/hugo/pull/13854) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [deps: Downgrade github.com/niklasfasching/go-org v1.9.0 =&gt; v1.8.0](https://github.com/gohugoio/hugo/pull/13852) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Fix assignment to entry in nil map](https://github.com/gohugoio/hugo/pull/13854) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [deps: Downgrade github.com/niklasfasching/go-org v1.9.0 =&gt; v1.8.0](https://github.com/gohugoio/hugo/pull/13852) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [MIsc](https://github.com/bep/gitmap/pull/20) on [bep/gitmap](https://github.com/bep/gitmap) (1 week ago)
 - [Add Ancestors (plural) method to GitInfo, rename Ancestor field to Parent](https://github.com/gohugoio/hugo/pull/13841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add Ancestors(), rename Ancestor to Parent](https://github.com/bep/gitmap/pull/19) on [bep/gitmap](https://github.com/bep/gitmap) (1 week ago)
@@ -14,7 +14,7 @@
 - [ajboni](https://github.com/ajboni) (2 weeks ago)
 - [timotheeandres](https://github.com/timotheeandres) (3 weeks ago)
 - [hacdias](https://github.com/hacdias) (1 month ago)
-- [olehermanse](https://github.com/olehermanse) (2 months ago)
+- [olehermanse](https://github.com/olehermanse) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
