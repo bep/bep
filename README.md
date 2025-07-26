@@ -13,7 +13,7 @@
 - [securebitsorg](https://github.com/securebitsorg) (2 weeks ago)
 - [ajboni](https://github.com/ajboni) (3 weeks ago)
 - [timotheeandres](https://github.com/timotheeandres) (1 month ago)
-- [hacdias](https://github.com/hacdias) (1 month ago)
+- [hacdias](https://github.com/hacdias) (2 months ago)
 - [olehermanse](https://github.com/olehermanse) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
