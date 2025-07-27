@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [commands: Avoid full browser refresh on simple CSS changes](https://github.com/gohugoio/hugo/pull/13875) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Move CSS to assets](https://github.com/spf13/hyde/pull/96) on [spf13/hyde](https://github.com/spf13/hyde) (today)
 - [Fix assignment to entry in nil map](https://github.com/gohugoio/hugo/pull/13854) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [deps: Downgrade github.com/niklasfasching/go-org v1.9.0 =&gt; v1.8.0](https://github.com/gohugoio/hugo/pull/13852) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [MIsc](https://github.com/bep/gitmap/pull/20) on [bep/gitmap](https://github.com/bep/gitmap) (2 weeks ago)
-- [Add Ancestors (plural) method to GitInfo, rename Ancestor field to Parent](https://github.com/gohugoio/hugo/pull/13841) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [Add Ancestors(), rename Ancestor to Parent](https://github.com/bep/gitmap/pull/19) on [bep/gitmap](https://github.com/bep/gitmap) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
