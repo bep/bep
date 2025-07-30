@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade](https://github.com/bep/simplecobra/pull/14) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
 - [Misc template fixes](https://github.com/gohugoio/hugo/pull/13876) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [commands: Avoid full browser refresh on simple CSS changes](https://github.com/gohugoio/hugo/pull/13875) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Move CSS to assets](https://github.com/spf13/hyde/pull/96) on [spf13/hyde](https://github.com/spf13/hyde) (3 days ago)
 - [Fix assignment to entry in nil map](https://github.com/gohugoio/hugo/pull/13854) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [deps: Downgrade github.com/niklasfasching/go-org v1.9.0 =&gt; v1.8.0](https://github.com/gohugoio/hugo/pull/13852) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
