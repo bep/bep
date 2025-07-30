@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Misc template fixes](https://github.com/gohugoio/hugo/pull/13876) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [commands: Avoid full browser refresh on simple CSS changes](https://github.com/gohugoio/hugo/pull/13875) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Move CSS to assets](https://github.com/spf13/hyde/pull/96) on [spf13/hyde](https://github.com/spf13/hyde) (2 days ago)
+- [Misc template fixes](https://github.com/gohugoio/hugo/pull/13876) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [commands: Avoid full browser refresh on simple CSS changes](https://github.com/gohugoio/hugo/pull/13875) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Move CSS to assets](https://github.com/spf13/hyde/pull/96) on [spf13/hyde](https://github.com/spf13/hyde) (3 days ago)
 - [Fix assignment to entry in nil map](https://github.com/gohugoio/hugo/pull/13854) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [deps: Downgrade github.com/niklasfasching/go-org v1.9.0 =&gt; v1.8.0](https://github.com/gohugoio/hugo/pull/13852) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
 - [securebitsorg](https://github.com/securebitsorg) (3 weeks ago)
-- [ajboni](https://github.com/ajboni) (3 weeks ago)
+- [ajboni](https://github.com/ajboni) (4 weeks ago)
 - [timotheeandres](https://github.com/timotheeandres) (1 month ago)
 - [hacdias](https://github.com/hacdias) (2 months ago)
 - [olehermanse](https://github.com/olehermanse) (3 months ago)
