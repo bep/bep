@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [deps: Upgrade](https://github.com/bep/simplecobra/pull/14) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
-- [Misc template fixes](https://github.com/gohugoio/hugo/pull/13876) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [commands: Avoid full browser refresh on simple CSS changes](https://github.com/gohugoio/hugo/pull/13875) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Move CSS to assets](https://github.com/spf13/hyde/pull/96) on [spf13/hyde](https://github.com/spf13/hyde) (4 days ago)
+- [deps: Upgrade](https://github.com/bep/simplecobra/pull/14) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
+- [Misc template fixes](https://github.com/gohugoio/hugo/pull/13876) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [commands: Avoid full browser refresh on simple CSS changes](https://github.com/gohugoio/hugo/pull/13875) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Move CSS to assets](https://github.com/spf13/hyde/pull/96) on [spf13/hyde](https://github.com/spf13/hyde) (5 days ago)
 - [Fix assignment to entry in nil map](https://github.com/gohugoio/hugo/pull/13854) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
 - [securebitsorg](https://github.com/securebitsorg) (3 weeks ago)
-- [ajboni](https://github.com/ajboni) (4 weeks ago)
+- [ajboni](https://github.com/ajboni) (1 month ago)
 - [timotheeandres](https://github.com/timotheeandres) (1 month ago)
 - [hacdias](https://github.com/hacdias) (2 months ago)
 - [olehermanse](https://github.com/olehermanse) (3 months ago)
