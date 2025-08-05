@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Just a cosmetic change to trigger a build](https://github.com/gohugoio/hugo/pull/13890) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade](https://github.com/bep/simplecobra/pull/14) on [bep/simplecobra](https://github.com/bep/simplecobra) (6 days ago)
 - [Misc template fixes](https://github.com/gohugoio/hugo/pull/13876) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [commands: Avoid full browser refresh on simple CSS changes](https://github.com/gohugoio/hugo/pull/13875) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Move CSS to assets](https://github.com/spf13/hyde/pull/96) on [spf13/hyde](https://github.com/spf13/hyde) (1 week ago)
-- [Fix assignment to entry in nil map](https://github.com/gohugoio/hugo/pull/13854) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
