@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [deps: Upgrade](https://github.com/bep/simplecobra/pull/14) on [bep/simplecobra](https://github.com/bep/simplecobra) (5 days ago)
+- [deps: Upgrade](https://github.com/bep/simplecobra/pull/14) on [bep/simplecobra](https://github.com/bep/simplecobra) (6 days ago)
 - [Misc template fixes](https://github.com/gohugoio/hugo/pull/13876) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [commands: Avoid full browser refresh on simple CSS changes](https://github.com/gohugoio/hugo/pull/13875) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Move CSS to assets](https://github.com/spf13/hyde/pull/96) on [spf13/hyde](https://github.com/spf13/hyde) (1 week ago)
@@ -10,7 +10,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [securebitsorg](https://github.com/securebitsorg) (3 weeks ago)
+- [securebitsorg](https://github.com/securebitsorg) (4 weeks ago)
 - [ajboni](https://github.com/ajboni) (1 month ago)
 - [timotheeandres](https://github.com/timotheeandres) (1 month ago)
 - [hacdias](https://github.com/hacdias) (2 months ago)
