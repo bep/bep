@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Just a cosmetic change to trigger a build](https://github.com/gohugoio/hugo/pull/13890) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Just a cosmetic change to trigger a build](https://github.com/gohugoio/hugo/pull/13890) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [deps: Upgrade](https://github.com/bep/simplecobra/pull/14) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 week ago)
 - [Misc template fixes](https://github.com/gohugoio/hugo/pull/13876) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [commands: Avoid full browser refresh on simple CSS changes](https://github.com/gohugoio/hugo/pull/13875) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
