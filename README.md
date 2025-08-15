@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix rebuild when deleting a content adapter file](https://github.com/gohugoio/hugo/pull/13910) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Just a cosmetic change to trigger a build](https://github.com/gohugoio/hugo/pull/13890) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [deps: Upgrade](https://github.com/bep/simplecobra/pull/14) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 weeks ago)
 - [Misc template fixes](https://github.com/gohugoio/hugo/pull/13876) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [commands: Avoid full browser refresh on simple CSS changes](https://github.com/gohugoio/hugo/pull/13875) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [Move CSS to assets](https://github.com/spf13/hyde/pull/96) on [spf13/hyde](https://github.com/spf13/hyde) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
