@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Fix rebuild when deleting a content adapter file](https://github.com/gohugoio/hugo/pull/13910) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Fix rebuild when deleting a content adapter file](https://github.com/gohugoio/hugo/pull/13910) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Just a cosmetic change to trigger a build](https://github.com/gohugoio/hugo/pull/13890) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [deps: Upgrade](https://github.com/bep/simplecobra/pull/14) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 weeks ago)
 - [Misc template fixes](https://github.com/gohugoio/hugo/pull/13876) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
@@ -14,7 +14,7 @@
 - [ajboni](https://github.com/ajboni) (1 month ago)
 - [timotheeandres](https://github.com/timotheeandres) (1 month ago)
 - [hacdias](https://github.com/hacdias) (2 months ago)
-- [olehermanse](https://github.com/olehermanse) (3 months ago)
+- [olehermanse](https://github.com/olehermanse) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
