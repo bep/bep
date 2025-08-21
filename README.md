@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [common/hcontext: Replace with external package](https://github.com/gohugoio/hugo/pull/13929) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add ContextDispatcher](https://github.com/bep/helpers/pull/6) on [bep/helpers](https://github.com/bep/helpers) (today)
 - [Fix server rebuild when adding a new leaf bundle with resources in one go](https://github.com/gohugoio/hugo/pull/13928) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix rebuild when deleting a content adapter file](https://github.com/gohugoio/hugo/pull/13910) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Just a cosmetic change to trigger a build](https://github.com/gohugoio/hugo/pull/13890) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [deps: Upgrade](https://github.com/bep/simplecobra/pull/14) on [bep/simplecobra](https://github.com/bep/simplecobra) (3 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
