@@ -35,11 +35,8 @@ For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 ### Contact info
 - Twitter: https://twitter.com/bepsays/
 - Web: https://bep.is/
-- Blog: https://bepsays.com/en/
 - Mail: bjorn.erik.pedersen@gmail.com
 - Keybase: https://keybase.io/bep
-- BTC: 3NseXrZVx29fxgu4RbTrAhyU5UKyjeAukX
-
 
 ### GitHub stats
 
