@@ -2,10 +2,10 @@
 
 ### Recent Pull Requests
 
-- [Upgrade to Go 1.25](https://github.com/gohugoio/hugo/pull/13932) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [common/hcontext: Replace with external package](https://github.com/gohugoio/hugo/pull/13929) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add ContextDispatcher](https://github.com/bep/helpers/pull/6) on [bep/helpers](https://github.com/bep/helpers) (3 days ago)
-- [Fix server rebuild when adding a new leaf bundle with resources in one go](https://github.com/gohugoio/hugo/pull/13928) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Upgrade to Go 1.25](https://github.com/gohugoio/hugo/pull/13932) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [common/hcontext: Replace with external package](https://github.com/gohugoio/hugo/pull/13929) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add ContextDispatcher](https://github.com/bep/helpers/pull/6) on [bep/helpers](https://github.com/bep/helpers) (4 days ago)
+- [Fix server rebuild when adding a new leaf bundle with resources in one go](https://github.com/gohugoio/hugo/pull/13928) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Fix rebuild when deleting a content adapter file](https://github.com/gohugoio/hugo/pull/13910) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
@@ -13,7 +13,7 @@
 - [securebitsorg](https://github.com/securebitsorg) (1 month ago)
 - [ajboni](https://github.com/ajboni) (1 month ago)
 - [timotheeandres](https://github.com/timotheeandres) (2 months ago)
-- [hacdias](https://github.com/hacdias) (2 months ago)
+- [hacdias](https://github.com/hacdias) (3 months ago)
 - [olehermanse](https://github.com/olehermanse) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
