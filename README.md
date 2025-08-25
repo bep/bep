@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc Chroma](https://github.com/gohugoio/hugo/pull/13933) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Upgrade to Go 1.25](https://github.com/gohugoio/hugo/pull/13932) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [common/hcontext: Replace with external package](https://github.com/gohugoio/hugo/pull/13929) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Add ContextDispatcher](https://github.com/bep/helpers/pull/6) on [bep/helpers](https://github.com/bep/helpers) (4 days ago)
 - [Fix server rebuild when adding a new leaf bundle with resources in one go](https://github.com/gohugoio/hugo/pull/13928) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix rebuild when deleting a content adapter file](https://github.com/gohugoio/hugo/pull/13910) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
