@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [mccaffers](https://github.com/mccaffers) (today)
 - [securebitsorg](https://github.com/securebitsorg) (1 month ago)
 - [ajboni](https://github.com/ajboni) (2 months ago)
 - [timotheeandres](https://github.com/timotheeandres) (2 months ago)
 - [hacdias](https://github.com/hacdias) (3 months ago)
-- [olehermanse](https://github.com/olehermanse) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
