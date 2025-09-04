@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [fix/misc 13952 11843](https://github.com/gohugoio/hugo/pull/13962) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl/collections: Add an integration test for collections.D](https://github.com/gohugoio/hugo/pull/13940) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [tpl/collections: Add collections.D using Vitter&#39;s Method D for sequential random sampling](https://github.com/gohugoio/hugo/pull/13936) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Misc Chroma](https://github.com/gohugoio/hugo/pull/13933) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Upgrade to Go 1.25](https://github.com/gohugoio/hugo/pull/13932) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [common/hcontext: Replace with external package](https://github.com/gohugoio/hugo/pull/13929) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
