@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [fix/misc 13952 11843](https://github.com/gohugoio/hugo/pull/13962) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [fix/misc 13952 11843](https://github.com/gohugoio/hugo/pull/13962) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl/collections: Add an integration test for collections.D](https://github.com/gohugoio/hugo/pull/13940) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [tpl/collections: Add collections.D using Vitter&#39;s Method D for sequential random sampling](https://github.com/gohugoio/hugo/pull/13936) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Misc Chroma](https://github.com/gohugoio/hugo/pull/13933) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Upgrade to Go 1.25](https://github.com/gohugoio/hugo/pull/13932) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Upgrade to Go 1.25](https://github.com/gohugoio/hugo/pull/13932) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
-- [mccaffers](https://github.com/mccaffers) (2 days ago)
+- [mccaffers](https://github.com/mccaffers) (3 days ago)
 - [securebitsorg](https://github.com/securebitsorg) (1 month ago)
 - [ajboni](https://github.com/ajboni) (2 months ago)
 - [timotheeandres](https://github.com/timotheeandres) (2 months ago)
