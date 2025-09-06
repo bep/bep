@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [modules: Add support for fixed version module imports in hugo.toml](https://github.com/gohugoio/hugo/pull/13966) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [fix/misc 13952 11843](https://github.com/gohugoio/hugo/pull/13962) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [modules: Add support for fixed version module imports in hugo.toml](https://github.com/gohugoio/hugo/pull/13966) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [fix/misc 13952 11843](https://github.com/gohugoio/hugo/pull/13962) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [tpl/collections: Add an integration test for collections.D](https://github.com/gohugoio/hugo/pull/13940) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [tpl/collections: Add collections.D using Vitter&#39;s Method D for sequential random sampling](https://github.com/gohugoio/hugo/pull/13936) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Misc Chroma](https://github.com/gohugoio/hugo/pull/13933) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [mccaffers](https://github.com/mccaffers) (3 days ago)
-- [securebitsorg](https://github.com/securebitsorg) (1 month ago)
+- [mccaffers](https://github.com/mccaffers) (4 days ago)
+- [securebitsorg](https://github.com/securebitsorg) (2 months ago)
 - [ajboni](https://github.com/ajboni) (2 months ago)
 - [timotheeandres](https://github.com/timotheeandres) (2 months ago)
 - [hacdias](https://github.com/hacdias) (3 months ago)
