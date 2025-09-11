@@ -2,8 +2,8 @@
 
 ### Recent Pull Requests
 
-- [modules: Add support for direct version module imports in hugo.toml](https://github.com/gohugoio/hugo/pull/13966) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [fix/misc 13952 11843](https://github.com/gohugoio/hugo/pull/13962) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [modules: Add support for direct version module imports in hugo.toml](https://github.com/gohugoio/hugo/pull/13966) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [fix/misc 13952 11843](https://github.com/gohugoio/hugo/pull/13962) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [tpl/collections: Add an integration test for collections.D](https://github.com/gohugoio/hugo/pull/13940) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [tpl/collections: Add collections.D using Vitter&#39;s Method D for sequential random sampling](https://github.com/gohugoio/hugo/pull/13936) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [Misc Chroma](https://github.com/gohugoio/hugo/pull/13933) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
