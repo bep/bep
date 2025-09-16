@@ -10,7 +10,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [mccaffers](https://github.com/mccaffers) (1 week ago)
+- [mccaffers](https://github.com/mccaffers) (2 weeks ago)
 - [securebitsorg](https://github.com/securebitsorg) (2 months ago)
 - [ajboni](https://github.com/ajboni) (2 months ago)
 - [timotheeandres](https://github.com/timotheeandres) (2 months ago)
