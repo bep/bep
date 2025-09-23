@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [theme: Move initColorScheme() to head](https://github.com/gohugoio/hugoDocs/pull/3211) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
-- [theme: Misc color scheme loading improvements](https://github.com/gohugoio/hugoDocs/pull/3210) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
-- [theme: Preload fonts](https://github.com/gohugoio/hugoDocs/pull/3209) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
+- [theme: Move initColorScheme() to head](https://github.com/gohugoio/hugoDocs/pull/3211) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
+- [theme: Misc color scheme loading improvements](https://github.com/gohugoio/hugoDocs/pull/3210) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
+- [theme: Preload fonts](https://github.com/gohugoio/hugoDocs/pull/3209) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 - [modules: Add support for direct version module imports in hugo.toml](https://github.com/gohugoio/hugo/pull/13966) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [fix/misc 13952 11843](https://github.com/gohugoio/hugo/pull/13962) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
-- [mccaffers](https://github.com/mccaffers) (2 weeks ago)
+- [mccaffers](https://github.com/mccaffers) (3 weeks ago)
 - [securebitsorg](https://github.com/securebitsorg) (2 months ago)
 - [ajboni](https://github.com/ajboni) (2 months ago)
 - [timotheeandres](https://github.com/timotheeandres) (3 months ago)
