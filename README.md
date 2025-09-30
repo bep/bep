@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Misc](https://github.com/gohugoio/hugo/pull/14013) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add CanStore option](https://github.com/gohugoio/httpcache/pull/6) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (today)
+- [Misc](https://github.com/gohugoio/hugo/pull/14013) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add CanStore option](https://github.com/gohugoio/httpcache/pull/6) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (1 day ago)
 - [theme: Move initColorScheme() to head](https://github.com/gohugoio/hugoDocs/pull/3211) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 - [theme: Misc color scheme loading improvements](https://github.com/gohugoio/hugoDocs/pull/3210) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
-- [theme: Preload fonts](https://github.com/gohugoio/hugoDocs/pull/3209) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
+- [theme: Preload fonts](https://github.com/gohugoio/hugoDocs/pull/3209) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
-- [mccaffers](https://github.com/mccaffers) (3 weeks ago)
+- [mccaffers](https://github.com/mccaffers) (4 weeks ago)
 - [securebitsorg](https://github.com/securebitsorg) (2 months ago)
-- [ajboni](https://github.com/ajboni) (2 months ago)
+- [ajboni](https://github.com/ajboni) (3 months ago)
 - [timotheeandres](https://github.com/timotheeandres) (3 months ago)
 - [hacdias](https://github.com/hacdias) (4 months ago)
 
