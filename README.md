@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Fix file caching for 404 responses in resources.GetRemote](https://github.com/gohugoio/hugo/pull/14021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Report OSC 9;4 progress when building](https://github.com/gohugoio/hugo/pull/14020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc](https://github.com/gohugoio/hugo/pull/14013) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add CanStore option](https://github.com/gohugoio/httpcache/pull/6) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (1 day ago)
-- [theme: Move initColorScheme() to head](https://github.com/gohugoio/hugoDocs/pull/3211) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
+- [Fix file caching for 404 responses in resources.GetRemote](https://github.com/gohugoio/hugo/pull/14021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Report OSC 9;4 progress when building](https://github.com/gohugoio/hugo/pull/14020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc](https://github.com/gohugoio/hugo/pull/14013) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add CanStore option](https://github.com/gohugoio/httpcache/pull/6) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (2 days ago)
+- [theme: Move initColorScheme() to head](https://github.com/gohugoio/hugoDocs/pull/3211) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
