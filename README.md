@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add transform.HTMLToMarkdown](https://github.com/gohugoio/hugo/pull/14025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix file caching for 404 responses in resources.GetRemote](https://github.com/gohugoio/hugo/pull/14021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Report OSC 9;4 progress when building](https://github.com/gohugoio/hugo/pull/14020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc](https://github.com/gohugoio/hugo/pull/14013) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add CanStore option](https://github.com/gohugoio/httpcache/pull/6) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (2 days ago)
+- [Add transform.HTMLToMarkdown](https://github.com/gohugoio/hugo/pull/14025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix file caching for 404 responses in resources.GetRemote](https://github.com/gohugoio/hugo/pull/14021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Report OSC 9;4 progress when building](https://github.com/gohugoio/hugo/pull/14020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc](https://github.com/gohugoio/hugo/pull/14013) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add CanStore option](https://github.com/gohugoio/httpcache/pull/6) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [mccaffers](https://github.com/mccaffers) (4 weeks ago)
+- [mccaffers](https://github.com/mccaffers) (1 month ago)
 - [securebitsorg](https://github.com/securebitsorg) (2 months ago)
 - [ajboni](https://github.com/ajboni) (3 months ago)
 - [timotheeandres](https://github.com/timotheeandres) (3 months ago)
