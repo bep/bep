@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Adjust the terminal progress reporter a little](https://github.com/gohugoio/hugo/pull/14027) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add transform.HTMLToMarkdown](https://github.com/gohugoio/hugo/pull/14025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix file caching for 404 responses in resources.GetRemote](https://github.com/gohugoio/hugo/pull/14021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Report OSC 9;4 progress when building](https://github.com/gohugoio/hugo/pull/14020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Misc](https://github.com/gohugoio/hugo/pull/14013) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Adjust the terminal progress reporter a little](https://github.com/gohugoio/hugo/pull/14027) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add transform.HTMLToMarkdown](https://github.com/gohugoio/hugo/pull/14025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix file caching for 404 responses in resources.GetRemote](https://github.com/gohugoio/hugo/pull/14021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Report OSC 9;4 progress when building](https://github.com/gohugoio/hugo/pull/14020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Misc](https://github.com/gohugoio/hugo/pull/14013) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
