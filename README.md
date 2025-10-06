@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [parser/pagerparser: Fix closing shortcode error handling when repeated](https://github.com/gohugoio/hugo/pull/14029) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Adjust the terminal progress reporter a little](https://github.com/gohugoio/hugo/pull/14027) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add transform.HTMLToMarkdown](https://github.com/gohugoio/hugo/pull/14025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix file caching for 404 responses in resources.GetRemote](https://github.com/gohugoio/hugo/pull/14021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Report OSC 9;4 progress when building](https://github.com/gohugoio/hugo/pull/14020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [parser/pagerparser: Fix closing shortcode error handling when repeated](https://github.com/gohugoio/hugo/pull/14029) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Adjust the terminal progress reporter a little](https://github.com/gohugoio/hugo/pull/14027) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add transform.HTMLToMarkdown](https://github.com/gohugoio/hugo/pull/14025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix file caching for 404 responses in resources.GetRemote](https://github.com/gohugoio/hugo/pull/14021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Report OSC 9;4 progress when building](https://github.com/gohugoio/hugo/pull/14020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [mccaffers](https://github.com/mccaffers) (1 month ago)
-- [securebitsorg](https://github.com/securebitsorg) (2 months ago)
+- [securebitsorg](https://github.com/securebitsorg) (3 months ago)
 - [ajboni](https://github.com/ajboni) (3 months ago)
 - [timotheeandres](https://github.com/timotheeandres) (3 months ago)
 - [hacdias](https://github.com/hacdias) (4 months ago)
