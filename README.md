@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add some more golden test cases](https://github.com/gohugoio/hashstructure/pull/13) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
 - [parser/pagerparser: Fix closing shortcode error handling when repeated](https://github.com/gohugoio/hugo/pull/14029) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Adjust the terminal progress reporter a little](https://github.com/gohugoio/hugo/pull/14027) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add transform.HTMLToMarkdown](https://github.com/gohugoio/hugo/pull/14025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix file caching for 404 responses in resources.GetRemote](https://github.com/gohugoio/hugo/pull/14021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Report OSC 9;4 progress when building](https://github.com/gohugoio/hugo/pull/14020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
