@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Rework/fix implementation of AND predicate](https://github.com/bep/predicate/pull/3) on [bep/predicate](https://github.com/bep/predicate) (today)
 - [Add some more golden test cases](https://github.com/gohugoio/hashstructure/pull/13) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (5 days ago)
 - [parser/pagerparser: Fix closing shortcode error handling when repeated](https://github.com/gohugoio/hugo/pull/14029) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Adjust the terminal progress reporter a little](https://github.com/gohugoio/hugo/pull/14027) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add transform.HTMLToMarkdown](https://github.com/gohugoio/hugo/pull/14025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Fix file caching for 404 responses in resources.GetRemote](https://github.com/gohugoio/hugo/pull/14021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
