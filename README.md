@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Upgrade Go to 1.25.3](https://github.com/gohugoio/hugo/pull/14051) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Rework/fix implementation of AND predicate](https://github.com/bep/predicate/pull/3) on [bep/predicate](https://github.com/bep/predicate) (1 day ago)
 - [Add some more golden test cases](https://github.com/gohugoio/hashstructure/pull/13) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (6 days ago)
 - [parser/pagerparser: Fix closing shortcode error handling when repeated](https://github.com/gohugoio/hugo/pull/14029) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Adjust the terminal progress reporter a little](https://github.com/gohugoio/hugo/pull/14027) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Add transform.HTMLToMarkdown](https://github.com/gohugoio/hugo/pull/14025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
