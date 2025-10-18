@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Move from github.com/gohugoio/go-i18n/v2 =&gt; github.com/nicksnyder/go-i18n/v2](https://github.com/gohugoio/hugo/pull/14065) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix nested shortcode regression](https://github.com/gohugoio/hugo/pull/14056) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [testscripts: Add and improve commands tests for static mounts](https://github.com/gohugoio/hugo/pull/14052) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Upgrade Go to 1.25.3](https://github.com/gohugoio/hugo/pull/14051) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Rework/fix implementation of AND predicate](https://github.com/bep/predicate/pull/3) on [bep/predicate](https://github.com/bep/predicate) (4 days ago)
-- [Add some more golden test cases](https://github.com/gohugoio/hashstructure/pull/13) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
