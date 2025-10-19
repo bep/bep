@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [hugofs: Make sure that non-project module mounts are local paths](https://github.com/gohugoio/hugo/pull/14071) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc YAML adjustments](https://github.com/gohugoio/hugo/pull/14068) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [sync2022510take2](https://github.com/gohugoio/go-i18n/pull/3) on [gohugoio/go-i18n](https://github.com/gohugoio/go-i18n) (1 day ago)
 - [deps: Upgrade github.com/gohugoio/go-i18n/v2](https://github.com/gohugoio/hugo/pull/14066) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [sync20251018](https://github.com/gohugoio/go-i18n/pull/2) on [gohugoio/go-i18n](https://github.com/gohugoio/go-i18n) (1 day ago)
-- [deps: Move from github.com/gohugoio/go-i18n/v2 =&gt; github.com/nicksnyder/go-i18n/v2](https://github.com/gohugoio/hugo/pull/14065) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
