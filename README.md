@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [fix](https://github.com/gohugoio/hugo/pull/14076) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Misc YAML fixes](https://github.com/gohugoio/hugo/pull/14076) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [config: Clone language map entries before modifying them](https://github.com/gohugoio/hugo/pull/14073) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [hugofs: Make sure that non-project module mounts are local paths](https://github.com/gohugoio/hugo/pull/14071) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Misc YAML adjustments](https://github.com/gohugoio/hugo/pull/14068) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
