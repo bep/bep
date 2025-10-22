@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [fix](https://github.com/gohugoio/hugo/pull/14076) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [config: Clone language map entries before modifying them](https://github.com/gohugoio/hugo/pull/14073) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [hugofs: Make sure that non-project module mounts are local paths](https://github.com/gohugoio/hugo/pull/14071) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Misc YAML adjustments](https://github.com/gohugoio/hugo/pull/14068) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [sync2022510take2](https://github.com/gohugoio/go-i18n/pull/3) on [gohugoio/go-i18n](https://github.com/gohugoio/go-i18n) (4 days ago)
-- [deps: Upgrade github.com/gohugoio/go-i18n/v2](https://github.com/gohugoio/hugo/pull/14066) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
