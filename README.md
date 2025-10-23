@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl/collections: Simplify the reflect usage](https://github.com/gohugoio/hugo/pull/14085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix it so YAML integer types can be used where Go int types are expected.](https://github.com/gohugoio/hugo/pull/14080) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Misc YAML fixes](https://github.com/gohugoio/hugo/pull/14076) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [config: Clone language map entries before modifying them](https://github.com/gohugoio/hugo/pull/14073) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [hugofs: Make sure that non-project module mounts are local paths](https://github.com/gohugoio/hugo/pull/14071) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Misc YAML adjustments](https://github.com/gohugoio/hugo/pull/14068) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
