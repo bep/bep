@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [hugofs: Make node_modules a &#34;special case&#34; mount](https://github.com/gohugoio/hugo/pull/14090) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/collections: Simplify the reflect usage](https://github.com/gohugoio/hugo/pull/14085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix it so YAML integer types can be used where Go int types are expected.](https://github.com/gohugoio/hugo/pull/14080) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc YAML fixes](https://github.com/gohugoio/hugo/pull/14076) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [config: Clone language map entries before modifying them](https://github.com/gohugoio/hugo/pull/14073) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [hugofs: Make node_modules a &#34;special case&#34; mount](https://github.com/gohugoio/hugo/pull/14090) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/collections: Simplify the reflect usage](https://github.com/gohugoio/hugo/pull/14085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix it so YAML integer types can be used where Go int types are expected.](https://github.com/gohugoio/hugo/pull/14080) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc YAML fixes](https://github.com/gohugoio/hugo/pull/14076) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [config: Clone language map entries before modifying them](https://github.com/gohugoio/hugo/pull/14073) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
