@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Cache reflect method lookups used in collections.Where and others](https://github.com/gohugoio/hugo/pull/14100) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [hugofs: Make node_modules a &#34;special case&#34; mount](https://github.com/gohugoio/hugo/pull/14090) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [tpl/collections: Simplify the reflect usage](https://github.com/gohugoio/hugo/pull/14085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix it so YAML integer types can be used where Go int types are expected.](https://github.com/gohugoio/hugo/pull/14080) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Misc YAML fixes](https://github.com/gohugoio/hugo/pull/14076) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Cache reflect method lookups used in collections.Where and others](https://github.com/gohugoio/hugo/pull/14100) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [hugofs: Make node_modules a &#34;special case&#34; mount](https://github.com/gohugoio/hugo/pull/14090) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [tpl/collections: Simplify the reflect usage](https://github.com/gohugoio/hugo/pull/14085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Fix it so YAML integer types can be used where Go int types are expected.](https://github.com/gohugoio/hugo/pull/14080) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Misc YAML fixes](https://github.com/gohugoio/hugo/pull/14076) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
