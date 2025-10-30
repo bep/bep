@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [Cache reflect method lookups used in collections.Where and others](https://github.com/gohugoio/hugo/pull/14100) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [hugofs: Make node_modules a &#34;special case&#34; mount](https://github.com/gohugoio/hugo/pull/14090) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [tpl/collections: Simplify the reflect usage](https://github.com/gohugoio/hugo/pull/14085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Cache reflect method lookups used in collections.Where and others](https://github.com/gohugoio/hugo/pull/14100) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [hugofs: Make node_modules a &#34;special case&#34; mount](https://github.com/gohugoio/hugo/pull/14090) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [tpl/collections: Simplify the reflect usage](https://github.com/gohugoio/hugo/pull/14085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix it so YAML integer types can be used where Go int types are expected.](https://github.com/gohugoio/hugo/pull/14080) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Misc YAML fixes](https://github.com/gohugoio/hugo/pull/14076) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
@@ -12,7 +12,7 @@
 
 - [mccaffers](https://github.com/mccaffers) (1 month ago)
 - [securebitsorg](https://github.com/securebitsorg) (3 months ago)
-- [ajboni](https://github.com/ajboni) (3 months ago)
+- [ajboni](https://github.com/ajboni) (4 months ago)
 - [timotheeandres](https://github.com/timotheeandres) (4 months ago)
 - [hacdias](https://github.com/hacdias) (5 months ago)
 
