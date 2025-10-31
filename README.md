@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [RainYuY](https://github.com/RainYuY) (today)
 - [mccaffers](https://github.com/mccaffers) (1 month ago)
 - [securebitsorg](https://github.com/securebitsorg) (3 months ago)
 - [ajboni](https://github.com/ajboni) (4 months ago)
 - [timotheeandres](https://github.com/timotheeandres) (4 months ago)
-- [hacdias](https://github.com/hacdias) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
