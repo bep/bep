@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [github: Add macos-26 to the test matrix](https://github.com/gohugoio/hugo/pull/14109) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Cache reflect method lookups used in collections.Where and others](https://github.com/gohugoio/hugo/pull/14100) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [hugofs: Make node_modules a &#34;special case&#34; mount](https://github.com/gohugoio/hugo/pull/14090) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [tpl/collections: Simplify the reflect usage](https://github.com/gohugoio/hugo/pull/14085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix it so YAML integer types can be used where Go int types are expected.](https://github.com/gohugoio/hugo/pull/14080) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Misc YAML fixes](https://github.com/gohugoio/hugo/pull/14076) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
