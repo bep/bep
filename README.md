@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [theme: Testing out minimal-analytics](https://github.com/gohugoio/hugoDocs/pull/3260) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [theme: Remove the root view transition](https://github.com/gohugoio/hugoDocs/pull/3254) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [github: Add macos-26 to the test matrix](https://github.com/gohugoio/hugo/pull/14109) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Cache reflect method lookups used in collections.Where and others](https://github.com/gohugoio/hugo/pull/14100) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [hugofs: Make node_modules a &#34;special case&#34; mount](https://github.com/gohugoio/hugo/pull/14090) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [tpl/collections: Simplify the reflect usage](https://github.com/gohugoio/hugo/pull/14085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
