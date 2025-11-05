@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [theme: Move analytics code to body start partial](https://github.com/gohugoio/hugoDocs/pull/3264) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [ Add github.com/bep/hugo-mod-minimalanalytics](https://github.com/bep/staticbattery.com/pull/1) on [bep/staticbattery.com](https://github.com/bep/staticbattery.com) (today)
-- [theme: Testing out minimal-analytics](https://github.com/gohugoio/hugoDocs/pull/3260) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [theme: Remove the root view transition](https://github.com/gohugoio/hugoDocs/pull/3254) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
-- [github: Add macos-26 to the test matrix](https://github.com/gohugoio/hugo/pull/14109) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [theme: Move analytics code to body start partial](https://github.com/gohugoio/hugoDocs/pull/3264) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [ Add github.com/bep/hugo-mod-minimalanalytics](https://github.com/bep/staticbattery.com/pull/1) on [bep/staticbattery.com](https://github.com/bep/staticbattery.com) (1 day ago)
+- [theme: Testing out minimal-analytics](https://github.com/gohugoio/hugoDocs/pull/3260) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [theme: Remove the root view transition](https://github.com/gohugoio/hugoDocs/pull/3254) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
+- [github: Add macos-26 to the test matrix](https://github.com/gohugoio/hugo/pull/14109) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [RainYuY](https://github.com/RainYuY) (4 days ago)
+- [RainYuY](https://github.com/RainYuY) (5 days ago)
 - [mccaffers](https://github.com/mccaffers) (2 months ago)
-- [securebitsorg](https://github.com/securebitsorg) (3 months ago)
+- [securebitsorg](https://github.com/securebitsorg) (4 months ago)
 - [ajboni](https://github.com/ajboni) (4 months ago)
 - [timotheeandres](https://github.com/timotheeandres) (4 months ago)
 
