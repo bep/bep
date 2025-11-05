@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Revert the minimal analytics changes](https://github.com/gohugoio/hugoDocs/pull/3265) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [theme: Move analytics code to body start partial](https://github.com/gohugoio/hugoDocs/pull/3264) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [ Add github.com/bep/hugo-mod-minimalanalytics](https://github.com/bep/staticbattery.com/pull/1) on [bep/staticbattery.com](https://github.com/bep/staticbattery.com) (1 day ago)
 - [theme: Testing out minimal-analytics](https://github.com/gohugoio/hugoDocs/pull/3260) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [theme: Remove the root view transition](https://github.com/gohugoio/hugoDocs/pull/3254) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
-- [github: Add macos-26 to the test matrix](https://github.com/gohugoio/hugo/pull/14109) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
