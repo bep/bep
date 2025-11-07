@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [testing: Remove usage of b.N in benchmarks](https://github.com/gohugoio/hugo/pull/14117) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [all: modernize -fix ./...](https://github.com/gohugoio/hugo/pull/14116) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix duplicate YAML keys in front matter](https://github.com/linode/docs/pull/7360) on [linode/docs](https://github.com/linode/docs) (1 day ago)
-- [Revert the minimal analytics changes](https://github.com/gohugoio/hugoDocs/pull/3265) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [theme: Move analytics code to body start partial](https://github.com/gohugoio/hugoDocs/pull/3264) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [testing: Remove usage of b.N in benchmarks](https://github.com/gohugoio/hugo/pull/14117) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [all: modernize -fix ./...](https://github.com/gohugoio/hugo/pull/14116) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix duplicate YAML keys in front matter](https://github.com/linode/docs/pull/7360) on [linode/docs](https://github.com/linode/docs) (2 days ago)
+- [Revert the minimal analytics changes](https://github.com/gohugoio/hugoDocs/pull/3265) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [theme: Move analytics code to body start partial](https://github.com/gohugoio/hugoDocs/pull/3264) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [RainYuY](https://github.com/RainYuY) (6 days ago)
+- [RainYuY](https://github.com/RainYuY) (1 week ago)
 - [mccaffers](https://github.com/mccaffers) (2 months ago)
 - [securebitsorg](https://github.com/securebitsorg) (4 months ago)
 - [ajboni](https://github.com/ajboni) (4 months ago)
