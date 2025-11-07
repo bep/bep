@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [hugolib: Delete some old integration tests](https://github.com/gohugoio/hugo/pull/14120) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [theme: Check for modifier key on left/right nav](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/632) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (today)
 - [testing: Remove usage of b.N in benchmarks](https://github.com/gohugoio/hugo/pull/14117) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [all: modernize -fix ./...](https://github.com/gohugoio/hugo/pull/14116) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix duplicate YAML keys in front matter](https://github.com/linode/docs/pull/7360) on [linode/docs](https://github.com/linode/docs) (2 days ago)
-- [Revert the minimal analytics changes](https://github.com/gohugoio/hugoDocs/pull/3265) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
