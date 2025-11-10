@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [testing: Rewrite all the old style integration tests to txtar style tests](https://github.com/gohugoio/hugo/pull/14123) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [hugolib: Delete some old integration tests](https://github.com/gohugoio/hugo/pull/14120) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [theme: Check for modifier key on left/right nav](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/632) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (2 days ago)
-- [testing: Remove usage of b.N in benchmarks](https://github.com/gohugoio/hugo/pull/14117) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [all: modernize -fix ./...](https://github.com/gohugoio/hugo/pull/14116) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [testing: Rewrite all the old style integration tests to txtar style tests](https://github.com/gohugoio/hugo/pull/14123) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [hugolib: Delete some old integration tests](https://github.com/gohugoio/hugo/pull/14120) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [theme: Check for modifier key on left/right nav](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/632) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (3 days ago)
+- [testing: Remove usage of b.N in benchmarks](https://github.com/gohugoio/hugo/pull/14117) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [all: modernize -fix ./...](https://github.com/gohugoio/hugo/pull/14116) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
