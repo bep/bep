@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [docshelper: Fix some YAML serialization issues with sites matrix configuration](https://github.com/gohugoio/hugo/pull/14133) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [testing: Rewrite all the old style integration tests to txtar style tests](https://github.com/gohugoio/hugo/pull/14123) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [hugolib: Delete some old integration tests](https://github.com/gohugoio/hugo/pull/14120) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [theme: Check for modifier key on left/right nav](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/632) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (4 days ago)
-- [testing: Remove usage of b.N in benchmarks](https://github.com/gohugoio/hugo/pull/14117) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [docshelper: Fix some YAML serialization issues with sites matrix configuration](https://github.com/gohugoio/hugo/pull/14133) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [testing: Rewrite all the old style integration tests to txtar style tests](https://github.com/gohugoio/hugo/pull/14123) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [hugolib: Delete some old integration tests](https://github.com/gohugoio/hugo/pull/14120) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [theme: Check for modifier key on left/right nav](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/632) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (5 days ago)
+- [testing: Remove usage of b.N in benchmarks](https://github.com/gohugoio/hugo/pull/14117) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
