@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [hugolib: Improve performance of content trees with many sections](https://github.com/gohugoio/hugo/pull/14137) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [sitesmatrix: Clary default dimension values](https://github.com/gohugoio/hugo/pull/14134) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [docshelper: Fix some YAML serialization issues with sites matrix configuration](https://github.com/gohugoio/hugo/pull/14133) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [testing: Rewrite all the old style integration tests to txtar style tests](https://github.com/gohugoio/hugo/pull/14123) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [hugolib: Delete some old integration tests](https://github.com/gohugoio/hugo/pull/14120) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [hugolib: Improve performance of content trees with many sections](https://github.com/gohugoio/hugo/pull/14137) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [sitesmatrix: Clary default dimension values](https://github.com/gohugoio/hugo/pull/14134) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [docshelper: Fix some YAML serialization issues with sites matrix configuration](https://github.com/gohugoio/hugo/pull/14133) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [testing: Rewrite all the old style integration tests to txtar style tests](https://github.com/gohugoio/hugo/pull/14123) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [hugolib: Delete some old integration tests](https://github.com/gohugoio/hugo/pull/14120) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [RainYuY](https://github.com/RainYuY) (1 week ago)
+- [RainYuY](https://github.com/RainYuY) (2 weeks ago)
 - [mccaffers](https://github.com/mccaffers) (2 months ago)
 - [securebitsorg](https://github.com/securebitsorg) (4 months ago)
 - [ajboni](https://github.com/ajboni) (4 months ago)
