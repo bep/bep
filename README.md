@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [BubbleSort as implemented by CoPilot](https://github.com/gohugoio/hugo/pull/14151) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Optimize memory allocations for sites matrix vector stores](https://github.com/gohugoio/hugo/pull/14148) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [hugolib: Fix recently introduced data race](https://github.com/gohugoio/hugo/pull/14141) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [hugolib: Improve performance of content trees with many sections](https://github.com/gohugoio/hugo/pull/14137) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [sitesmatrix: Clary default dimension values](https://github.com/gohugoio/hugo/pull/14134) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [docshelper: Fix some YAML serialization issues with sites matrix configuration](https://github.com/gohugoio/hugo/pull/14133) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
