@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Add some code](https://github.com/gohugoio/hugo/pull/14153) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Reimplement EXIF](https://github.com/gohugoio/hugo/pull/14152) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [BubbleSort as implemented by CoPilot](https://github.com/gohugoio/hugo/pull/14151) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Optimize memory allocations for sites matrix vector stores](https://github.com/gohugoio/hugo/pull/14148) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [hugolib: Fix recently introduced data race](https://github.com/gohugoio/hugo/pull/14141) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add some code](https://github.com/gohugoio/hugo/pull/14153) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Reimplement EXIF](https://github.com/gohugoio/hugo/pull/14152) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [BubbleSort as implemented by CoPilot](https://github.com/gohugoio/hugo/pull/14151) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Optimize memory allocations for sites matrix vector stores](https://github.com/gohugoio/hugo/pull/14148) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [hugolib: Fix recently introduced data race](https://github.com/gohugoio/hugo/pull/14141) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
