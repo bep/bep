@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Sort strings](https://github.com/gohugoio/hugo/pull/14174) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Sort strings](https://github.com/gohugoio/hugo/pull/14173) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Sort colors](https://github.com/gohugoio/hugo/pull/14172) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Sort colors](https://github.com/gohugoio/hugo/pull/14171) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Sort colors](https://github.com/gohugoio/hugo/pull/14170) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [hugolib/doctree: Simplify lock setup in SimpleThreadSafeTree to reduce read allocation](https://github.com/gohugoio/hugo/pull/14168) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add some code](https://github.com/gohugoio/hugo/pull/14153) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
