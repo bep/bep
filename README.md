@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Sort colors](https://github.com/gohugoio/hugo/pull/14172) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Sort colors](https://github.com/gohugoio/hugo/pull/14171) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Sort colors](https://github.com/gohugoio/hugo/pull/14170) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [hugolib/doctree: Simplify lock setup in SimpleThreadSafeTree to reduce read allocation](https://github.com/gohugoio/hugo/pull/14168) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add some code](https://github.com/gohugoio/hugo/pull/14153) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Reimplement EXIF](https://github.com/gohugoio/hugo/pull/14152) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [BubbleSort as implemented by CoPilot](https://github.com/gohugoio/hugo/pull/14151) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Optimize memory allocations for sites matrix vector stores](https://github.com/gohugoio/hugo/pull/14148) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
