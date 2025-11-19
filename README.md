@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add some string funcs](https://github.com/gohugoio/hugo/pull/14187) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Add some string funcs](https://github.com/gohugoio/hugo/pull/14186) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Add some string funcs](https://github.com/gohugoio/hugo/pull/14185) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add some string funcs](https://github.com/gohugoio/hugo/pull/14184) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add some string funcs](https://github.com/gohugoio/hugo/pull/14183) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add some string funcs](https://github.com/gohugoio/hugo/pull/14182) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add options pr-label (default not set) and fail-when-confident (default true)](https://github.com/bep/ai-watchdog/pull/1) on [bep/ai-watchdog](https://github.com/bep/ai-watchdog) (today)
-- [Sort strings](https://github.com/gohugoio/hugo/pull/14174) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
