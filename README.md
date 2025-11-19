@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Sort strings](https://github.com/gohugoio/hugo/pull/14174) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Sort strings](https://github.com/gohugoio/hugo/pull/14173) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Sort colors](https://github.com/gohugoio/hugo/pull/14172) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Sort colors](https://github.com/gohugoio/hugo/pull/14171) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Sort colors](https://github.com/gohugoio/hugo/pull/14170) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Sort strings](https://github.com/gohugoio/hugo/pull/14174) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Sort strings](https://github.com/gohugoio/hugo/pull/14173) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Sort colors](https://github.com/gohugoio/hugo/pull/14172) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Sort colors](https://github.com/gohugoio/hugo/pull/14171) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Sort colors](https://github.com/gohugoio/hugo/pull/14170) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
