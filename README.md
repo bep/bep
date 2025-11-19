@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [fix asciidoc diagram path ghtest](https://github.com/gohugoio/hugo/pull/14190) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add some string funcs](https://github.com/gohugoio/hugo/pull/14189) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add some string funcs](https://github.com/gohugoio/hugo/pull/14188) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add some string funcs](https://github.com/gohugoio/hugo/pull/14187) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add some string funcs](https://github.com/gohugoio/hugo/pull/14186) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add some string funcs](https://github.com/gohugoio/hugo/pull/14185) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 
 ### Recent sponsors (big thank you!)
 
