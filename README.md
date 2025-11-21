@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [fix asciidoc diagram path ghtest2](https://github.com/gohugoio/hugo/pull/14198) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/openapi: Add support for OpenAPI external file references](https://github.com/gohugoio/hugo/pull/14197) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [github: Fix &#34;no space left on device&#34; issue in CI](https://github.com/gohugoio/hugo/pull/14196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [fix asciidoc diagram path ghtest](https://github.com/gohugoio/hugo/pull/14190) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add some string funcs](https://github.com/gohugoio/hugo/pull/14189) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [fix asciidoc diagram path ghtest2](https://github.com/gohugoio/hugo/pull/14198) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/openapi: Add support for OpenAPI external file references](https://github.com/gohugoio/hugo/pull/14197) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [github: Fix &#34;no space left on device&#34; issue in CI](https://github.com/gohugoio/hugo/pull/14196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [fix asciidoc diagram path ghtest](https://github.com/gohugoio/hugo/pull/14190) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add some string funcs](https://github.com/gohugoio/hugo/pull/14189) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [RainYuY](https://github.com/RainYuY) (2 weeks ago)
+- [RainYuY](https://github.com/RainYuY) (3 weeks ago)
 - [mccaffers](https://github.com/mccaffers) (2 months ago)
 - [securebitsorg](https://github.com/securebitsorg) (4 months ago)
 - [ajboni](https://github.com/ajboni) (4 months ago)
-- [timotheeandres](https://github.com/timotheeandres) (4 months ago)
+- [timotheeandres](https://github.com/timotheeandres) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
