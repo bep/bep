@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [testai10](https://github.com/gohugoio/hugo/pull/14202) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [fix asciidoc diagram path ghtest2](https://github.com/gohugoio/hugo/pull/14198) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl/openapi: Add support for OpenAPI external file references](https://github.com/gohugoio/hugo/pull/14197) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [github: Fix &#34;no space left on device&#34; issue in CI](https://github.com/gohugoio/hugo/pull/14196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [fix asciidoc diagram path ghtest](https://github.com/gohugoio/hugo/pull/14190) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add some string funcs](https://github.com/gohugoio/hugo/pull/14189) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
