@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Rework the signature of WalkFn to allow setting new values](https://github.com/gohugoio/go-radix/pull/3) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (today)
 - [Rewrite tests using quicktest](https://github.com/gohugoio/go-radix/pull/2) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (today)
 - [Make it generic](https://github.com/gohugoio/go-radix/pull/1) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (today)
 - [testai10](https://github.com/gohugoio/hugo/pull/14202) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [fix asciidoc diagram path ghtest2](https://github.com/gohugoio/hugo/pull/14198) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl/openapi: Add support for OpenAPI external file references](https://github.com/gohugoio/hugo/pull/14197) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
