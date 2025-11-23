@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Export ShouldSet and ShouldStop](https://github.com/gohugoio/go-radix/pull/4) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (today)
 - [Rework the signature of WalkFn to allow setting new values](https://github.com/gohugoio/go-radix/pull/3) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (1 day ago)
 - [Rewrite tests using quicktest](https://github.com/gohugoio/go-radix/pull/2) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (1 day ago)
 - [Make it generic](https://github.com/gohugoio/go-radix/pull/1) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (1 day ago)
 - [testai10](https://github.com/gohugoio/hugo/pull/14202) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [fix asciidoc diagram path ghtest2](https://github.com/gohugoio/hugo/pull/14198) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
