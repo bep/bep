@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Fix potential data race in Walk](https://github.com/gohugoio/go-radix/pull/5) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (today)
-- [Simplify page creation flow](https://github.com/gohugoio/hugo/pull/14208) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Export ShouldSet and ShouldStop](https://github.com/gohugoio/go-radix/pull/4) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (today)
-- [Rework the signature of WalkFn to allow setting new values](https://github.com/gohugoio/go-radix/pull/3) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (1 day ago)
-- [Rewrite tests using quicktest](https://github.com/gohugoio/go-radix/pull/2) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (1 day ago)
+- [Fix potential data race in Walk](https://github.com/gohugoio/go-radix/pull/5) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (1 day ago)
+- [Simplify page creation flow](https://github.com/gohugoio/hugo/pull/14208) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Export ShouldSet and ShouldStop](https://github.com/gohugoio/go-radix/pull/4) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (1 day ago)
+- [Rework the signature of WalkFn to allow setting new values](https://github.com/gohugoio/go-radix/pull/3) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (2 days ago)
+- [Rewrite tests using quicktest](https://github.com/gohugoio/go-radix/pull/2) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
