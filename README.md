@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix slow server startup of very big content trees](https://github.com/gohugoio/hugo/pull/14213) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add error returns to walk functions](https://github.com/gohugoio/go-radix/pull/6) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (1 day ago)
 - [Fix potential data race in Walk](https://github.com/gohugoio/go-radix/pull/5) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (2 days ago)
 - [Speedup and simplify page assembly for deeper content trees](https://github.com/gohugoio/hugo/pull/14208) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Export ShouldSet and ShouldStop](https://github.com/gohugoio/go-radix/pull/4) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (2 days ago)
-- [Rework the signature of WalkFn to allow setting new values](https://github.com/gohugoio/go-radix/pull/3) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
