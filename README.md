@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add signed and notarized MacOS pkg builds](https://github.com/gohugoio/hugo/pull/14218) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Upgrade to Go 1.25.4](https://github.com/gohugoio/hugo/pull/14216) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix slow server startup of very big content trees](https://github.com/gohugoio/hugo/pull/14213) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add error returns to walk functions](https://github.com/gohugoio/go-radix/pull/6) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (2 days ago)
 - [Fix potential data race in Walk](https://github.com/gohugoio/go-radix/pull/5) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (3 days ago)
-- [Speedup and simplify page assembly for deeper content trees](https://github.com/gohugoio/hugo/pull/14208) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
