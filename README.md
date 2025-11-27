@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add entitlements for WebAssembly for macOS Tahoe](https://github.com/gohugoio/hugo/pull/14223) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add SigningEntitlements](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/3) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (today)
 - [Upgrade tests to new setup for config.toml and new layouts structure](https://github.com/gohugoio/hugo/pull/14219) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add signed and notarized MacOS pkg builds](https://github.com/gohugoio/hugo/pull/14218) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Upgrade to Go 1.25.4](https://github.com/gohugoio/hugo/pull/14216) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix slow server startup of very big content trees](https://github.com/gohugoio/hugo/pull/14213) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
