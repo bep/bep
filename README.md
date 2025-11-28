@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [langs/i18n: Prefer languageCode when picking translation file](https://github.com/gohugoio/hugo/pull/14225) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [testscripts: Move layouts file to new structure](https://github.com/gohugoio/hugo/pull/14224) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add entitlements for WebAssembly for macOS Tahoe](https://github.com/gohugoio/hugo/pull/14223) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add SigningEntitlements](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/3) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (1 day ago)
 - [Upgrade tests to new setup for config.toml and new layouts structure](https://github.com/gohugoio/hugo/pull/14219) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add signed and notarized MacOS pkg builds](https://github.com/gohugoio/hugo/pull/14218) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
