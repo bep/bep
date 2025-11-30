@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add Or() to P](https://github.com/bep/predicate/pull/4) on [bep/predicate](https://github.com/bep/predicate) (today)
 - [deps: Update all direct dependencies](https://github.com/bep/s3deploy/pull/511) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
 - [langs/i18n: Prefer languageCode when picking translation file](https://github.com/gohugoio/hugo/pull/14225) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [testscripts: Move layouts file to new structure](https://github.com/gohugoio/hugo/pull/14224) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Add entitlements for WebAssembly for macOS Tahoe](https://github.com/gohugoio/hugo/pull/14223) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add SigningEntitlements](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/3) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
