@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [deps: Update all direct dependencies](https://github.com/bep/s3deploy/pull/511) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
-- [langs/i18n: Prefer languageCode when picking translation file](https://github.com/gohugoio/hugo/pull/14225) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [testscripts: Move layouts file to new structure](https://github.com/gohugoio/hugo/pull/14224) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add entitlements for WebAssembly for macOS Tahoe](https://github.com/gohugoio/hugo/pull/14223) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add SigningEntitlements](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/3) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (2 days ago)
+- [deps: Update all direct dependencies](https://github.com/bep/s3deploy/pull/511) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
+- [langs/i18n: Prefer languageCode when picking translation file](https://github.com/gohugoio/hugo/pull/14225) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [testscripts: Move layouts file to new structure](https://github.com/gohugoio/hugo/pull/14224) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add entitlements for WebAssembly for macOS Tahoe](https://github.com/gohugoio/hugo/pull/14223) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add SigningEntitlements](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/3) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [ytocquet](https://github.com/ytocquet) (1 day ago)
-- [RainYuY](https://github.com/RainYuY) (4 weeks ago)
+- [ytocquet](https://github.com/ytocquet) (2 days ago)
+- [RainYuY](https://github.com/RainYuY) (1 month ago)
 - [mccaffers](https://github.com/mccaffers) (2 months ago)
 - [securebitsorg](https://github.com/securebitsorg) (4 months ago)
 - [ajboni](https://github.com/ajboni) (5 months ago)
