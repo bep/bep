@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Add Or() to P](https://github.com/bep/predicate/pull/4) on [bep/predicate](https://github.com/bep/predicate) (today)
-- [deps: Update all direct dependencies](https://github.com/bep/s3deploy/pull/511) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
-- [langs/i18n: Prefer languageCode when picking translation file](https://github.com/gohugoio/hugo/pull/14225) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [testscripts: Move layouts file to new structure](https://github.com/gohugoio/hugo/pull/14224) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add entitlements for WebAssembly for macOS Tahoe](https://github.com/gohugoio/hugo/pull/14223) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add Or() to P](https://github.com/bep/predicate/pull/4) on [bep/predicate](https://github.com/bep/predicate) (1 day ago)
+- [deps: Update all direct dependencies](https://github.com/bep/s3deploy/pull/511) on [bep/s3deploy](https://github.com/bep/s3deploy) (2 days ago)
+- [langs/i18n: Prefer languageCode when picking translation file](https://github.com/gohugoio/hugo/pull/14225) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [testscripts: Move layouts file to new structure](https://github.com/gohugoio/hugo/pull/14224) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add entitlements for WebAssembly for macOS Tahoe](https://github.com/gohugoio/hugo/pull/14223) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [ytocquet](https://github.com/ytocquet) (2 days ago)
-- [mccaffers](https://github.com/mccaffers) (2 months ago)
+- [ytocquet](https://github.com/ytocquet) (3 days ago)
+- [mccaffers](https://github.com/mccaffers) (3 months ago)
 - [securebitsorg](https://github.com/securebitsorg) (4 months ago)
 - [ajboni](https://github.com/ajboni) (5 months ago)
 - [timotheeandres](https://github.com/timotheeandres) (5 months ago)
