@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [proof of concept: Encode and Decode using the libwebp library via WASM](https://github.com/gohugoio/hugo/pull/14234) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add Or() to P](https://github.com/bep/predicate/pull/4) on [bep/predicate](https://github.com/bep/predicate) (2 days ago)
 - [deps: Update all direct dependencies](https://github.com/bep/s3deploy/pull/511) on [bep/s3deploy](https://github.com/bep/s3deploy) (3 days ago)
 - [langs/i18n: Prefer languageCode when picking translation file](https://github.com/gohugoio/hugo/pull/14225) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [testscripts: Move layouts file to new structure](https://github.com/gohugoio/hugo/pull/14224) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Add entitlements for WebAssembly for macOS Tahoe](https://github.com/gohugoio/hugo/pull/14223) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
