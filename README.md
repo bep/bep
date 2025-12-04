@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [release: Support alpha, beta, and RC releases](https://github.com/gohugoio/hugo/pull/14235) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [proof of concept: Encode and Decode using the libwebp library via WASM](https://github.com/gohugoio/hugo/pull/14234) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add Or() to P](https://github.com/bep/predicate/pull/4) on [bep/predicate](https://github.com/bep/predicate) (3 days ago)
-- [deps: Update all direct dependencies](https://github.com/bep/s3deploy/pull/511) on [bep/s3deploy](https://github.com/bep/s3deploy) (4 days ago)
-- [langs/i18n: Prefer languageCode when picking translation file](https://github.com/gohugoio/hugo/pull/14225) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [release: Support alpha, beta, and RC releases](https://github.com/gohugoio/hugo/pull/14235) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [proof of concept: Encode and Decode using the libwebp library via WASM](https://github.com/gohugoio/hugo/pull/14234) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add Or() to P](https://github.com/bep/predicate/pull/4) on [bep/predicate](https://github.com/bep/predicate) (4 days ago)
+- [deps: Update all direct dependencies](https://github.com/bep/s3deploy/pull/511) on [bep/s3deploy](https://github.com/bep/s3deploy) (5 days ago)
+- [langs/i18n: Prefer languageCode when picking translation file](https://github.com/gohugoio/hugo/pull/14225) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [IGLOU-EU](https://github.com/IGLOU-EU) (today)
-- [ytocquet](https://github.com/ytocquet) (5 days ago)
+- [IGLOU-EU](https://github.com/IGLOU-EU) (1 day ago)
+- [ytocquet](https://github.com/ytocquet) (6 days ago)
 - [mccaffers](https://github.com/mccaffers) (3 months ago)
 - [securebitsorg](https://github.com/securebitsorg) (4 months ago)
 - [ajboni](https://github.com/ajboni) (5 months ago)
