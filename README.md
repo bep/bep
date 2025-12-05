@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix server rebuilds on editing content with Chinese terms](https://github.com/gohugoio/hugo/pull/14242) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [release: Support alpha, beta, and RC releases](https://github.com/gohugoio/hugo/pull/14235) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [proof of concept: Encode and Decode using the libwebp library via WASM](https://github.com/gohugoio/hugo/pull/14234) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Add Or() to P](https://github.com/bep/predicate/pull/4) on [bep/predicate](https://github.com/bep/predicate) (5 days ago)
 - [deps: Update all direct dependencies](https://github.com/bep/s3deploy/pull/511) on [bep/s3deploy](https://github.com/bep/s3deploy) (6 days ago)
-- [langs/i18n: Prefer languageCode when picking translation file](https://github.com/gohugoio/hugo/pull/14225) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
