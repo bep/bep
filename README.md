@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add Writer](https://github.com/bep/textandbinaryreader/pull/1) on [bep/textandbinaryreader](https://github.com/bep/textandbinaryreader) (today)
 - [Fix server rebuilds on editing content with Chinese terms](https://github.com/gohugoio/hugo/pull/14242) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [release: Support alpha, beta, and RC releases](https://github.com/gohugoio/hugo/pull/14235) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [proof of concept: Encode and Decode using the libwebp library via WASM](https://github.com/gohugoio/hugo/pull/14234) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Add Or() to P](https://github.com/bep/predicate/pull/4) on [bep/predicate](https://github.com/bep/predicate) (1 week ago)
-- [deps: Update all direct dependencies](https://github.com/bep/s3deploy/pull/511) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
