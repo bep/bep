@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Consolidate the Reader and Writer side](https://github.com/bep/textandbinaryreader/pull/2) on [bep/textandbinaryreader](https://github.com/bep/textandbinaryreader) (today)
 - [js/esbuild: Add an integration test for multiple options for the same input JS file](https://github.com/gohugoio/hugo/pull/14258) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add Writer](https://github.com/bep/textandbinaryreader/pull/1) on [bep/textandbinaryreader](https://github.com/bep/textandbinaryreader) (2 days ago)
 - [Fix server rebuilds on editing content with Chinese terms](https://github.com/gohugoio/hugo/pull/14242) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [release: Support alpha, beta, and RC releases](https://github.com/gohugoio/hugo/pull/14235) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [proof of concept: Encode and Decode using the libwebp library via WASM](https://github.com/gohugoio/hugo/pull/14234) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
