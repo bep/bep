@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Consolidate the Reader and Writer side](https://github.com/bep/textandbinaryreader/pull/2) on [bep/textandbinaryreader](https://github.com/bep/textandbinaryreader) (today)
+- [Remove the reader and rename the Go module](https://github.com/bep/textandbinarywriter/pull/3) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (today)
+- [Consolidate the Reader and Writer side](https://github.com/bep/textandbinarywriter/pull/2) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (today)
 - [js/esbuild: Add an integration test for multiple options for the same input JS file](https://github.com/gohugoio/hugo/pull/14258) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add Writer](https://github.com/bep/textandbinaryreader/pull/1) on [bep/textandbinaryreader](https://github.com/bep/textandbinaryreader) (2 days ago)
+- [Add Writer](https://github.com/bep/textandbinarywriter/pull/1) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (2 days ago)
 - [Fix server rebuilds on editing content with Chinese terms](https://github.com/gohugoio/hugo/pull/14242) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [release: Support alpha, beta, and RC releases](https://github.com/gohugoio/hugo/pull/14235) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
