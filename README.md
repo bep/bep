@@ -2,10 +2,10 @@
 
 ### Recent Pull Requests
 
-- [Remove the reader and rename the Go module](https://github.com/bep/textandbinarywriter/pull/3) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (1 day ago)
-- [Consolidate the Reader and Writer side](https://github.com/bep/textandbinarywriter/pull/2) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (1 day ago)
-- [js/esbuild: Add an integration test for multiple options for the same input JS file](https://github.com/gohugoio/hugo/pull/14258) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add Writer](https://github.com/bep/textandbinarywriter/pull/1) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (3 days ago)
+- [Remove the reader and rename the Go module](https://github.com/bep/textandbinarywriter/pull/3) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (2 days ago)
+- [Consolidate the Reader and Writer side](https://github.com/bep/textandbinarywriter/pull/2) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (2 days ago)
+- [js/esbuild: Add an integration test for multiple options for the same input JS file](https://github.com/gohugoio/hugo/pull/14258) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add Writer](https://github.com/bep/textandbinarywriter/pull/1) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (4 days ago)
 - [Fix server rebuilds on editing content with Chinese terms](https://github.com/gohugoio/hugo/pull/14242) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
