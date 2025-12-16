@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [images: Add a webp test with bg color](https://github.com/gohugoio/hugo/pull/14264) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc deprecations](https://github.com/gohugoio/hugo/pull/14263) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Remove the reader and rename the Go module](https://github.com/bep/textandbinarywriter/pull/3) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (4 days ago)
 - [Consolidate the Reader and Writer side](https://github.com/bep/textandbinarywriter/pull/2) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (4 days ago)
 - [js/esbuild: Add an integration test for multiple options for the same input JS file](https://github.com/gohugoio/hugo/pull/14258) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Add Writer](https://github.com/bep/textandbinarywriter/pull/1) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
