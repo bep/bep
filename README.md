@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [images: Add a webp test with bg color](https://github.com/gohugoio/hugo/pull/14264) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc deprecations](https://github.com/gohugoio/hugo/pull/14263) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Remove the reader and rename the Go module](https://github.com/bep/textandbinarywriter/pull/3) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (4 days ago)
-- [Consolidate the Reader and Writer side](https://github.com/bep/textandbinarywriter/pull/2) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (4 days ago)
-- [js/esbuild: Add an integration test for multiple options for the same input JS file](https://github.com/gohugoio/hugo/pull/14258) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [images: Add a webp test with bg color](https://github.com/gohugoio/hugo/pull/14264) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc deprecations](https://github.com/gohugoio/hugo/pull/14263) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Remove the reader and rename the Go module](https://github.com/bep/textandbinarywriter/pull/3) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (5 days ago)
+- [Consolidate the Reader and Writer side](https://github.com/bep/textandbinarywriter/pull/2) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (5 days ago)
+- [js/esbuild: Add an integration test for multiple options for the same input JS file](https://github.com/gohugoio/hugo/pull/14258) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [IGLOU-EU](https://github.com/IGLOU-EU) (1 week ago)
+- [IGLOU-EU](https://github.com/IGLOU-EU) (2 weeks ago)
 - [ytocquet](https://github.com/ytocquet) (2 weeks ago)
 - [mccaffers](https://github.com/mccaffers) (3 months ago)
 - [securebitsorg](https://github.com/securebitsorg) (5 months ago)
