@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [theme: Run ncu -u to update dependencies](https://github.com/gohugoio/hugoDocs/pull/3311) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Fix some outdated front matter](https://github.com/gohugoio/hugo/pull/14272) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade github.com/alecthomas/chroma/v2 v2.20.0 =&gt; v2.21.0](https://github.com/gohugoio/hugo/pull/14268) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Improve error handling/messages in Hugo Pipes](https://github.com/gohugoio/hugo/pull/14267) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [images: Add a webp test with bg color](https://github.com/gohugoio/hugo/pull/14264) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc deprecations](https://github.com/gohugoio/hugo/pull/14263) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
