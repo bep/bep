@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/14279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [theme: Replace SVG icons with maskicons tabler icons](https://github.com/gohugoio/hugoDocs/pull/3312) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [tailwindcss: Add referece to skipInlineImportsNotFound when import not found in assets](https://github.com/gohugoio/hugo/pull/14276) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [theme: Run ncu -u to update dependencies](https://github.com/gohugoio/hugoDocs/pull/3311) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [Fix some outdated front matter](https://github.com/gohugoio/hugo/pull/14272) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [deps: Upgrade github.com/alecthomas/chroma/v2 v2.20.0 =&gt; v2.21.0](https://github.com/gohugoio/hugo/pull/14268) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
