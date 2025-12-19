@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/14279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [theme: Replace SVG icons with maskicons tabler icons](https://github.com/gohugoio/hugoDocs/pull/3312) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [tailwindcss: Add referece to skipInlineImportsNotFound when import not found in assets](https://github.com/gohugoio/hugo/pull/14276) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [theme: Run ncu -u to update dependencies](https://github.com/gohugoio/hugoDocs/pull/3311) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [Fix some outdated front matter](https://github.com/gohugoio/hugo/pull/14272) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/14279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [theme: Replace SVG icons with maskicons tabler icons](https://github.com/gohugoio/hugoDocs/pull/3312) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [tailwindcss: Add referece to skipInlineImportsNotFound when import not found in assets](https://github.com/gohugoio/hugo/pull/14276) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [theme: Run ncu -u to update dependencies](https://github.com/gohugoio/hugoDocs/pull/3311) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [Fix some outdated front matter](https://github.com/gohugoio/hugo/pull/14272) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [IGLOU-EU](https://github.com/IGLOU-EU) (2 weeks ago)
-- [ytocquet](https://github.com/ytocquet) (2 weeks ago)
+- [ytocquet](https://github.com/ytocquet) (3 weeks ago)
 - [mccaffers](https://github.com/mccaffers) (3 months ago)
 - [securebitsorg](https://github.com/securebitsorg) (5 months ago)
 - [ajboni](https://github.com/ajboni) (5 months ago)
