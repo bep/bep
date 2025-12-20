@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Handle PNG named *.webp](https://github.com/gohugoio/hugo/pull/14291) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Revert deprecation logging for contentDir per language](https://github.com/gohugoio/hugo/pull/14290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/14289) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc v0.153.0 related edits](https://github.com/gohugoio/hugoDocs/pull/3313) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/14279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [theme: Replace SVG icons with maskicons tabler icons](https://github.com/gohugoio/hugoDocs/pull/3312) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
