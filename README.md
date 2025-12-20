@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/14289) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc v0.153.0 related edits](https://github.com/gohugoio/hugoDocs/pull/3313) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [Misc fixes](https://github.com/gohugoio/hugo/pull/14279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [theme: Replace SVG icons with maskicons tabler icons](https://github.com/gohugoio/hugoDocs/pull/3312) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [tailwindcss: Add referece to skipInlineImportsNotFound when import not found in assets](https://github.com/gohugoio/hugo/pull/14276) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [theme: Run ncu -u to update dependencies](https://github.com/gohugoio/hugoDocs/pull/3311) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
