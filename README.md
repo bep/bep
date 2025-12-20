@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [wongfl](https://github.com/wongfl) (today)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (2 weeks ago)
 - [ytocquet](https://github.com/ytocquet) (3 weeks ago)
 - [mccaffers](https://github.com/mccaffers) (3 months ago)
 - [securebitsorg](https://github.com/securebitsorg) (5 months ago)
-- [ajboni](https://github.com/ajboni) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
