@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Handle PNG named *.webp](https://github.com/gohugoio/hugo/pull/14291) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Revert deprecation logging for contentDir per language](https://github.com/gohugoio/hugo/pull/14290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/14289) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc v0.153.0 related edits](https://github.com/gohugoio/hugoDocs/pull/3313) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/14279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Handle PNG named *.webp](https://github.com/gohugoio/hugo/pull/14291) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Revert deprecation logging for contentDir per language](https://github.com/gohugoio/hugo/pull/14290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/14289) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc v0.153.0 related edits](https://github.com/gohugoio/hugoDocs/pull/3313) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/14279) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [wongfl](https://github.com/wongfl) (today)
+- [wongfl](https://github.com/wongfl) (1 day ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (2 weeks ago)
 - [ytocquet](https://github.com/ytocquet) (3 weeks ago)
 - [mccaffers](https://github.com/mccaffers) (3 months ago)
