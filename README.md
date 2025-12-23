@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Fix &#34;image: unknown format&#34; error](https://github.com/gohugoio/hugo/pull/14296) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [modules: Remove extended edition check](https://github.com/gohugoio/hugo/pull/14293) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Handle PNG named *.webp](https://github.com/gohugoio/hugo/pull/14291) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Revert deprecation logging for contentDir per language](https://github.com/gohugoio/hugo/pull/14290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/14289) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix &#34;image: unknown format&#34; error](https://github.com/gohugoio/hugo/pull/14296) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [modules: Remove extended edition check](https://github.com/gohugoio/hugo/pull/14293) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Handle PNG named *.webp](https://github.com/gohugoio/hugo/pull/14291) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Revert deprecation logging for contentDir per language](https://github.com/gohugoio/hugo/pull/14290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/14289) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [cnovel](https://github.com/cnovel) (1 day ago)
-- [wongfl](https://github.com/wongfl) (2 days ago)
+- [cnovel](https://github.com/cnovel) (2 days ago)
+- [wongfl](https://github.com/wongfl) (3 days ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (2 weeks ago)
 - [ytocquet](https://github.com/ytocquet) (3 weeks ago)
 - [mccaffers](https://github.com/mccaffers) (3 months ago)
