@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Allow partials to work as decorators](https://github.com/gohugoio/hugo/pull/14300) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix &#34;image: unknown format&#34; error](https://github.com/gohugoio/hugo/pull/14296) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [modules: Remove extended edition check](https://github.com/gohugoio/hugo/pull/14293) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Handle PNG named *.webp](https://github.com/gohugoio/hugo/pull/14291) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Revert deprecation logging for contentDir per language](https://github.com/gohugoio/hugo/pull/14290) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/14289) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
