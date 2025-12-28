@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [do not merge: Demo/test of partial decorators](https://github.com/gohugoio/hugoDocs/pull/3330) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [Add reflect.Is{Page,Site,Resource,ImageResource}](https://github.com/gohugoio/hugo/pull/14308) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix error with _content.gotmpl file with index.md siblings](https://github.com/gohugoio/hugo/pull/14301) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Drop warning for UserComment type assertion](https://github.com/bep/imagemeta/pull/47) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
-- [Allow partials to work as decorators](https://github.com/gohugoio/hugo/pull/14300) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [do not merge: Demo/test of partial decorators](https://github.com/gohugoio/hugoDocs/pull/3330) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [Add reflect.Is{Page,Site,Resource,ImageResource}](https://github.com/gohugoio/hugo/pull/14308) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix error with _content.gotmpl file with index.md siblings](https://github.com/gohugoio/hugo/pull/14301) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Drop warning for UserComment type assertion](https://github.com/bep/imagemeta/pull/47) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
+- [Allow partials to work as decorators](https://github.com/gohugoio/hugo/pull/14300) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [cnovel](https://github.com/cnovel) (6 days ago)
+- [cnovel](https://github.com/cnovel) (1 week ago)
 - [wongfl](https://github.com/wongfl) (1 week ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (3 weeks ago)
-- [ytocquet](https://github.com/ytocquet) (4 weeks ago)
+- [ytocquet](https://github.com/ytocquet) (1 month ago)
 - [mccaffers](https://github.com/mccaffers) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
