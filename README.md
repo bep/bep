@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Revert &#34;resources/page: Fix slugorcontentbasename for section pages&#34;](https://github.com/gohugoio/hugo/pull/14326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [config: Fix cacade per language in hugo.toml regression](https://github.com/gohugoio/hugo/pull/14323) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [images: Add compression option to image config and clean up some of the options handling](https://github.com/gohugoio/hugo/pull/14322) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Set cascade target to the content matrix if not set in the cascade itself](https://github.com/gohugoio/hugo/pull/14311) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [do not merge: Demo/test of partial decorators](https://github.com/gohugoio/hugoDocs/pull/3330) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
-- [Add reflect.Is{Page,Site,Resource,ImageResource}](https://github.com/gohugoio/hugo/pull/14308) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
