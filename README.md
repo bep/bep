@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl/collections: Fix apply to work with built-in funcs like len](https://github.com/gohugoio/hugo/pull/14330) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl/reflect: Make the IsImageResource implementation less technical](https://github.com/gohugoio/hugo/pull/14328) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Revert &#34;resources/page: Fix slugorcontentbasename for section pages&#34;](https://github.com/gohugoio/hugo/pull/14326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [config: Fix cacade per language in hugo.toml regression](https://github.com/gohugoio/hugo/pull/14323) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [images: Add compression option to image config and clean up some of the options handling](https://github.com/gohugoio/hugo/pull/14322) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Set cascade target to the content matrix if not set in the cascade itself](https://github.com/gohugoio/hugo/pull/14311) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
