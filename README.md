@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [tpl/reflect: Make the IsImageResource implementation less technical](https://github.com/gohugoio/hugo/pull/14328) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Revert &#34;resources/page: Fix slugorcontentbasename for section pages&#34;](https://github.com/gohugoio/hugo/pull/14326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [config: Fix cacade per language in hugo.toml regression](https://github.com/gohugoio/hugo/pull/14323) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [images: Add compression option to image config and clean up some of the options handling](https://github.com/gohugoio/hugo/pull/14322) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Set cascade target to the content matrix if not set in the cascade itself](https://github.com/gohugoio/hugo/pull/14311) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl/reflect: Make the IsImageResource implementation less technical](https://github.com/gohugoio/hugo/pull/14328) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Revert &#34;resources/page: Fix slugorcontentbasename for section pages&#34;](https://github.com/gohugoio/hugo/pull/14326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [config: Fix cacade per language in hugo.toml regression](https://github.com/gohugoio/hugo/pull/14323) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [images: Add compression option to image config and clean up some of the options handling](https://github.com/gohugoio/hugo/pull/14322) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Set cascade target to the content matrix if not set in the cascade itself](https://github.com/gohugoio/hugo/pull/14311) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [cnovel](https://github.com/cnovel) (1 week ago)
 - [wongfl](https://github.com/wongfl) (1 week ago)
-- [IGLOU-EU](https://github.com/IGLOU-EU) (3 weeks ago)
+- [IGLOU-EU](https://github.com/IGLOU-EU) (4 weeks ago)
 - [ytocquet](https://github.com/ytocquet) (1 month ago)
-- [mccaffers](https://github.com/mccaffers) (3 months ago)
+- [mccaffers](https://github.com/mccaffers) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
