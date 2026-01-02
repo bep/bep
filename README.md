@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Fix partial decorator detection in partial with blocks with outer range break or continue](https://github.com/gohugoio/hugo/pull/14334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/collections: Fix apply to work with built-in funcs like len](https://github.com/gohugoio/hugo/pull/14330) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl/reflect: Make the IsImageResource implementation less technical](https://github.com/gohugoio/hugo/pull/14328) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Revert &#34;resources/page: Fix slugorcontentbasename for section pages&#34;](https://github.com/gohugoio/hugo/pull/14326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [config: Fix cacade per language in hugo.toml regression](https://github.com/gohugoio/hugo/pull/14323) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix partial decorator detection in partial with blocks with outer range break or continue](https://github.com/gohugoio/hugo/pull/14334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/collections: Fix apply to work with built-in funcs like len](https://github.com/gohugoio/hugo/pull/14330) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl/reflect: Make the IsImageResource implementation less technical](https://github.com/gohugoio/hugo/pull/14328) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Revert &#34;resources/page: Fix slugorcontentbasename for section pages&#34;](https://github.com/gohugoio/hugo/pull/14326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [config: Fix cacade per language in hugo.toml regression](https://github.com/gohugoio/hugo/pull/14323) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [cnovel](https://github.com/cnovel) (1 week ago)
 - [wongfl](https://github.com/wongfl) (1 week ago)
-- [IGLOU-EU](https://github.com/IGLOU-EU) (4 weeks ago)
+- [IGLOU-EU](https://github.com/IGLOU-EU) (1 month ago)
 - [ytocquet](https://github.com/ytocquet) (1 month ago)
 - [mccaffers](https://github.com/mccaffers) (4 months ago)
 
