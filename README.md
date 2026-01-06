@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Fix alpha/fuzzy border issue with new webp decoder for images with with transparent background](https://github.com/gohugoio/hugo/pull/14340) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Fix partial decorator detection in partial with blocks with outer range break or continue](https://github.com/gohugoio/hugo/pull/14334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [tpl/collections: Fix apply to work with built-in funcs like len](https://github.com/gohugoio/hugo/pull/14330) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [tpl/reflect: Make the IsImageResource implementation less technical](https://github.com/gohugoio/hugo/pull/14328) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Revert &#34;resources/page: Fix slugorcontentbasename for section pages&#34;](https://github.com/gohugoio/hugo/pull/14326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Fix alpha/fuzzy border issue with new webp decoder for images with with transparent background](https://github.com/gohugoio/hugo/pull/14340) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix partial decorator detection in partial with blocks with outer range break or continue](https://github.com/gohugoio/hugo/pull/14334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [tpl/collections: Fix apply to work with built-in funcs like len](https://github.com/gohugoio/hugo/pull/14330) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [tpl/reflect: Make the IsImageResource implementation less technical](https://github.com/gohugoio/hugo/pull/14328) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Revert &#34;resources/page: Fix slugorcontentbasename for section pages&#34;](https://github.com/gohugoio/hugo/pull/14326) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [geerlingguy](https://github.com/geerlingguy) (1 day ago)
+- [geerlingguy](https://github.com/geerlingguy) (2 days ago)
 - [cnovel](https://github.com/cnovel) (2 weeks ago)
 - [wongfl](https://github.com/wongfl) (2 weeks ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (1 month ago)
