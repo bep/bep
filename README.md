@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Update GitHub Actions](https://github.com/bep/hugo/pull/200) on [bep/hugo](https://github.com/bep/hugo) (today)
-- [Update GitHub Actions](https://github.com/bep/simplecobra/pull/15) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
-- [Update GitHub Actions](https://github.com/bep/s3deploy/pull/513) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
-- [Update GitHub Actions](https://github.com/bep/logg/pull/13) on [bep/logg](https://github.com/bep/logg) (today)
-- [Update GitHub Actions](https://github.com/bep/lazycache/pull/14) on [bep/lazycache](https://github.com/bep/lazycache) (today)
+- [Update GitHub Actions](https://github.com/bep/simplecobra/pull/16) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
+- [Update GitHub Actions](https://github.com/bep/s3deploy/pull/514) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
+- [Update GitHub Actions](https://github.com/bep/logg/pull/14) on [bep/logg](https://github.com/bep/logg) (today)
+- [Update GitHub Actions](https://github.com/bep/lazycache/pull/15) on [bep/lazycache](https://github.com/bep/lazycache) (today)
+- [Update GitHub Actions](https://github.com/bep/imagemeta/pull/49) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 
 ### Recent sponsors (big thank you!)
 
