@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Investigate the sites matrix file mount merge logic](https://github.com/gohugoio/hugo/pull/14358) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [For multiple dimensions setups, fix alias handling and multihost publish path](https://github.com/gohugoio/hugo/pull/14355) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix alpha/fuzzy border issue with new webp decoder for images with with transparent background](https://github.com/gohugoio/hugo/pull/14340) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix partial decorator detection in partial with blocks with outer range break or continue](https://github.com/gohugoio/hugo/pull/14334) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [tpl/collections: Fix apply to work with built-in funcs like len](https://github.com/gohugoio/hugo/pull/14330) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [tpl/reflect: Make the IsImageResource implementation less technical](https://github.com/gohugoio/hugo/pull/14328) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
