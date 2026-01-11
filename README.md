@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Update GitHub Actions](https://github.com/bep/simplecobra/pull/16) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
-- [Update GitHub Actions](https://github.com/bep/s3deploy/pull/514) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
-- [Update GitHub Actions](https://github.com/bep/logg/pull/14) on [bep/logg](https://github.com/bep/logg) (1 day ago)
-- [Update GitHub Actions](https://github.com/bep/lazycache/pull/15) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
-- [Update GitHub Actions](https://github.com/bep/imagemeta/pull/49) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Update go.mod Go 1.24, dependencies](https://github.com/bep/simplecobra/pull/17) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
+- [Update go.mod Go 1.24, dependencies](https://github.com/bep/lazycache/pull/16) on [bep/lazycache](https://github.com/bep/lazycache) (today)
+- [Update go.mod Go 1.24, dependencies](https://github.com/bep/imagemeta/pull/50) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
+- [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.24, dependencies](https://github.com/bep/hugo/pull/202) on [bep/hugo](https://github.com/bep/hugo) (today)
+- [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.24, dependencies](https://github.com/bep/golibtemplate/pull/7) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (today)
 
 ### Recent sponsors (big thank you!)
 
