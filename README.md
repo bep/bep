@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Update GitHub Actions](https://github.com/bep/simplecobra/pull/16) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
-- [Update GitHub Actions](https://github.com/bep/s3deploy/pull/514) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
-- [Update GitHub Actions](https://github.com/bep/logg/pull/14) on [bep/logg](https://github.com/bep/logg) (today)
-- [Update GitHub Actions](https://github.com/bep/lazycache/pull/15) on [bep/lazycache](https://github.com/bep/lazycache) (today)
-- [Update GitHub Actions](https://github.com/bep/imagemeta/pull/49) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
+- [Update GitHub Actions](https://github.com/bep/simplecobra/pull/16) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
+- [Update GitHub Actions](https://github.com/bep/s3deploy/pull/514) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
+- [Update GitHub Actions](https://github.com/bep/logg/pull/14) on [bep/logg](https://github.com/bep/logg) (1 day ago)
+- [Update GitHub Actions](https://github.com/bep/lazycache/pull/15) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
+- [Update GitHub Actions](https://github.com/bep/imagemeta/pull/49) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
-- [geerlingguy](https://github.com/geerlingguy) (6 days ago)
-- [cnovel](https://github.com/cnovel) (2 weeks ago)
+- [geerlingguy](https://github.com/geerlingguy) (1 week ago)
+- [cnovel](https://github.com/cnovel) (3 weeks ago)
 - [wongfl](https://github.com/wongfl) (3 weeks ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (1 month ago)
 - [ytocquet](https://github.com/ytocquet) (1 month ago)
