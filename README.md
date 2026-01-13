@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Decode image dimension](https://github.com/bep/imagemeta/pull/51) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Fix some default site redirect woes](https://github.com/gohugoio/hugo/pull/14363) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [theme: Add a mobile menu variant](https://github.com/gohugoio/hugoDocs/pull/3340) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [Update go.mod Go 1.24, dependencies](https://github.com/bep/simplecobra/pull/17) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
 - [Update go.mod Go 1.24, dependencies](https://github.com/bep/lazycache/pull/16) on [bep/lazycache](https://github.com/bep/lazycache) (2 days ago)
-- [Update go.mod Go 1.24, dependencies](https://github.com/bep/imagemeta/pull/50) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
