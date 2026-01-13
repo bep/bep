@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add Image.Meta](https://github.com/gohugoio/hugo/pull/14378) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [output: Add TestCanonical integration test](https://github.com/gohugoio/hugo/pull/14377) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Decode webp.ImageConfig natively](https://github.com/gohugoio/hugo/pull/14376) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.24, dependencies](https://github.com/bep/overlayfs/pull/11) on [bep/overlayfs](https://github.com/bep/overlayfs) (today)
 - [Decode image dimension](https://github.com/bep/imagemeta/pull/51) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Fix some default site redirect woes](https://github.com/gohugoio/hugo/pull/14363) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
