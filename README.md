@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Add source fallbacks fro GetDateTime and GetLatLong](https://github.com/bep/imagemeta/pull/52) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [ci: Fix cache warnings by moving checkout step first](https://github.com/bep/logg/pull/16) on [bep/logg](https://github.com/bep/logg) (today)
-- [ci: Fix cache warnings by moving checkout step first](https://github.com/bep/simplecobra/pull/18) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
-- [ci: Fix cache warnings by moving checkout step first](https://github.com/bep/gojap/pull/4) on [bep/gojap](https://github.com/bep/gojap) (today)
-- [ci: Fix cache warnings by moving checkout step first](https://github.com/bep/godartsass/pull/42) on [bep/godartsass](https://github.com/bep/godartsass) (today)
+- [Add source fallbacks fro GetDateTime and GetLatLong](https://github.com/bep/imagemeta/pull/52) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [ci: Fix cache warnings by moving checkout step first](https://github.com/bep/logg/pull/16) on [bep/logg](https://github.com/bep/logg) (1 day ago)
+- [ci: Fix cache warnings by moving checkout step first](https://github.com/bep/simplecobra/pull/18) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
+- [ci: Fix cache warnings by moving checkout step first](https://github.com/bep/gojap/pull/4) on [bep/gojap](https://github.com/bep/gojap) (1 day ago)
+- [ci: Fix cache warnings by moving checkout step first](https://github.com/bep/godartsass/pull/42) on [bep/godartsass](https://github.com/bep/godartsass) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
