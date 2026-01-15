@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Add missing godoc comments for public symbols](https://github.com/bep/predicate/pull/5) on [bep/predicate](https://github.com/bep/predicate) (today)
-- [Fix filing GetOrCreate could delete unrelated cache entries](https://github.com/bep/lazycache/pull/17) on [bep/lazycache](https://github.com/bep/lazycache) (today)
-- [Add source fallbacks fro GetDateTime and GetLatLong](https://github.com/bep/imagemeta/pull/52) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [ci: Fix cache warnings by moving checkout step first](https://github.com/bep/logg/pull/16) on [bep/logg](https://github.com/bep/logg) (1 day ago)
-- [ci: Fix cache warnings by moving checkout step first](https://github.com/bep/simplecobra/pull/18) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
+- [Add missing godoc comments for public symbols](https://github.com/bep/predicate/pull/5) on [bep/predicate](https://github.com/bep/predicate) (1 day ago)
+- [Fix filing GetOrCreate could delete unrelated cache entries](https://github.com/bep/lazycache/pull/17) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
+- [Add source fallbacks fro GetDateTime and GetLatLong](https://github.com/bep/imagemeta/pull/52) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [ci: Fix cache warnings by moving checkout step first](https://github.com/bep/logg/pull/16) on [bep/logg](https://github.com/bep/logg) (2 days ago)
+- [ci: Fix cache warnings by moving checkout step first](https://github.com/bep/simplecobra/pull/18) on [bep/simplecobra](https://github.com/bep/simplecobra) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
