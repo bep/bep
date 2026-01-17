@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fallback to default credentials when access key / secret are not provided](https://github.com/bep/s3deploy/pull/515) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
 - [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.24, dependencies](https://github.com/bep/gomaintemplate/pull/2) on [bep/gomaintemplate](https://github.com/bep/gomaintemplate) (1 day ago)
 - [Try to use the 1Password Go SDK to read secrets](https://github.com/bep/firstupdotenv/pull/3) on [bep/firstupdotenv](https://github.com/bep/firstupdotenv) (1 day ago)
 - [Add support for bulk reading 1Password keys via op read](https://github.com/bep/firstupdotenv/pull/2) on [bep/firstupdotenv](https://github.com/bep/firstupdotenv) (1 day ago)
 - [Rename common/maps to common/hmaps](https://github.com/gohugoio/hugo/pull/14384) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add publish command for releasing drafts and updating Homebrew tap](https://github.com/gohugoio/hugoreleaser/pull/47) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
