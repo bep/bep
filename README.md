@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Add webp benchmark test](https://github.com/gohugoio/hugo/pull/14393) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Speedup webp](https://github.com/gohugoio/hugo/pull/14393) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fallback to default credentials when access key / secret are not provided](https://github.com/bep/s3deploy/pull/515) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
 - [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.24, dependencies](https://github.com/bep/gomaintemplate/pull/2) on [bep/gomaintemplate](https://github.com/bep/gomaintemplate) (2 days ago)
 - [Try to use the 1Password Go SDK to read secrets](https://github.com/bep/firstupdotenv/pull/3) on [bep/firstupdotenv](https://github.com/bep/firstupdotenv) (2 days ago)
