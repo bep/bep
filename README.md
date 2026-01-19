@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Reduce memory allocations by reusing pixel buffers](https://github.com/disintegration/gift/pull/32) on [disintegration/gift](https://github.com/disintegration/gift) (today)
-- [Fix spelling mistake in comment](https://github.com/wazero/wazero/pull/2467) on [wazero/wazero](https://github.com/wazero/wazero) (today)
-- [Speedup webp](https://github.com/gohugoio/hugo/pull/14393) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fallback to default credentials when access key / secret are not provided](https://github.com/bep/s3deploy/pull/515) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
-- [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.24, dependencies](https://github.com/bep/gomaintemplate/pull/2) on [bep/gomaintemplate](https://github.com/bep/gomaintemplate) (2 days ago)
+- [Reduce memory allocations by reusing pixel buffers](https://github.com/disintegration/gift/pull/32) on [disintegration/gift](https://github.com/disintegration/gift) (1 day ago)
+- [Fix spelling mistake in comment](https://github.com/wazero/wazero/pull/2467) on [wazero/wazero](https://github.com/wazero/wazero) (1 day ago)
+- [Speedup webp](https://github.com/gohugoio/hugo/pull/14393) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fallback to default credentials when access key / secret are not provided](https://github.com/bep/s3deploy/pull/515) on [bep/s3deploy](https://github.com/bep/s3deploy) (2 days ago)
+- [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.24, dependencies](https://github.com/bep/gomaintemplate/pull/2) on [bep/gomaintemplate](https://github.com/bep/gomaintemplate) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [geerlingguy](https://github.com/geerlingguy) (2 weeks ago)
 - [cnovel](https://github.com/cnovel) (4 weeks ago)
-- [wongfl](https://github.com/wongfl) (4 weeks ago)
+- [wongfl](https://github.com/wongfl) (1 month ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (1 month ago)
 - [ytocquet](https://github.com/ytocquet) (1 month ago)
 
