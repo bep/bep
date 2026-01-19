@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Move from github.com/disintegration/gift to github.com/gohugoio/gift](https://github.com/gohugoio/hugo/pull/14399) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Simplify the API a little, adjust parallelism defaults](https://github.com/gohugoio/gift/pull/4) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
 - [all: Run modernize -fix ./...](https://github.com/gohugoio/gift/pull/3) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
 - [Reduce memory allocations by reusing pixel buffers](https://github.com/gohugoio/gift/pull/2) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
 - [GitHub actions setup etc.](https://github.com/gohugoio/gift/pull/1) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
-- [Reduce memory allocations by reusing pixel buffers](https://github.com/disintegration/gift/pull/32) on [disintegration/gift](https://github.com/disintegration/gift) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
