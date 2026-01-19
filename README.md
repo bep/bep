@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Simplify the API a little, adjust parallelism defaults](https://github.com/gohugoio/gift/pull/4) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
 - [all: Run modernize -fix ./...](https://github.com/gohugoio/gift/pull/3) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
 - [Reduce memory allocations by reusing pixel buffers](https://github.com/gohugoio/gift/pull/2) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
 - [GitHub actions setup etc.](https://github.com/gohugoio/gift/pull/1) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
 - [Reduce memory allocations by reusing pixel buffers](https://github.com/disintegration/gift/pull/32) on [disintegration/gift](https://github.com/disintegration/gift) (1 day ago)
-- [Fix spelling mistake in comment](https://github.com/wazero/wazero/pull/2467) on [wazero/wazero](https://github.com/wazero/wazero) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
