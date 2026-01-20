@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade github.com/gohugoio/gift v0.1.0 =&gt; v0.2.0](https://github.com/gohugoio/hugo/pull/14403) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add range matchers for site matrix vector store filtering](https://github.com/gohugoio/hugo/pull/14401) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add range matchers for site matrix vector store filtering](https://github.com/gohugoio/hugo/pull/14400) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Move from github.com/disintegration/gift to github.com/gohugoio/gift](https://github.com/gohugoio/hugo/pull/14399) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Simplify the API a little, adjust parallelism defaults](https://github.com/gohugoio/gift/pull/4) on [gohugoio/gift](https://github.com/gohugoio/gift) (1 day ago)
-- [all: Run modernize -fix ./...](https://github.com/gohugoio/gift/pull/3) on [gohugoio/gift](https://github.com/gohugoio/gift) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
