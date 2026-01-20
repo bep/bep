@@ -11,10 +11,10 @@
 ### Recent sponsors (big thank you!)
 
 - [geerlingguy](https://github.com/geerlingguy) (2 weeks ago)
-- [cnovel](https://github.com/cnovel) (1 month ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (1 month ago)
 - [ytocquet](https://github.com/ytocquet) (1 month ago)
 - [mccaffers](https://github.com/mccaffers) (4 months ago)
+- [securebitsorg](https://github.com/securebitsorg) (6 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
