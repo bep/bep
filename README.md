@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Add range matchers for site matrix vector store filtering](https://github.com/gohugoio/hugo/pull/14401) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add range matchers for site matrix vector store filtering](https://github.com/gohugoio/hugo/pull/14400) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Move from github.com/disintegration/gift to github.com/gohugoio/gift](https://github.com/gohugoio/hugo/pull/14399) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Simplify the API a little, adjust parallelism defaults](https://github.com/gohugoio/gift/pull/4) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
-- [all: Run modernize -fix ./...](https://github.com/gohugoio/gift/pull/3) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
+- [Add range matchers for site matrix vector store filtering](https://github.com/gohugoio/hugo/pull/14401) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add range matchers for site matrix vector store filtering](https://github.com/gohugoio/hugo/pull/14400) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Move from github.com/disintegration/gift to github.com/gohugoio/gift](https://github.com/gohugoio/hugo/pull/14399) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Simplify the API a little, adjust parallelism defaults](https://github.com/gohugoio/gift/pull/4) on [gohugoio/gift](https://github.com/gohugoio/gift) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/gohugoio/gift/pull/3) on [gohugoio/gift](https://github.com/gohugoio/gift) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
 - [geerlingguy](https://github.com/geerlingguy) (2 weeks ago)
-- [cnovel](https://github.com/cnovel) (4 weeks ago)
+- [cnovel](https://github.com/cnovel) (1 month ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (1 month ago)
 - [ytocquet](https://github.com/ytocquet) (1 month ago)
 - [mccaffers](https://github.com/mccaffers) (4 months ago)
