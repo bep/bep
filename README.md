@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Make Page.Aliases more useful in multidimensional setups](https://github.com/gohugoio/hugo/pull/14408) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix file mount specifity issue within the same module](https://github.com/gohugoio/hugo/pull/14406) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [deps: Upgrade github.com/gohugoio/gift v0.1.0 =&gt; v0.2.0](https://github.com/gohugoio/hugo/pull/14403) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add range matchers for site matrix vector store filtering](https://github.com/gohugoio/hugo/pull/14401) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Add range matchers for site matrix vector store filtering](https://github.com/gohugoio/hugo/pull/14400) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Move from github.com/disintegration/gift to github.com/gohugoio/gift](https://github.com/gohugoio/hugo/pull/14399) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
