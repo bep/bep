@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Allow v1,v2 etc. style version names while still supporting full semver in queries](https://github.com/gohugoio/hugo/pull/14416) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix cascade draft panic](https://github.com/gohugoio/hugo/pull/14411) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Make Page.Aliases more useful in multidimensional setups](https://github.com/gohugoio/hugo/pull/14408) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix file mount specifity issue within the same module](https://github.com/gohugoio/hugo/pull/14406) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [deps: Upgrade github.com/gohugoio/gift v0.1.0 =&gt; v0.2.0](https://github.com/gohugoio/hugo/pull/14403) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add range matchers for site matrix vector store filtering](https://github.com/gohugoio/hugo/pull/14401) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
