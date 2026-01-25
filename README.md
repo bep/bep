@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Make docs helper maxAge JSON output user friendly](https://github.com/gohugoio/hugo/pull/14426) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add == and != operators to range predicates](https://github.com/gohugoio/hugo/pull/14423) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add modulequeries file cache for module version queries](https://github.com/gohugoio/hugo/pull/14418) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Allow v1,v2 etc. style version names while still supporting full semver in queries](https://github.com/gohugoio/hugo/pull/14416) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Fix cascade draft panic](https://github.com/gohugoio/hugo/pull/14411) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Make Page.Aliases more useful in multidimensional setups](https://github.com/gohugoio/hugo/pull/14408) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
