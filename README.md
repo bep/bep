@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix panic reported in discourse](https://github.com/gohugoio/hugo/pull/14443) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Remove disableDate and disableLatLong from MetaConfig](https://github.com/gohugoio/hugo/pull/14440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix recently introduced partial rendering bug](https://github.com/gohugoio/hugo/pull/14435) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix recent partial breakage](https://github.com/gohugoio/hugo/pull/14434) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add Page.GitInfo support for content from GitHub modules](https://github.com/gohugoio/hugo/pull/14432) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Make docs helper maxAge JSON output user friendly](https://github.com/gohugoio/hugo/pull/14426) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
