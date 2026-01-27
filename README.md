@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Fix recently introduced partial rendering bug](https://github.com/gohugoio/hugo/pull/14435) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix recent partial breakage](https://github.com/gohugoio/hugo/pull/14434) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add Page.GitInfo support for content from GitHub modules](https://github.com/gohugoio/hugo/pull/14432) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Make docs helper maxAge JSON output user friendly](https://github.com/gohugoio/hugo/pull/14426) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add == and != operators to range predicates](https://github.com/gohugoio/hugo/pull/14423) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix recently introduced partial rendering bug](https://github.com/gohugoio/hugo/pull/14435) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix recent partial breakage](https://github.com/gohugoio/hugo/pull/14434) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add Page.GitInfo support for content from GitHub modules](https://github.com/gohugoio/hugo/pull/14432) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Make docs helper maxAge JSON output user friendly](https://github.com/gohugoio/hugo/pull/14426) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add == and != operators to range predicates](https://github.com/gohugoio/hugo/pull/14423) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [geerlingguy](https://github.com/geerlingguy) (3 weeks ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (1 month ago)
-- [ytocquet](https://github.com/ytocquet) (1 month ago)
+- [ytocquet](https://github.com/ytocquet) (2 months ago)
 - [mccaffers](https://github.com/mccaffers) (4 months ago)
 - [securebitsorg](https://github.com/securebitsorg) (6 months ago)
 
