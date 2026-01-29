@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Add collections.WhereIter template function](https://github.com/gohugoio/hugo/pull/14444) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix panic reported in discourse](https://github.com/gohugoio/hugo/pull/14443) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Remove disableDate and disableLatLong from MetaConfig](https://github.com/gohugoio/hugo/pull/14440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix recently introduced partial rendering bug](https://github.com/gohugoio/hugo/pull/14435) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix recent partial breakage](https://github.com/gohugoio/hugo/pull/14434) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add collections.WhereIter template function](https://github.com/gohugoio/hugo/pull/14444) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix panic reported in discourse](https://github.com/gohugoio/hugo/pull/14443) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Remove disableDate and disableLatLong from MetaConfig](https://github.com/gohugoio/hugo/pull/14440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix recently introduced partial rendering bug](https://github.com/gohugoio/hugo/pull/14435) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix recent partial breakage](https://github.com/gohugoio/hugo/pull/14434) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
