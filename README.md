@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Fix image DecodeConfig regression of WebP images from file cache](https://github.com/gohugoio/hugo/pull/14454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add collections.WhereIter template function](https://github.com/gohugoio/hugo/pull/14444) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix panic reported in discourse](https://github.com/gohugoio/hugo/pull/14443) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Remove disableDate and disableLatLong from MetaConfig](https://github.com/gohugoio/hugo/pull/14440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix recently introduced partial rendering bug](https://github.com/gohugoio/hugo/pull/14435) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix image DecodeConfig regression of WebP images from file cache](https://github.com/gohugoio/hugo/pull/14454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add collections.WhereIter template function](https://github.com/gohugoio/hugo/pull/14444) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix panic reported in discourse](https://github.com/gohugoio/hugo/pull/14443) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Remove disableDate and disableLatLong from MetaConfig](https://github.com/gohugoio/hugo/pull/14440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix recently introduced partial rendering bug](https://github.com/gohugoio/hugo/pull/14435) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [geerlingguy](https://github.com/geerlingguy) (3 weeks ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (1 month ago)
 - [ytocquet](https://github.com/ytocquet) (2 months ago)
-- [mccaffers](https://github.com/mccaffers) (4 months ago)
+- [mccaffers](https://github.com/mccaffers) (5 months ago)
 - [securebitsorg](https://github.com/securebitsorg) (6 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
