@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [parahelpers: Switch implementation](https://github.com/bep/helpers/pull/7) on [bep/helpers](https://github.com/bep/helpers) (today)
 - [Fix image DecodeConfig regression of WebP images from file cache](https://github.com/gohugoio/hugo/pull/14454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Add collections.WhereIter template function](https://github.com/gohugoio/hugo/pull/14444) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Fix panic reported in discourse](https://github.com/gohugoio/hugo/pull/14443) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Remove disableDate and disableLatLong from MetaConfig](https://github.com/gohugoio/hugo/pull/14440) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix recently introduced partial rendering bug](https://github.com/gohugoio/hugo/pull/14435) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
