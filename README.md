@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.24, dependencies](https://github.com/bep/firstupdotenv/pull/4) on [bep/firstupdotenv](https://github.com/bep/firstupdotenv) (1 day ago)
-- [parahelpers: Switch implementation](https://github.com/bep/helpers/pull/7) on [bep/helpers](https://github.com/bep/helpers) (1 day ago)
-- [Fix image DecodeConfig regression of WebP images from file cache](https://github.com/gohugoio/hugo/pull/14454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add collections.WhereIter template function](https://github.com/gohugoio/hugo/pull/14444) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Fix panic reported in discourse](https://github.com/gohugoio/hugo/pull/14443) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Update Go .x/.x, GitHub Actions](https://github.com/bep/gojap/pull/5) on [bep/gojap](https://github.com/bep/gojap) (today)
+- [Update Go .x/.x, GitHub Actions](https://github.com/bep/godartsass/pull/43) on [bep/godartsass](https://github.com/bep/godartsass) (today)
+- [Update Go .x/.x, GitHub Actions](https://github.com/bep/gobench/pull/4) on [bep/gobench](https://github.com/bep/gobench) (today)
+- [Update Go .x/.x, GitHub Actions](https://github.com/bep/goat/pull/6) on [bep/goat](https://github.com/bep/goat) (today)
+- [Update Go .x/.x, GitHub Actions](https://github.com/bep/gitmap/pull/23) on [bep/gitmap](https://github.com/bep/gitmap) (today)
 
 ### Recent sponsors (big thank you!)
 
