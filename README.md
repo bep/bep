@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Take 2 on fixing the tests on Windows](https://github.com/bep/gitjoin/pull/1) on [bep/gitjoin](https://github.com/bep/gitjoin) (today)
-- [resources/image: Add some image decode/encode debug logging](https://github.com/gohugoio/hugo/pull/14463) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix template change detection for multi-version sites](https://github.com/gohugoio/hugo/pull/14462) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Update Go .x/.x, GitHub Actions](https://github.com/bep/gojap/pull/5) on [bep/gojap](https://github.com/bep/gojap) (today)
-- [Update Go .x/.x, GitHub Actions](https://github.com/bep/godartsass/pull/43) on [bep/godartsass](https://github.com/bep/godartsass) (today)
+- [Take 2 on fixing the tests on Windows](https://github.com/bep/gitjoin/pull/1) on [bep/gitjoin](https://github.com/bep/gitjoin) (1 day ago)
+- [resources/image: Add some image decode/encode debug logging](https://github.com/gohugoio/hugo/pull/14463) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix template change detection for multi-version sites](https://github.com/gohugoio/hugo/pull/14462) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Update Go .x/.x, GitHub Actions](https://github.com/bep/gojap/pull/5) on [bep/gojap](https://github.com/bep/gojap) (1 day ago)
+- [Update Go .x/.x, GitHub Actions](https://github.com/bep/godartsass/pull/43) on [bep/godartsass](https://github.com/bep/godartsass) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
