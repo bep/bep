@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [theme: Pin turbo](https://github.com/gohugoio/hugoDocs/pull/3367) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [Take 2 on fixing the tests on Windows](https://github.com/bep/gitjoin/pull/1) on [bep/gitjoin](https://github.com/bep/gitjoin) (1 day ago)
-- [resources/image: Add some image decode/encode debug logging](https://github.com/gohugoio/hugo/pull/14463) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix template change detection for multi-version sites](https://github.com/gohugoio/hugo/pull/14462) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Update Go .x/.x, GitHub Actions](https://github.com/bep/gojap/pull/5) on [bep/gojap](https://github.com/bep/gojap) (1 day ago)
+- [theme: Pin turbo](https://github.com/gohugoio/hugoDocs/pull/3367) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [Take 2 on fixing the tests on Windows](https://github.com/bep/gitjoin/pull/1) on [bep/gitjoin](https://github.com/bep/gitjoin) (2 days ago)
+- [resources/image: Add some image decode/encode debug logging](https://github.com/gohugoio/hugo/pull/14463) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix template change detection for multi-version sites](https://github.com/gohugoio/hugo/pull/14462) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Update Go .x/.x, GitHub Actions](https://github.com/bep/gojap/pull/5) on [bep/gojap](https://github.com/bep/gojap) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [geerlingguy](https://github.com/geerlingguy) (4 weeks ago)
+- [geerlingguy](https://github.com/geerlingguy) (1 month ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (2 months ago)
 - [ytocquet](https://github.com/ytocquet) (2 months ago)
 - [mccaffers](https://github.com/mccaffers) (5 months ago)
-- [securebitsorg](https://github.com/securebitsorg) (6 months ago)
+- [securebitsorg](https://github.com/securebitsorg) (7 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
