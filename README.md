@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [server: Fix stuck server global error logging](https://github.com/gohugoio/hugo/pull/14477) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [server: Fix panic when the server browser error handler tried to use a config in a state of flux](https://github.com/gohugoio/hugo/pull/14474) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [theme: Pin turbo](https://github.com/gohugoio/hugoDocs/pull/3367) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (5 days ago)
-- [Take 2 on fixing the tests on Windows](https://github.com/bep/gitjoin/pull/1) on [bep/gitjoin](https://github.com/bep/gitjoin) (6 days ago)
-- [resources/image: Add some image decode/encode debug logging](https://github.com/gohugoio/hugo/pull/14463) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [server: Fix stuck server global error logging](https://github.com/gohugoio/hugo/pull/14477) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [server: Fix panic when the server browser error handler tried to use a config in a state of flux](https://github.com/gohugoio/hugo/pull/14474) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [theme: Pin turbo](https://github.com/gohugoio/hugoDocs/pull/3367) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
+- [Take 2 on fixing the tests on Windows](https://github.com/bep/gitjoin/pull/1) on [bep/gitjoin](https://github.com/bep/gitjoin) (1 week ago)
+- [resources/image: Add some image decode/encode debug logging](https://github.com/gohugoio/hugo/pull/14463) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
