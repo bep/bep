@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [tpl: Move from md5 to xxhash for some in memory keys](https://github.com/gohugoio/hugo/pull/14485) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [hugolib: Don&#39;t render default site redirect for non-primary isHTML output formats](https://github.com/gohugoio/hugo/pull/14484) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [server: Fix stuck server global error logging](https://github.com/gohugoio/hugo/pull/14477) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [server: Fix panic when the server browser error handler tried to use a config in a state of flux](https://github.com/gohugoio/hugo/pull/14474) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [theme: Pin turbo](https://github.com/gohugoio/hugoDocs/pull/3367) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
+- [tpl: Move from md5 to xxhash for some in memory keys](https://github.com/gohugoio/hugo/pull/14485) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [hugolib: Don&#39;t render default site redirect for non-primary isHTML output formats](https://github.com/gohugoio/hugo/pull/14484) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [server: Fix stuck server global error logging](https://github.com/gohugoio/hugo/pull/14477) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [server: Fix panic when the server browser error handler tried to use a config in a state of flux](https://github.com/gohugoio/hugo/pull/14474) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [theme: Pin turbo](https://github.com/gohugoio/hugoDocs/pull/3367) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
