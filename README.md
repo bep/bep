@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Remove items deprecated &lt;= v0.136.0](https://github.com/gohugoio/hugo/pull/14489) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Refactor example to demonstrate multiple invocations of templates.Inner](https://github.com/jmooring/hugo-testing/pull/13) on [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing) (1 day ago)
-- [tpl: Move from md5 to xxhash for some in memory keys](https://github.com/gohugoio/hugo/pull/14485) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [hugolib: Don&#39;t render default site redirect for non-primary isHTML output formats](https://github.com/gohugoio/hugo/pull/14484) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [server: Fix stuck server global error logging](https://github.com/gohugoio/hugo/pull/14477) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/logg/pull/17) on [bep/logg](https://github.com/bep/logg) (today)
+- [all: Run modernize -fix ./...](https://github.com/bep/lazycache/pull/18) on [bep/lazycache](https://github.com/bep/lazycache) (today)
+- [all: Run modernize -fix ./...](https://github.com/bep/helpers/pull/8) on [bep/helpers](https://github.com/bep/helpers) (today)
+- [all: Run modernize -fix ./...](https://github.com/bep/gowebp/pull/14) on [bep/gowebp](https://github.com/bep/gowebp) (today)
+- [all: Run modernize -fix ./...](https://github.com/bep/gojap/pull/6) on [bep/gojap](https://github.com/bep/gojap) (today)
 
 ### Recent sponsors (big thank you!)
 
