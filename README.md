@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Remove items deprecated &lt;= v0.136.0](https://github.com/gohugoio/hugo/pull/14489) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Refactor example to demonstrate multiple invocations of templates.Inner](https://github.com/jmooring/hugo-testing/pull/13) on [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing) (today)
-- [tpl: Move from md5 to xxhash for some in memory keys](https://github.com/gohugoio/hugo/pull/14485) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [hugolib: Don&#39;t render default site redirect for non-primary isHTML output formats](https://github.com/gohugoio/hugo/pull/14484) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [server: Fix stuck server global error logging](https://github.com/gohugoio/hugo/pull/14477) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Remove items deprecated &lt;= v0.136.0](https://github.com/gohugoio/hugo/pull/14489) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Refactor example to demonstrate multiple invocations of templates.Inner](https://github.com/jmooring/hugo-testing/pull/13) on [jmooring/hugo-testing](https://github.com/jmooring/hugo-testing) (1 day ago)
+- [tpl: Move from md5 to xxhash for some in memory keys](https://github.com/gohugoio/hugo/pull/14485) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [hugolib: Don&#39;t render default site redirect for non-primary isHTML output formats](https://github.com/gohugoio/hugo/pull/14484) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [server: Fix stuck server global error logging](https://github.com/gohugoio/hugo/pull/14477) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [photostructure](https://github.com/photostructure) (today)
+- [photostructure](https://github.com/photostructure) (1 day ago)
 - [geerlingguy](https://github.com/geerlingguy) (1 month ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (2 months ago)
 - [ytocquet](https://github.com/ytocquet) (2 months ago)
