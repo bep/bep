@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [all: Run modernize -fix ./...](https://github.com/bep/logg/pull/17) on [bep/logg](https://github.com/bep/logg) (1 day ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/lazycache/pull/18) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/helpers/pull/8) on [bep/helpers](https://github.com/bep/helpers) (1 day ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/gowebp/pull/14) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/gojap/pull/6) on [bep/gojap](https://github.com/bep/gojap) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/s3deploy/pull/523) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
+- [all: Run modernize -fix ./...](https://github.com/bep/nogo/pull/2) on [bep/nogo](https://github.com/bep/nogo) (today)
+- [all: Run modernize -fix ./...](https://github.com/bep/mclib/pull/3) on [bep/mclib](https://github.com/bep/mclib) (today)
+- [all: Run modernize -fix ./...](https://github.com/bep/gorder/pull/3) on [bep/gorder](https://github.com/bep/gorder) (today)
+- [all: Run modernize -fix ./...](https://github.com/bep/gitjoin/pull/2) on [bep/gitjoin](https://github.com/bep/gitjoin) (today)
 
 ### Recent sponsors (big thank you!)
 
