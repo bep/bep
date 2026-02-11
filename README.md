@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [all: Run modernize -fix ./...](https://github.com/bep/logg/pull/17) on [bep/logg](https://github.com/bep/logg) (today)
-- [all: Run modernize -fix ./...](https://github.com/bep/lazycache/pull/18) on [bep/lazycache](https://github.com/bep/lazycache) (today)
-- [all: Run modernize -fix ./...](https://github.com/bep/helpers/pull/8) on [bep/helpers](https://github.com/bep/helpers) (today)
-- [all: Run modernize -fix ./...](https://github.com/bep/gowebp/pull/14) on [bep/gowebp](https://github.com/bep/gowebp) (today)
-- [all: Run modernize -fix ./...](https://github.com/bep/gojap/pull/6) on [bep/gojap](https://github.com/bep/gojap) (today)
+- [all: Run modernize -fix ./...](https://github.com/bep/logg/pull/17) on [bep/logg](https://github.com/bep/logg) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/lazycache/pull/18) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/helpers/pull/8) on [bep/helpers](https://github.com/bep/helpers) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/gowebp/pull/14) on [bep/gowebp](https://github.com/bep/gowebp) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/gojap/pull/6) on [bep/gojap](https://github.com/bep/gojap) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
-- [photostructure](https://github.com/photostructure) (1 day ago)
+- [photostructure](https://github.com/photostructure) (2 days ago)
 - [geerlingguy](https://github.com/geerlingguy) (1 month ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (2 months ago)
 - [ytocquet](https://github.com/ytocquet) (2 months ago)
