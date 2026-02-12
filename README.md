@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl/collections: Speed up where performance in common cases](https://github.com/gohugoio/hugo/pull/14506) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Upgrade to Go 1.26](https://github.com/gohugoio/hugo/pull/14501) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [all: Run modernize -fix ./...](https://github.com/bep/s3deploy/pull/523) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
 - [all: Run modernize -fix ./...](https://github.com/bep/nogo/pull/2) on [bep/nogo](https://github.com/bep/nogo) (1 day ago)
 - [all: Run modernize -fix ./...](https://github.com/bep/mclib/pull/3) on [bep/mclib](https://github.com/bep/mclib) (1 day ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/gorder/pull/3) on [bep/gorder](https://github.com/bep/gorder) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
