@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Upgrade to Go 1.26](https://github.com/gohugoio/hugo/pull/14501) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [all: Run modernize -fix ./...](https://github.com/bep/s3deploy/pull/523) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
-- [all: Run modernize -fix ./...](https://github.com/bep/nogo/pull/2) on [bep/nogo](https://github.com/bep/nogo) (today)
-- [all: Run modernize -fix ./...](https://github.com/bep/mclib/pull/3) on [bep/mclib](https://github.com/bep/mclib) (today)
-- [all: Run modernize -fix ./...](https://github.com/bep/gorder/pull/3) on [bep/gorder](https://github.com/bep/gorder) (today)
+- [Upgrade to Go 1.26](https://github.com/gohugoio/hugo/pull/14501) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/s3deploy/pull/523) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/nogo/pull/2) on [bep/nogo](https://github.com/bep/nogo) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/mclib/pull/3) on [bep/mclib](https://github.com/bep/mclib) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/gorder/pull/3) on [bep/gorder](https://github.com/bep/gorder) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
-- [photostructure](https://github.com/photostructure) (2 days ago)
+- [photostructure](https://github.com/photostructure) (3 days ago)
 - [geerlingguy](https://github.com/geerlingguy) (1 month ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (2 months ago)
 - [ytocquet](https://github.com/ytocquet) (2 months ago)
