@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [tpl/collections: Speed up where and sort performance](https://github.com/gohugoio/hugo/pull/14506) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Upgrade to Go 1.26](https://github.com/gohugoio/hugo/pull/14501) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/s3deploy/pull/523) on [bep/s3deploy](https://github.com/bep/s3deploy) (2 days ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/nogo/pull/2) on [bep/nogo](https://github.com/bep/nogo) (2 days ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/mclib/pull/3) on [bep/mclib](https://github.com/bep/mclib) (2 days ago)
+- [tpl/collections: Speed up where and sort performance](https://github.com/gohugoio/hugo/pull/14506) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Upgrade to Go 1.26](https://github.com/gohugoio/hugo/pull/14501) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/s3deploy/pull/523) on [bep/s3deploy](https://github.com/bep/s3deploy) (3 days ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/nogo/pull/2) on [bep/nogo](https://github.com/bep/nogo) (3 days ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/mclib/pull/3) on [bep/mclib](https://github.com/bep/mclib) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [photostructure](https://github.com/photostructure) (4 days ago)
+- [photostructure](https://github.com/photostructure) (5 days ago)
 - [geerlingguy](https://github.com/geerlingguy) (1 month ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (2 months ago)
 - [ytocquet](https://github.com/ytocquet) (2 months ago)
