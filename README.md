@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [hugolib: Fix term title when taxonomy name contains spaces](https://github.com/gohugoio/hugo/pull/14518) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/internal: Replace deprecated parser.ParseDir and doc.New](https://github.com/gohugoio/hugo/pull/14515) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/collections: Speed up where and sort performance](https://github.com/gohugoio/hugo/pull/14506) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Upgrade to Go 1.26](https://github.com/gohugoio/hugo/pull/14501) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/s3deploy/pull/523) on [bep/s3deploy](https://github.com/bep/s3deploy) (3 days ago)
+- [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/httpcache/pull/8) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (today)
+- [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/hashstructure/pull/16) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
+- [Update GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/go-radix/pull/8) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (today)
+- [Update GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/gift/pull/6) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
+- [Update Go 1.24.x/1.25.x, GitHub Actions](https://github.com/gohugoio/hugo-goldmark-extensions/pull/45) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (today)
 
 ### Recent sponsors (big thank you!)
 
