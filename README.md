@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl/internal: Replace deprecated parser.ParseDir and doc.New](https://github.com/gohugoio/hugo/pull/14515) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl/collections: Speed up where and sort performance](https://github.com/gohugoio/hugo/pull/14506) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Upgrade to Go 1.26](https://github.com/gohugoio/hugo/pull/14501) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [all: Run modernize -fix ./...](https://github.com/bep/s3deploy/pull/523) on [bep/s3deploy](https://github.com/bep/s3deploy) (3 days ago)
 - [all: Run modernize -fix ./...](https://github.com/bep/nogo/pull/2) on [bep/nogo](https://github.com/bep/nogo) (3 days ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/mclib/pull/3) on [bep/mclib](https://github.com/bep/mclib) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
