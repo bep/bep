@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [all: Run modernize -fix ./...](https://github.com/bep/lazycache/pull/20) on [bep/lazycache](https://github.com/bep/lazycache) (today)
-- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/logg/pull/18) on [bep/logg](https://github.com/bep/logg) (today)
-- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/lazycache/pull/19) on [bep/lazycache](https://github.com/bep/lazycache) (today)
-- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/imagemeta/pull/54) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/helpers/pull/9) on [bep/helpers](https://github.com/bep/helpers) (today)
+- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/gowebp/pull/15) on [bep/gowebp](https://github.com/bep/gowebp) (today)
+- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/golibtemplate/pull/8) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (today)
+- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/golibsass/pull/15) on [bep/golibsass](https://github.com/bep/golibsass) (today)
+- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/gojap/pull/7) on [bep/gojap](https://github.com/bep/gojap) (today)
+- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/godartsass/pull/45) on [bep/godartsass](https://github.com/bep/godartsass) (today)
 
 ### Recent sponsors (big thank you!)
 
