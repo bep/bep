@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [all: Run modernize -fix ./...](https://github.com/bep/lazycache/pull/20) on [bep/lazycache](https://github.com/bep/lazycache) (today)
 - [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/logg/pull/18) on [bep/logg](https://github.com/bep/logg) (today)
 - [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/lazycache/pull/19) on [bep/lazycache](https://github.com/bep/lazycache) (today)
 - [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/imagemeta/pull/54) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/helpers/pull/9) on [bep/helpers](https://github.com/bep/helpers) (today)
-- [all: Run modernize -fix ./...](https://github.com/bep/simplecobra/pull/20) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
 
 ### Recent sponsors (big thank you!)
 
