@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [output: Remove unused method](https://github.com/gohugoio/hugo/pull/14523) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [all: Run modernize -fix ./...](https://github.com/bep/golibsass/pull/16) on [bep/golibsass](https://github.com/bep/golibsass) (today)
 - [all: Run modernize -fix ./...](https://github.com/bep/debounce/pull/18) on [bep/debounce](https://github.com/bep/debounce) (today)
 - [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/gowebp/pull/15) on [bep/gowebp](https://github.com/bep/gowebp) (today)
 - [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/golibtemplate/pull/8) on [bep/golibtemplate](https://github.com/bep/golibtemplate) (today)
-- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/golibsass/pull/15) on [bep/golibsass](https://github.com/bep/golibsass) (today)
 
 ### Recent sponsors (big thank you!)
 
