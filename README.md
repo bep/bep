@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/httpcache/pull/8) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (today)
-- [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/hashstructure/pull/16) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
-- [Update GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/go-radix/pull/8) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (today)
-- [Update GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/gift/pull/6) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
-- [Update Go 1.24.x/1.25.x, GitHub Actions](https://github.com/gohugoio/hugo-goldmark-extensions/pull/45) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (today)
+- [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/httpcache/pull/8) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (1 day ago)
+- [Update Go 1.24.x/1.25.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/hashstructure/pull/16) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
+- [Update GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/go-radix/pull/8) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (1 day ago)
+- [Update GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/gift/pull/6) on [gohugoio/gift](https://github.com/gohugoio/gift) (1 day ago)
+- [Update Go 1.24.x/1.25.x, GitHub Actions](https://github.com/gohugoio/hugo-goldmark-extensions/pull/45) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
-- [photostructure](https://github.com/photostructure) (5 days ago)
+- [photostructure](https://github.com/photostructure) (6 days ago)
 - [geerlingguy](https://github.com/geerlingguy) (1 month ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (2 months ago)
 - [ytocquet](https://github.com/ytocquet) (2 months ago)
