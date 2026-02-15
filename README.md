@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [all: Run modernize -fix ./...](https://github.com/bep/s3deploy/pull/526) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
 - [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/s3deploy/pull/525) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
 - [Fix broken test](https://github.com/bep/s3deploy/pull/524) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
 - [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/go-radix/pull/9) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (today)
 - [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/gift/pull/7) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
-- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/gohugoio/httpcache/pull/9) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (today)
 
 ### Recent sponsors (big thank you!)
 
