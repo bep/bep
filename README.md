@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Move HugoInfo to resources/page &#43; some related improvements](https://github.com/gohugoio/hugo/pull/14530) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [commands: Fix --panicOnWarning flag having no effect with module version warnings](https://github.com/gohugoio/hugo/pull/14525) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [output: Remove unused method](https://github.com/gohugoio/hugo/pull/14523) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/golibsass/pull/16) on [bep/golibsass](https://github.com/bep/golibsass) (2 days ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/debounce/pull/18) on [bep/debounce](https://github.com/bep/debounce) (2 days ago)
+- [Move HugoInfo to resources/page &#43; some related improvements](https://github.com/gohugoio/hugo/pull/14530) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [commands: Fix --panicOnWarning flag having no effect with module version warnings](https://github.com/gohugoio/hugo/pull/14525) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [output: Remove unused method](https://github.com/gohugoio/hugo/pull/14523) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/golibsass/pull/16) on [bep/golibsass](https://github.com/bep/golibsass) (3 days ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/debounce/pull/18) on [bep/debounce](https://github.com/bep/debounce) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
