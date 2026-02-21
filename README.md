@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [modules: Include JSON error info from go mod download in error messages](https://github.com/gohugoio/hugo/pull/14544) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [hugolib: Fix automatic section pages not replaced by sites.complements](https://github.com/gohugoio/hugo/pull/14541) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Try to fix the intro to PAGE.Rotate](https://github.com/gohugoio/hugoDocs/pull/3406) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [hugolib: Move site.Data to hugo.Data, deprecate Site.AllPages/BuildDrafts/Languages](https://github.com/gohugoio/hugo/pull/14535) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Move HugoInfo to resources/page &#43; some related improvements](https://github.com/gohugoio/hugo/pull/14530) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [commands: Fix --panicOnWarning flag having no effect with module version warnings](https://github.com/gohugoio/hugo/pull/14525) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
