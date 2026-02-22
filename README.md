@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc AVIF fixes/improvements](https://github.com/bep/imagemeta/pull/60) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [modules: Include JSON error info from go mod download in error messages](https://github.com/gohugoio/hugo/pull/14544) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [hugolib: Fix automatic section pages not replaced by sites.complements](https://github.com/gohugoio/hugo/pull/14541) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Try to fix the intro to PAGE.Rotate](https://github.com/gohugoio/hugoDocs/pull/3406) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 - [hugolib: Move site.Data to hugo.Data, deprecate Site.AllPages/BuildDrafts/Languages](https://github.com/gohugoio/hugo/pull/14535) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Move HugoInfo to resources/page &#43; some related improvements](https://github.com/gohugoio/hugo/pull/14530) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
