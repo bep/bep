@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add AVIF, HEIF and HEIC partial support](https://github.com/gohugoio/hugo/pull/14553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [config: Skip taxonomy entries with empty keys or values](https://github.com/gohugoio/hugo/pull/14551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc AVIF fixes/improvements](https://github.com/bep/imagemeta/pull/60) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 - [modules: Include JSON error info from go mod download in error messages](https://github.com/gohugoio/hugo/pull/14544) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [hugolib: Fix automatic section pages not replaced by sites.complements](https://github.com/gohugoio/hugo/pull/14541) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Try to fix the intro to PAGE.Rotate](https://github.com/gohugoio/hugoDocs/pull/3406) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
