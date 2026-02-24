@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Add AVIF, HEIF and HEIC partial support](https://github.com/gohugoio/hugo/pull/14553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [config: Skip taxonomy entries with empty keys or values](https://github.com/gohugoio/hugo/pull/14551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc AVIF fixes/improvements](https://github.com/bep/imagemeta/pull/60) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [modules: Include JSON error info from go mod download in error messages](https://github.com/gohugoio/hugo/pull/14544) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [hugolib: Fix automatic section pages not replaced by sites.complements](https://github.com/gohugoio/hugo/pull/14541) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add AVIF, HEIF and HEIC partial support](https://github.com/gohugoio/hugo/pull/14553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [config: Skip taxonomy entries with empty keys or values](https://github.com/gohugoio/hugo/pull/14551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc AVIF fixes/improvements](https://github.com/bep/imagemeta/pull/60) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [modules: Include JSON error info from go mod download in error messages](https://github.com/gohugoio/hugo/pull/14544) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [hugolib: Fix automatic section pages not replaced by sites.complements](https://github.com/gohugoio/hugo/pull/14541) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [piotr-lasota](https://github.com/piotr-lasota) (4 days ago)
-- [kaiiiichen](https://github.com/kaiiiichen) (4 days ago)
+- [piotr-lasota](https://github.com/piotr-lasota) (5 days ago)
+- [kaiiiichen](https://github.com/kaiiiichen) (5 days ago)
 - [photostructure](https://github.com/photostructure) (2 weeks ago)
 - [geerlingguy](https://github.com/geerlingguy) (1 month ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (2 months ago)
