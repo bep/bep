@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Handle GitInfo for modules where Origin is not set when running go list](https://github.com/gohugoio/hugo/pull/14565) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add AVIF, HEIF and HEIC partial support](https://github.com/gohugoio/hugo/pull/14553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [config: Skip taxonomy entries with empty keys or values](https://github.com/gohugoio/hugo/pull/14551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Misc AVIF fixes/improvements](https://github.com/bep/imagemeta/pull/60) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
 - [modules: Include JSON error info from go mod download in error messages](https://github.com/gohugoio/hugo/pull/14544) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [hugolib: Fix automatic section pages not replaced by sites.complements](https://github.com/gohugoio/hugo/pull/14541) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
