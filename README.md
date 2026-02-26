@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [Fix menu pageRef resolution in multidimensional setups](https://github.com/gohugoio/hugo/pull/14567) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Handle GitInfo for modules where Origin is not set when running go list](https://github.com/gohugoio/hugo/pull/14565) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add AVIF, HEIF and HEIC partial support](https://github.com/gohugoio/hugo/pull/14553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [config: Skip taxonomy entries with empty keys or values](https://github.com/gohugoio/hugo/pull/14551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc AVIF fixes/improvements](https://github.com/bep/imagemeta/pull/60) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
+- [Fix menu pageRef resolution in multidimensional setups](https://github.com/gohugoio/hugo/pull/14567) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Handle GitInfo for modules where Origin is not set when running go list](https://github.com/gohugoio/hugo/pull/14565) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add AVIF, HEIF and HEIC partial support](https://github.com/gohugoio/hugo/pull/14553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [config: Skip taxonomy entries with empty keys or values](https://github.com/gohugoio/hugo/pull/14551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc AVIF fixes/improvements](https://github.com/bep/imagemeta/pull/60) on [bep/imagemeta](https://github.com/bep/imagemeta) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [piotr-lasota](https://github.com/piotr-lasota) (6 days ago)
-- [kaiiiichen](https://github.com/kaiiiichen) (6 days ago)
+- [piotr-lasota](https://github.com/piotr-lasota) (1 week ago)
+- [kaiiiichen](https://github.com/kaiiiichen) (1 week ago)
 - [photostructure](https://github.com/photostructure) (2 weeks ago)
 - [geerlingguy](https://github.com/geerlingguy) (1 month ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (2 months ago)
