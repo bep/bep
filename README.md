@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Raw support, performance improvements and misc cleanups](https://github.com/bep/imagemeta/pull/62) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [resources/images: Add IsImageResourceWithMeta etc. tests for bmp and gif](https://github.com/gohugoio/hugo/pull/14570) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix menu pageRef resolution in multidimensional setups](https://github.com/gohugoio/hugo/pull/14567) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Handle GitInfo for modules where Origin is not set when running go list](https://github.com/gohugoio/hugo/pull/14565) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add AVIF, HEIF and HEIC partial support](https://github.com/gohugoio/hugo/pull/14553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [config: Skip taxonomy entries with empty keys or values](https://github.com/gohugoio/hugo/pull/14551) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
