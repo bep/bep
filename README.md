@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix index out of range panic in fileEventsContentPaths](https://github.com/gohugoio/hugo/pull/14575) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Raw support, performance improvements and misc cleanups](https://github.com/bep/imagemeta/pull/62) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 - [resources/images: Add IsImageResourceWithMeta etc. tests for bmp and gif](https://github.com/gohugoio/hugo/pull/14570) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix menu pageRef resolution in multidimensional setups](https://github.com/gohugoio/hugo/pull/14567) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Handle GitInfo for modules where Origin is not set when running go list](https://github.com/gohugoio/hugo/pull/14565) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add AVIF, HEIF and HEIC partial support](https://github.com/gohugoio/hugo/pull/14553) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
