@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Apply Hugo deprecation fixes for v0.110.0 through v0.156.0](https://github.com/bep/gallerydeluxe/pull/35) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (today)
+- [Upgrade to Hugo v0.156.0 layout conventions](https://github.com/bep/portable-hugo-links/pull/7) on [bep/portable-hugo-links](https://github.com/bep/portable-hugo-links) (today)
+- [Upgrade to Hugo v0.156.0 layout conventions](https://github.com/bep/docuapi/pull/110) on [bep/docuapi](https://github.com/bep/docuapi) (today)
+- [Migrate layouts to Hugo v0.146.0&#43; conventions](https://github.com/bep/galleriesdeluxe/pull/16) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (today)
 - [Add PEF (Pentax Electronic Format) support](https://github.com/bep/imagemeta/pull/63) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Fix index out of range panic in fileEventsContentPaths](https://github.com/gohugoio/hugo/pull/14575) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Raw support, performance improvements and misc cleanups](https://github.com/bep/imagemeta/pull/62) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
-- [resources/images: Add IsImageResourceWithMeta etc. tests for bmp and gif](https://github.com/gohugoio/hugo/pull/14570) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix menu pageRef resolution in multidimensional setups](https://github.com/gohugoio/hugo/pull/14567) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
