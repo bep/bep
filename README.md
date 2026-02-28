@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [Apply Hugo deprecation fixes for v0.110.0 through v0.156.0](https://github.com/bep/gallerydeluxe/pull/35) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (today)
+- [Apply Hugo v0.156.0 upgrades](https://github.com/bep/gallerydeluxe/pull/35) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (today)
 - [Upgrade to Hugo v0.156.0 layout conventions](https://github.com/bep/portable-hugo-links/pull/7) on [bep/portable-hugo-links](https://github.com/bep/portable-hugo-links) (today)
-- [Upgrade to Hugo v0.156.0 layout conventions](https://github.com/bep/docuapi/pull/110) on [bep/docuapi](https://github.com/bep/docuapi) (today)
+- [Apply Hugo deprecation fixes up to v0.156.0](https://github.com/bep/docuapi/pull/110) on [bep/docuapi](https://github.com/bep/docuapi) (today)
 - [Migrate layouts to Hugo v0.146.0&#43; conventions](https://github.com/bep/galleriesdeluxe/pull/16) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (today)
 - [Add PEF (Pentax Electronic Format) support](https://github.com/bep/imagemeta/pull/63) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
 
