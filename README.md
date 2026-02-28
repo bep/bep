@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Add PEF (Pentax Electronic Format) support](https://github.com/bep/imagemeta/pull/63) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Fix index out of range panic in fileEventsContentPaths](https://github.com/gohugoio/hugo/pull/14575) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Raw support, performance improvements and misc cleanups](https://github.com/bep/imagemeta/pull/62) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [resources/images: Add IsImageResourceWithMeta etc. tests for bmp and gif](https://github.com/gohugoio/hugo/pull/14570) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix menu pageRef resolution in multidimensional setups](https://github.com/gohugoio/hugo/pull/14567) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add PEF (Pentax Electronic Format) support](https://github.com/bep/imagemeta/pull/63) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Fix index out of range panic in fileEventsContentPaths](https://github.com/gohugoio/hugo/pull/14575) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Raw support, performance improvements and misc cleanups](https://github.com/bep/imagemeta/pull/62) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [resources/images: Add IsImageResourceWithMeta etc. tests for bmp and gif](https://github.com/gohugoio/hugo/pull/14570) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix menu pageRef resolution in multidimensional setups](https://github.com/gohugoio/hugo/pull/14567) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
