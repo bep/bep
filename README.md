@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Apply Hugo v0.156.0 upgrades](https://github.com/bep/gallerydeluxe/pull/35) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 day ago)
-- [Upgrade to Hugo v0.156.0 layout conventions](https://github.com/bep/portable-hugo-links/pull/7) on [bep/portable-hugo-links](https://github.com/bep/portable-hugo-links) (1 day ago)
-- [Apply Hugo deprecation fixes up to v0.156.0](https://github.com/bep/docuapi/pull/110) on [bep/docuapi](https://github.com/bep/docuapi) (1 day ago)
-- [Migrate layouts to Hugo v0.146.0&#43; conventions](https://github.com/bep/galleriesdeluxe/pull/16) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (1 day ago)
-- [Add PEF (Pentax Electronic Format) support](https://github.com/bep/imagemeta/pull/63) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Apply Hugo v0.156.0 upgrades](https://github.com/bep/gallerydeluxe/pull/35) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (2 days ago)
+- [Upgrade to Hugo v0.156.0 layout conventions](https://github.com/bep/portable-hugo-links/pull/7) on [bep/portable-hugo-links](https://github.com/bep/portable-hugo-links) (2 days ago)
+- [Apply Hugo deprecation fixes up to v0.156.0](https://github.com/bep/docuapi/pull/110) on [bep/docuapi](https://github.com/bep/docuapi) (2 days ago)
+- [Migrate layouts to Hugo v0.146.0&#43; conventions](https://github.com/bep/galleriesdeluxe/pull/16) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (2 days ago)
+- [Add PEF (Pentax Electronic Format) support](https://github.com/bep/imagemeta/pull/63) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [StefanoChiodino](https://github.com/StefanoChiodino) (1 day ago)
+- [StefanoChiodino](https://github.com/StefanoChiodino) (2 days ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (1 week ago)
 - [kaiiiichen](https://github.com/kaiiiichen) (1 week ago)
-- [photostructure](https://github.com/photostructure) (2 weeks ago)
+- [photostructure](https://github.com/photostructure) (3 weeks ago)
 - [geerlingguy](https://github.com/geerlingguy) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
