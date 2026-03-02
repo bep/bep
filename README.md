@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Make accessors panic safe when values are missing](https://github.com/gohugoio/locales/pull/4) on [gohugoio/locales](https://github.com/gohugoio/locales) (today)
 - [Fix inheritance map logic for regional variants](https://github.com/gohugoio/locales/pull/3) on [gohugoio/locales](https://github.com/gohugoio/locales) (today)
 - [ Update to CLDR v48.1.0](https://github.com/gohugoio/locales/pull/2) on [gohugoio/locales](https://github.com/gohugoio/locales) (today)
 - [Replace Exif with Meta in tests](https://github.com/gohugoio/hugo/pull/14586) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Apply Hugo v0.156.0 upgrades](https://github.com/bep/gallerydeluxe/pull/35) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (2 days ago)
-- [Upgrade to Hugo v0.156.0 layout conventions](https://github.com/bep/portable-hugo-links/pull/7) on [bep/portable-hugo-links](https://github.com/bep/portable-hugo-links) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
