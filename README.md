@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [ Update to CLDR v48.1.0](https://github.com/gohugoio/localescompressed/pull/4) on [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) (today)
-- [Make accessors panic safe when values are missing](https://github.com/gohugoio/locales/pull/4) on [gohugoio/locales](https://github.com/gohugoio/locales) (today)
-- [Fix inheritance map logic for regional variants](https://github.com/gohugoio/locales/pull/3) on [gohugoio/locales](https://github.com/gohugoio/locales) (today)
-- [ Update to CLDR v48.1.0](https://github.com/gohugoio/locales/pull/2) on [gohugoio/locales](https://github.com/gohugoio/locales) (today)
-- [Replace Exif with Meta in tests](https://github.com/gohugoio/hugo/pull/14586) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [ Update to CLDR v48.1.0](https://github.com/gohugoio/localescompressed/pull/4) on [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) (1 day ago)
+- [Make accessors panic safe when values are missing](https://github.com/gohugoio/locales/pull/4) on [gohugoio/locales](https://github.com/gohugoio/locales) (1 day ago)
+- [Fix inheritance map logic for regional variants](https://github.com/gohugoio/locales/pull/3) on [gohugoio/locales](https://github.com/gohugoio/locales) (1 day ago)
+- [ Update to CLDR v48.1.0](https://github.com/gohugoio/locales/pull/2) on [gohugoio/locales](https://github.com/gohugoio/locales) (1 day ago)
+- [Replace Exif with Meta in tests](https://github.com/gohugoio/hugo/pull/14586) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
-- [StefanoChiodino](https://github.com/StefanoChiodino) (2 days ago)
+- [StefanoChiodino](https://github.com/StefanoChiodino) (3 days ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (1 week ago)
 - [kaiiiichen](https://github.com/kaiiiichen) (1 week ago)
 - [photostructure](https://github.com/photostructure) (3 weeks ago)
