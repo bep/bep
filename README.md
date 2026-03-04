@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add ConcurrentMap](https://github.com/bep/helpers/pull/10) on [bep/helpers](https://github.com/bep/helpers) (today)
 - [Upgrade Unicode CLDR from v36.1 to v48.1](https://github.com/gohugoio/hugo/pull/14588) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Preserve non-breaking spaces from CLDR data](https://github.com/gohugoio/locales/pull/6) on [gohugoio/locales](https://github.com/gohugoio/locales) (1 day ago)
 - [Fix code generator bugs and regenerate locale files](https://github.com/gohugoio/locales/pull/5) on [gohugoio/locales](https://github.com/gohugoio/locales) (1 day ago)
 - [ Update to CLDR v48.1.0](https://github.com/gohugoio/localescompressed/pull/4) on [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) (2 days ago)
-- [Make accessors panic safe when values are missing](https://github.com/gohugoio/locales/pull/4) on [gohugoio/locales](https://github.com/gohugoio/locales) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
