@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Add ConcurrentMap](https://github.com/bep/helpers/pull/10) on [bep/helpers](https://github.com/bep/helpers) (today)
-- [Upgrade Unicode CLDR from v36.1 to v48.1](https://github.com/gohugoio/hugo/pull/14588) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Preserve non-breaking spaces from CLDR data](https://github.com/gohugoio/locales/pull/6) on [gohugoio/locales](https://github.com/gohugoio/locales) (1 day ago)
-- [Fix code generator bugs and regenerate locale files](https://github.com/gohugoio/locales/pull/5) on [gohugoio/locales](https://github.com/gohugoio/locales) (1 day ago)
-- [ Update to CLDR v48.1.0](https://github.com/gohugoio/localescompressed/pull/4) on [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) (2 days ago)
+- [Add ConcurrentMap](https://github.com/bep/helpers/pull/10) on [bep/helpers](https://github.com/bep/helpers) (1 day ago)
+- [Upgrade Unicode CLDR from v36.1 to v48.1](https://github.com/gohugoio/hugo/pull/14588) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Preserve non-breaking spaces from CLDR data](https://github.com/gohugoio/locales/pull/6) on [gohugoio/locales](https://github.com/gohugoio/locales) (2 days ago)
+- [Fix code generator bugs and regenerate locale files](https://github.com/gohugoio/locales/pull/5) on [gohugoio/locales](https://github.com/gohugoio/locales) (2 days ago)
+- [ Update to CLDR v48.1.0](https://github.com/gohugoio/localescompressed/pull/4) on [gohugoio/localescompressed](https://github.com/gohugoio/localescompressed) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [StefanoChiodino](https://github.com/StefanoChiodino) (4 days ago)
-- [piotr-lasota](https://github.com/piotr-lasota) (1 week ago)
-- [kaiiiichen](https://github.com/kaiiiichen) (1 week ago)
+- [StefanoChiodino](https://github.com/StefanoChiodino) (5 days ago)
+- [piotr-lasota](https://github.com/piotr-lasota) (2 weeks ago)
+- [kaiiiichen](https://github.com/kaiiiichen) (2 weeks ago)
 - [photostructure](https://github.com/photostructure) (3 weeks ago)
-- [geerlingguy](https://github.com/geerlingguy) (1 month ago)
+- [geerlingguy](https://github.com/geerlingguy) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
