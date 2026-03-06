@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Upgrade to to Go 1.26.1](https://github.com/gohugoio/hugo/pull/14597) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Move to new locales library and upgrade CLDR from v36.1 to v48.1](https://github.com/gohugoio/hugo/pull/14592) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add ConcurrentMap](https://github.com/bep/helpers/pull/10) on [bep/helpers](https://github.com/bep/helpers) (2 days ago)
 - [Upgrade Unicode CLDR from v36.1 to v48.1](https://github.com/gohugoio/hugo/pull/14588) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Preserve non-breaking spaces from CLDR data](https://github.com/gohugoio/locales/pull/6) on [gohugoio/locales](https://github.com/gohugoio/locales) (3 days ago)
-- [Fix code generator bugs and regenerate locale files](https://github.com/gohugoio/locales/pull/5) on [gohugoio/locales](https://github.com/gohugoio/locales) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
