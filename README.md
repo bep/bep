@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [all: Run go fix ./...](https://github.com/gohugoio/hugo/pull/14600) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [internal/warpc: Fix SIGSEGV in Close() when dispatcher fails to start](https://github.com/gohugoio/hugo/pull/14599) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Upgrade to to Go 1.26.1](https://github.com/gohugoio/hugo/pull/14597) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Move to new locales library and upgrade CLDR from v36.1 to v48.1](https://github.com/gohugoio/hugo/pull/14592) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Add ConcurrentMap](https://github.com/bep/helpers/pull/10) on [bep/helpers](https://github.com/bep/helpers) (3 days ago)
-- [Upgrade Unicode CLDR from v36.1 to v48.1](https://github.com/gohugoio/hugo/pull/14588) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
