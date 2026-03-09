@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [all: Add css.InlineImports template function](https://github.com/gohugoio/hugo/pull/14606) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [resources: Use full path for Exif etc. decoding error/warning messages](https://github.com/gohugoio/hugo/pull/14605) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/tplimpl: Prefer early suffixes when media type matches](https://github.com/gohugoio/hugo/pull/14602) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [all: Run go fix ./...](https://github.com/gohugoio/hugo/pull/14600) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [internal/warpc: Fix SIGSEGV in Close() when dispatcher fails to start](https://github.com/gohugoio/hugo/pull/14599) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [all: Add css.InlineImports template function](https://github.com/gohugoio/hugo/pull/14606) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [resources: Use full path for Exif etc. decoding error/warning messages](https://github.com/gohugoio/hugo/pull/14605) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/tplimpl: Prefer early suffixes when media type matches](https://github.com/gohugoio/hugo/pull/14602) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [all: Run go fix ./...](https://github.com/gohugoio/hugo/pull/14600) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [internal/warpc: Fix SIGSEGV in Close() when dispatcher fails to start](https://github.com/gohugoio/hugo/pull/14599) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [isaaclyman](https://github.com/isaaclyman) (1 day ago)
+- [isaaclyman](https://github.com/isaaclyman) (2 days ago)
 - [StefanoChiodino](https://github.com/StefanoChiodino) (1 week ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (2 weeks ago)
 - [kaiiiichen](https://github.com/kaiiiichen) (2 weeks ago)
-- [photostructure](https://github.com/photostructure) (3 weeks ago)
+- [photostructure](https://github.com/photostructure) (4 weeks ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
