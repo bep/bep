@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add support for CSS files as entry files in js.Build](https://github.com/gohugoio/hugo/pull/14610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [all: Add css.InlineImports template function](https://github.com/gohugoio/hugo/pull/14606) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [resources: Use full path for Exif etc. decoding error/warning messages](https://github.com/gohugoio/hugo/pull/14605) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl/tplimpl: Prefer early suffixes when media type matches](https://github.com/gohugoio/hugo/pull/14602) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [all: Run go fix ./...](https://github.com/gohugoio/hugo/pull/14600) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [internal/warpc: Fix SIGSEGV in Close() when dispatcher fails to start](https://github.com/gohugoio/hugo/pull/14599) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
