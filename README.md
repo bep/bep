@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [resources: Fix context canceled on GetRemote with per-request timeout](https://github.com/gohugoio/hugo/pull/14612) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [testing: Try to use  js.Build as a TailwindCSS preprocessor](https://github.com/gohugoio/hugoDocs/pull/3428) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [Add css.Build (using ESBuild to transform CSS resources)](https://github.com/gohugoio/hugo/pull/14610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [all: Add css.InlineImports template function](https://github.com/gohugoio/hugo/pull/14606) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [resources: Use full path for Exif etc. decoding error/warning messages](https://github.com/gohugoio/hugo/pull/14605) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl/tplimpl: Prefer early suffixes when media type matches](https://github.com/gohugoio/hugo/pull/14602) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
