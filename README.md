@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [resources: Fix context canceled on GetRemote with per-request timeout](https://github.com/gohugoio/hugo/pull/14612) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [testing: Try to use  js.Build as a TailwindCSS preprocessor](https://github.com/gohugoio/hugoDocs/pull/3428) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
-- [Add css.Build (using ESBuild to transform CSS resources)](https://github.com/gohugoio/hugo/pull/14610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [all: Add css.InlineImports template function](https://github.com/gohugoio/hugo/pull/14606) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [resources: Use full path for Exif etc. decoding error/warning messages](https://github.com/gohugoio/hugo/pull/14605) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [resources: Fix context canceled on GetRemote with per-request timeout](https://github.com/gohugoio/hugo/pull/14612) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [testing: Try to use  js.Build as a TailwindCSS preprocessor](https://github.com/gohugoio/hugoDocs/pull/3428) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [Add css.Build (using ESBuild to transform CSS resources)](https://github.com/gohugoio/hugo/pull/14610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [all: Add css.InlineImports template function](https://github.com/gohugoio/hugo/pull/14606) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [resources: Use full path for Exif etc. decoding error/warning messages](https://github.com/gohugoio/hugo/pull/14605) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [isaaclyman](https://github.com/isaaclyman) (4 days ago)
+- [isaaclyman](https://github.com/isaaclyman) (5 days ago)
 - [StefanoChiodino](https://github.com/StefanoChiodino) (1 week ago)
-- [piotr-lasota](https://github.com/piotr-lasota) (2 weeks ago)
-- [kaiiiichen](https://github.com/kaiiiichen) (2 weeks ago)
+- [piotr-lasota](https://github.com/piotr-lasota) (3 weeks ago)
+- [kaiiiichen](https://github.com/kaiiiichen) (3 weeks ago)
 - [photostructure](https://github.com/photostructure) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
