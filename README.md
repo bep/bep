@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl/css: Fix external source maps](https://github.com/gohugoio/hugo/pull/14622) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl/css: Make default loader resolution for CSS @import and url() always behave the same](https://github.com/gohugoio/hugo/pull/14621) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [poc: CSS purging](https://github.com/gohugoio/hugo/pull/14618) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [resources: Fix context canceled on GetRemote with per-request timeout](https://github.com/gohugoio/hugo/pull/14612) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [testing: Try to use  js.Build as a TailwindCSS preprocessor](https://github.com/gohugoio/hugoDocs/pull/3428) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (4 days ago)
-- [Add css.Build (using ESBuild to transform CSS resources)](https://github.com/gohugoio/hugo/pull/14610) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
