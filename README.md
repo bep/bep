@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [tpl/css: Allow the user to override single loader entries](https://github.com/gohugoio/hugo/pull/14624) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/css: Fix external source maps](https://github.com/gohugoio/hugo/pull/14622) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl/css: Make default loader resolution for CSS @import and url() always behave the same](https://github.com/gohugoio/hugo/pull/14621) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [poc: CSS purging](https://github.com/gohugoio/hugo/pull/14618) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [resources: Fix context canceled on GetRemote with per-request timeout](https://github.com/gohugoio/hugo/pull/14612) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [tpl/css: Allow the user to override single loader entries](https://github.com/gohugoio/hugo/pull/14624) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/css: Fix external source maps](https://github.com/gohugoio/hugo/pull/14622) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl/css: Make default loader resolution for CSS @import and url() always behave the same](https://github.com/gohugoio/hugo/pull/14621) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [poc: CSS purging](https://github.com/gohugoio/hugo/pull/14618) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [resources: Fix context canceled on GetRemote with per-request timeout](https://github.com/gohugoio/hugo/pull/14612) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
