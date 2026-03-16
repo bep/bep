@@ -6,7 +6,7 @@
 - [tpl/css: Allow the user to override single loader entries](https://github.com/gohugoio/hugo/pull/14624) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [tpl/css: Fix external source maps](https://github.com/gohugoio/hugo/pull/14622) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [tpl/css: Make default loader resolution for CSS @import and url() always behave the same](https://github.com/gohugoio/hugo/pull/14621) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [poc: CSS purging](https://github.com/gohugoio/hugo/pull/14618) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [CSS tree shaking](https://github.com/gohugoio/hugo/pull/14618) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
