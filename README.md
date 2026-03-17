@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Use npm workspaces in addition to package.hugo.json](https://github.com/gohugoio/hugo/pull/14644) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Use npm workspaces instead of package.hugo.json](https://github.com/gohugoio/hugo/pull/14644) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade github.com/evanw/esbuild v0.27.3 =&gt; v0.27.4](https://github.com/gohugoio/hugo/pull/14637) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [resources: Re-publish on transformation cache hit](https://github.com/gohugoio/hugo/pull/14630) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [tpl/css: Allow the user to override single loader entries](https://github.com/gohugoio/hugo/pull/14624) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
