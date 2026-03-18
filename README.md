@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [theme: Update alll (but Turbo) npm dependencies](https://github.com/gohugoio/hugoDocs/pull/3442) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Add a page on using npm dependencies in Hugo Modules](https://github.com/gohugoio/hugoDocs/pull/3441) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Replace deprecated :filename with :contentbasename in the permalinks test](https://github.com/gohugoio/hugo/pull/14645) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Upgrade to Hugo v0.158.0 layout conventions](https://github.com/bep/hugojsbatchdemo/pull/2) on [bep/hugojsbatchdemo](https://github.com/bep/hugojsbatchdemo) (1 day ago)
 - [Use npm workspaces instead of package.hugo.json](https://github.com/gohugoio/hugo/pull/14644) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [deps: Upgrade github.com/evanw/esbuild v0.27.3 =&gt; v0.27.4](https://github.com/gohugoio/hugo/pull/14637) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
