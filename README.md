@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [testing: Cosmetic change....](https://github.com/gohugoio/hugo/pull/14650) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [theme: Update alll (but Turbo) npm dependencies](https://github.com/gohugoio/hugoDocs/pull/3442) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
-- [Add a page on using npm dependencies in Hugo Modules](https://github.com/gohugoio/hugoDocs/pull/3441) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
-- [Replace deprecated :filename with :contentbasename in the permalinks test](https://github.com/gohugoio/hugo/pull/14645) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Upgrade to Hugo v0.158.0 layout conventions](https://github.com/bep/hugojsbatchdemo/pull/2) on [bep/hugojsbatchdemo](https://github.com/bep/hugojsbatchdemo) (3 days ago)
+- [testing: Cosmetic change....](https://github.com/gohugoio/hugo/pull/14650) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [theme: Update alll (but Turbo) npm dependencies](https://github.com/gohugoio/hugoDocs/pull/3442) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [Add a page on using npm dependencies in Hugo Modules](https://github.com/gohugoio/hugoDocs/pull/3441) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [Replace deprecated :filename with :contentbasename in the permalinks test](https://github.com/gohugoio/hugo/pull/14645) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Upgrade to Hugo v0.158.0 layout conventions](https://github.com/bep/hugojsbatchdemo/pull/2) on [bep/hugojsbatchdemo](https://github.com/bep/hugojsbatchdemo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [isaaclyman](https://github.com/isaaclyman) (1 week ago)
-- [StefanoChiodino](https://github.com/StefanoChiodino) (2 weeks ago)
-- [piotr-lasota](https://github.com/piotr-lasota) (4 weeks ago)
-- [kaiiiichen](https://github.com/kaiiiichen) (4 weeks ago)
+- [isaaclyman](https://github.com/isaaclyman) (2 weeks ago)
+- [StefanoChiodino](https://github.com/StefanoChiodino) (3 weeks ago)
+- [piotr-lasota](https://github.com/piotr-lasota) (1 month ago)
+- [kaiiiichen](https://github.com/kaiiiichen) (1 month ago)
 - [photostructure](https://github.com/photostructure) (1 month ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
