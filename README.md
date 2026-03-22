@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [h-subaru](https://github.com/h-subaru) (today)
 - [isaaclyman](https://github.com/isaaclyman) (2 weeks ago)
 - [StefanoChiodino](https://github.com/StefanoChiodino) (3 weeks ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (1 month ago)
 - [photostructure](https://github.com/photostructure) (1 month ago)
-- [geerlingguy](https://github.com/geerlingguy) (2 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
