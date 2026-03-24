@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Improve the render hooks .Position](https://github.com/gohugoio/hugo/pull/14664) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Move to Hugo v0.159.0 way of managing npm dependencies](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/689) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 day ago)
 - [testing: Add jsonschemas](https://github.com/gohugoio/hugoDocs/pull/3447) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [Replace deprecated excludeFiles and includeFiles with files in tests](https://github.com/gohugoio/hugo/pull/14656) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [testing: Cosmetic change....](https://github.com/gohugoio/hugo/pull/14650) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [theme: Update alll (but Turbo) npm dependencies](https://github.com/gohugoio/hugoDocs/pull/3442) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
