@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Improve the render hooks .Position](https://github.com/gohugoio/hugo/pull/14664) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Move to Hugo v0.159.0 way of managing npm dependencies](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/689) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 day ago)
-- [testing: Add jsonschemas](https://github.com/gohugoio/hugoDocs/pull/3447) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [Replace deprecated excludeFiles and includeFiles with files in tests](https://github.com/gohugoio/hugo/pull/14656) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [testing: Cosmetic change....](https://github.com/gohugoio/hugo/pull/14650) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Improve the render hooks .Position](https://github.com/gohugoio/hugo/pull/14664) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Move to Hugo v0.159.0 way of managing npm dependencies](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/689) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (2 days ago)
+- [testing: Add jsonschemas](https://github.com/gohugoio/hugoDocs/pull/3447) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [Replace deprecated excludeFiles and includeFiles with files in tests](https://github.com/gohugoio/hugo/pull/14656) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [testing: Cosmetic change....](https://github.com/gohugoio/hugo/pull/14650) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [h-subaru](https://github.com/h-subaru) (2 days ago)
+- [h-subaru](https://github.com/h-subaru) (3 days ago)
 - [isaaclyman](https://github.com/isaaclyman) (2 weeks ago)
 - [StefanoChiodino](https://github.com/StefanoChiodino) (3 weeks ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (1 month ago)
