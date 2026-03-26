@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [minifiers: Keep x-bind and blank namespace in SVG minification](https://github.com/gohugoio/hugo/pull/14671) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Upgrade to Goldmark v1.8.2 and adjust the Pos()/SetPos() handling](https://github.com/gohugoio/hugo-goldmark-extensions/pull/46) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (today)
-- [Improve the render hooks .Position](https://github.com/gohugoio/hugo/pull/14664) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Move to Hugo v0.159.0 way of managing npm dependencies](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/689) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (2 days ago)
-- [testing: Add jsonschemas](https://github.com/gohugoio/hugoDocs/pull/3447) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [minifiers: Keep x-bind and blank namespace in SVG minification](https://github.com/gohugoio/hugo/pull/14671) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Upgrade to Goldmark v1.8.2 and adjust the Pos()/SetPos() handling](https://github.com/gohugoio/hugo-goldmark-extensions/pull/46) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (1 day ago)
+- [Improve the render hooks .Position](https://github.com/gohugoio/hugo/pull/14664) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Move to Hugo v0.159.0 way of managing npm dependencies](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/689) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (3 days ago)
+- [testing: Add jsonschemas](https://github.com/gohugoio/hugoDocs/pull/3447) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [h-subaru](https://github.com/h-subaru) (3 days ago)
+- [h-subaru](https://github.com/h-subaru) (4 days ago)
 - [isaaclyman](https://github.com/isaaclyman) (2 weeks ago)
 - [StefanoChiodino](https://github.com/StefanoChiodino) (3 weeks ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (1 month ago)
