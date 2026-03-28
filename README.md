@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Testing gotmplfmt](https://github.com/gohugoio/hugo/pull/14683) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [testing: Simplify line ending handling in tests](https://github.com/gohugoio/hugo/pull/14682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [minifiers: Keep x-bind and blank namespace in SVG minification](https://github.com/gohugoio/hugo/pull/14671) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [Upgrade to Goldmark v1.8.2 and adjust the Pos()/SetPos() handling](https://github.com/gohugoio/hugo-goldmark-extensions/pull/46) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (3 days ago)
 - [Improve the render hooks .Position](https://github.com/gohugoio/hugo/pull/14664) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Move to Hugo v0.159.0 way of managing npm dependencies](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/689) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
