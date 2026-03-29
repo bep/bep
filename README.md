@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Testing gotmplfmt](https://github.com/gohugoio/hugo/pull/14683) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [testing: Simplify line ending handling in tests](https://github.com/gohugoio/hugo/pull/14682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [minifiers: Keep x-bind and blank namespace in SVG minification](https://github.com/gohugoio/hugo/pull/14671) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Upgrade to Goldmark v1.8.2 and adjust the Pos()/SetPos() handling](https://github.com/gohugoio/hugo-goldmark-extensions/pull/46) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (3 days ago)
-- [Improve the render hooks .Position](https://github.com/gohugoio/hugo/pull/14664) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Testing gotmplfmt](https://github.com/gohugoio/hugo/pull/14683) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [testing: Simplify line ending handling in tests](https://github.com/gohugoio/hugo/pull/14682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [minifiers: Keep x-bind and blank namespace in SVG minification](https://github.com/gohugoio/hugo/pull/14671) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Upgrade to Goldmark v1.8.2 and adjust the Pos()/SetPos() handling](https://github.com/gohugoio/hugo-goldmark-extensions/pull/46) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (4 days ago)
+- [Improve the render hooks .Position](https://github.com/gohugoio/hugo/pull/14664) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [h-subaru](https://github.com/h-subaru) (6 days ago)
+- [h-subaru](https://github.com/h-subaru) (1 week ago)
 - [isaaclyman](https://github.com/isaaclyman) (3 weeks ago)
 - [StefanoChiodino](https://github.com/StefanoChiodino) (4 weeks ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (1 month ago)
