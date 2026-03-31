@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Testing gotmplfmt](https://github.com/gohugoio/hugo/pull/14683) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [testing: Simplify line ending handling in tests](https://github.com/gohugoio/hugo/pull/14682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [minifiers: Keep x-bind and blank namespace in SVG minification](https://github.com/gohugoio/hugo/pull/14671) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Upgrade to Goldmark v1.8.2 and adjust the Pos()/SetPos() handling](https://github.com/gohugoio/hugo-goldmark-extensions/pull/46) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (5 days ago)
-- [Improve the render hooks .Position](https://github.com/gohugoio/hugo/pull/14664) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Testing gotmplfmt](https://github.com/gohugoio/hugo/pull/14683) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [testing: Simplify line ending handling in tests](https://github.com/gohugoio/hugo/pull/14682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [minifiers: Keep x-bind and blank namespace in SVG minification](https://github.com/gohugoio/hugo/pull/14671) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Upgrade to Goldmark v1.8.2 and adjust the Pos()/SetPos() handling](https://github.com/gohugoio/hugo-goldmark-extensions/pull/46) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (6 days ago)
+- [Improve the render hooks .Position](https://github.com/gohugoio/hugo/pull/14664) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
