@@ -2,10 +2,10 @@
 
 ### Recent Pull Requests
 
-- [tpl/css: Support @import &#34;hugo:vars&#34; for CSS custom properties in css.Build](https://github.com/gohugoio/hugo/pull/14700) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [releaser: Add standard withdeploy release assets](https://github.com/gohugoio/hugo/pull/14697) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Testing gotmplfmt](https://github.com/gohugoio/hugo/pull/14683) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [testing: Simplify line ending handling in tests](https://github.com/gohugoio/hugo/pull/14682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [tpl/css: Support @import &#34;hugo:vars&#34; for CSS custom properties in css.Build](https://github.com/gohugoio/hugo/pull/14700) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [releaser: Add standard withdeploy release assets](https://github.com/gohugoio/hugo/pull/14697) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Testing gotmplfmt](https://github.com/gohugoio/hugo/pull/14683) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [testing: Simplify line ending handling in tests](https://github.com/gohugoio/hugo/pull/14682) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [minifiers: Keep x-bind and blank namespace in SVG minification](https://github.com/gohugoio/hugo/pull/14671) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
