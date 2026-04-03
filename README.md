@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [ tpl/css: Add a test for font-family with quotes in params](https://github.com/gohugoio/hugo/pull/14706) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [testing: Use css.Build as a preprocessor for TailwindCSS](https://github.com/gohugoio/hugoDocs/pull/3462) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [tpl/css: Support @import &#34;hugo:vars&#34; for CSS custom properties in css.Build](https://github.com/gohugoio/hugo/pull/14700) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [releaser: Add standard withdeploy release assets](https://github.com/gohugoio/hugo/pull/14697) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Testing gotmplfmt](https://github.com/gohugoio/hugo/pull/14683) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [ tpl/css: Add a test for font-family with quotes in params](https://github.com/gohugoio/hugo/pull/14706) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [testing: Use css.Build as a preprocessor for TailwindCSS](https://github.com/gohugoio/hugoDocs/pull/3462) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [tpl/css: Support @import &#34;hugo:vars&#34; for CSS custom properties in css.Build](https://github.com/gohugoio/hugo/pull/14700) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [releaser: Add standard withdeploy release assets](https://github.com/gohugoio/hugo/pull/14697) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Testing gotmplfmt](https://github.com/gohugoio/hugo/pull/14683) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
