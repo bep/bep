@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Adjust css.Build var docs a little](https://github.com/gohugoio/hugoDocs/pull/3465) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [Fix some recently introduced Position issues](https://github.com/gohugoio/hugo/pull/14717) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [markup/goldmark: Fix double-escaping of ampersands in link URLs](https://github.com/gohugoio/hugo/pull/14716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [all: Replace NewIntegrationTestBuilder with Test/TestE/TestRunning](https://github.com/gohugoio/hugo/pull/14714) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl: Fix stray quotes from partial decorator in script context](https://github.com/gohugoio/hugo/pull/14712) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [ tpl/css: Add a test for font-family with quotes in params](https://github.com/gohugoio/hugo/pull/14706) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
