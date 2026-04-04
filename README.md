@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Fix some recently introduced Position issues](https://github.com/gohugoio/hugo/pull/14717) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [markup/goldmark: Fix double-escaping of ampersands in link URLs](https://github.com/gohugoio/hugo/pull/14716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [all: Replace NewIntegrationTestBuilder with Test/TestE/TestRunning](https://github.com/gohugoio/hugo/pull/14714) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl: Fix stray quotes from partial decorator in script context](https://github.com/gohugoio/hugo/pull/14712) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [ tpl/css: Add a test for font-family with quotes in params](https://github.com/gohugoio/hugo/pull/14706) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix some recently introduced Position issues](https://github.com/gohugoio/hugo/pull/14717) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [markup/goldmark: Fix double-escaping of ampersands in link URLs](https://github.com/gohugoio/hugo/pull/14716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [all: Replace NewIntegrationTestBuilder with Test/TestE/TestRunning](https://github.com/gohugoio/hugo/pull/14714) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl: Fix stray quotes from partial decorator in script context](https://github.com/gohugoio/hugo/pull/14712) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [ tpl/css: Add a test for font-family with quotes in params](https://github.com/gohugoio/hugo/pull/14706) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [h-subaru](https://github.com/h-subaru) (1 week ago)
-- [isaaclyman](https://github.com/isaaclyman) (3 weeks ago)
+- [isaaclyman](https://github.com/isaaclyman) (4 weeks ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (1 month ago)
 - [photostructure](https://github.com/photostructure) (1 month ago)
-- [geerlingguy](https://github.com/geerlingguy) (2 months ago)
+- [geerlingguy](https://github.com/geerlingguy) (3 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
