@@ -2,7 +2,7 @@
 
 ### Recent Pull Requests
 
-- [Add auto-creation of root sections in multilingual sites](https://github.com/gohugoio/hugo/pull/14727) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Fix auto-creation of root sections in multilingual sites](https://github.com/gohugoio/hugo/pull/14727) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix it so same-page anchor visits do not trigger visit events](https://github.com/hotwired/turbo/pull/1533) on [hotwired/turbo](https://github.com/hotwired/turbo) (today)
 - [ Replace Sass with plain CSS using css.Build](https://github.com/bep/galleriesdeluxe/pull/19) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (1 day ago)
 - [Replace Sass with plain CSS using css.Build](https://github.com/bep/galleriesdeluxe/pull/18) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (1 day ago)
