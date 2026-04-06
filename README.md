@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [ Replace Sass with plain CSS using css.Build](https://github.com/bep/galleriesdeluxe/pull/19) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (today)
-- [Replace Sass with plain CSS using css.Build](https://github.com/bep/galleriesdeluxe/pull/18) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (today)
-- [Adjust css.Build var docs a little](https://github.com/gohugoio/hugoDocs/pull/3465) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [Fix some recently introduced Position issues](https://github.com/gohugoio/hugo/pull/14717) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [markup/goldmark: Fix double-escaping of ampersands in link URLs](https://github.com/gohugoio/hugo/pull/14716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [ Replace Sass with plain CSS using css.Build](https://github.com/bep/galleriesdeluxe/pull/19) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (1 day ago)
+- [Replace Sass with plain CSS using css.Build](https://github.com/bep/galleriesdeluxe/pull/18) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (1 day ago)
+- [Adjust css.Build var docs a little](https://github.com/gohugoio/hugoDocs/pull/3465) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [Fix some recently introduced Position issues](https://github.com/gohugoio/hugo/pull/14717) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [markup/goldmark: Fix double-escaping of ampersands in link URLs](https://github.com/gohugoio/hugo/pull/14716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [h-subaru](https://github.com/h-subaru) (2 weeks ago)
-- [isaaclyman](https://github.com/isaaclyman) (4 weeks ago)
+- [isaaclyman](https://github.com/isaaclyman) (1 month ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (1 month ago)
 - [photostructure](https://github.com/photostructure) (1 month ago)
 - [geerlingguy](https://github.com/geerlingguy) (3 months ago)
