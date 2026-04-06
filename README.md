@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix it so same-page anchor visits do not trigger visit events](https://github.com/hotwired/turbo/pull/1533) on [hotwired/turbo](https://github.com/hotwired/turbo) (today)
 - [ Replace Sass with plain CSS using css.Build](https://github.com/bep/galleriesdeluxe/pull/19) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (1 day ago)
 - [Replace Sass with plain CSS using css.Build](https://github.com/bep/galleriesdeluxe/pull/18) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (1 day ago)
 - [Adjust css.Build var docs a little](https://github.com/gohugoio/hugoDocs/pull/3465) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 - [Fix some recently introduced Position issues](https://github.com/gohugoio/hugo/pull/14717) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [markup/goldmark: Fix double-escaping of ampersands in link URLs](https://github.com/gohugoio/hugo/pull/14716) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
