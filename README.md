@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix RenderShortcodes leaking context markers when indented](https://github.com/gohugoio/hugo/pull/14734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Strip nested page context markers from standalone RenderShortcodes](https://github.com/gohugoio/hugo/pull/14733) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix auto-creation of root sections in multilingual sites](https://github.com/gohugoio/hugo/pull/14727) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix it so same-page anchor visits do not trigger visit events](https://github.com/hotwired/turbo/pull/1533) on [hotwired/turbo](https://github.com/hotwired/turbo) (1 day ago)
 - [ Replace Sass with plain CSS using css.Build](https://github.com/bep/galleriesdeluxe/pull/19) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (2 days ago)
-- [Replace Sass with plain CSS using css.Build](https://github.com/bep/galleriesdeluxe/pull/18) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
