@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Fix panic when passthrough elements are used in headings](https://github.com/gohugoio/hugo/pull/14742) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix panic on edit of legacy mapped template names that&#39;s also a valid path in the new setup](https://github.com/gohugoio/hugo/pull/14741) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [ parser/pageparser: Add a parser fuzz test](https://github.com/gohugoio/hugo/pull/14735) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix RenderShortcodes leaking context markers when indented](https://github.com/gohugoio/hugo/pull/14734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Strip nested page context markers from standalone RenderShortcodes](https://github.com/gohugoio/hugo/pull/14733) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix panic when passthrough elements are used in headings](https://github.com/gohugoio/hugo/pull/14742) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix panic on edit of legacy mapped template names that&#39;s also a valid path in the new setup](https://github.com/gohugoio/hugo/pull/14741) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [ parser/pageparser: Add a parser fuzz test](https://github.com/gohugoio/hugo/pull/14735) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix RenderShortcodes leaking context markers when indented](https://github.com/gohugoio/hugo/pull/14734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Strip nested page context markers from standalone RenderShortcodes](https://github.com/gohugoio/hugo/pull/14733) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
