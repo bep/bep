@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Fix panic when passthrough elements are used in headings](https://github.com/gohugoio/hugo/pull/14742) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix panic on edit of legacy mapped template names that&#39;s also a valid path in the new setup](https://github.com/gohugoio/hugo/pull/14741) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [ parser/pageparser: Add a parser fuzz test](https://github.com/gohugoio/hugo/pull/14735) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix RenderShortcodes leaking context markers when indented](https://github.com/gohugoio/hugo/pull/14734) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Strip nested page context markers from standalone RenderShortcodes](https://github.com/gohugoio/hugo/pull/14733) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add wasm to the truststore_other targets](https://github.com/bep/mclib/pull/7) on [bep/mclib](https://github.com/bep/mclib) (1 day ago)
+- [ci: Add staticcheck and go vet to CI](https://github.com/bep/fetch-npm-package/pull/3) on [bep/fetch-npm-package](https://github.com/bep/fetch-npm-package) (2 days ago)
+- [ci: Add Windows to test matrixs](https://github.com/bep/firstupdotenv/pull/7) on [bep/firstupdotenv](https://github.com/bep/firstupdotenv) (2 days ago)
+- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/nogo/pull/3) on [bep/nogo](https://github.com/bep/nogo) (2 days ago)
+- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/mclib/pull/5) on [bep/mclib](https://github.com/bep/mclib) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [h-subaru](https://github.com/h-subaru) (2 weeks ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (1 month ago)
-- [photostructure](https://github.com/photostructure) (1 month ago)
+- [photostructure](https://github.com/photostructure) (2 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (3 months ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (4 months ago)
 
