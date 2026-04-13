@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Add wasm to the truststore_other targets](https://github.com/bep/mclib/pull/7) on [bep/mclib](https://github.com/bep/mclib) (2 days ago)
-- [ci: Add staticcheck and go vet to CI](https://github.com/bep/fetch-npm-package/pull/3) on [bep/fetch-npm-package](https://github.com/bep/fetch-npm-package) (3 days ago)
-- [ci: Add Windows to test matrixs](https://github.com/bep/firstupdotenv/pull/7) on [bep/firstupdotenv](https://github.com/bep/firstupdotenv) (3 days ago)
-- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/nogo/pull/3) on [bep/nogo](https://github.com/bep/nogo) (3 days ago)
-- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/mclib/pull/5) on [bep/mclib](https://github.com/bep/mclib) (3 days ago)
+- [Add wasm to the truststore_other targets](https://github.com/bep/mclib/pull/7) on [bep/mclib](https://github.com/bep/mclib) (3 days ago)
+- [ci: Add staticcheck and go vet to CI](https://github.com/bep/fetch-npm-package/pull/3) on [bep/fetch-npm-package](https://github.com/bep/fetch-npm-package) (4 days ago)
+- [ci: Add Windows to test matrixs](https://github.com/bep/firstupdotenv/pull/7) on [bep/firstupdotenv](https://github.com/bep/firstupdotenv) (4 days ago)
+- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/nogo/pull/3) on [bep/nogo](https://github.com/bep/nogo) (4 days ago)
+- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/mclib/pull/5) on [bep/mclib](https://github.com/bep/mclib) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
