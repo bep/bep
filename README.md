@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add a more flexible filename identifier scheme that also allows setting roles and versions](https://github.com/gohugoio/hugo/pull/14754) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix it so we never auto-fallback to page resources in other roles/versions](https://github.com/gohugoio/hugo/pull/14753) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add wasm to the truststore_other targets](https://github.com/bep/mclib/pull/7) on [bep/mclib](https://github.com/bep/mclib) (4 days ago)
 - [ci: Add staticcheck and go vet to CI](https://github.com/bep/fetch-npm-package/pull/3) on [bep/fetch-npm-package](https://github.com/bep/fetch-npm-package) (5 days ago)
 - [ci: Add Windows to test matrixs](https://github.com/bep/firstupdotenv/pull/7) on [bep/firstupdotenv](https://github.com/bep/firstupdotenv) (5 days ago)
-- [Update Go 1.25.x/1.26.x, GitHub Actions, go.mod Go 1.25, dependencies](https://github.com/bep/nogo/pull/3) on [bep/nogo](https://github.com/bep/nogo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
