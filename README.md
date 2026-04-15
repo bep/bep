@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Add slice-based permalinks config with PageMatcher target](https://github.com/gohugoio/hugo/pull/14759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix filename dimension identifiers (_role_X_, _version_X_) to replace mount config](https://github.com/gohugoio/hugo/pull/14757) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add a more flexible filename identifier scheme that also allows setting roles and versions](https://github.com/gohugoio/hugo/pull/14754) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix it so we never auto-fallback to page resources in other roles/versions](https://github.com/gohugoio/hugo/pull/14753) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add wasm to the truststore_other targets](https://github.com/bep/mclib/pull/7) on [bep/mclib](https://github.com/bep/mclib) (5 days ago)
-- [ci: Add staticcheck and go vet to CI](https://github.com/bep/fetch-npm-package/pull/3) on [bep/fetch-npm-package](https://github.com/bep/fetch-npm-package) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
