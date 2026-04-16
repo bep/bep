@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [vscode: Prompt to install gotmplfmt binary when not found](https://github.com/gohugoio/gotmplfmt/pull/5) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (today)
+- [Add -l and -d flags for CI usage](https://github.com/gohugoio/gotmplfmt/pull/4) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (today)
 - [Add slice-based permalinks config with PageMatcher target](https://github.com/gohugoio/hugo/pull/14759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Fix filename dimension identifiers (_role_X_, _version_X_) to replace mount config](https://github.com/gohugoio/hugo/pull/14757) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add a more flexible filename identifier scheme that also allows setting roles and versions](https://github.com/gohugoio/hugo/pull/14754) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix it so we never auto-fallback to page resources in other roles/versions](https://github.com/gohugoio/hugo/pull/14753) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add wasm to the truststore_other targets](https://github.com/bep/mclib/pull/7) on [bep/mclib](https://github.com/bep/mclib) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
