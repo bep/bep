@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [resources/page: Return empty :contentbasename for section pages](https://github.com/gohugoio/hugo/pull/14768) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix some XML formatting issues (e.g. RSS)](https://github.com/gohugoio/gotmplfmt/pull/6) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (today)
 - [vscode: Prompt to install gotmplfmt binary when not found](https://github.com/gohugoio/gotmplfmt/pull/5) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
 - [Add -l and -d flags for CI usage](https://github.com/gohugoio/gotmplfmt/pull/4) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
 - [Add slice-based permalinks config with PageMatcher target](https://github.com/gohugoio/hugo/pull/14759) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix filename dimension identifiers (_role_X_, _version_X_) to replace mount config](https://github.com/gohugoio/hugo/pull/14757) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
