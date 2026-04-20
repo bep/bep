@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Replace the concurrent map with an identical upstream version](https://github.com/gohugoio/hugo/pull/14776) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade github.com/bep/imagemeta v0.17.0 =&gt; v0.17.1](https://github.com/gohugoio/hugo/pull/14775) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc comment adjustments](https://github.com/gohugoio/hugo/pull/14774) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [resources/page: Return empty :contentbasename for section pages](https://github.com/gohugoio/hugo/pull/14768) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix some XML formatting issues (e.g. RSS)](https://github.com/gohugoio/gotmplfmt/pull/6) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (2 days ago)
+- [Replace the concurrent map with an identical upstream version](https://github.com/gohugoio/hugo/pull/14776) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Upgrade github.com/bep/imagemeta v0.17.0 =&gt; v0.17.1](https://github.com/gohugoio/hugo/pull/14775) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc comment adjustments](https://github.com/gohugoio/hugo/pull/14774) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [resources/page: Return empty :contentbasename for section pages](https://github.com/gohugoio/hugo/pull/14768) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Fix some XML formatting issues (e.g. RSS)](https://github.com/gohugoio/gotmplfmt/pull/6) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [oceandruid](https://github.com/oceandruid) (2 days ago)
+- [oceandruid](https://github.com/oceandruid) (3 days ago)
 - [h-subaru](https://github.com/h-subaru) (4 weeks ago)
-- [piotr-lasota](https://github.com/piotr-lasota) (1 month ago)
+- [piotr-lasota](https://github.com/piotr-lasota) (2 months ago)
 - [photostructure](https://github.com/photostructure) (2 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (3 months ago)
 
