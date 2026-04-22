@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [tpl/collections: Honor the Eqer interface in where comparisons](https://github.com/gohugoio/hugo/pull/14785) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [modules: Ignore non-require blocks in go.mod rewrite](https://github.com/gohugoio/hugo/pull/14784) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Replace the concurrent map with an identical upstream version](https://github.com/gohugoio/hugo/pull/14776) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [deps: Upgrade github.com/bep/imagemeta v0.17.0 =&gt; v0.17.1](https://github.com/gohugoio/hugo/pull/14775) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc comment adjustments](https://github.com/gohugoio/hugo/pull/14774) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl/collections: Honor the Eqer interface in where comparisons](https://github.com/gohugoio/hugo/pull/14785) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [modules: Ignore non-require blocks in go.mod rewrite](https://github.com/gohugoio/hugo/pull/14784) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Replace the concurrent map with an identical upstream version](https://github.com/gohugoio/hugo/pull/14776) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [deps: Upgrade github.com/bep/imagemeta v0.17.0 =&gt; v0.17.1](https://github.com/gohugoio/hugo/pull/14775) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc comment adjustments](https://github.com/gohugoio/hugo/pull/14774) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [oceandruid](https://github.com/oceandruid) (4 days ago)
+- [oceandruid](https://github.com/oceandruid) (5 days ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (2 months ago)
 - [photostructure](https://github.com/photostructure) (2 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (3 months ago)
