@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Remove some unused code](https://github.com/gohugoio/hugo/pull/14801) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade github.com/bep/imagemeta v0.17.1 =&gt; v0.17.2](https://github.com/gohugoio/hugo/pull/14797) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [heif: Deliver all XMP items, filter by content_type](https://github.com/bep/imagemeta/pull/68) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
 - [config/security: Add &#34;! &#34; negation to Whitelist, harden default http.urls](https://github.com/gohugoio/hugo/pull/14793) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl/collections: Honor the Eqer interface in where comparisons](https://github.com/gohugoio/hugo/pull/14785) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [modules: Ignore non-require blocks in go.mod rewrite](https://github.com/gohugoio/hugo/pull/14784) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
