@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [config/security: Add &#34;! &#34; negation to Whitelist, harden default http.urls](https://github.com/gohugoio/hugo/pull/14793) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/collections: Honor the Eqer interface in where comparisons](https://github.com/gohugoio/hugo/pull/14785) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [modules: Ignore non-require blocks in go.mod rewrite](https://github.com/gohugoio/hugo/pull/14784) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Replace the concurrent map with an identical upstream version](https://github.com/gohugoio/hugo/pull/14776) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [deps: Upgrade github.com/bep/imagemeta v0.17.0 =&gt; v0.17.1](https://github.com/gohugoio/hugo/pull/14775) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [config/security: Add &#34;! &#34; negation to Whitelist, harden default http.urls](https://github.com/gohugoio/hugo/pull/14793) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/collections: Honor the Eqer interface in where comparisons](https://github.com/gohugoio/hugo/pull/14785) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [modules: Ignore non-require blocks in go.mod rewrite](https://github.com/gohugoio/hugo/pull/14784) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Replace the concurrent map with an identical upstream version](https://github.com/gohugoio/hugo/pull/14776) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [deps: Upgrade github.com/bep/imagemeta v0.17.0 =&gt; v0.17.1](https://github.com/gohugoio/hugo/pull/14775) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [oceandruid](https://github.com/oceandruid) (5 days ago)
+- [oceandruid](https://github.com/oceandruid) (6 days ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (2 months ago)
 - [photostructure](https://github.com/photostructure) (2 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (3 months ago)
