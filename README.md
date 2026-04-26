@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [css: Support nested hugo:vars/&lt;name&gt; imports](https://github.com/gohugoio/hugo/pull/14813) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [github: Update GitHub actions versions](https://github.com/gohugoio/hugo/pull/14811) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Replace deprecated .Site.Sites/.Page.Sites with hugo.Sites intests](https://github.com/gohugoio/hugo/pull/14806) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Remove some unused code](https://github.com/gohugoio/hugo/pull/14801) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [deps: Upgrade github.com/bep/imagemeta v0.17.1 =&gt; v0.17.2](https://github.com/gohugoio/hugo/pull/14797) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [heif: Deliver all XMP items, filter by content_type](https://github.com/bep/imagemeta/pull/68) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
