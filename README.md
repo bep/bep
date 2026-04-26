@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [deps: Upgrade github.com/bep/gallerydeluxe v0.13.0 =&gt; v0.14.0](https://github.com/bep/galleriesdeluxe/pull/20) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (today)
+- [ Pick a higher-density bucket on retina screens](https://github.com/bep/gallerydeluxe/pull/38) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (today)
 - [css: Support nested hugo:vars/&lt;name&gt; imports](https://github.com/gohugoio/hugo/pull/14813) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [github: Update GitHub actions versions](https://github.com/gohugoio/hugo/pull/14811) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Replace deprecated .Site.Sites/.Page.Sites with hugo.Sites intests](https://github.com/gohugoio/hugo/pull/14806) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Remove some unused code](https://github.com/gohugoio/hugo/pull/14801) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [deps: Upgrade github.com/bep/imagemeta v0.17.1 =&gt; v0.17.2](https://github.com/gohugoio/hugo/pull/14797) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
