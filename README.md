@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [warpc: Move to parson.c in https://github.com/kgabis/parson](https://github.com/gohugoio/hugo/pull/14827) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [config/security: Restrict default http.urls &#34;@&#34; deny to userinfo](https://github.com/gohugoio/hugo/pull/14826) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [deps: Upgrade github.com/bep/gallerydeluxe v0.13.0 =&gt; v0.14.0](https://github.com/bep/galleriesdeluxe/pull/20) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (3 days ago)
 - [ Pick a higher-density bucket on retina screens](https://github.com/bep/gallerydeluxe/pull/38) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (3 days ago)
 - [css: Support nested hugo:vars/&lt;name&gt; imports](https://github.com/gohugoio/hugo/pull/14813) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [github: Update GitHub actions versions](https://github.com/gohugoio/hugo/pull/14811) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
