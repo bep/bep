@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [resources: Honor Retry-After header in resources.GetRemote retries](https://github.com/gohugoio/hugo/pull/14829) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [warpc: Move to parson.c in https://github.com/kgabis/parson](https://github.com/gohugoio/hugo/pull/14827) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [config/security: Adjust Node permissions after user feedback](https://github.com/gohugoio/hugo/pull/14826) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [deps: Upgrade github.com/bep/gallerydeluxe v0.13.0 =&gt; v0.14.0](https://github.com/bep/galleriesdeluxe/pull/20) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (3 days ago)
-- [ Pick a higher-density bucket on retina screens](https://github.com/bep/gallerydeluxe/pull/38) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (3 days ago)
+- [resources: Honor Retry-After header in resources.GetRemote retries](https://github.com/gohugoio/hugo/pull/14829) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [warpc: Move to parson.c in https://github.com/kgabis/parson](https://github.com/gohugoio/hugo/pull/14827) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [config/security: Adjust Node permissions after user feedback](https://github.com/gohugoio/hugo/pull/14826) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [deps: Upgrade github.com/bep/gallerydeluxe v0.13.0 =&gt; v0.14.0](https://github.com/bep/galleriesdeluxe/pull/20) on [bep/galleriesdeluxe](https://github.com/bep/galleriesdeluxe) (4 days ago)
+- [ Pick a higher-density bucket on retina screens](https://github.com/bep/gallerydeluxe/pull/38) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
