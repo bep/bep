@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Fix Exif in new Hugo API](https://github.com/bep/gallerydeluxe/pull/40) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 day ago)
-- [security: Allow hostnames starting with digits in default http.urls](https://github.com/gohugoio/hugo/pull/14840) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [resources: Honor Retry-After header in resources.GetRemote retries](https://github.com/gohugoio/hugo/pull/14829) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [warpc: Move to parson.c in https://github.com/kgabis/parson](https://github.com/gohugoio/hugo/pull/14827) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [config/security: Adjust Node permissions after user feedback](https://github.com/gohugoio/hugo/pull/14826) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix Exif in new Hugo API](https://github.com/bep/gallerydeluxe/pull/40) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (2 days ago)
+- [security: Allow hostnames starting with digits in default http.urls](https://github.com/gohugoio/hugo/pull/14840) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [resources: Honor Retry-After header in resources.GetRemote retries](https://github.com/gohugoio/hugo/pull/14829) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [warpc: Move to parson.c in https://github.com/kgabis/parson](https://github.com/gohugoio/hugo/pull/14827) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [config/security: Adjust Node permissions after user feedback](https://github.com/gohugoio/hugo/pull/14826) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [momasta](https://github.com/momasta) (2 days ago)
+- [momasta](https://github.com/momasta) (3 days ago)
 - [oceandruid](https://github.com/oceandruid) (2 weeks ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (2 months ago)
 - [photostructure](https://github.com/photostructure) (2 months ago)
-- [geerlingguy](https://github.com/geerlingguy) (3 months ago)
+- [geerlingguy](https://github.com/geerlingguy) (4 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
