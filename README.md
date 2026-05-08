@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [hugolib: Don&#39;t warn about lang/kind/path coming from cascade.params](https://github.com/gohugoio/hugo/pull/14851) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [css: Make css.Build&#39;s file-loader URLs absolute to web context root](https://github.com/gohugoio/hugo/pull/14850) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [readme: Add a paragraph about AGENT.md](https://github.com/bep/gitjoin/pull/4) on [bep/gitjoin](https://github.com/bep/gitjoin) (1 day ago)
 - [Fix Exif in new Hugo API](https://github.com/bep/gallerydeluxe/pull/40) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (6 days ago)
 - [security: Allow hostnames starting with digits in default http.urls](https://github.com/gohugoio/hugo/pull/14840) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [resources: Honor Retry-After header in resources.GetRemote retries](https://github.com/gohugoio/hugo/pull/14829) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [warpc: Move to parson.c in https://github.com/kgabis/parson](https://github.com/gohugoio/hugo/pull/14827) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
