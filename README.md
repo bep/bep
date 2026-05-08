@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [readme: Add a paragraph about AGENT.md](https://github.com/bep/gitjoin/pull/4) on [bep/gitjoin](https://github.com/bep/gitjoin) (today)
-- [Fix Exif in new Hugo API](https://github.com/bep/gallerydeluxe/pull/40) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (5 days ago)
-- [security: Allow hostnames starting with digits in default http.urls](https://github.com/gohugoio/hugo/pull/14840) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [readme: Add a paragraph about AGENT.md](https://github.com/bep/gitjoin/pull/4) on [bep/gitjoin](https://github.com/bep/gitjoin) (1 day ago)
+- [Fix Exif in new Hugo API](https://github.com/bep/gallerydeluxe/pull/40) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (6 days ago)
+- [security: Allow hostnames starting with digits in default http.urls](https://github.com/gohugoio/hugo/pull/14840) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [resources: Honor Retry-After header in resources.GetRemote retries](https://github.com/gohugoio/hugo/pull/14829) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [warpc: Move to parson.c in https://github.com/kgabis/parson](https://github.com/gohugoio/hugo/pull/14827) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [momasta](https://github.com/momasta) (6 days ago)
-- [oceandruid](https://github.com/oceandruid) (2 weeks ago)
+- [momasta](https://github.com/momasta) (1 week ago)
+- [oceandruid](https://github.com/oceandruid) (3 weeks ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (2 months ago)
 - [photostructure](https://github.com/photostructure) (2 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (4 months ago)
