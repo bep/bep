@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [common/hexec: Resolve pnpm wrapper script entry points](https://github.com/gohugoio/hugo/pull/14856) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Misc Chroma](https://github.com/gohugoio/hugo/pull/14853) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [hugolib: Don&#39;t warn about lang/kind/path coming from cascade.params](https://github.com/gohugoio/hugo/pull/14851) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [css: Make css.Build&#39;s file-loader URLs absolute to web context root](https://github.com/gohugoio/hugo/pull/14850) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [readme: Add a paragraph about AGENT.md](https://github.com/bep/gitjoin/pull/4) on [bep/gitjoin](https://github.com/bep/gitjoin) (2 days ago)
-- [Fix Exif in new Hugo API](https://github.com/bep/gallerydeluxe/pull/40) on [bep/gallerydeluxe](https://github.com/bep/gallerydeluxe) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
