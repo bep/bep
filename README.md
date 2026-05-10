@@ -11,10 +11,10 @@
 ### Recent sponsors (big thank you!)
 
 - [momasta](https://github.com/momasta) (1 week ago)
-- [oceandruid](https://github.com/oceandruid) (3 weeks ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (2 months ago)
 - [photostructure](https://github.com/photostructure) (3 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (4 months ago)
+- [IGLOU-EU](https://github.com/IGLOU-EU) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
