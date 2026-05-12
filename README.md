@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [testing: Use synctest where relevant](https://github.com/bep/debounce/pull/19) on [bep/debounce](https://github.com/bep/debounce) (today)
+- [testing: Use synctest where relevant](https://github.com/bep/lazycache/pull/21) on [bep/lazycache](https://github.com/bep/lazycache) (today)
 - [Add --hidden flag to include dot-files and dot-directories](https://github.com/bep/grrep/pull/1) on [bep/grrep](https://github.com/bep/grrep) (today)
 - [Misc adjustments](https://github.com/gohugoio/hugo/pull/14872) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [common/hexec: Resolve pnpm wrapper script entry points](https://github.com/gohugoio/hugo/pull/14856) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Misc Chroma](https://github.com/gohugoio/hugo/pull/14853) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [hugolib: Don&#39;t warn about lang/kind/path coming from cascade.params](https://github.com/gohugoio/hugo/pull/14851) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
