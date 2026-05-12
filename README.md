@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [parahelpers: Use synctest in tests](https://github.com/bep/helpers/pull/11) on [bep/helpers](https://github.com/bep/helpers) (today)
+- [testing: Use synctest where relevant](https://github.com/gohugoio/hugo/pull/14878) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Manage .gitignore per gitjoin.txt directory](https://github.com/bep/gitjoin/pull/5) on [bep/gitjoin](https://github.com/bep/gitjoin) (today)
 - [testing: Use synctest where relevant](https://github.com/bep/debounce/pull/19) on [bep/debounce](https://github.com/bep/debounce) (today)
 - [testing: Use synctest where relevant](https://github.com/bep/lazycache/pull/21) on [bep/lazycache](https://github.com/bep/lazycache) (today)
-- [Add --hidden flag to include dot-files and dot-directories](https://github.com/bep/grrep/pull/1) on [bep/grrep](https://github.com/bep/grrep) (today)
-- [Misc adjustments](https://github.com/gohugoio/hugo/pull/14872) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [common/hexec: Resolve pnpm wrapper script entry points](https://github.com/gohugoio/hugo/pull/14856) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
