@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [common/hexec: Make NODE_PATH a fallback for ESM bare imports](https://github.com/gohugoio/hugo/pull/14885) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [config: Allow repeating the root key in /config files](https://github.com/gohugoio/hugo/pull/14883) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [hugolib: Add an integration test for drafted pages with resources](https://github.com/gohugoio/hugo/pull/14881) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [parahelpers: Use synctest in tests](https://github.com/bep/helpers/pull/11) on [bep/helpers](https://github.com/bep/helpers) (1 day ago)
 - [testing: Use synctest where relevant](https://github.com/gohugoio/hugo/pull/14878) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Manage .gitignore per gitjoin.txt directory](https://github.com/bep/gitjoin/pull/5) on [bep/gitjoin](https://github.com/bep/gitjoin) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
