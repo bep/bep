@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [parahelpers: Use synctest in tests](https://github.com/bep/helpers/pull/11) on [bep/helpers](https://github.com/bep/helpers) (today)
-- [testing: Use synctest where relevant](https://github.com/gohugoio/hugo/pull/14878) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Manage .gitignore per gitjoin.txt directory](https://github.com/bep/gitjoin/pull/5) on [bep/gitjoin](https://github.com/bep/gitjoin) (today)
-- [testing: Use synctest where relevant](https://github.com/bep/debounce/pull/19) on [bep/debounce](https://github.com/bep/debounce) (today)
-- [testing: Use synctest where relevant](https://github.com/bep/lazycache/pull/21) on [bep/lazycache](https://github.com/bep/lazycache) (today)
+- [parahelpers: Use synctest in tests](https://github.com/bep/helpers/pull/11) on [bep/helpers](https://github.com/bep/helpers) (1 day ago)
+- [testing: Use synctest where relevant](https://github.com/gohugoio/hugo/pull/14878) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Manage .gitignore per gitjoin.txt directory](https://github.com/bep/gitjoin/pull/5) on [bep/gitjoin](https://github.com/bep/gitjoin) (1 day ago)
+- [testing: Use synctest where relevant](https://github.com/bep/debounce/pull/19) on [bep/debounce](https://github.com/bep/debounce) (1 day ago)
+- [testing: Use synctest where relevant](https://github.com/bep/lazycache/pull/21) on [bep/lazycache](https://github.com/bep/lazycache) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
