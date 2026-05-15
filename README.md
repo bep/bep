@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add image processing support for AVIF](https://github.com/gohugoio/hugo/pull/14896) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/templates: Reject Defer inside partialCached](https://github.com/gohugoio/hugo/pull/14894) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [common/hexec: Make NODE_PATH a fallback for ESM bare imports](https://github.com/gohugoio/hugo/pull/14885) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [config: Allow repeating the root key in /config files](https://github.com/gohugoio/hugo/pull/14883) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [hugolib: Add an integration test for drafted pages with resources](https://github.com/gohugoio/hugo/pull/14881) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add image processing support for AVIF](https://github.com/gohugoio/hugo/pull/14896) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/templates: Reject Defer inside partialCached](https://github.com/gohugoio/hugo/pull/14894) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [common/hexec: Make NODE_PATH a fallback for ESM bare imports](https://github.com/gohugoio/hugo/pull/14885) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [config: Allow repeating the root key in /config files](https://github.com/gohugoio/hugo/pull/14883) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [hugolib: Add an integration test for drafted pages with resources](https://github.com/gohugoio/hugo/pull/14881) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [momasta](https://github.com/momasta) (1 week ago)
+- [momasta](https://github.com/momasta) (2 weeks ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (2 months ago)
 - [photostructure](https://github.com/photostructure) (3 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (4 months ago)
