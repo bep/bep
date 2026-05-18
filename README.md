@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc fixes](https://github.com/gohugoio/gotmplfmt/pull/9) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (today)
 - [tpl: Run gotmplfmt -w .](https://github.com/gohugoio/hugo/pull/14908) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [AVIF (HDR) vs JPEG (SDR)](https://github.com/bep/hugo-testing-roles-gallery/pull/1) on [bep/hugo-testing-roles-gallery](https://github.com/bep/hugo-testing-roles-gallery) (3 days ago)
 - [Add image processing support for AVIF](https://github.com/gohugoio/hugo/pull/14896) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [tpl/templates: Reject Defer inside partialCached](https://github.com/gohugoio/hugo/pull/14894) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [common/hexec: Make NODE_PATH a fallback for ESM bare imports](https://github.com/gohugoio/hugo/pull/14885) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
