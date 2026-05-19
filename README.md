@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Fix double close issue](https://github.com/gohugoio/gotmplfmt/pull/10) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (today)
-- [Misc fixes](https://github.com/gohugoio/gotmplfmt/pull/9) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (today)
-- [tpl: Run gotmplfmt -w .](https://github.com/gohugoio/hugo/pull/14908) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [AVIF (HDR) vs JPEG (SDR)](https://github.com/bep/hugo-testing-roles-gallery/pull/1) on [bep/hugo-testing-roles-gallery](https://github.com/bep/hugo-testing-roles-gallery) (3 days ago)
-- [Add image processing support for AVIF](https://github.com/gohugoio/hugo/pull/14896) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Fix double close issue](https://github.com/gohugoio/gotmplfmt/pull/10) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
+- [Misc fixes](https://github.com/gohugoio/gotmplfmt/pull/9) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
+- [tpl: Run gotmplfmt -w .](https://github.com/gohugoio/hugo/pull/14908) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [AVIF (HDR) vs JPEG (SDR)](https://github.com/bep/hugo-testing-roles-gallery/pull/1) on [bep/hugo-testing-roles-gallery](https://github.com/bep/hugo-testing-roles-gallery) (4 days ago)
+- [Add image processing support for AVIF](https://github.com/gohugoio/hugo/pull/14896) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
