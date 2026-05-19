@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [testing: Introduce a formatting issue in tpl/tplimpl/embedded/templates/_partials/google_analytics.html](https://github.com/gohugoio/hugo/pull/14915) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [ Fix idempotency for text node inside e.g. {{ with }}](https://github.com/gohugoio/gotmplfmt/pull/11) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (today)
+- [Upgrade to Go 1.26.3](https://github.com/gohugoio/hugo/pull/14914) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix double close issue](https://github.com/gohugoio/gotmplfmt/pull/10) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
 - [Misc fixes](https://github.com/gohugoio/gotmplfmt/pull/9) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
-- [tpl: Run gotmplfmt -w .](https://github.com/gohugoio/hugo/pull/14908) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [AVIF (HDR) vs JPEG (SDR)](https://github.com/bep/hugo-testing-roles-gallery/pull/1) on [bep/hugo-testing-roles-gallery](https://github.com/bep/hugo-testing-roles-gallery) (4 days ago)
-- [Add image processing support for AVIF](https://github.com/gohugoio/hugo/pull/14896) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
