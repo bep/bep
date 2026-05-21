@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Sync Go template package to 1.26.3](https://github.com/gohugoio/hugo/pull/14920) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [testing: Introduce a formatting issue in tpl/tplimpl/embedded/templates/_partials/google_analytics.html](https://github.com/gohugoio/hugo/pull/14915) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [ Fix idempotency for text node inside e.g. {{ with }}](https://github.com/gohugoio/gotmplfmt/pull/11) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
-- [Upgrade to Go 1.26.3](https://github.com/gohugoio/hugo/pull/14914) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix double close issue](https://github.com/gohugoio/gotmplfmt/pull/10) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (2 days ago)
+- [Sync Go template package to 1.26.3](https://github.com/gohugoio/hugo/pull/14920) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [testing: Introduce a formatting issue in tpl/tplimpl/embedded/templates/_partials/google_analytics.html](https://github.com/gohugoio/hugo/pull/14915) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [ Fix idempotency for text node inside e.g. {{ with }}](https://github.com/gohugoio/gotmplfmt/pull/11) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (2 days ago)
+- [Upgrade to Go 1.26.3](https://github.com/gohugoio/hugo/pull/14914) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix double close issue](https://github.com/gohugoio/gotmplfmt/pull/10) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
