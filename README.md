@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [maphelpers: Add WithReadLock](https://github.com/bep/helpers/pull/12) on [bep/helpers](https://github.com/bep/helpers) (today)
 - [hugolib: Use AllTranslated in IsTranslated](https://github.com/gohugoio/hugo/pull/14930) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [markup/highlight: Allow overriding type and code via options](https://github.com/gohugoio/hugo/pull/14925) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [tpl/collections: Make dict return nil when no values are provided](https://github.com/gohugoio/hugo/pull/14924) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Sync Go template package to 1.26.3](https://github.com/gohugoio/hugo/pull/14920) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [testing: Introduce a formatting issue in tpl/tplimpl/embedded/templates/_partials/google_analytics.html](https://github.com/gohugoio/hugo/pull/14915) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
