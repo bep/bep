@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [maphelpers: Add ConcurrentSet](https://github.com/bep/helpers/pull/13) on [bep/helpers](https://github.com/bep/helpers) (today)
 - [all: Replace RWMutex struct caches with ConcurrentMap](https://github.com/gohugoio/hugo/pull/14933) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [maphelpers: Add WithReadLock](https://github.com/bep/helpers/pull/12) on [bep/helpers](https://github.com/bep/helpers) (today)
 - [hugolib: Use AllTranslated in IsTranslated](https://github.com/gohugoio/hugo/pull/14930) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [markup/highlight: Allow overriding type and code via options](https://github.com/gohugoio/hugo/pull/14925) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl/collections: Make dict return nil when no values are provided](https://github.com/gohugoio/hugo/pull/14924) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
