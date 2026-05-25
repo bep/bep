@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [hugolib: Merge existing hugo_stats.json when renderSegments is set](https://github.com/gohugoio/hugo/pull/14940) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [parser: Drop empty sub maps from hugo config output](https://github.com/gohugoio/hugo/pull/14934) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [maphelpers: Add ConcurrentSet](https://github.com/bep/helpers/pull/13) on [bep/helpers](https://github.com/bep/helpers) (2 days ago)
 - [all: Replace RWMutex struct caches with ConcurrentMap](https://github.com/gohugoio/hugo/pull/14933) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [maphelpers: Add WithReadLock](https://github.com/bep/helpers/pull/12) on [bep/helpers](https://github.com/bep/helpers) (2 days ago)
-- [hugolib: Use AllTranslated in IsTranslated](https://github.com/gohugoio/hugo/pull/14930) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
