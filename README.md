@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [hugolib: Fix Page.GitInfo for modules with go.mod in a repo subdirectory](https://github.com/gohugoio/hugo/pull/14945) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Disallow HTML content by default](https://github.com/gohugoio/hugo/pull/14943) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [hugolib: Merge existing hugo_stats.json when renderSegments is set](https://github.com/gohugoio/hugo/pull/14940) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [parser: Drop empty sub maps from hugo config output](https://github.com/gohugoio/hugo/pull/14934) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [maphelpers: Add ConcurrentSet](https://github.com/bep/helpers/pull/13) on [bep/helpers](https://github.com/bep/helpers) (2 days ago)
+- [hugolib: Fix Page.GitInfo for modules with go.mod in a repo subdirectory](https://github.com/gohugoio/hugo/pull/14945) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Disallow HTML content by default](https://github.com/gohugoio/hugo/pull/14943) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [hugolib: Merge existing hugo_stats.json when renderSegments is set](https://github.com/gohugoio/hugo/pull/14940) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [parser: Drop empty sub maps from hugo config output](https://github.com/gohugoio/hugo/pull/14934) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [maphelpers: Add ConcurrentSet](https://github.com/bep/helpers/pull/13) on [bep/helpers](https://github.com/bep/helpers) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
