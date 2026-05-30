@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Add some PNG to AVIF golden test cases](https://github.com/gohugoio/hugo/pull/14951) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [hugolib: Fix Page.GitInfo for modules with go.mod in a repo subdirectory](https://github.com/gohugoio/hugo/pull/14945) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Disallow HTML content by default](https://github.com/gohugoio/hugo/pull/14943) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [hugolib: Merge existing hugo_stats.json when renderSegments is set](https://github.com/gohugoio/hugo/pull/14940) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [parser: Drop empty sub maps from hugo config output](https://github.com/gohugoio/hugo/pull/14934) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Add some PNG to AVIF golden test cases](https://github.com/gohugoio/hugo/pull/14951) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [hugolib: Fix Page.GitInfo for modules with go.mod in a repo subdirectory](https://github.com/gohugoio/hugo/pull/14945) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Disallow HTML content by default](https://github.com/gohugoio/hugo/pull/14943) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [hugolib: Merge existing hugo_stats.json when renderSegments is set](https://github.com/gohugoio/hugo/pull/14940) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [parser: Drop empty sub maps from hugo config output](https://github.com/gohugoio/hugo/pull/14934) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
