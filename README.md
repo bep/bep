@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [js: Resolve bare package imports to module.esm.js in assets](https://github.com/gohugoio/hugo/pull/14974) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add some PNG to AVIF golden test cases](https://github.com/gohugoio/hugo/pull/14951) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [hugolib: Fix Page.GitInfo for modules with go.mod in a repo subdirectory](https://github.com/gohugoio/hugo/pull/14945) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Disallow HTML content by default](https://github.com/gohugoio/hugo/pull/14943) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [hugolib: Merge existing hugo_stats.json when renderSegments is set](https://github.com/gohugoio/hugo/pull/14940) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [js: Resolve bare package imports to module.esm.js in assets](https://github.com/gohugoio/hugo/pull/14974) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add some PNG to AVIF golden test cases](https://github.com/gohugoio/hugo/pull/14951) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [hugolib: Fix Page.GitInfo for modules with go.mod in a repo subdirectory](https://github.com/gohugoio/hugo/pull/14945) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Disallow HTML content by default](https://github.com/gohugoio/hugo/pull/14943) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [hugolib: Merge existing hugo_stats.json when renderSegments is set](https://github.com/gohugoio/hugo/pull/14940) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [momasta](https://github.com/momasta) (4 weeks ago)
+- [momasta](https://github.com/momasta) (1 month ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (3 months ago)
 - [photostructure](https://github.com/photostructure) (3 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (4 months ago)
