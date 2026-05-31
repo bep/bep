@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Testing npmtohugomod](https://github.com/gohugoio/hugoDocs/pull/3536) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [js: Resolve bare package imports to module.esm.js in assets](https://github.com/gohugoio/hugo/pull/14974) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add some PNG to AVIF golden test cases](https://github.com/gohugoio/hugo/pull/14951) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [hugolib: Fix Page.GitInfo for modules with go.mod in a repo subdirectory](https://github.com/gohugoio/hugo/pull/14945) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Disallow HTML content by default](https://github.com/gohugoio/hugo/pull/14943) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [hugolib: Merge existing hugo_stats.json when renderSegments is set](https://github.com/gohugoio/hugo/pull/14940) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
