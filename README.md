@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Testing npmtohugomod](https://github.com/gohugoio/hugoDocs/pull/3536) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [js: Resolve bare package imports to module.esm.js in assets](https://github.com/gohugoio/hugo/pull/14974) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add some PNG to AVIF golden test cases](https://github.com/gohugoio/hugo/pull/14951) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [hugolib: Fix Page.GitInfo for modules with go.mod in a repo subdirectory](https://github.com/gohugoio/hugo/pull/14945) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Disallow HTML content by default](https://github.com/gohugoio/hugo/pull/14943) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Testing npmtohugomod](https://github.com/gohugoio/hugoDocs/pull/3536) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [js: Resolve bare package imports to module.esm.js in assets](https://github.com/gohugoio/hugo/pull/14974) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add some PNG to AVIF golden test cases](https://github.com/gohugoio/hugo/pull/14951) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [hugolib: Fix Page.GitInfo for modules with go.mod in a repo subdirectory](https://github.com/gohugoio/hugo/pull/14945) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Disallow HTML content by default](https://github.com/gohugoio/hugo/pull/14943) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
@@ -14,7 +14,7 @@
 - [piotr-lasota](https://github.com/piotr-lasota) (3 months ago)
 - [photostructure](https://github.com/photostructure) (3 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (4 months ago)
-- [IGLOU-EU](https://github.com/IGLOU-EU) (5 months ago)
+- [IGLOU-EU](https://github.com/IGLOU-EU) (6 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
