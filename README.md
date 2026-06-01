@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [images: Make 60 the default quality for AVIF](https://github.com/gohugoio/hugo/pull/14980) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [theme: Remove some unused code](https://github.com/gohugoio/hugoDocs/pull/3540) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [tpl/tplimpl/embedded: Prevent leading newline in sitemap template](https://github.com/gohugoio/hugo/pull/14978) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [theme: Replace Turbo with Speculation Rules](https://github.com/gohugoio/hugoDocs/pull/3539) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [images: Add quality setting per image format](https://github.com/gohugoio/hugo/pull/14976) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Testing npmtohugomod](https://github.com/gohugoio/hugoDocs/pull/3536) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
