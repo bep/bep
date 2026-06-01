@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [images: Add quality setting per image format](https://github.com/gohugoio/hugo/pull/14976) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Testing npmtohugomod](https://github.com/gohugoio/hugoDocs/pull/3536) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 - [js: Resolve bare package imports to module.esm.js in assets](https://github.com/gohugoio/hugo/pull/14974) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Add some PNG to AVIF golden test cases](https://github.com/gohugoio/hugo/pull/14951) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [hugolib: Fix Page.GitInfo for modules with go.mod in a repo subdirectory](https://github.com/gohugoio/hugo/pull/14945) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
-- [Disallow HTML content by default](https://github.com/gohugoio/hugo/pull/14943) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
