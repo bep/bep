@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [livereload: Disconnect from websocket server on pageswap](https://github.com/gohugoio/hugo/pull/14984) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [theme: Misc fixes](https://github.com/gohugoio/hugoDocs/pull/3545) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [images: Make 60 the default quality for AVIF](https://github.com/gohugoio/hugo/pull/14980) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [theme: Remove some unused code](https://github.com/gohugoio/hugoDocs/pull/3540) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [tpl/tplimpl/embedded: Prevent leading newline in sitemap template](https://github.com/gohugoio/hugo/pull/14978) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [livereload: Disconnect from websocket server on pageswap](https://github.com/gohugoio/hugo/pull/14984) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [theme: Misc fixes](https://github.com/gohugoio/hugoDocs/pull/3545) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [images: Make 60 the default quality for AVIF](https://github.com/gohugoio/hugo/pull/14980) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [theme: Remove some unused code](https://github.com/gohugoio/hugoDocs/pull/3540) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [tpl/tplimpl/embedded: Prevent leading newline in sitemap template](https://github.com/gohugoio/hugo/pull/14978) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [github](https://github.com/github) (today)
+- [github](https://github.com/github) (1 day ago)
 - [momasta](https://github.com/momasta) (1 month ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (3 months ago)
 - [photostructure](https://github.com/photostructure) (3 months ago)
-- [geerlingguy](https://github.com/geerlingguy) (4 months ago)
+- [geerlingguy](https://github.com/geerlingguy) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
