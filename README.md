@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [images: Recover from memory alloc errors in WASM image processors](https://github.com/gohugoio/hugo/pull/14986) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [theme: Inline the theme switcher script, prerender -&gt; prefetch](https://github.com/gohugoio/hugoDocs/pull/3548) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [theme: Inline the theme switcher script](https://github.com/gohugoio/hugoDocs/pull/3547) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [livereload: Disconnect from websocket server on pageswap](https://github.com/gohugoio/hugo/pull/14984) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [theme: Misc fixes](https://github.com/gohugoio/hugoDocs/pull/3545) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [images: Make 60 the default quality for AVIF](https://github.com/gohugoio/hugo/pull/14980) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
