@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [images: Recover from memory alloc errors in WASM image processors](https://github.com/gohugoio/hugo/pull/14986) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [theme: Inline the theme switcher script, prerender -&gt; prefetch](https://github.com/gohugoio/hugoDocs/pull/3548) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [theme: Inline the theme switcher script](https://github.com/gohugoio/hugoDocs/pull/3547) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [livereload: Disconnect from websocket server on pageswap](https://github.com/gohugoio/hugo/pull/14984) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [theme: Misc fixes](https://github.com/gohugoio/hugoDocs/pull/3545) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [images: Recover from memory alloc errors in WASM image processors](https://github.com/gohugoio/hugo/pull/14986) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [theme: Inline the theme switcher script, prerender -&gt; prefetch](https://github.com/gohugoio/hugoDocs/pull/3548) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [theme: Inline the theme switcher script](https://github.com/gohugoio/hugoDocs/pull/3547) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [livereload: Disconnect from websocket server on pageswap](https://github.com/gohugoio/hugo/pull/14984) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [theme: Misc fixes](https://github.com/gohugoio/hugoDocs/pull/3545) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [github](https://github.com/github) (1 day ago)
+- [github](https://github.com/github) (2 days ago)
 - [momasta](https://github.com/momasta) (1 month ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (3 months ago)
 - [photostructure](https://github.com/photostructure) (3 months ago)
