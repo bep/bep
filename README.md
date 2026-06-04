@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [page: Add IsBranch and deprecate IsNode](https://github.com/gohugoio/hugo/pull/14995) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [images: Add a per-format AVIF hint setting](https://github.com/gohugoio/hugo/pull/14994) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [images: Force cache invalidation for AVIF target](https://github.com/gohugoio/hugo/pull/14993) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [images: Make AVIF chroma subsampling content-aware via the hint](https://github.com/gohugoio/hugo/pull/14989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Cap AVIF lossy quality at 99](https://github.com/gohugoio/hugo/pull/14988) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [images: Recover from memory alloc errors in WASM image processors](https://github.com/gohugoio/hugo/pull/14986) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [theme: Inline the theme switcher script, prerender -&gt; prefetch](https://github.com/gohugoio/hugoDocs/pull/3548) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
