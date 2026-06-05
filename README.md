@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Regenerate Hugo Module wrappers in a Dependabot post-script](https://github.com/gohugoio/hugo-mod-alpinejs/pull/1) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (today)
 - [theme: Add nofollow to external links](https://github.com/gohugoio/hugoDocs/pull/3549) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [page: Add IsBranch and deprecate IsNode](https://github.com/gohugoio/hugo/pull/14995) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [images: Add a per-format AVIF hint setting](https://github.com/gohugoio/hugo/pull/14994) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [images: Force cache invalidation for AVIF target](https://github.com/gohugoio/hugo/pull/14993) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [images: Make AVIF chroma subsampling content-aware via the hint](https://github.com/gohugoio/hugo/pull/14989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
