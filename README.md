@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [page: Add IsBranch and deprecate IsNode](https://github.com/gohugoio/hugo/pull/14995) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [images: Add a per-format AVIF hint setting](https://github.com/gohugoio/hugo/pull/14994) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [images: Force cache invalidation for AVIF target](https://github.com/gohugoio/hugo/pull/14993) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [images: Make AVIF chroma subsampling content-aware via the hint](https://github.com/gohugoio/hugo/pull/14989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Cap AVIF lossy quality at 99](https://github.com/gohugoio/hugo/pull/14988) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [page: Add IsBranch and deprecate IsNode](https://github.com/gohugoio/hugo/pull/14995) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [images: Add a per-format AVIF hint setting](https://github.com/gohugoio/hugo/pull/14994) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [images: Force cache invalidation for AVIF target](https://github.com/gohugoio/hugo/pull/14993) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [images: Make AVIF chroma subsampling content-aware via the hint](https://github.com/gohugoio/hugo/pull/14989) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Cap AVIF lossy quality at 99](https://github.com/gohugoio/hugo/pull/14988) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
-- [github](https://github.com/github) (2 days ago)
+- [github](https://github.com/github) (3 days ago)
 - [momasta](https://github.com/momasta) (1 month ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (3 months ago)
 - [photostructure](https://github.com/photostructure) (3 months ago)
