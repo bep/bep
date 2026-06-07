@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [images: Deprecate Imaging.Compression and move it down to webp and avif configs](https://github.com/gohugoio/hugo/pull/15000) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Regenerate Hugo Module wrappers in a Dependabot post-script](https://github.com/gohugoio/hugo-mod-alpinejs/pull/1) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (1 day ago)
-- [theme: Add nofollow to external links](https://github.com/gohugoio/hugoDocs/pull/3549) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [page: Add IsBranch and deprecate IsNode](https://github.com/gohugoio/hugo/pull/14995) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [images: Add a per-format AVIF hint setting](https://github.com/gohugoio/hugo/pull/14994) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [images: Deprecate Imaging.Compression and move it down to webp and avif configs](https://github.com/gohugoio/hugo/pull/15000) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Regenerate Hugo Module wrappers in a Dependabot post-script](https://github.com/gohugoio/hugo-mod-alpinejs/pull/1) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (2 days ago)
+- [theme: Add nofollow to external links](https://github.com/gohugoio/hugoDocs/pull/3549) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
+- [page: Add IsBranch and deprecate IsNode](https://github.com/gohugoio/hugo/pull/14995) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [images: Add a per-format AVIF hint setting](https://github.com/gohugoio/hugo/pull/14994) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [github](https://github.com/github) (4 days ago)
+- [github](https://github.com/github) (5 days ago)
 - [momasta](https://github.com/momasta) (1 month ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (3 months ago)
 - [photostructure](https://github.com/photostructure) (3 months ago)
