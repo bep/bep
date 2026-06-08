@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [ci: Re-add macos-latest to the test matrix](https://github.com/gohugoio/hugo/pull/15010) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [all: Run go fix ./...](https://github.com/gohugoio/hugo/pull/15003) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Only support the latest Go version](https://github.com/gohugoio/hugo/pull/15002) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [resources/jsconfig: Remove deprecated baseUrl setting](https://github.com/gohugoio/hugo/pull/15001) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [images: Deprecate Imaging.Compression and move it down to webp and avif configs](https://github.com/gohugoio/hugo/pull/15000) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Regenerate Hugo Module wrappers in a Dependabot post-script](https://github.com/gohugoio/hugo-mod-alpinejs/pull/1) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
