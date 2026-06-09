@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [ci: Re-add macos-latest to the test matrix](https://github.com/gohugoio/hugo/pull/15010) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [all: Run go fix ./...](https://github.com/gohugoio/hugo/pull/15003) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Only support the latest Go version](https://github.com/gohugoio/hugo/pull/15002) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [resources/jsconfig: Remove deprecated baseUrl setting](https://github.com/gohugoio/hugo/pull/15001) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [images: Deprecate Imaging.Compression and move it down to webp and avif configs](https://github.com/gohugoio/hugo/pull/15000) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [ci: Re-add macos-latest to the test matrix](https://github.com/gohugoio/hugo/pull/15010) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [all: Run go fix ./...](https://github.com/gohugoio/hugo/pull/15003) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Only support the latest Go version](https://github.com/gohugoio/hugo/pull/15002) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [resources/jsconfig: Remove deprecated baseUrl setting](https://github.com/gohugoio/hugo/pull/15001) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [images: Deprecate Imaging.Compression and move it down to webp and avif configs](https://github.com/gohugoio/hugo/pull/15000) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [github](https://github.com/github) (6 days ago)
+- [github](https://github.com/github) (1 week ago)
 - [momasta](https://github.com/momasta) (1 month ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (3 months ago)
-- [photostructure](https://github.com/photostructure) (3 months ago)
+- [photostructure](https://github.com/photostructure) (4 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
