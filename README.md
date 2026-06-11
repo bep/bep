@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Fix multi --renderSegments merge behavior](https://github.com/gohugoio/hugo/pull/15025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Upgrade Chroma](https://github.com/gohugoio/hugo/pull/15021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Misc adjustments](https://github.com/gohugoio/hugo/pull/15020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Fix LstatIfPossible to actually Lstat](https://github.com/bep/overlayfs/pull/15) on [bep/overlayfs](https://github.com/bep/overlayfs) (2 days ago)
 - [ci: Re-add macos-latest to the test matrix](https://github.com/gohugoio/hugo/pull/15010) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [all: Run go fix ./...](https://github.com/gohugoio/hugo/pull/15003) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
