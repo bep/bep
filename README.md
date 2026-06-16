@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Continue resolving on ERR_ACCESS_DENIED in Node&#39;s resolver](https://github.com/gohugoio/hugo/pull/15042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix multi --renderSegments merge behavior](https://github.com/gohugoio/hugo/pull/15025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Upgrade Chroma](https://github.com/gohugoio/hugo/pull/15021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Misc adjustments](https://github.com/gohugoio/hugo/pull/15020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Fix LstatIfPossible to actually Lstat](https://github.com/bep/overlayfs/pull/15) on [bep/overlayfs](https://github.com/bep/overlayfs) (6 days ago)
+- [Continue resolving on ERR_ACCESS_DENIED in Node&#39;s resolver](https://github.com/gohugoio/hugo/pull/15042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix multi --renderSegments merge behavior](https://github.com/gohugoio/hugo/pull/15025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Upgrade Chroma](https://github.com/gohugoio/hugo/pull/15021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Misc adjustments](https://github.com/gohugoio/hugo/pull/15020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Fix LstatIfPossible to actually Lstat](https://github.com/bep/overlayfs/pull/15) on [bep/overlayfs](https://github.com/bep/overlayfs) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
-- [github](https://github.com/github) (1 week ago)
+- [github](https://github.com/github) (2 weeks ago)
 - [momasta](https://github.com/momasta) (1 month ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (3 months ago)
 - [photostructure](https://github.com/photostructure) (4 months ago)
