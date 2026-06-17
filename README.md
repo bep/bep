@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [parser/pageparser: Preserve non-ASCII whitespace after e.g. summary divider](https://github.com/gohugoio/hugo/pull/15047) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Continue resolving on ERR_ACCESS_DENIED in Node&#39;s resolver](https://github.com/gohugoio/hugo/pull/15042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix multi --renderSegments merge behavior](https://github.com/gohugoio/hugo/pull/15025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [parser/pageparser: Preserve non-ASCII whitespace after e.g. summary divider](https://github.com/gohugoio/hugo/pull/15047) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Continue resolving on ERR_ACCESS_DENIED in Node&#39;s resolver](https://github.com/gohugoio/hugo/pull/15042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix multi --renderSegments merge behavior](https://github.com/gohugoio/hugo/pull/15025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 - [Upgrade Chroma](https://github.com/gohugoio/hugo/pull/15021) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Misc adjustments](https://github.com/gohugoio/hugo/pull/15020) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
