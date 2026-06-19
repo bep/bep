@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [markup/highlight: Escape lang in default code block rendering](https://github.com/gohugoio/hugo/pull/15051) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Testing out patched esbuild with webworker support](https://github.com/gohugoio/hugo/pull/15049) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [parser/pageparser: Preserve non-ASCII whitespace after e.g. summary divider](https://github.com/gohugoio/hugo/pull/15047) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Continue resolving on ERR_ACCESS_DENIED in Node&#39;s resolver](https://github.com/gohugoio/hugo/pull/15042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [markup/highlight: Escape lang in default code block rendering](https://github.com/gohugoio/hugo/pull/15051) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Testing out patched esbuild with webworker support](https://github.com/gohugoio/hugo/pull/15049) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [parser/pageparser: Preserve non-ASCII whitespace after e.g. summary divider](https://github.com/gohugoio/hugo/pull/15047) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Continue resolving on ERR_ACCESS_DENIED in Node&#39;s resolver](https://github.com/gohugoio/hugo/pull/15042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Fix multi --renderSegments merge behavior](https://github.com/gohugoio/hugo/pull/15025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
 - [github](https://github.com/github) (2 weeks ago)
 - [momasta](https://github.com/momasta) (1 month ago)
-- [piotr-lasota](https://github.com/piotr-lasota) (3 months ago)
+- [piotr-lasota](https://github.com/piotr-lasota) (4 months ago)
 - [photostructure](https://github.com/photostructure) (4 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (5 months ago)
 
