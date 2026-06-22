@@ -2,10 +2,10 @@
 
 ### Recent Pull Requests
 
-- [markup/highlight: Escape lang in default code block rendering](https://github.com/gohugoio/hugo/pull/15051) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Testing out patched esbuild with webworker support](https://github.com/gohugoio/hugo/pull/15049) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [parser/pageparser: Preserve non-ASCII whitespace after e.g. summary divider](https://github.com/gohugoio/hugo/pull/15047) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Continue resolving on ERR_ACCESS_DENIED in Node&#39;s resolver](https://github.com/gohugoio/hugo/pull/15042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [markup/highlight: Escape lang in default code block rendering](https://github.com/gohugoio/hugo/pull/15051) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Testing out patched esbuild with webworker support](https://github.com/gohugoio/hugo/pull/15049) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [parser/pageparser: Preserve non-ASCII whitespace after e.g. summary divider](https://github.com/gohugoio/hugo/pull/15047) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [Continue resolving on ERR_ACCESS_DENIED in Node&#39;s resolver](https://github.com/gohugoio/hugo/pull/15042) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Fix multi --renderSegments merge behavior](https://github.com/gohugoio/hugo/pull/15025) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
