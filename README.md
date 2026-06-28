@@ -2,9 +2,9 @@
 
 ### Recent Pull Requests
 
-- [Add missing NameAttribute entry to github-dark.xml](https://github.com/alecthomas/chroma/pull/1294) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (today)
-- [Support CommonJS modules](https://github.com/gohugoio/npmtohugomod/pull/1) on [gohugoio/npmtohugomod](https://github.com/gohugoio/npmtohugomod) (1 day ago)
-- [deps: Upgrade github.com/evanw/esbuild v0.28.0 =&gt; v0.28.1](https://github.com/gohugoio/hugo/pull/15063) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add missing NameAttribute entry to github-dark.xml](https://github.com/alecthomas/chroma/pull/1294) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (1 day ago)
+- [Support CommonJS modules](https://github.com/gohugoio/npmtohugomod/pull/1) on [gohugoio/npmtohugomod](https://github.com/gohugoio/npmtohugomod) (2 days ago)
+- [deps: Upgrade github.com/evanw/esbuild v0.28.0 =&gt; v0.28.1](https://github.com/gohugoio/hugo/pull/15063) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 - [markup/highlight: Escape lang in default code block rendering](https://github.com/gohugoio/hugo/pull/15051) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [Testing out patched esbuild with webworker support](https://github.com/gohugoio/hugo/pull/15049) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
