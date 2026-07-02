@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [pabloariasmora](https://github.com/pabloariasmora) (today)
 - [github](https://github.com/github) (1 month ago)
 - [momasta](https://github.com/momasta) (2 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (4 months ago)
 - [photostructure](https://github.com/photostructure) (4 months ago)
-- [geerlingguy](https://github.com/geerlingguy) (5 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
