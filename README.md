@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [tpl/crypto: Add crypto.Hash](https://github.com/gohugoio/hugo/pull/15075) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add panzoom](https://github.com/gohugoio/hugo-mod-alpinejs/pull/2) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (3 days ago)
-- [Add encoding.HexDecode/Encode](https://github.com/gohugoio/hugo/pull/15070) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add missing NameAttribute entry to github-dark.xml](https://github.com/alecthomas/chroma/pull/1294) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (4 days ago)
-- [Support CommonJS modules](https://github.com/gohugoio/npmtohugomod/pull/1) on [gohugoio/npmtohugomod](https://github.com/gohugoio/npmtohugomod) (5 days ago)
+- [tpl/crypto: Add crypto.Hash](https://github.com/gohugoio/hugo/pull/15075) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Add panzoom](https://github.com/gohugoio/hugo-mod-alpinejs/pull/2) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (4 days ago)
+- [Add encoding.HexDecode/Encode](https://github.com/gohugoio/hugo/pull/15070) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add missing NameAttribute entry to github-dark.xml](https://github.com/alecthomas/chroma/pull/1294) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (5 days ago)
+- [Support CommonJS modules](https://github.com/gohugoio/npmtohugomod/pull/1) on [gohugoio/npmtohugomod](https://github.com/gohugoio/npmtohugomod) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [github](https://github.com/github) (4 weeks ago)
+- [github](https://github.com/github) (1 month ago)
 - [momasta](https://github.com/momasta) (2 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (4 months ago)
 - [photostructure](https://github.com/photostructure) (4 months ago)
