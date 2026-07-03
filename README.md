@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [hugio: Speedup hasBytesWriter](https://github.com/gohugoio/hugo/pull/15085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Add markup.rst.syntaxHighlight option](https://github.com/gohugoio/hugo/pull/15082) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl/crypto: Add crypto.Hash](https://github.com/gohugoio/hugo/pull/15075) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Add panzoom](https://github.com/gohugoio/hugo-mod-alpinejs/pull/2) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (5 days ago)
 - [Add encoding.HexDecode/Encode](https://github.com/gohugoio/hugo/pull/15070) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Add missing NameAttribute entry to github-dark.xml](https://github.com/alecthomas/chroma/pull/1294) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
