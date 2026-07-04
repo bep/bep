@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [tpl/resources: Deprecate resources.PostProcess in favour of templates.Defer](https://github.com/gohugoio/hugo/pull/15088) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [hugio: Speedup hasBytesWriter](https://github.com/gohugoio/hugo/pull/15085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Add markup.rst.syntaxHighlight option](https://github.com/gohugoio/hugo/pull/15082) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl/crypto: Add crypto.Hash](https://github.com/gohugoio/hugo/pull/15075) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Add panzoom](https://github.com/gohugoio/hugo-mod-alpinejs/pull/2) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (6 days ago)
-- [Add encoding.HexDecode/Encode](https://github.com/gohugoio/hugo/pull/15070) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
