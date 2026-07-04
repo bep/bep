@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [hugio: Speedup hasBytesWriter](https://github.com/gohugoio/hugo/pull/15085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add markup.rst.syntaxHighlight option](https://github.com/gohugoio/hugo/pull/15082) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/crypto: Add crypto.Hash](https://github.com/gohugoio/hugo/pull/15075) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Add panzoom](https://github.com/gohugoio/hugo-mod-alpinejs/pull/2) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (5 days ago)
-- [Add encoding.HexDecode/Encode](https://github.com/gohugoio/hugo/pull/15070) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [hugio: Speedup hasBytesWriter](https://github.com/gohugoio/hugo/pull/15085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add markup.rst.syntaxHighlight option](https://github.com/gohugoio/hugo/pull/15082) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/crypto: Add crypto.Hash](https://github.com/gohugoio/hugo/pull/15075) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Add panzoom](https://github.com/gohugoio/hugo-mod-alpinejs/pull/2) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (6 days ago)
+- [Add encoding.HexDecode/Encode](https://github.com/gohugoio/hugo/pull/15070) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [pabloariasmora](https://github.com/pabloariasmora) (1 day ago)
+- [pabloariasmora](https://github.com/pabloariasmora) (2 days ago)
 - [momasta](https://github.com/momasta) (2 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (4 months ago)
 - [photostructure](https://github.com/photostructure) (4 months ago)
