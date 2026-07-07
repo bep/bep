@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [tpl/tplimpl: Support sub paths in layouts passed to .Render](https://github.com/gohugoio/hugo/pull/15091) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [all: Rewrite deprecated constructs in tests](https://github.com/gohugoio/hugo/pull/15089) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl/resources: Deprecate resources.PostProcess in favour of templates.Defer](https://github.com/gohugoio/hugo/pull/15088) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [hugio: Speedup hasBytesWriter](https://github.com/gohugoio/hugo/pull/15085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add markup.rst.syntaxHighlight option](https://github.com/gohugoio/hugo/pull/15082) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [tpl/tplimpl: Support sub paths in layouts passed to .Render](https://github.com/gohugoio/hugo/pull/15091) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [all: Rewrite deprecated constructs in tests](https://github.com/gohugoio/hugo/pull/15089) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [tpl/resources: Deprecate resources.PostProcess in favour of templates.Defer](https://github.com/gohugoio/hugo/pull/15088) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [hugio: Speedup hasBytesWriter](https://github.com/gohugoio/hugo/pull/15085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Add markup.rst.syntaxHighlight option](https://github.com/gohugoio/hugo/pull/15082) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [pabloariasmora](https://github.com/pabloariasmora) (4 days ago)
+- [pabloariasmora](https://github.com/pabloariasmora) (5 days ago)
 - [momasta](https://github.com/momasta) (2 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (4 months ago)
 - [photostructure](https://github.com/photostructure) (4 months ago)
