@@ -10,7 +10,7 @@
 
 ### Recent sponsors (big thank you!)
 
-- [pabloariasmora](https://github.com/pabloariasmora) (1 week ago)
+- [pabloariasmora](https://github.com/pabloariasmora) (2 weeks ago)
 - [momasta](https://github.com/momasta) (2 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (4 months ago)
 - [photostructure](https://github.com/photostructure) (5 months ago)
