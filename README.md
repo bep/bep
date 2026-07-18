@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Upgrade to Goldmark v2](https://github.com/gohugoio/hugo-goldmark-extensions/pull/49) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (today)
 - [Upgrade to Goldmark v2 beta](https://github.com/gohugoio/hugo/pull/15125) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl/tplimpl: Support sub paths in layouts passed to .Render](https://github.com/gohugoio/hugo/pull/15091) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 - [all: Rewrite deprecated constructs in tests](https://github.com/gohugoio/hugo/pull/15089) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 - [tpl/resources: Deprecate resources.PostProcess in favour of templates.Defer](https://github.com/gohugoio/hugo/pull/15088) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [hugio: Speedup hasBytesWriter](https://github.com/gohugoio/hugo/pull/15085) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
 
 ### Recent sponsors (big thank you!)
 
