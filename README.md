@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Upgrade to Goldmark v2](https://github.com/gohugoio/hugo-goldmark-extensions/pull/49) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (4 days ago)
-- [Upgrade to Goldmark v2 beta](https://github.com/gohugoio/hugo/pull/15125) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [tpl/tplimpl: Support sub paths in layouts passed to .Render](https://github.com/gohugoio/hugo/pull/15091) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [all: Rewrite deprecated constructs in tests](https://github.com/gohugoio/hugo/pull/15089) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
-- [tpl/resources: Deprecate resources.PostProcess in favour of templates.Defer](https://github.com/gohugoio/hugo/pull/15088) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 weeks ago)
+- [deps: Upgrade to Chroma v3.0.0-alpha.5](https://github.com/gohugoio/hugo/pull/15165) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [html: Emit all token rules with WithAllClasses(true)](https://github.com/alecthomas/chroma/pull/1336) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (1 day ago)
+- [markup/highlight: Re-emit token colors dropped by Chroma&#39;s minifier](https://github.com/gohugoio/hugo/pull/15164) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [theme: Use css.ChromaStyles to generate chroma CSS](https://github.com/gohugoio/hugoDocs/pull/3619) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [Improve README.md](https://github.com/gohugoio/hashstructure/pull/26) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [pabloariasmora](https://github.com/pabloariasmora) (2 weeks ago)
-- [momasta](https://github.com/momasta) (2 months ago)
+- [momasta](https://github.com/momasta) (3 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (5 months ago)
 - [photostructure](https://github.com/photostructure) (5 months ago)
-- [geerlingguy](https://github.com/geerlingguy) (6 months ago)
+- [geerlingguy](https://github.com/geerlingguy) (7 months ago)
+- [IGLOU-EU](https://github.com/IGLOU-EU) (8 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
