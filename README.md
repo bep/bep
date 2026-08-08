@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [deps: Upgrade to Chroma v3.0.0-alpha.5](https://github.com/gohugoio/hugo/pull/15165) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [html: Emit all token rules with WithAllClasses(true)](https://github.com/alecthomas/chroma/pull/1336) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (1 day ago)
-- [markup/highlight: Re-emit token colors dropped by Chroma&#39;s minifier](https://github.com/gohugoio/hugo/pull/15164) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [theme: Use css.ChromaStyles to generate chroma CSS](https://github.com/gohugoio/hugoDocs/pull/3619) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
-- [Improve README.md](https://github.com/gohugoio/hashstructure/pull/26) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (4 days ago)
+- [Add missing counterpart attribute to tomorrow-night styles](https://github.com/alecthomas/chroma/pull/1337) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (3 days ago)
+- [css: Add classDark and classLight options to css.ChromaStyles and gen chromastyles](https://github.com/gohugoio/hugo/pull/15168) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [deps: Upgrade to Chroma v3.0.0-alpha.5](https://github.com/gohugoio/hugo/pull/15165) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [html: Emit all token rules with WithAllClasses(true)](https://github.com/alecthomas/chroma/pull/1336) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (4 days ago)
+- [markup/highlight: Re-emit token colors dropped by Chroma&#39;s minifier](https://github.com/gohugoio/hugo/pull/15164) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [momasta](https://github.com/momasta) (3 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (5 months ago)
-- [photostructure](https://github.com/photostructure) (5 months ago)
+- [photostructure](https://github.com/photostructure) (6 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (7 months ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (8 months ago)
 
