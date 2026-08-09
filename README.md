@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Add missing counterpart attribute to tomorrow-night styles](https://github.com/alecthomas/chroma/pull/1337) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (3 days ago)
-- [css: Add classDark and classLight options to css.ChromaStyles and gen chromastyles](https://github.com/gohugoio/hugo/pull/15168) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [deps: Upgrade to Chroma v3.0.0-alpha.5](https://github.com/gohugoio/hugo/pull/15165) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [html: Emit all token rules with WithAllClasses(true)](https://github.com/alecthomas/chroma/pull/1336) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (4 days ago)
-- [markup/highlight: Re-emit token colors dropped by Chroma&#39;s minifier](https://github.com/gohugoio/hugo/pull/15164) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [io: Return the pooled reader directly from bufferedReader](https://github.com/bep/imagemeta/pull/70) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Misc /static server fixes](https://github.com/gohugoio/hugo/pull/15176) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add Data.Artifacts to css.Build and js.Build](https://github.com/gohugoio/hugo/pull/15175) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add missing counterpart attribute to tomorrow-night styles](https://github.com/alecthomas/chroma/pull/1337) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (4 days ago)
+- [css: Add classDark and classLight options to css.ChromaStyles and gen chromastyles](https://github.com/gohugoio/hugo/pull/15168) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
