@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Remove tailwindcss from the default security.exec.allow list (note)](https://github.com/gohugoio/hugo/pull/15180) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [io: Return the pooled reader directly from bufferedReader](https://github.com/bep/imagemeta/pull/70) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Misc /static server fixes](https://github.com/gohugoio/hugo/pull/15176) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add Data.Artifacts to css.Build and js.Build](https://github.com/gohugoio/hugo/pull/15175) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add missing counterpart attribute to tomorrow-night styles](https://github.com/alecthomas/chroma/pull/1337) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (4 days ago)
+- [Remove tailwindcss from the default security.exec.allow list (note)](https://github.com/gohugoio/hugo/pull/15180) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [io: Return the pooled reader directly from bufferedReader](https://github.com/bep/imagemeta/pull/70) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Misc /static server fixes](https://github.com/gohugoio/hugo/pull/15176) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add Data.Artifacts to css.Build and js.Build](https://github.com/gohugoio/hugo/pull/15175) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add missing counterpart attribute to tomorrow-night styles](https://github.com/alecthomas/chroma/pull/1337) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
