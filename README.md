@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [resources/jsconfig: Drop source root mapping for the current source root](https://github.com/gohugoio/hugo/pull/15196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [resources: Resume chained resource transformations](https://github.com/gohugoio/hugo/pull/15195) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix resource transformation chaining after content access](https://github.com/gohugoio/hugo/pull/15188) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Remove tailwindcss from the default security.exec.allow list (note)](https://github.com/gohugoio/hugo/pull/15180) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [io: Return the pooled reader directly from bufferedReader](https://github.com/bep/imagemeta/pull/70) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
-- [Misc /static server fixes](https://github.com/gohugoio/hugo/pull/15176) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add Data.Artifacts to css.Build and js.Build](https://github.com/gohugoio/hugo/pull/15175) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
