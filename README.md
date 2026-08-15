@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [hugolib: Fix slice bounds panic when deleting multiple nodes at same path](https://github.com/gohugoio/hugo/pull/15210) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl/resources: Add resources.Publish](https://github.com/gohugoio/hugo/pull/15209) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [resources/jsconfig: Drop source root mapping for the current source root](https://github.com/gohugoio/hugo/pull/15196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [resources: Resume chained resource transformations](https://github.com/gohugoio/hugo/pull/15195) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 - [Fix resource transformation chaining after content access](https://github.com/gohugoio/hugo/pull/15188) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [Remove tailwindcss from the default security.exec.allow list (note)](https://github.com/gohugoio/hugo/pull/15180) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
 
 ### Recent sponsors (big thank you!)
 
