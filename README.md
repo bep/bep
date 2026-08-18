@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [tpl: Improve the return keyword in templates](https://github.com/gohugoio/hugo/pull/15215) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [hugolib: Fix slice bounds panic when deleting multiple nodes at same path](https://github.com/gohugoio/hugo/pull/15210) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl/resources: Add resources.Publish](https://github.com/gohugoio/hugo/pull/15209) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [resources/jsconfig: Drop source root mapping for the current source root](https://github.com/gohugoio/hugo/pull/15196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [resources: Resume chained resource transformations](https://github.com/gohugoio/hugo/pull/15195) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
+- [tpl: Improve the return keyword in templates](https://github.com/gohugoio/hugo/pull/15215) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [hugolib: Fix slice bounds panic when deleting multiple nodes at same path](https://github.com/gohugoio/hugo/pull/15210) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [tpl/resources: Add resources.Publish](https://github.com/gohugoio/hugo/pull/15209) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [resources/jsconfig: Drop source root mapping for the current source root](https://github.com/gohugoio/hugo/pull/15196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [resources: Resume chained resource transformations](https://github.com/gohugoio/hugo/pull/15195) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
 - [momasta](https://github.com/momasta) (3 months ago)
-- [piotr-lasota](https://github.com/piotr-lasota) (5 months ago)
+- [piotr-lasota](https://github.com/piotr-lasota) (6 months ago)
 - [photostructure](https://github.com/photostructure) (6 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (7 months ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (8 months ago)
