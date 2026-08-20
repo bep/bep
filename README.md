@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Add Store.SetOnce](https://github.com/gohugoio/hugo/pull/15222) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl: Improve the return keyword in templates](https://github.com/gohugoio/hugo/pull/15215) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [hugolib: Fix slice bounds panic when deleting multiple nodes at same path](https://github.com/gohugoio/hugo/pull/15210) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [tpl/resources: Add resources.Publish](https://github.com/gohugoio/hugo/pull/15209) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [resources/jsconfig: Drop source root mapping for the current source root](https://github.com/gohugoio/hugo/pull/15196) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Misc adjustments](https://github.com/bep/grrep.com/pull/1) on [bep/grrep.com](https://github.com/bep/grrep.com) (1 day ago)
+- [Link to Docs instead of Getting started in the home page](https://github.com/gohugoio/hugoDocs/pull/3630) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [hugolib: Make .Render take an optional context argument](https://github.com/gohugoio/hugo/pull/15225) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add Store.SetOnce](https://github.com/gohugoio/hugo/pull/15222) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl: Improve the return keyword in templates](https://github.com/gohugoio/hugo/pull/15215) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
