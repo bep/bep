@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Misc adjustments](https://github.com/bep/grrep.com/pull/1) on [bep/grrep.com](https://github.com/bep/grrep.com) (1 day ago)
-- [Link to Docs instead of Getting started in the home page](https://github.com/gohugoio/hugoDocs/pull/3630) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [hugolib: Make .Render take an optional context argument](https://github.com/gohugoio/hugo/pull/15225) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add Store.SetOnce](https://github.com/gohugoio/hugo/pull/15222) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl: Improve the return keyword in templates](https://github.com/gohugoio/hugo/pull/15215) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/gogitignore/pull/1) on [bep/gogitignore](https://github.com/bep/gogitignore) (today)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/triebytesmapper/pull/4) on [bep/triebytesmapper](https://github.com/bep/triebytesmapper) (today)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/tmc/pull/6) on [bep/tmc](https://github.com/bep/tmc) (today)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/textandbinarywriter/pull/6) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (today)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/simplecobra/pull/21) on [bep/simplecobra](https://github.com/bep/simplecobra) (today)
 
 ### Recent sponsors (big thank you!)
 
