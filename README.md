@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/gogitignore/pull/1) on [bep/gogitignore](https://github.com/bep/gogitignore) (1 day ago)
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/triebytesmapper/pull/4) on [bep/triebytesmapper](https://github.com/bep/triebytesmapper) (1 day ago)
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/tmc/pull/6) on [bep/tmc](https://github.com/bep/tmc) (1 day ago)
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/textandbinarywriter/pull/6) on [bep/textandbinarywriter](https://github.com/bep/textandbinarywriter) (1 day ago)
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/simplecobra/pull/21) on [bep/simplecobra](https://github.com/bep/simplecobra) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/gohugoio/httpcache/pull/11) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (today)
+- [all: Run modernize -fix ./...](https://github.com/gohugoio/hashstructure/pull/28) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
+- [all: Run modernize -fix ./...](https://github.com/gohugoio/go-radix/pull/11) on [gohugoio/go-radix](https://github.com/gohugoio/go-radix) (today)
+- [all: Run modernize -fix ./...](https://github.com/gohugoio/gift/pull/9) on [gohugoio/gift](https://github.com/gohugoio/gift) (today)
+- [Update Go 1.26.x/1.27.x, GitHub Actions](https://github.com/gohugoio/hugo-goldmark-extensions/pull/50) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (today)
 
 ### Recent sponsors (big thank you!)
 
