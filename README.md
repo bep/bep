@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Update go.mod Go 1.26, dependencies](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/4) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (today)
-- [Update go.mod Go 1.26, dependencies](https://github.com/gohugoio/hugo-goldmark-extensions/pull/51) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (today)
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/s3deploy/pull/546) on [bep/s3deploy](https://github.com/bep/s3deploy) (today)
-- [all: Run modernize -fix ./...](https://github.com/gohugoio/httpcache/pull/11) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (today)
-- [all: Run modernize -fix ./...](https://github.com/gohugoio/hashstructure/pull/28) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (today)
+- [Update go.mod Go 1.26, dependencies](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/4) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (1 day ago)
+- [Update go.mod Go 1.26, dependencies](https://github.com/gohugoio/hugo-goldmark-extensions/pull/51) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (1 day ago)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/s3deploy/pull/546) on [bep/s3deploy](https://github.com/bep/s3deploy) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/gohugoio/httpcache/pull/11) on [gohugoio/httpcache](https://github.com/gohugoio/httpcache) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/gohugoio/hashstructure/pull/28) on [gohugoio/hashstructure](https://github.com/gohugoio/hashstructure) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
