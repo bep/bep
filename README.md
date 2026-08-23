@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [hugolib: Add some fast render mode integration tests](https://github.com/gohugoio/hugo/pull/15236) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [all: Run modernize -fix ./...](https://github.com/bep/mclib/pull/8) on [bep/mclib](https://github.com/bep/mclib) (today)
-- [all: Run modernize -fix ./...](https://github.com/bep/goportabletext/pull/5) on [bep/goportabletext](https://github.com/bep/goportabletext) (today)
-- [Update go.mod Go 1.26, dependencies](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/4) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (1 day ago)
-- [Update go.mod Go 1.26, dependencies](https://github.com/gohugoio/hugo-goldmark-extensions/pull/51) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (1 day ago)
+- [hugolib: Add some fast render mode integration tests](https://github.com/gohugoio/hugo/pull/15236) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/mclib/pull/8) on [bep/mclib](https://github.com/bep/mclib) (1 day ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/goportabletext/pull/5) on [bep/goportabletext](https://github.com/bep/goportabletext) (1 day ago)
+- [Update go.mod Go 1.26, dependencies](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/4) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (2 days ago)
+- [Update go.mod Go 1.26, dependencies](https://github.com/gohugoio/hugo-goldmark-extensions/pull/51) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
