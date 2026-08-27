@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [hugolib: Add some fast render mode integration tests](https://github.com/gohugoio/hugo/pull/15236) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/mclib/pull/8) on [bep/mclib](https://github.com/bep/mclib) (5 days ago)
-- [all: Run modernize -fix ./...](https://github.com/bep/goportabletext/pull/5) on [bep/goportabletext](https://github.com/bep/goportabletext) (5 days ago)
-- [Update go.mod Go 1.26, dependencies](https://github.com/gohugoio/hugoreleaser-archive-plugins/pull/4) on [gohugoio/hugoreleaser-archive-plugins](https://github.com/gohugoio/hugoreleaser-archive-plugins) (6 days ago)
-- [Update go.mod Go 1.26, dependencies](https://github.com/gohugoio/hugo-goldmark-extensions/pull/51) on [gohugoio/hugo-goldmark-extensions](https://github.com/gohugoio/hugo-goldmark-extensions) (6 days ago)
+- [all: Run modernize -fix ./...](https://github.com/bep/grrep/pull/4) on [bep/grrep](https://github.com/bep/grrep) (today)
+- [Bump all alpinejs dependencies to 3.16.3](https://github.com/gohugoio/hugo-mod-alpinejs/pull/28) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (today)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/grrep/pull/3) on [bep/grrep](https://github.com/bep/grrep) (today)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/nogo/pull/4) on [bep/nogo](https://github.com/bep/nogo) (today)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/mclib/pull/9) on [bep/mclib](https://github.com/bep/mclib) (today)
 
 ### Recent sponsors (big thank you!)
 
