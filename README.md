@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [all: Run modernize -fix ./...](https://github.com/bep/grrep/pull/4) on [bep/grrep](https://github.com/bep/grrep) (today)
-- [Bump all alpinejs dependencies to 3.16.3](https://github.com/gohugoio/hugo-mod-alpinejs/pull/28) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (today)
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/grrep/pull/3) on [bep/grrep](https://github.com/bep/grrep) (today)
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/nogo/pull/4) on [bep/nogo](https://github.com/bep/nogo) (today)
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/mclib/pull/9) on [bep/mclib](https://github.com/bep/mclib) (today)
+- [all: Run modernize -fix ./...](https://github.com/bep/grrep/pull/4) on [bep/grrep](https://github.com/bep/grrep) (1 day ago)
+- [Bump all alpinejs dependencies to 3.16.3](https://github.com/gohugoio/hugo-mod-alpinejs/pull/28) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (1 day ago)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/grrep/pull/3) on [bep/grrep](https://github.com/bep/grrep) (1 day ago)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/nogo/pull/4) on [bep/nogo](https://github.com/bep/nogo) (1 day ago)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/mclib/pull/9) on [bep/mclib](https://github.com/bep/mclib) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
