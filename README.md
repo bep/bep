@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [all: Run modernize -fix ./...](https://github.com/bep/grrep/pull/4) on [bep/grrep](https://github.com/bep/grrep) (1 day ago)
-- [Bump all alpinejs dependencies to 3.16.3](https://github.com/gohugoio/hugo-mod-alpinejs/pull/28) on [gohugoio/hugo-mod-alpinejs](https://github.com/gohugoio/hugo-mod-alpinejs) (1 day ago)
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/grrep/pull/3) on [bep/grrep](https://github.com/bep/grrep) (1 day ago)
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/nogo/pull/4) on [bep/nogo](https://github.com/bep/nogo) (1 day ago)
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/mclib/pull/9) on [bep/mclib](https://github.com/bep/mclib) (1 day ago)
+- [tpl/transform: Bump fileCacheEntryVersion in transform.ToMath (note)](https://github.com/gohugoio/hugo/pull/15269) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [resources/images: Bump formatVersionNumbers.PNG and fix version cache busting for images.Filter (note)](https://github.com/gohugoio/hugo/pull/15268) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc image filter fixes](https://github.com/gohugoio/hugo/pull/15265) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [related: Speed up index creation](https://github.com/gohugoio/hugo/pull/15263) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [warpc/js: Upgrade katex to 0.18.4](https://github.com/gohugoio/hugo/pull/15259) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [momasta](https://github.com/momasta) (3 months ago)
+- [momasta](https://github.com/momasta) (4 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (6 months ago)
 - [photostructure](https://github.com/photostructure) (6 months ago)
-- [geerlingguy](https://github.com/geerlingguy) (7 months ago)
-- [IGLOU-EU](https://github.com/IGLOU-EU) (8 months ago)
+- [geerlingguy](https://github.com/geerlingguy) (8 months ago)
+- [IGLOU-EU](https://github.com/IGLOU-EU) (9 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
