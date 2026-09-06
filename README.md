@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [tpl/transform: Bump fileCacheEntryVersion in transform.ToMath (note)](https://github.com/gohugoio/hugo/pull/15269) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [resources/images: Bump formatVersionNumbers.PNG and fix version cache busting for images.Filter (note)](https://github.com/gohugoio/hugo/pull/15268) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc image filter fixes](https://github.com/gohugoio/hugo/pull/15265) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [related: Speed up index creation](https://github.com/gohugoio/hugo/pull/15263) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [warpc/js: Upgrade katex to 0.18.4](https://github.com/gohugoio/hugo/pull/15259) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Translate search overlay to English and Chinese](https://github.com/baozongwi/flavor/pull/1) on [baozongwi/flavor](https://github.com/baozongwi/flavor) (1 day ago)
+- [tpl/partials: Slight performance improvement of the common partialCached case](https://github.com/gohugoio/hugo/pull/15296) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add internalExternal.IgnoreTailwindCSSSecurityError config option](https://github.com/gohugoio/hugo/pull/15286) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [config/security: Harden the default http.urls and resolved address checks](https://github.com/gohugoio/hugo/pull/15285) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [tpl/strings: Add strings.RemoveNonPrintableCharacters](https://github.com/gohugoio/hugo/pull/15277) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
