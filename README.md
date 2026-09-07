@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Translate search overlay to English and Chinese](https://github.com/baozongwi/flavor/pull/1) on [baozongwi/flavor](https://github.com/baozongwi/flavor) (1 day ago)
-- [tpl/partials: Slight performance improvement of the common partialCached case](https://github.com/gohugoio/hugo/pull/15296) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add internalExternal.IgnoreTailwindCSSSecurityError config option](https://github.com/gohugoio/hugo/pull/15286) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [config/security: Harden the default http.urls and resolved address checks](https://github.com/gohugoio/hugo/pull/15285) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [tpl/strings: Add strings.RemoveNonPrintableCharacters](https://github.com/gohugoio/hugo/pull/15277) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [js: Add es2025 as supported build target](https://github.com/gohugoio/hugo/pull/15308) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Go &#43; deps updates](https://github.com/bep/awscreate/pull/1) on [bep/awscreate](https://github.com/bep/awscreate) (today)
+- [config/security: Add http.proxyFromEnvironment and document the resolved address check](https://github.com/gohugoio/hugo/pull/15305) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [markup/highlight: Escape lineAnchors before passing it to Chroma](https://github.com/gohugoio/hugo/pull/15304) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [hugofs: Drop symlinked mount roots](https://github.com/gohugoio/hugo/pull/15303) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 
 ### Recent sponsors (big thank you!)
 
 - [momasta](https://github.com/momasta) (4 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (6 months ago)
-- [photostructure](https://github.com/photostructure) (6 months ago)
+- [photostructure](https://github.com/photostructure) (7 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (8 months ago)
 - [IGLOU-EU](https://github.com/IGLOU-EU) (9 months ago)
 
