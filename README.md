@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [js: Add es2025 as supported build target](https://github.com/gohugoio/hugo/pull/15308) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Go &#43; deps updates](https://github.com/bep/awscreate/pull/1) on [bep/awscreate](https://github.com/bep/awscreate) (today)
-- [config/security: Add http.proxyFromEnvironment and document the resolved address check](https://github.com/gohugoio/hugo/pull/15305) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [markup/highlight: Escape lineAnchors before passing it to Chroma](https://github.com/gohugoio/hugo/pull/15304) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [hugofs: Drop symlinked mount roots](https://github.com/gohugoio/hugo/pull/15303) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [tpl/compare: Make eq compare numerically across int and float](https://github.com/gohugoio/hugo/pull/15325) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [xmp: Decode properties written as child elements, fix APP1 dispatch](https://github.com/bep/imagemeta/pull/72) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
+- [hexec: Fail on symlinks that escape the Node.js permission paths](https://github.com/gohugoio/hugo/pull/15316) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [js: Add es2025 as supported build target](https://github.com/gohugoio/hugo/pull/15308) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Go &#43; deps updates](https://github.com/bep/awscreate/pull/1) on [bep/awscreate](https://github.com/bep/awscreate) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
