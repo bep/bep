@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [tpl/compare: Make eq compare numerically across int and float](https://github.com/gohugoio/hugo/pull/15325) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [xmp: Decode properties written as child elements, fix APP1 dispatch](https://github.com/bep/imagemeta/pull/72) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [hexec: Fail on symlinks that escape the Node.js permission paths](https://github.com/gohugoio/hugo/pull/15316) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [js: Add es2025 as supported build target](https://github.com/gohugoio/hugo/pull/15308) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Go &#43; deps updates](https://github.com/bep/awscreate/pull/1) on [bep/awscreate](https://github.com/bep/awscreate) (3 days ago)
+- [Fix stale page content when several files in the same dir change in one batch](https://github.com/gohugoio/hugo/pull/15331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Apply Hugo v0.146.0&#43; upgrades](https://github.com/bep/hugo-mod-misc/pull/3) on [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) (1 day ago)
+- [langs: Add template filename to the LanguageName/LanguageCode deprecation messages](https://github.com/gohugoio/hugo/pull/15329) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Upgrade to Hugo v0.166.0, add package.json to exampleSite, upgrade AlpineJS](https://github.com/bep/docuapi/pull/111) on [bep/docuapi](https://github.com/bep/docuapi) (1 day ago)
+- [Try to enable codeberg again](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/788) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
