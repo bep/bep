@@ -2,19 +2,19 @@
 
 ### Recent Pull Requests
 
-- [Fix stale page content when several files in the same dir change in one batch](https://github.com/gohugoio/hugo/pull/15331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Apply Hugo v0.146.0&#43; upgrades](https://github.com/bep/hugo-mod-misc/pull/3) on [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) (1 day ago)
-- [langs: Add template filename to the LanguageName/LanguageCode deprecation messages](https://github.com/gohugoio/hugo/pull/15329) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Upgrade to Hugo v0.166.0, add package.json to exampleSite, upgrade AlpineJS](https://github.com/bep/docuapi/pull/111) on [bep/docuapi](https://github.com/bep/docuapi) (1 day ago)
-- [Try to enable codeberg again](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/788) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 day ago)
+- [Update release image to Go 1.27.1](https://github.com/gohugoio/hugo/pull/15342) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [config/security: Add an integration test](https://github.com/gohugoio/hugo/pull/15341) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Fix stale page content when several files in the same dir change in one batch](https://github.com/gohugoio/hugo/pull/15331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Apply Hugo v0.146.0&#43; upgrades](https://github.com/bep/hugo-mod-misc/pull/3) on [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) (3 days ago)
+- [langs: Add template filename to the LanguageName/LanguageCode deprecation messages](https://github.com/gohugoio/hugo/pull/15329) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
+- [BasedScience](https://github.com/BasedScience) (1 day ago)
 - [momasta](https://github.com/momasta) (4 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (6 months ago)
 - [photostructure](https://github.com/photostructure) (7 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (8 months ago)
-- [IGLOU-EU](https://github.com/IGLOU-EU) (9 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
