@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [Update release image to Go 1.27.1](https://github.com/gohugoio/hugo/pull/15342) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [config/security: Add an integration test](https://github.com/gohugoio/hugo/pull/15341) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix stale page content when several files in the same dir change in one batch](https://github.com/gohugoio/hugo/pull/15331) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Apply Hugo v0.146.0&#43; upgrades](https://github.com/bep/hugo-mod-misc/pull/3) on [bep/hugo-mod-misc](https://github.com/bep/hugo-mod-misc) (3 days ago)
-- [langs: Add template filename to the LanguageName/LanguageCode deprecation messages](https://github.com/gohugoio/hugo/pull/15329) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [format: Indent nested parenthesized pipelines](https://github.com/gohugoio/gotmplfmt/pull/17) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
+- [tpl: Reformat templates with new formatter version](https://github.com/gohugoio/hugo/pull/15356) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [layouts: Reformat to test next version of gotmplfmt](https://github.com/gohugoio/hugoDocs/pull/3681) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [Misc bug fixes](https://github.com/gohugoio/gotmplfmt/pull/16) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/gohugoio/gotmplfmt/pull/15) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
 
 ### Recent sponsors (big thank you!)
 
-- [BasedScience](https://github.com/BasedScience) (1 day ago)
+- [BasedScience](https://github.com/BasedScience) (6 days ago)
 - [momasta](https://github.com/momasta) (4 months ago)
-- [piotr-lasota](https://github.com/piotr-lasota) (6 months ago)
+- [piotr-lasota](https://github.com/piotr-lasota) (7 months ago)
 - [photostructure](https://github.com/photostructure) (7 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (8 months ago)
 
