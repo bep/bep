@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [format: Indent nested parenthesized pipelines](https://github.com/gohugoio/gotmplfmt/pull/17) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
-- [tpl: Reformat templates with new formatter version](https://github.com/gohugoio/hugo/pull/15356) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [layouts: Reformat to test next version of gotmplfmt](https://github.com/gohugoio/hugoDocs/pull/3681) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
-- [Misc bug fixes](https://github.com/gohugoio/gotmplfmt/pull/16) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/gohugoio/gotmplfmt/pull/15) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (1 day ago)
+- [hugofs: Allow symlinked mount roots in the main project](https://github.com/gohugoio/hugo/pull/15368) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Expand and consolidate BOM trimming](https://github.com/gohugoio/hugo/pull/15364) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl/collections: Compare numbers exactly in set operations and where](https://github.com/gohugoio/hugo/pull/15363) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [format: Indent nested parenthesized pipelines](https://github.com/gohugoio/gotmplfmt/pull/17) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (4 days ago)
+- [tpl: Reformat templates with new formatter version](https://github.com/gohugoio/hugo/pull/15356) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [BasedScience](https://github.com/BasedScience) (6 days ago)
+- [BasedScience](https://github.com/BasedScience) (1 week ago)
 - [momasta](https://github.com/momasta) (4 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (7 months ago)
 - [photostructure](https://github.com/photostructure) (7 months ago)
