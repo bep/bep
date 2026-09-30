@@ -2,16 +2,16 @@
 
 ### Recent Pull Requests
 
-- [tpl: Avoid reflect.Value.Call for common signatures](https://github.com/gohugoio/hugo/pull/15386) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Make default baseUrl https://example.org/](https://github.com/gohugoio/hugo/pull/15384) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add slug support for section, taxonomy and term pages](https://github.com/gohugoio/hugo/pull/15383) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add optional hard link support](https://github.com/spf13/fsync/pull/19) on [spf13/fsync](https://github.com/spf13/fsync) (2 days ago)
-- [Add hardlink support in /public](https://github.com/gohugoio/hugo/pull/15380) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [ci: Run tests for 386 on Linux](https://github.com/gohugoio/hugo/pull/15404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/15399) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Support hugo.txtar](https://github.com/gohugoio/hugo/pull/15395) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [commands: Allow building without a config file](https://github.com/gohugoio/hugo/pull/15394) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [tpl: Avoid reflect.Value.Call for common signatures](https://github.com/gohugoio/hugo/pull/15386) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [BasedScience](https://github.com/BasedScience) (2 weeks ago)
-- [momasta](https://github.com/momasta) (4 months ago)
+- [momasta](https://github.com/momasta) (5 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (7 months ago)
 - [photostructure](https://github.com/photostructure) (7 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (8 months ago)
