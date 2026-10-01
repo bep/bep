@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [ci: Run tests for 386 on Linux](https://github.com/gohugoio/hugo/pull/15404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/15399) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Support hugo.txtar](https://github.com/gohugoio/hugo/pull/15395) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [commands: Allow building without a config file](https://github.com/gohugoio/hugo/pull/15394) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [tpl: Avoid reflect.Value.Call for common signatures](https://github.com/gohugoio/hugo/pull/15386) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Make tests run on GOARCH 386](https://github.com/gohugoio/hugo/pull/15409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [ci: Run tests for 386 on Linux](https://github.com/gohugoio/hugo/pull/15404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/15399) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Support hugo.txtar](https://github.com/gohugoio/hugo/pull/15395) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [commands: Allow building without a config file](https://github.com/gohugoio/hugo/pull/15394) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
@@ -14,7 +14,7 @@
 - [momasta](https://github.com/momasta) (5 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (7 months ago)
 - [photostructure](https://github.com/photostructure) (7 months ago)
-- [geerlingguy](https://github.com/geerlingguy) (8 months ago)
+- [geerlingguy](https://github.com/geerlingguy) (9 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
