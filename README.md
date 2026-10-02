@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Make tests run on GOARCH 386](https://github.com/gohugoio/hugo/pull/15409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [ci: Run tests for 386 on Linux](https://github.com/gohugoio/hugo/pull/15404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/15399) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Support hugo.txtar](https://github.com/gohugoio/hugo/pull/15395) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [commands: Allow building without a config file](https://github.com/gohugoio/hugo/pull/15394) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Allow filtering by params.* in cascade and permalinks target](https://github.com/gohugoio/hugo/pull/15410) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Fix a bug found by the Go fuzzer](https://github.com/gohugoio/gotmplfmt/pull/19) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (today)
+- [Make tests run on GOARCH 386](https://github.com/gohugoio/hugo/pull/15409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [ci: Run tests for 386 on Linux](https://github.com/gohugoio/hugo/pull/15404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Misc fixes](https://github.com/gohugoio/hugo/pull/15399) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
