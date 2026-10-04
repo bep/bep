@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Allow filtering by params.* in cascade and permalinks target](https://github.com/gohugoio/hugo/pull/15410) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Fix a bug found by the Go fuzzer](https://github.com/gohugoio/gotmplfmt/pull/19) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (today)
-- [Make tests run on GOARCH 386](https://github.com/gohugoio/hugo/pull/15409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [ci: Run tests for 386 on Linux](https://github.com/gohugoio/hugo/pull/15404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Misc fixes](https://github.com/gohugoio/hugo/pull/15399) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Make minification work with templates.Defer](https://github.com/gohugoio/hugo/pull/15414) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Allow filtering by params.* in cascade and permalinks target](https://github.com/gohugoio/hugo/pull/15410) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix a bug found by the Go fuzzer](https://github.com/gohugoio/gotmplfmt/pull/19) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (2 days ago)
+- [Make tests run on GOARCH 386](https://github.com/gohugoio/hugo/pull/15409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [ci: Run tests for 386 on Linux](https://github.com/gohugoio/hugo/pull/15404) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [BasedScience](https://github.com/BasedScience) (2 weeks ago)
+- [BasedScience](https://github.com/BasedScience) (3 weeks ago)
 - [momasta](https://github.com/momasta) (5 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (7 months ago)
 - [photostructure](https://github.com/photostructure) (7 months ago)
