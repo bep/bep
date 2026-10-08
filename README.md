@@ -2,18 +2,18 @@
 
 ### Recent Pull Requests
 
-- [Test out pprofecy](https://github.com/bep/gobench/pull/8) on [bep/gobench](https://github.com/bep/gobench) (2 days ago)
-- [Make minification work with templates.Defer](https://github.com/gohugoio/hugo/pull/15414) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Allow filtering by params.* in cascade and permalinks target](https://github.com/gohugoio/hugo/pull/15410) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Fix a bug found by the Go fuzzer](https://github.com/gohugoio/gotmplfmt/pull/19) on [gohugoio/gotmplfmt](https://github.com/gohugoio/gotmplfmt) (4 days ago)
-- [Make tests run on GOARCH 386](https://github.com/gohugoio/hugo/pull/15409) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Add JPEG XL support](https://github.com/bep/imagemeta/pull/74) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
+- [Add Translate and Format* methods to Language](https://github.com/gohugoio/hugo/pull/15423) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Fix PAGE.IsNode warning in jsonify](https://github.com/gohugoio/hugo/pull/15421) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Test out pprofecy](https://github.com/bep/gobench/pull/8) on [bep/gobench](https://github.com/bep/gobench) (4 days ago)
+- [Make minification work with templates.Defer](https://github.com/gohugoio/hugo/pull/15414) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [BasedScience](https://github.com/BasedScience) (3 weeks ago)
 - [momasta](https://github.com/momasta) (5 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (7 months ago)
-- [photostructure](https://github.com/photostructure) (7 months ago)
+- [photostructure](https://github.com/photostructure) (8 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (9 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
