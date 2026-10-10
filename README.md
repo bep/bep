@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Add JPEG XL support](https://github.com/bep/imagemeta/pull/74) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Add Translate and Format* methods to Language](https://github.com/gohugoio/hugo/pull/15423) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix PAGE.IsNode warning in jsonify](https://github.com/gohugoio/hugo/pull/15421) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Test out pprofecy](https://github.com/bep/gobench/pull/8) on [bep/gobench](https://github.com/bep/gobench) (4 days ago)
-- [Make minification work with templates.Defer](https://github.com/gohugoio/hugo/pull/15414) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Add ImageConfig.FrameCount and GIF support](https://github.com/bep/imagemeta/pull/75) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
+- [Upgrade to Go 1.27.2](https://github.com/gohugoio/hugo/pull/15429) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add basic support for OSC 7501 program status](https://github.com/gohugoio/hugo/pull/15428) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [modules: Ignore module.replacements defined in themes](https://github.com/gohugoio/hugo/pull/15426) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add JPEG XL support](https://github.com/bep/imagemeta/pull/74) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
