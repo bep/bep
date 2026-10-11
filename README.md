@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Add ImageResource.FrameCount](https://github.com/gohugoio/hugo/pull/15432) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Add ImageConfig.FrameCount and GIF support](https://github.com/bep/imagemeta/pull/75) on [bep/imagemeta](https://github.com/bep/imagemeta) (today)
-- [Upgrade to Go 1.27.2](https://github.com/gohugoio/hugo/pull/15429) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Add basic support for OSC 7501 program status](https://github.com/gohugoio/hugo/pull/15428) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [modules: Ignore module.replacements defined in themes](https://github.com/gohugoio/hugo/pull/15426) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add ImageResource.FrameCount](https://github.com/gohugoio/hugo/pull/15432) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Add ImageConfig.FrameCount and GIF support](https://github.com/bep/imagemeta/pull/75) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
+- [Upgrade to Go 1.27.2](https://github.com/gohugoio/hugo/pull/15429) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Add basic support for OSC 7501 program status](https://github.com/gohugoio/hugo/pull/15428) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [modules: Ignore module.replacements defined in themes](https://github.com/gohugoio/hugo/pull/15426) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [BasedScience](https://github.com/BasedScience) (3 weeks ago)
+- [BasedScience](https://github.com/BasedScience) (4 weeks ago)
 - [momasta](https://github.com/momasta) (5 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (7 months ago)
 - [photostructure](https://github.com/photostructure) (8 months ago)
