@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Misc wasm](https://github.com/gohugoio/hugo/pull/15438) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Comment out HUGO_THEMES_SKIP_HOSTS](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/806) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (today)
+- [Add imaging.firstFrameOnly and some animation performance improvements](https://github.com/gohugoio/hugo/pull/15437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [js, css: Add charset option to js.Build and css.Build](https://github.com/gohugoio/hugo/pull/15436) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Update GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/imagemeta/pull/76) on [bep/imagemeta](https://github.com/bep/imagemeta) (1 day ago)
-- [Add ImageResource.FrameCount](https://github.com/gohugoio/hugo/pull/15432) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Add ImageConfig.FrameCount and GIF support](https://github.com/bep/imagemeta/pull/75) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
-- [Upgrade to Go 1.27.2](https://github.com/gohugoio/hugo/pull/15429) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Add basic support for OSC 7501 program status](https://github.com/gohugoio/hugo/pull/15428) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
