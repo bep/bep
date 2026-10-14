@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Misc wasm](https://github.com/gohugoio/hugo/pull/15438) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Comment out HUGO_THEMES_SKIP_HOSTS](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/806) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 day ago)
-- [Add imaging.firstFrameOnly and some animation performance improvements](https://github.com/gohugoio/hugo/pull/15437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [js, css: Add charset option to js.Build and css.Build](https://github.com/gohugoio/hugo/pull/15436) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Update GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/imagemeta/pull/76) on [bep/imagemeta](https://github.com/bep/imagemeta) (2 days ago)
+- [Misc wasm](https://github.com/gohugoio/hugo/pull/15438) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Comment out HUGO_THEMES_SKIP_HOSTS](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/806) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (2 days ago)
+- [Add imaging.firstFrameOnly and some animation performance improvements](https://github.com/gohugoio/hugo/pull/15437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [js, css: Add charset option to js.Build and css.Build](https://github.com/gohugoio/hugo/pull/15436) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Update GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/imagemeta/pull/76) on [bep/imagemeta](https://github.com/bep/imagemeta) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
