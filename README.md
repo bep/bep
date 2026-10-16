@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [hugolib: Fix build hang after too many page render errors](https://github.com/gohugoio/hugo/pull/15450) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc wasm](https://github.com/gohugoio/hugo/pull/15438) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Comment out HUGO_THEMES_SKIP_HOSTS](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/806) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (3 days ago)
-- [Add imaging.firstFrameOnly and some animation performance improvements](https://github.com/gohugoio/hugo/pull/15437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [js, css: Add charset option to js.Build and css.Build](https://github.com/gohugoio/hugo/pull/15436) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [hugolib: Fix build hang after too many page render errors](https://github.com/gohugoio/hugo/pull/15450) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc wasm](https://github.com/gohugoio/hugo/pull/15438) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Comment out HUGO_THEMES_SKIP_HOSTS](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/806) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (4 days ago)
+- [Add imaging.firstFrameOnly and some animation performance improvements](https://github.com/gohugoio/hugo/pull/15437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [js, css: Add charset option to js.Build and css.Build](https://github.com/gohugoio/hugo/pull/15436) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
