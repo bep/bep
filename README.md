@@ -2,17 +2,17 @@
 
 ### Recent Pull Requests
 
-- [hugolib: Fix build hang after too many page render errors](https://github.com/gohugoio/hugo/pull/15450) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Misc wasm](https://github.com/gohugoio/hugo/pull/15438) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [Comment out HUGO_THEMES_SKIP_HOSTS](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/806) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (4 days ago)
-- [Add imaging.firstFrameOnly and some animation performance improvements](https://github.com/gohugoio/hugo/pull/15437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
-- [js, css: Add charset option to js.Build and css.Build](https://github.com/gohugoio/hugo/pull/15436) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [hugolib: Fix build hang after too many page render errors](https://github.com/gohugoio/hugo/pull/15450) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Misc wasm](https://github.com/gohugoio/hugo/pull/15438) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [Comment out HUGO_THEMES_SKIP_HOSTS](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/806) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (5 days ago)
+- [Add imaging.firstFrameOnly and some animation performance improvements](https://github.com/gohugoio/hugo/pull/15437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
+- [js, css: Add charset option to js.Build and css.Build](https://github.com/gohugoio/hugo/pull/15436) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
 - [BasedScience](https://github.com/BasedScience) (1 month ago)
 - [momasta](https://github.com/momasta) (5 months ago)
-- [piotr-lasota](https://github.com/piotr-lasota) (7 months ago)
+- [piotr-lasota](https://github.com/piotr-lasota) (8 months ago)
 - [photostructure](https://github.com/photostructure) (8 months ago)
 - [geerlingguy](https://github.com/geerlingguy) (9 months ago)
 
