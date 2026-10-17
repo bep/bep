@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [Skip staticcheck in check.sh unless --full is set](https://github.com/gohugoio/hugo/pull/15455) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [Make emojify return a string](https://github.com/gohugoio/hugo/pull/15454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [hugolib: Fix build hang after too many page render errors](https://github.com/gohugoio/hugo/pull/15450) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [Misc wasm](https://github.com/gohugoio/hugo/pull/15438) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 - [Comment out HUGO_THEMES_SKIP_HOSTS](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/806) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (5 days ago)
-- [Add imaging.firstFrameOnly and some animation performance improvements](https://github.com/gohugoio/hugo/pull/15437) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
-- [js, css: Add charset option to js.Build and css.Build](https://github.com/gohugoio/hugo/pull/15436) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (5 days ago)
 
 ### Recent sponsors (big thank you!)
 
