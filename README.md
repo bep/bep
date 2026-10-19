@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [Skip staticcheck in check.sh unless --full is set](https://github.com/gohugoio/hugo/pull/15455) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Make emojify return a string](https://github.com/gohugoio/hugo/pull/15454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [hugolib: Fix build hang after too many page render errors](https://github.com/gohugoio/hugo/pull/15450) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Misc wasm](https://github.com/gohugoio/hugo/pull/15438) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (6 days ago)
-- [Comment out HUGO_THEMES_SKIP_HOSTS](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/806) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (6 days ago)
+- [Skip staticcheck in check.sh unless --full is set](https://github.com/gohugoio/hugo/pull/15455) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Make emojify return a string](https://github.com/gohugoio/hugo/pull/15454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [hugolib: Fix build hang after too many page render errors](https://github.com/gohugoio/hugo/pull/15450) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
+- [Misc wasm](https://github.com/gohugoio/hugo/pull/15438) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 week ago)
+- [Comment out HUGO_THEMES_SKIP_HOSTS](https://github.com/gohugoio/hugoThemesSiteBuilder/pull/806) on [gohugoio/hugoThemesSiteBuilder](https://github.com/gohugoio/hugoThemesSiteBuilder) (1 week ago)
 
 ### Recent sponsors (big thank you!)
 
