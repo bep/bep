@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
-- [tpl: Make StripHTML (plainify) more robust and faster](https://github.com/gohugoio/hugo/pull/15464) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [tpl/transform: Make emojify and plainify preserve template.HTML input type](https://github.com/gohugoio/hugo/pull/15463) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Redirect .Params.title etc. to .Title etc. and deprecate it](https://github.com/gohugoio/hugo/pull/15461) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Skip staticcheck in check.sh unless --full is set](https://github.com/gohugoio/hugo/pull/15455) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Make emojify return a string](https://github.com/gohugoio/hugo/pull/15454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [tpl: Make StripHTML (plainify) more robust and faster](https://github.com/gohugoio/hugo/pull/15464) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [tpl/transform: Make emojify and plainify preserve template.HTML input type](https://github.com/gohugoio/hugo/pull/15463) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Redirect .Params.title etc. to .Title etc. and deprecate it](https://github.com/gohugoio/hugo/pull/15461) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Skip staticcheck in check.sh unless --full is set](https://github.com/gohugoio/hugo/pull/15455) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Make emojify return a string](https://github.com/gohugoio/hugo/pull/15454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
