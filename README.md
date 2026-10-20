@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [ci: Fix Windows running out of disk space and simplify test runs](https://github.com/gohugoio/hugo/pull/15465) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [tpl: Make StripHTML (plainify) more robust and faster](https://github.com/gohugoio/hugo/pull/15464) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [tpl/transform: Make emojify and plainify preserve template.HTML input type](https://github.com/gohugoio/hugo/pull/15463) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Redirect .Params.title etc. to .Title etc. and deprecate it](https://github.com/gohugoio/hugo/pull/15461) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [Skip staticcheck in check.sh unless --full is set](https://github.com/gohugoio/hugo/pull/15455) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
-- [Make emojify return a string](https://github.com/gohugoio/hugo/pull/15454) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
