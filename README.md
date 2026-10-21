@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [navigation: Escape pre/post in front matter menu entries](https://github.com/gohugoio/hugo/pull/15471) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
+- [navigation: Escape pre/post in front matter menu entries](https://github.com/gohugoio/hugo/pull/15470) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Fix Site.Key used in e.g. partialCached](https://github.com/gohugoio/hugo/pull/15469) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [resources: Make processed image key stable across builds](https://github.com/gohugoio/hugo/pull/15468) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
 - [ci: Fix Windows running out of disk space and simplify test runs](https://github.com/gohugoio/hugo/pull/15465) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [tpl: Make StripHTML (plainify) more robust and faster](https://github.com/gohugoio/hugo/pull/15464) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [tpl/transform: Make emojify and plainify preserve template.HTML input type](https://github.com/gohugoio/hugo/pull/15463) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
