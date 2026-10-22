@@ -10,11 +10,11 @@
 
 ### Recent sponsors (big thank you!)
 
+- [NethumL](https://github.com/NethumL) (today)
 - [BasedScience](https://github.com/BasedScience) (1 month ago)
 - [momasta](https://github.com/momasta) (5 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (8 months ago)
 - [photostructure](https://github.com/photostructure) (8 months ago)
-- [geerlingguy](https://github.com/geerlingguy) (9 months ago)
 
 For more information, see [the sponsors page](https://github.com/sponsors/bep/).
 
