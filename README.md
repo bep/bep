@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [theme: Rewrite .Params.description to .Description etc.](https://github.com/gohugoio/hugoDocs/pull/3742) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
 - [fix(lexers): treat YAML plain scalars starting with an indicator as literals](https://github.com/alecthomas/chroma/pull/1413) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (1 day ago)
 - [Remove the --create flag](https://github.com/bep/mycontext/pull/1) on [bep/mycontext](https://github.com/bep/mycontext) (1 day ago)
 - [navigation: Escape pre/post in front matter menu entries](https://github.com/gohugoio/hugo/pull/15471) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 - [navigation: Escape pre/post in front matter menu entries](https://github.com/gohugoio/hugo/pull/15470) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Fix Site.Key used in e.g. partialCached](https://github.com/gohugoio/hugo/pull/15469) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
