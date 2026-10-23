@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [fix(lexers): treat YAML plain scalars starting with an indicator as literals](https://github.com/alecthomas/chroma/pull/1413) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (today)
-- [Remove the --create flag](https://github.com/bep/mycontext/pull/1) on [bep/mycontext](https://github.com/bep/mycontext) (today)
-- [navigation: Escape pre/post in front matter menu entries](https://github.com/gohugoio/hugo/pull/15471) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [navigation: Escape pre/post in front matter menu entries](https://github.com/gohugoio/hugo/pull/15470) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
-- [Fix Site.Key used in e.g. partialCached](https://github.com/gohugoio/hugo/pull/15469) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [fix(lexers): treat YAML plain scalars starting with an indicator as literals](https://github.com/alecthomas/chroma/pull/1413) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (1 day ago)
+- [Remove the --create flag](https://github.com/bep/mycontext/pull/1) on [bep/mycontext](https://github.com/bep/mycontext) (1 day ago)
+- [navigation: Escape pre/post in front matter menu entries](https://github.com/gohugoio/hugo/pull/15471) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [navigation: Escape pre/post in front matter menu entries](https://github.com/gohugoio/hugo/pull/15470) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
+- [Fix Site.Key used in e.g. partialCached](https://github.com/gohugoio/hugo/pull/15469) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [NethumL](https://github.com/NethumL) (today)
+- [NethumL](https://github.com/NethumL) (1 day ago)
 - [BasedScience](https://github.com/BasedScience) (1 month ago)
 - [momasta](https://github.com/momasta) (5 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (8 months ago)
