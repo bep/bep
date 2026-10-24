@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Make it into a more traditional landing page with more info](https://github.com/bep/gitjoin.com/pull/1) on [bep/gitjoin.com](https://github.com/bep/gitjoin.com) (today)
-- [js: Fix js.Build with browser-disabled extensionless requires](https://github.com/gohugoio/hugo/pull/15483) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Replace Sass with css.Build and misc. other cleanups](https://github.com/bep/docuapi/pull/113) on [bep/docuapi](https://github.com/bep/docuapi) (today)
-- [theme: Rewrite .Params.description to .Description etc.](https://github.com/gohugoio/hugoDocs/pull/3742) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (today)
-- [fix(lexers): treat YAML plain scalars starting with an indicator as literals](https://github.com/alecthomas/chroma/pull/1413) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (1 day ago)
+- [Make it into a more traditional landing page with more info](https://github.com/bep/gitjoin.com/pull/1) on [bep/gitjoin.com](https://github.com/bep/gitjoin.com) (1 day ago)
+- [js: Fix js.Build with browser-disabled extensionless requires](https://github.com/gohugoio/hugo/pull/15483) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Replace Sass with css.Build and misc. other cleanups](https://github.com/bep/docuapi/pull/113) on [bep/docuapi](https://github.com/bep/docuapi) (1 day ago)
+- [theme: Rewrite .Params.description to .Description etc.](https://github.com/gohugoio/hugoDocs/pull/3742) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (1 day ago)
+- [fix(lexers): treat YAML plain scalars starting with an indicator as literals](https://github.com/alecthomas/chroma/pull/1413) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [NethumL](https://github.com/NethumL) (1 day ago)
+- [NethumL](https://github.com/NethumL) (2 days ago)
 - [BasedScience](https://github.com/BasedScience) (1 month ago)
 - [momasta](https://github.com/momasta) (5 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (8 months ago)
