@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Make it into a more traditional landing page with more info](https://github.com/bep/gitjoin.com/pull/1) on [bep/gitjoin.com](https://github.com/bep/gitjoin.com) (2 days ago)
-- [js: Fix js.Build with browser-disabled extensionless requires](https://github.com/gohugoio/hugo/pull/15483) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
-- [Replace Sass with css.Build and misc. other cleanups](https://github.com/bep/docuapi/pull/113) on [bep/docuapi](https://github.com/bep/docuapi) (2 days ago)
-- [theme: Rewrite .Params.description to .Description etc.](https://github.com/gohugoio/hugoDocs/pull/3742) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (2 days ago)
-- [fix(lexers): treat YAML plain scalars starting with an indicator as literals](https://github.com/alecthomas/chroma/pull/1413) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (3 days ago)
+- [Make it into a more traditional landing page with more info](https://github.com/bep/gitjoin.com/pull/1) on [bep/gitjoin.com](https://github.com/bep/gitjoin.com) (3 days ago)
+- [js: Fix js.Build with browser-disabled extensionless requires](https://github.com/gohugoio/hugo/pull/15483) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (3 days ago)
+- [Replace Sass with css.Build and misc. other cleanups](https://github.com/bep/docuapi/pull/113) on [bep/docuapi](https://github.com/bep/docuapi) (3 days ago)
+- [theme: Rewrite .Params.description to .Description etc.](https://github.com/gohugoio/hugoDocs/pull/3742) on [gohugoio/hugoDocs](https://github.com/gohugoio/hugoDocs) (3 days ago)
+- [fix(lexers): treat YAML plain scalars starting with an indicator as literals](https://github.com/alecthomas/chroma/pull/1413) on [alecthomas/chroma](https://github.com/alecthomas/chroma) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [NethumL](https://github.com/NethumL) (3 days ago)
+- [NethumL](https://github.com/NethumL) (4 days ago)
 - [BasedScience](https://github.com/BasedScience) (1 month ago)
 - [momasta](https://github.com/momasta) (5 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (8 months ago)
