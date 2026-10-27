@@ -2,11 +2,11 @@
 
 ### Recent Pull Requests
 
+- [hugolib: Fix template change detection when saving via temp file and rename](https://github.com/gohugoio/hugo/pull/15494) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
 - [Use github.com/go-chi/chi/v5/middleware](https://github.com/bep/nogo/pull/7) on [bep/nogo](https://github.com/bep/nogo) (1 day ago)
 - [all: Run modernize -fix ./...](https://github.com/bep/nogo/pull/6) on [bep/nogo](https://github.com/bep/nogo) (1 day ago)
 - [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/bep/nogo/pull/5) on [bep/nogo](https://github.com/bep/nogo) (1 day ago)
 - [Make it into a more traditional landing page with more info](https://github.com/bep/gitjoin.com/pull/1) on [bep/gitjoin.com](https://github.com/bep/gitjoin.com) (4 days ago)
-- [js: Fix js.Build with browser-disabled extensionless requires](https://github.com/gohugoio/hugo/pull/15483) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (4 days ago)
 
 ### Recent sponsors (big thank you!)
 
