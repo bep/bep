@@ -2,15 +2,15 @@
 
 ### Recent Pull Requests
 
-- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/gohugoio/hugoreleaser/pull/50) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (today)
-- [Remove the extended build from the release](https://github.com/gohugoio/hugo/pull/15507) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [Misc. adjustments needed by Hugo](https://github.com/gohugoio/hugoreleaser/pull/49) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (today)
-- [Remove libsass and the extended build tag](https://github.com/gohugoio/hugo/pull/15503) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (today)
-- [hugolib: Fix template change detection when saving via temp file and rename](https://github.com/gohugoio/hugo/pull/15494) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Update Go 1.26.x/1.27.x, GitHub Actions, go.mod Go 1.26, dependencies](https://github.com/gohugoio/hugoreleaser/pull/50) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (1 day ago)
+- [Remove the extended build from the release](https://github.com/gohugoio/hugo/pull/15507) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [Misc. adjustments needed by Hugo](https://github.com/gohugoio/hugoreleaser/pull/49) on [gohugoio/hugoreleaser](https://github.com/gohugoio/hugoreleaser) (1 day ago)
+- [Remove libsass and the extended build tag](https://github.com/gohugoio/hugo/pull/15503) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (1 day ago)
+- [hugolib: Fix template change detection when saving via temp file and rename](https://github.com/gohugoio/hugo/pull/15494) on [gohugoio/hugo](https://github.com/gohugoio/hugo) (2 days ago)
 
 ### Recent sponsors (big thank you!)
 
-- [NethumL](https://github.com/NethumL) (6 days ago)
+- [NethumL](https://github.com/NethumL) (1 week ago)
 - [BasedScience](https://github.com/BasedScience) (1 month ago)
 - [momasta](https://github.com/momasta) (6 months ago)
 - [piotr-lasota](https://github.com/piotr-lasota) (8 months ago)
